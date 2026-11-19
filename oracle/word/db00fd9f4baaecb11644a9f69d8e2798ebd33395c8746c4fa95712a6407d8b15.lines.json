@@ -1,0 +1,52 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 110.64,
+     "x0": 85.2,
+     "x1": 170.46,
+     "size": 11.04,
+     "text": "Inshape,inheader",
+     "segments": [
+      {
+       "x0": 85.2,
+       "x1": 170.46,
+       "text": "Inshape,inheader"
+      }
+     ]
+    },
+    {
+     "y": 190.08,
+     "x0": 338.4,
+     "x1": 349.84,
+     "size": 11.04,
+     "text": "XX",
+     "segments": [
+      {
+       "x0": 338.4,
+       "x1": 349.84,
+       "text": "XX"
+      }
+     ]
+    },
+    {
+     "y": 217.2,
+     "x0": 84.96,
+     "x1": 460.72,
+     "size": 11.04,
+     "text": "nonumyeirmodtemporinviduntutlaboreetdoloremagnaaliquyamerat,seddiam",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 460.72,
+       "text": "nonumyeirmodtemporinviduntutlaboreetdoloremagnaaliquyamerat,seddiam"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

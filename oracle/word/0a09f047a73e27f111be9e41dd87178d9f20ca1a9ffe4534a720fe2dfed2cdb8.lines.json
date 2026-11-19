@@ -1,0 +1,99 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 77.04,
+     "x0": 172.08,
+     "x1": 239.08,
+     "size": 5.52,
+     "text": "1i",
+     "segments": [
+      {
+       "x0": 172.08,
+       "x1": 174.99,
+       "text": "1"
+      },
+      {
+       "x0": 237.84,
+       "x1": 239.08,
+       "text": "i"
+      }
+     ]
+    },
+    {
+     "y": 82.56,
+     "x0": 72.0,
+     "x1": 237.99,
+     "size": 11.04,
+     "text": "Bodytextwithanoteandanaside",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 237.99,
+       "text": "Bodytextwithanoteandanaside"
+      }
+     ]
+    },
+    {
+     "y": 117.12,
+     "x0": 72.0,
+     "x1": 73.24,
+     "size": 5.52,
+     "text": "i",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 73.24,
+       "text": "i"
+      }
+     ]
+    },
+    {
+     "y": 122.64,
+     "x0": 76.21,
+     "x1": 149.72,
+     "size": 11.04,
+     "text": "Asidebodytext",
+     "segments": [
+      {
+       "x0": 76.21,
+       "x1": 149.72,
+       "text": "Asidebodytext"
+      }
+     ]
+    },
+    {
+     "y": 699.84,
+     "x0": 72.0,
+     "x1": 74.91,
+     "size": 5.52,
+     "text": "1",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 74.91,
+       "text": "1"
+      }
+     ]
+    },
+    {
+     "y": 705.36,
+     "x0": 77.89,
+     "x1": 148.98,
+     "size": 11.04,
+     "text": "Notebodytext",
+     "segments": [
+      {
+       "x0": 77.89,
+       "x1": 148.98,
+       "text": "Notebodytext"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

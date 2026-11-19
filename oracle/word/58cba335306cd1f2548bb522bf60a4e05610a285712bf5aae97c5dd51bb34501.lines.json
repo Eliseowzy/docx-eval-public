@@ -1,0 +1,66 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 114.72,
+     "x0": 108.0,
+     "x1": 512.2,
+     "size": 19.92,
+     "text": "ITOUTSOURCINGINBUSINESSORGANIZATIONS:",
+     "segments": [
+      {
+       "x0": 108.0,
+       "x1": 512.2,
+       "text": "ITOUTSOURCINGINBUSINESSORGANIZATIONS:"
+      }
+     ]
+    },
+    {
+     "y": 141.12,
+     "x0": 108.0,
+     "x1": 523.24,
+     "size": 19.92,
+     "text": "HOWCANOUTSOURCINGBEAVAILEDOF",
+     "segments": [
+      {
+       "x0": 108.0,
+       "x1": 523.24,
+       "text": "HOWCANOUTSOURCINGBEAVAILEDOF"
+      }
+     ]
+    },
+    {
+     "y": 167.52,
+     "x0": 108.0,
+     "x1": 523.11,
+     "size": 19.92,
+     "text": "EFFECTIVELYBYMODERN-DAYSMALLTO",
+     "segments": [
+      {
+       "x0": 108.0,
+       "x1": 523.11,
+       "text": "EFFECTIVELYBYMODERN-DAYSMALLTO"
+      }
+     ]
+    },
+    {
+     "y": 194.16,
+     "x0": 108.0,
+     "x1": 306.91,
+     "size": 19.92,
+     "text": "MEDIUMENTERPRISES?",
+     "segments": [
+      {
+       "x0": 108.0,
+       "x1": 306.91,
+       "text": "MEDIUMENTERPRISES?"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 39.6,
+     "x0": 152.82,
+     "x1": 258.88,
+     "size": 12.0,
+     "text": "SampleHeadertext",
+     "segments": [
+      {
+       "x0": 152.82,
+       "x1": 258.88,
+       "text": "SampleHeadertext"
+      }
+     ]
+    },
+    {
+     "y": 145.2,
+     "x0": 65.28,
+     "x1": 89.22,
+     "size": 11.04,
+     "text": "Body",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 89.22,
+       "text": "Body"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

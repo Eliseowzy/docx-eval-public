@@ -1,0 +1,128 @@
+{
+ "pages": [
+  {
+   "width": 792.0,
+   "height": 245.76,
+   "lines": [
+    {
+     "y": 83.28,
+     "x0": 77.76,
+     "x1": 346.03,
+     "size": 11.04,
+     "text": "Loremipsumdolorsitamet,consecteturadipisicingelit,sed",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 346.03,
+       "text": "Loremipsumdolorsitamet,consecteturadipisicingelit,sed"
+      }
+     ]
+    },
+    {
+     "y": 96.72,
+     "x0": 77.76,
+     "x1": 332.65,
+     "size": 11.04,
+     "text": "doeiusmodtemporincididuntutlaboreetdoloremagna",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 332.65,
+       "text": "doeiusmodtemporincididuntutlaboreetdoloremagna"
+      }
+     ]
+    },
+    {
+     "y": 110.16,
+     "x0": 77.76,
+     "x1": 342.61,
+     "size": 11.04,
+     "text": "aliqua.Utenimadminimveniam,quisnostrudexercitation",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 342.61,
+       "text": "aliqua.Utenimadminimveniam,quisnostrudexercitation"
+      }
+     ]
+    },
+    {
+     "y": 123.6,
+     "x0": 77.76,
+     "x1": 355.35,
+     "size": 11.04,
+     "text": "ullamcolaborisnisiutaliquipexeacommodoconsequat.Duis",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 355.35,
+       "text": "ullamcolaborisnisiutaliquipexeacommodoconsequat.Duis"
+      }
+     ]
+    },
+    {
+     "y": 137.04,
+     "x0": 77.76,
+     "x1": 353.34,
+     "size": 11.04,
+     "text": "auteiruredolorinreprehenderitinvoluptatevelitessecillum",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 353.34,
+       "text": "auteiruredolorinreprehenderitinvoluptatevelitessecillum"
+      }
+     ]
+    },
+    {
+     "y": 150.48,
+     "x0": 77.76,
+     "x1": 322.63,
+     "size": 11.04,
+     "text": "doloreeufugiatnullapariatur.Excepteursintoccaecat",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 322.63,
+       "text": "doloreeufugiatnullapariatur.Excepteursintoccaecat"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 792.0,
+   "height": 245.76,
+   "lines": [
+    {
+     "y": 83.28,
+     "x0": 77.76,
+     "x1": 332.27,
+     "size": 11.04,
+     "text": "cupidatatnonproident,suntinculpaquiofficiadeserunt",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 332.27,
+       "text": "cupidatatnonproident,suntinculpaquiofficiadeserunt"
+      }
+     ]
+    },
+    {
+     "y": 96.72,
+     "x0": 77.76,
+     "x1": 198.27,
+     "size": 11.04,
+     "text": "mollitanimidestlaborum.",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 198.27,
+       "text": "mollitanimidestlaborum."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 98.16,
+     "x0": 116.88,
+     "x1": 421.92,
+     "size": 12.0,
+     "text": "LoremipsumLoremipsum",
+     "segments": [
+      {
+       "x0": 116.88,
+       "x1": 181.2,
+       "text": "Loremipsum"
+      },
+      {
+       "x0": 357.6,
+       "x1": 421.92,
+       "text": "Loremipsum"
+      }
+     ]
+    },
+    {
+     "y": 112.08,
+     "x0": 357.6,
+     "x1": 421.93,
+     "size": 12.0,
+     "text": "Loremipsum",
+     "segments": [
+      {
+       "x0": 357.6,
+       "x1": 421.93,
+       "text": "Loremipsum"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

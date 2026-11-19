@@ -1,0 +1,256 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 82.32,
+     "x0": 476.65,
+     "x1": 527.66,
+     "size": 25.92,
+     "text": "Page",
+     "segments": [
+      {
+       "x0": 476.65,
+       "x1": 527.66,
+       "text": "Page"
+      }
+     ]
+    },
+    {
+     "y": 102.24,
+     "x0": 67.68,
+     "x1": 351.84,
+     "size": 11.04,
+     "text": "Row01firstlineRow01rightfirst",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 145.97,
+       "text": "Row01firstline"
+      },
+      {
+       "x0": 269.28,
+       "x1": 351.84,
+       "text": "Row01rightfirst"
+      }
+     ]
+    },
+    {
+     "y": 118.32,
+     "x0": 67.68,
+     "x1": 369.62,
+     "size": 11.04,
+     "text": "Row01secondlineRow01rightsecond",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 163.75,
+       "text": "Row01secondline"
+      },
+      {
+       "x0": 269.28,
+       "x1": 369.62,
+       "text": "Row01rightsecond"
+      }
+     ]
+    },
+    {
+     "y": 138.72,
+     "x0": 67.68,
+     "x1": 351.84,
+     "size": 11.04,
+     "text": "Row02firstlineRow02rightfirst",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 145.97,
+       "text": "Row02firstline"
+      },
+      {
+       "x0": 269.28,
+       "x1": 351.84,
+       "text": "Row02rightfirst"
+      }
+     ]
+    },
+    {
+     "y": 154.8,
+     "x0": 67.68,
+     "x1": 369.62,
+     "size": 11.04,
+     "text": "Row02secondlineRow02rightsecond",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 163.75,
+       "text": "Row02secondline"
+      },
+      {
+       "x0": 269.28,
+       "x1": 369.62,
+       "text": "Row02rightsecond"
+      }
+     ]
+    },
+    {
+     "y": 175.44,
+     "x0": 67.68,
+     "x1": 351.84,
+     "size": 11.04,
+     "text": "Row03firstlineRow03rightfirst",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 145.97,
+       "text": "Row03firstline"
+      },
+      {
+       "x0": 269.28,
+       "x1": 351.84,
+       "text": "Row03rightfirst"
+      }
+     ]
+    },
+    {
+     "y": 191.28,
+     "x0": 67.68,
+     "x1": 369.62,
+     "size": 11.04,
+     "text": "Row03secondlineRow03rightsecond",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 163.75,
+       "text": "Row03secondline"
+      },
+      {
+       "x0": 269.28,
+       "x1": 369.62,
+       "text": "Row03rightsecond"
+      }
+     ]
+    },
+    {
+     "y": 211.92,
+     "x0": 67.68,
+     "x1": 351.84,
+     "size": 11.04,
+     "text": "Row04firstlineRow04rightfirst",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 145.97,
+       "text": "Row04firstline"
+      },
+      {
+       "x0": 269.28,
+       "x1": 351.84,
+       "text": "Row04rightfirst"
+      }
+     ]
+    },
+    {
+     "y": 227.76,
+     "x0": 67.68,
+     "x1": 369.62,
+     "size": 11.04,
+     "text": "Row04secondlineRow04rightsecond",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 163.75,
+       "text": "Row04secondline"
+      },
+      {
+       "x0": 269.28,
+       "x1": 369.62,
+       "text": "Row04rightsecond"
+      }
+     ]
+    },
+    {
+     "y": 248.4,
+     "x0": 67.68,
+     "x1": 351.84,
+     "size": 11.04,
+     "text": "Row05firstlineRow05rightfirst",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 145.97,
+       "text": "Row05firstline"
+      },
+      {
+       "x0": 269.28,
+       "x1": 351.84,
+       "text": "Row05rightfirst"
+      }
+     ]
+    },
+    {
+     "y": 264.24,
+     "x0": 67.68,
+     "x1": 369.62,
+     "size": 11.04,
+     "text": "Row05secondlineRow05rightsecond",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 163.75,
+       "text": "Row05secondline"
+      },
+      {
+       "x0": 269.28,
+       "x1": 369.62,
+       "text": "Row05rightsecond"
+      }
+     ]
+    },
+    {
+     "y": 296.88,
+     "x0": 57.6,
+     "x1": 355.03,
+     "size": 25.92,
+     "text": "bottomboundarybandtest",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 355.03,
+       "text": "bottomboundarybandtest"
+      }
+     ]
+    },
+    {
+     "y": 334.08,
+     "x0": 57.6,
+     "x1": 515.14,
+     "size": 11.04,
+     "text": "Checkthefinalrowsnearthefooter.Rowsandtheirbordersshouldfitconsistently,withoutan",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 515.14,
+       "text": "Checkthefinalrowsnearthefooter.Rowsandtheirbordersshouldfitconsistently,withoutan"
+      }
+     ]
+    },
+    {
+     "y": 348.48,
+     "x0": 57.6,
+     "x1": 226.4,
+     "size": 11.04,
+     "text": "unexpectedblankpageoroverlap.",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 226.4,
+       "text": "unexpectedblankpageoroverlap."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

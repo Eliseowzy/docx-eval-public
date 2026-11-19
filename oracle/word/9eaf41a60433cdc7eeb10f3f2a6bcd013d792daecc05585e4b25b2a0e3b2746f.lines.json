@@ -1,0 +1,1024 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 126.0,
+     "x0": 69.04,
+     "x1": 401.59,
+     "size": 11.04,
+     "text": "1LapeculiaritàfondamentaledelsoftwareOpenSource:",
+     "segments": [
+      {
+       "x0": 69.04,
+       "x1": 75.12,
+       "text": "1"
+      },
+      {
+       "x0": 98.4,
+       "x1": 401.59,
+       "text": "LapeculiaritàfondamentaledelsoftwareOpenSource:"
+      }
+     ]
+    },
+    {
+     "y": 152.64,
+     "x0": 98.4,
+     "x1": 466.31,
+     "size": 11.04,
+     "text": "E’gratisA",
+     "segments": [
+      {
+       "x0": 98.4,
+       "x1": 137.09,
+       "text": "E’gratis"
+      },
+      {
+       "x0": 458.69,
+       "x1": 466.31,
+       "text": "A"
+      }
+     ]
+    },
+    {
+     "y": 176.16,
+     "x0": 98.4,
+     "x1": 466.21,
+     "size": 12.0,
+     "text": "NonprendevirusB",
+     "segments": [
+      {
+       "x0": 98.4,
+       "x1": 190.03,
+       "text": "Nonprendevirus"
+      },
+      {
+       "x0": 458.79,
+       "x1": 466.21,
+       "text": "B"
+      }
+     ]
+    },
+    {
+     "y": 199.68,
+     "x0": 98.4,
+     "x1": 466.02,
+     "size": 11.04,
+     "text": "ChiunquepuòaccederealcodicesorgentepermodificarloC",
+     "segments": [
+      {
+       "x0": 98.4,
+       "x1": 382.24,
+       "text": "Chiunquepuòaccederealcodicesorgentepermodificarlo"
+      },
+      {
+       "x0": 458.99,
+       "x1": 466.02,
+       "text": "C"
+      }
+     ]
+    },
+    {
+     "y": 243.12,
+     "x0": 69.04,
+     "x1": 160.38,
+     "size": 12.0,
+     "text": "2Androidè:",
+     "segments": [
+      {
+       "x0": 69.04,
+       "x1": 75.12,
+       "text": "2"
+      },
+      {
+       "x0": 98.4,
+       "x1": 160.38,
+       "text": "Androidè:"
+      }
+     ]
+    },
+    {
+     "y": 269.04,
+     "x0": 98.4,
+     "x1": 266.88,
+     "size": 11.04,
+     "text": "Un'applicazionepertelefoni/tablet",
+     "segments": [
+      {
+       "x0": 98.4,
+       "x1": 266.88,
+       "text": "Un'applicazionepertelefoni/tablet"
+      }
+     ]
+    },
+    {
+     "y": 269.76,
+     "x0": 458.69,
+     "x1": 466.31,
+     "size": 11.04,
+     "text": "A",
+     "segments": [
+      {
+       "x0": 458.69,
+       "x1": 466.31,
+       "text": "A"
+      }
+     ]
+    },
+    {
+     "y": 287.04,
+     "x0": 98.4,
+     "x1": 435.78,
+     "size": 11.04,
+     "text": "UnaVirtualMachinecheconvertecodiceJavainistruzioni",
+     "segments": [
+      {
+       "x0": 98.4,
+       "x1": 435.78,
+       "text": "UnaVirtualMachinecheconvertecodiceJavainistruzioni"
+      }
+     ]
+    },
+    {
+     "y": 293.76,
+     "x0": 458.79,
+     "x1": 466.21,
+     "size": 11.04,
+     "text": "B",
+     "segments": [
+      {
+       "x0": 458.79,
+       "x1": 466.21,
+       "text": "B"
+      }
+     ]
+    },
+    {
+     "y": 299.04,
+     "x0": 98.4,
+     "x1": 239.41,
+     "size": 11.04,
+     "text": "comprensibilidalcalcolatore",
+     "segments": [
+      {
+       "x0": 98.4,
+       "x1": 239.41,
+       "text": "comprensibilidalcalcolatore"
+      }
+     ]
+    },
+    {
+     "y": 317.04,
+     "x0": 98.4,
+     "x1": 250.06,
+     "size": 11.04,
+     "text": "Unsistemaoperativocompleto",
+     "segments": [
+      {
+       "x0": 98.4,
+       "x1": 250.06,
+       "text": "Unsistemaoperativocompleto"
+      }
+     ]
+    },
+    {
+     "y": 317.76,
+     "x0": 458.99,
+     "x1": 466.02,
+     "size": 11.04,
+     "text": "C",
+     "segments": [
+      {
+       "x0": 458.99,
+       "x1": 466.02,
+       "text": "C"
+      }
+     ]
+    },
+    {
+     "y": 360.72,
+     "x0": 98.4,
+     "x1": 288.12,
+     "size": 11.04,
+     "text": "IldatabasedidefaultdiAndroidè:",
+     "segments": [
+      {
+       "x0": 98.4,
+       "x1": 288.12,
+       "text": "IldatabasedidefaultdiAndroidè:"
+      }
+     ]
+    },
+    {
+     "y": 361.44,
+     "x0": 69.04,
+     "x1": 75.12,
+     "size": 11.04,
+     "text": "3",
+     "segments": [
+      {
+       "x0": 69.04,
+       "x1": 75.12,
+       "text": "3"
+      }
+     ]
+    },
+    {
+     "y": 387.36,
+     "x0": 98.4,
+     "x1": 127.55,
+     "size": 11.04,
+     "text": "MySql",
+     "segments": [
+      {
+       "x0": 98.4,
+       "x1": 127.55,
+       "text": "MySql"
+      }
+     ]
+    },
+    {
+     "y": 388.08,
+     "x0": 458.69,
+     "x1": 466.31,
+     "size": 11.04,
+     "text": "A",
+     "segments": [
+      {
+       "x0": 458.69,
+       "x1": 466.31,
+       "text": "A"
+      }
+     ]
+    },
+    {
+     "y": 410.88,
+     "x0": 98.4,
+     "x1": 125.17,
+     "size": 11.04,
+     "text": "Sqlite",
+     "segments": [
+      {
+       "x0": 98.4,
+       "x1": 125.17,
+       "text": "Sqlite"
+      }
+     ]
+    },
+    {
+     "y": 411.6,
+     "x0": 458.79,
+     "x1": 466.21,
+     "size": 11.04,
+     "text": "B",
+     "segments": [
+      {
+       "x0": 458.79,
+       "x1": 466.21,
+       "text": "B"
+      }
+     ]
+    },
+    {
+     "y": 434.4,
+     "x0": 98.4,
+     "x1": 130.28,
+     "size": 11.04,
+     "text": "Oracle",
+     "segments": [
+      {
+       "x0": 98.4,
+       "x1": 130.28,
+       "text": "Oracle"
+      }
+     ]
+    },
+    {
+     "y": 435.12,
+     "x0": 458.99,
+     "x1": 466.02,
+     "size": 11.04,
+     "text": "C",
+     "segments": [
+      {
+       "x0": 458.99,
+       "x1": 466.02,
+       "text": "C"
+      }
+     ]
+    },
+    {
+     "y": 478.56,
+     "x0": 69.04,
+     "x1": 243.28,
+     "size": 11.04,
+     "text": "4Androidsibasasulkernel:",
+     "segments": [
+      {
+       "x0": 69.04,
+       "x1": 75.12,
+       "text": "4"
+      },
+      {
+       "x0": 98.4,
+       "x1": 243.28,
+       "text": "Androidsibasasulkernel:"
+      }
+     ]
+    },
+    {
+     "y": 504.48,
+     "x0": 98.4,
+     "x1": 161.21,
+     "size": 11.04,
+     "text": "Linux2.6/3.0",
+     "segments": [
+      {
+       "x0": 98.4,
+       "x1": 161.21,
+       "text": "Linux2.6/3.0"
+      }
+     ]
+    },
+    {
+     "y": 505.2,
+     "x0": 458.69,
+     "x1": 466.31,
+     "size": 11.04,
+     "text": "A",
+     "segments": [
+      {
+       "x0": 458.69,
+       "x1": 466.31,
+       "text": "A"
+      }
+     ]
+    },
+    {
+     "y": 528.0,
+     "x0": 98.4,
+     "x1": 140.8,
+     "size": 11.04,
+     "text": "Hurd0.1",
+     "segments": [
+      {
+       "x0": 98.4,
+       "x1": 140.8,
+       "text": "Hurd0.1"
+      }
+     ]
+    },
+    {
+     "y": 528.72,
+     "x0": 458.79,
+     "x1": 466.21,
+     "size": 11.04,
+     "text": "B",
+     "segments": [
+      {
+       "x0": 458.79,
+       "x1": 466.21,
+       "text": "B"
+      }
+     ]
+    },
+    {
+     "y": 551.52,
+     "x0": 98.4,
+     "x1": 287.54,
+     "size": 11.04,
+     "text": "ChromecreatonativamentedaGoogle",
+     "segments": [
+      {
+       "x0": 98.4,
+       "x1": 287.54,
+       "text": "ChromecreatonativamentedaGoogle"
+      }
+     ]
+    },
+    {
+     "y": 552.24,
+     "x0": 458.99,
+     "x1": 466.02,
+     "size": 11.04,
+     "text": "C",
+     "segments": [
+      {
+       "x0": 458.99,
+       "x1": 466.02,
+       "text": "C"
+      }
+     ]
+    },
+    {
+     "y": 595.68,
+     "x0": 69.04,
+     "x1": 171.56,
+     "size": 11.04,
+     "text": "5Lasitemapè:",
+     "segments": [
+      {
+       "x0": 69.04,
+       "x1": 75.12,
+       "text": "5"
+      },
+      {
+       "x0": 98.4,
+       "x1": 171.56,
+       "text": "Lasitemapè:"
+      }
+     ]
+    },
+    {
+     "y": 621.6,
+     "x0": 98.4,
+     "x1": 284.54,
+     "size": 11.04,
+     "text": "UnfileXMLcontenentegliURLdelsito",
+     "segments": [
+      {
+       "x0": 98.4,
+       "x1": 284.54,
+       "text": "UnfileXMLcontenentegliURLdelsito"
+      }
+     ]
+    },
+    {
+     "y": 622.32,
+     "x0": 458.69,
+     "x1": 466.31,
+     "size": 11.04,
+     "text": "A",
+     "segments": [
+      {
+       "x0": 458.69,
+       "x1": 466.31,
+       "text": "A"
+      }
+     ]
+    },
+    {
+     "y": 645.12,
+     "x0": 98.4,
+     "x1": 299.11,
+     "size": 11.04,
+     "text": "UnfileBMPchevisualizzal'alberodeifile",
+     "segments": [
+      {
+       "x0": 98.4,
+       "x1": 299.11,
+       "text": "UnfileBMPchevisualizzal'alberodeifile"
+      }
+     ]
+    },
+    {
+     "y": 645.84,
+     "x0": 458.79,
+     "x1": 466.21,
+     "size": 11.04,
+     "text": "B",
+     "segments": [
+      {
+       "x0": 458.79,
+       "x1": 466.21,
+       "text": "B"
+      }
+     ]
+    },
+    {
+     "y": 668.64,
+     "x0": 98.4,
+     "x1": 332.32,
+     "size": 11.04,
+     "text": "L'insiemedeifileHTMLchecompongonounsito",
+     "segments": [
+      {
+       "x0": 98.4,
+       "x1": 332.32,
+       "text": "L'insiemedeifileHTMLchecompongonounsito"
+      }
+     ]
+    },
+    {
+     "y": 669.36,
+     "x0": 458.99,
+     "x1": 466.02,
+     "size": 11.04,
+     "text": "C",
+     "segments": [
+      {
+       "x0": 458.99,
+       "x1": 466.02,
+       "text": "C"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 84.72,
+     "x0": 74.56,
+     "x1": 253.96,
+     "size": 11.04,
+     "text": "6CosasonoleBreadcrumbs?",
+     "segments": [
+      {
+       "x0": 74.56,
+       "x1": 80.64,
+       "text": "6"
+      },
+      {
+       "x0": 103.68,
+       "x1": 253.96,
+       "text": "CosasonoleBreadcrumbs?"
+      }
+     ]
+    },
+    {
+     "y": 110.64,
+     "x0": 103.68,
+     "x1": 153.97,
+     "size": 11.04,
+     "text": "Emoticons",
+     "segments": [
+      {
+       "x0": 103.68,
+       "x1": 153.97,
+       "text": "Emoticons"
+      }
+     ]
+    },
+    {
+     "y": 111.36,
+     "x0": 463.98,
+     "x1": 471.59,
+     "size": 11.04,
+     "text": "A",
+     "segments": [
+      {
+       "x0": 463.98,
+       "x1": 471.59,
+       "text": "A"
+      }
+     ]
+    },
+    {
+     "y": 134.16,
+     "x0": 103.68,
+     "x1": 123.62,
+     "size": 11.04,
+     "text": "Link",
+     "segments": [
+      {
+       "x0": 103.68,
+       "x1": 123.62,
+       "text": "Link"
+      }
+     ]
+    },
+    {
+     "y": 134.88,
+     "x0": 464.07,
+     "x1": 471.49,
+     "size": 11.04,
+     "text": "B",
+     "segments": [
+      {
+       "x0": 464.07,
+       "x1": 471.49,
+       "text": "B"
+      }
+     ]
+    },
+    {
+     "y": 157.68,
+     "x0": 103.68,
+     "x1": 143.28,
+     "size": 11.04,
+     "text": "FileXML",
+     "segments": [
+      {
+       "x0": 103.68,
+       "x1": 143.28,
+       "text": "FileXML"
+      }
+     ]
+    },
+    {
+     "y": 158.4,
+     "x0": 464.27,
+     "x1": 471.3,
+     "size": 11.04,
+     "text": "C",
+     "segments": [
+      {
+       "x0": 464.27,
+       "x1": 471.3,
+       "text": "C"
+      }
+     ]
+    },
+    {
+     "y": 201.84,
+     "x0": 74.56,
+     "x1": 361.92,
+     "size": 11.04,
+     "text": "7Quandosirinominaunapaginagiàindicizzata:",
+     "segments": [
+      {
+       "x0": 74.56,
+       "x1": 80.64,
+       "text": "7"
+      },
+      {
+       "x0": 103.68,
+       "x1": 361.92,
+       "text": "Quandosirinominaunapaginagiàindicizzata:"
+      }
+     ]
+    },
+    {
+     "y": 227.76,
+     "x0": 103.68,
+     "x1": 265.32,
+     "size": 11.04,
+     "text": "Dobbiamoattivareilredirect301",
+     "segments": [
+      {
+       "x0": 103.68,
+       "x1": 265.32,
+       "text": "Dobbiamoattivareilredirect301"
+      }
+     ]
+    },
+    {
+     "y": 228.48,
+     "x0": 463.98,
+     "x1": 471.59,
+     "size": 11.04,
+     "text": "A",
+     "segments": [
+      {
+       "x0": 463.98,
+       "x1": 471.59,
+       "text": "A"
+      }
+     ]
+    },
+    {
+     "y": 251.28,
+     "x0": 103.68,
+     "x1": 437.79,
+     "size": 11.04,
+     "text": "Nondobbiamofarnulla.Googlericonosceràlapaginadaicontenuti",
+     "segments": [
+      {
+       "x0": 103.68,
+       "x1": 437.79,
+       "text": "Nondobbiamofarnulla.Googlericonosceràlapaginadaicontenuti"
+      }
+     ]
+    },
+    {
+     "y": 252.0,
+     "x0": 464.07,
+     "x1": 471.49,
+     "size": 11.04,
+     "text": "B",
+     "segments": [
+      {
+       "x0": 464.07,
+       "x1": 471.49,
+       "text": "B"
+      }
+     ]
+    },
+    {
+     "y": 274.8,
+     "x0": 103.68,
+     "x1": 265.32,
+     "size": 11.04,
+     "text": "Dobbiamoattivareilredirect201",
+     "segments": [
+      {
+       "x0": 103.68,
+       "x1": 265.32,
+       "text": "Dobbiamoattivareilredirect201"
+      }
+     ]
+    },
+    {
+     "y": 275.52,
+     "x0": 464.27,
+     "x1": 471.3,
+     "size": 11.04,
+     "text": "C",
+     "segments": [
+      {
+       "x0": 464.27,
+       "x1": 471.3,
+       "text": "C"
+      }
+     ]
+    },
+    {
+     "y": 318.96,
+     "x0": 74.56,
+     "x1": 249.24,
+     "size": 11.04,
+     "text": "8PassaredaPagerank3a4:",
+     "segments": [
+      {
+       "x0": 74.56,
+       "x1": 80.64,
+       "text": "8"
+      },
+      {
+       "x0": 103.68,
+       "x1": 249.24,
+       "text": "PassaredaPagerank3a4:"
+      }
+     ]
+    },
+    {
+     "y": 345.12,
+     "x0": 103.68,
+     "x1": 471.59,
+     "size": 11.04,
+     "text": "E'piùsemplicechepassareda8a9A",
+     "segments": [
+      {
+       "x0": 103.68,
+       "x1": 278.69,
+       "text": "E'piùsemplicechepassareda8a9"
+      },
+      {
+       "x0": 463.98,
+       "x1": 471.59,
+       "text": "A"
+      }
+     ]
+    },
+    {
+     "y": 368.64,
+     "x0": 103.68,
+     "x1": 471.49,
+     "size": 11.04,
+     "text": "E'piùdifficilechepassareda8a9B",
+     "segments": [
+      {
+       "x0": 103.68,
+       "x1": 271.5,
+       "text": "E'piùdifficilechepassareda8a9"
+      },
+      {
+       "x0": 464.07,
+       "x1": 471.49,
+       "text": "B"
+      }
+     ]
+    },
+    {
+     "y": 391.92,
+     "x0": 103.68,
+     "x1": 313.3,
+     "size": 11.04,
+     "text": "E'lostesso.LascaladelPagerankèlineare",
+     "segments": [
+      {
+       "x0": 103.68,
+       "x1": 313.3,
+       "text": "E'lostesso.LascaladelPagerankèlineare"
+      }
+     ]
+    },
+    {
+     "y": 392.64,
+     "x0": 464.27,
+     "x1": 471.3,
+     "size": 11.04,
+     "text": "C",
+     "segments": [
+      {
+       "x0": 464.27,
+       "x1": 471.3,
+       "text": "C"
+      }
+     ]
+    },
+    {
+     "y": 436.32,
+     "x0": 74.56,
+     "x1": 198.47,
+     "size": 11.04,
+     "text": "9Cos'èilcloaking?",
+     "segments": [
+      {
+       "x0": 74.56,
+       "x1": 80.64,
+       "text": "9"
+      },
+      {
+       "x0": 103.68,
+       "x1": 198.47,
+       "text": "Cos'èilcloaking?"
+      }
+     ]
+    },
+    {
+     "y": 462.24,
+     "x0": 103.68,
+     "x1": 327.74,
+     "size": 11.04,
+     "text": "E'unatecnicadireindirizzamentoautomatico",
+     "segments": [
+      {
+       "x0": 103.68,
+       "x1": 327.74,
+       "text": "E'unatecnicadireindirizzamentoautomatico"
+      }
+     ]
+    },
+    {
+     "y": 462.96,
+     "x0": 463.98,
+     "x1": 471.59,
+     "size": 11.04,
+     "text": "A",
+     "segments": [
+      {
+       "x0": 463.98,
+       "x1": 471.59,
+       "text": "A"
+      }
+     ]
+    },
+    {
+     "y": 485.76,
+     "x0": 103.68,
+     "x1": 227.55,
+     "size": 11.04,
+     "text": "E'uneccessodikeywords",
+     "segments": [
+      {
+       "x0": 103.68,
+       "x1": 227.55,
+       "text": "E'uneccessodikeywords"
+      }
+     ]
+    },
+    {
+     "y": 486.48,
+     "x0": 464.07,
+     "x1": 471.49,
+     "size": 11.04,
+     "text": "B",
+     "segments": [
+      {
+       "x0": 464.07,
+       "x1": 471.49,
+       "text": "B"
+      }
+     ]
+    },
+    {
+     "y": 509.28,
+     "x0": 103.68,
+     "x1": 424.8,
+     "size": 11.04,
+     "text": "Favisualizzareunapaginaaglispidereun'altraagliutentiumani",
+     "segments": [
+      {
+       "x0": 103.68,
+       "x1": 424.8,
+       "text": "Favisualizzareunapaginaaglispidereun'altraagliutentiumani"
+      }
+     ]
+    },
+    {
+     "y": 510.0,
+     "x0": 464.27,
+     "x1": 471.3,
+     "size": 11.04,
+     "text": "C",
+     "segments": [
+      {
+       "x0": 464.27,
+       "x1": 471.3,
+       "text": "C"
+      }
+     ]
+    },
+    {
+     "y": 553.44,
+     "x0": 71.53,
+     "x1": 333.04,
+     "size": 11.04,
+     "text": "10QuandoparliamodiKeywordadvertising:",
+     "segments": [
+      {
+       "x0": 71.53,
+       "x1": 83.67,
+       "text": "10"
+      },
+      {
+       "x0": 103.68,
+       "x1": 333.04,
+       "text": "QuandoparliamodiKeywordadvertising:"
+      }
+     ]
+    },
+    {
+     "y": 579.36,
+     "x0": 103.68,
+     "x1": 231.19,
+     "size": 11.04,
+     "text": "Citroviamoinambitopull",
+     "segments": [
+      {
+       "x0": 103.68,
+       "x1": 231.19,
+       "text": "Citroviamoinambitopull"
+      }
+     ]
+    },
+    {
+     "y": 580.08,
+     "x0": 463.98,
+     "x1": 471.59,
+     "size": 11.04,
+     "text": "A",
+     "segments": [
+      {
+       "x0": 463.98,
+       "x1": 471.59,
+       "text": "A"
+      }
+     ]
+    },
+    {
+     "y": 602.88,
+     "x0": 103.68,
+     "x1": 236.66,
+     "size": 11.04,
+     "text": "Citroviamoinambitopush",
+     "segments": [
+      {
+       "x0": 103.68,
+       "x1": 236.66,
+       "text": "Citroviamoinambitopush"
+      }
+     ]
+    },
+    {
+     "y": 603.6,
+     "x0": 464.07,
+     "x1": 471.49,
+     "size": 11.04,
+     "text": "B",
+     "segments": [
+      {
+       "x0": 464.07,
+       "x1": 471.49,
+       "text": "B"
+      }
+     ]
+    },
+    {
+     "y": 626.4,
+     "x0": 103.68,
+     "x1": 148.82,
+     "size": 11.04,
+     "text": "Entrambi",
+     "segments": [
+      {
+       "x0": 103.68,
+       "x1": 148.82,
+       "text": "Entrambi"
+      }
+     ]
+    },
+    {
+     "y": 627.12,
+     "x0": 464.27,
+     "x1": 471.3,
+     "size": 11.04,
+     "text": "C",
+     "segments": [
+      {
+       "x0": 464.27,
+       "x1": 471.3,
+       "text": "C"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

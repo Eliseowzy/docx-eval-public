@@ -1,0 +1,211 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 163.42,
+     "x0": 42.36,
+     "x1": 216.22,
+     "size": 8.72,
+     "text": "TITLE(1strunofaninsert)(2ndrunofaninsert)",
+     "segments": [
+      {
+       "x0": 42.36,
+       "x1": 216.22,
+       "text": "TITLE(1strunofaninsert)(2ndrunofaninsert)"
+      }
+     ]
+    },
+    {
+     "y": 173.54,
+     "x0": 42.36,
+     "x1": 84.25,
+     "size": 8.72,
+     "text": "Normaltext",
+     "segments": [
+      {
+       "x0": 42.36,
+       "x1": 84.25,
+       "text": "Normaltext"
+      }
+     ]
+    },
+    {
+     "y": 183.83,
+     "x0": 418.36,
+     "x1": 464.9,
+     "size": 6.63,
+     "text": "删除了:Deleted",
+     "segments": [
+      {
+       "x0": 418.36,
+       "x1": 464.9,
+       "text": "删除了:Deleted"
+      }
+     ]
+    },
+    {
+     "y": 193.77,
+     "x0": 42.36,
+     "x1": 212.59,
+     "size": 8.72,
+     "text": "Insertedandformattedandthisisonlyformatted",
+     "segments": [
+      {
+       "x0": 42.36,
+       "x1": 212.59,
+       "text": "Insertedandformattedandthisisonlyformatted"
+      }
+     ]
+    },
+    {
+     "y": 194.55,
+     "x0": 418.36,
+     "x1": 481.37,
+     "size": 6.54,
+     "text": "带格式的:TextBody",
+     "segments": [
+      {
+       "x0": 418.36,
+       "x1": 481.37,
+       "text": "带格式的:TextBody"
+      }
+     ]
+    },
+    {
+     "y": 210.68,
+     "x0": 347.75,
+     "x1": 392.54,
+     "size": 8.72,
+     "text": "Normaltext",
+     "segments": [
+      {
+       "x0": 347.75,
+       "x1": 392.54,
+       "text": "Normaltext"
+      }
+     ]
+    },
+    {
+     "y": 221.32,
+     "x0": 42.36,
+     "x1": 380.22,
+     "size": 8.72,
+     "text": "Formattedrunandnormaltexthereandinsertedagainandnormaltextagainandformatted",
+     "segments": [
+      {
+       "x0": 42.36,
+       "x1": 380.22,
+       "text": "Formattedrunandnormaltexthereandinsertedagainandnormaltextagainandformatted"
+      }
+     ]
+    },
+    {
+     "y": 231.26,
+     "x0": 42.36,
+     "x1": 84.01,
+     "size": 8.72,
+     "text": "andnormal.",
+     "segments": [
+      {
+       "x0": 42.36,
+       "x1": 84.01,
+       "text": "andnormal."
+      }
+     ]
+    },
+    {
+     "y": 241.38,
+     "x0": 42.36,
+     "x1": 130.02,
+     "size": 8.72,
+     "text": "Oneinsert.Secondinsert.",
+     "segments": [
+      {
+       "x0": 42.36,
+       "x1": 130.02,
+       "text": "Oneinsert.Secondinsert."
+      }
+     ]
+    },
+    {
+     "y": 251.49,
+     "x0": 44.54,
+     "x1": 503.05,
+     "size": 8.72,
+     "text": "andthisisonlyformatted删除了:Deletedandformatted",
+     "segments": [
+      {
+       "x0": 44.54,
+       "x1": 133.66,
+       "text": "andthisisonlyformatted"
+      },
+      {
+       "x0": 418.36,
+       "x1": 503.05,
+       "text": "删除了:Deletedandformatted"
+      }
+     ]
+    },
+    {
+     "y": 262.47,
+     "x0": 418.36,
+     "x1": 481.37,
+     "size": 6.54,
+     "text": "带格式的:TextBody",
+     "segments": [
+      {
+       "x0": 418.36,
+       "x1": 481.37,
+       "text": "带格式的:TextBody"
+      }
+     ]
+    },
+    {
+     "y": 268.58,
+     "x0": 42.36,
+     "x1": 84.25,
+     "size": 8.72,
+     "text": "Normaltext",
+     "segments": [
+      {
+       "x0": 42.36,
+       "x1": 84.25,
+       "text": "Normaltext"
+      }
+     ]
+    },
+    {
+     "y": 277.59,
+     "x0": 418.36,
+     "x1": 481.37,
+     "size": 6.54,
+     "text": "带格式的:TextBody",
+     "segments": [
+      {
+       "x0": 418.36,
+       "x1": 481.37,
+       "text": "带格式的:TextBody"
+      }
+     ]
+    },
+    {
+     "y": 278.7,
+     "x0": 42.36,
+     "x1": 121.79,
+     "size": 8.72,
+     "text": "Thisisonlyformatted.",
+     "segments": [
+      {
+       "x0": 42.36,
+       "x1": 121.79,
+       "text": "Thisisonlyformatted."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

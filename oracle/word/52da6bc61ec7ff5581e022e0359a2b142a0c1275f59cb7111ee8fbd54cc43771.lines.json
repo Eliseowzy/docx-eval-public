@@ -1,0 +1,114 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 85.44,
+     "x0": 56.64,
+     "x1": 184.63,
+     "size": 18.0,
+     "text": "Loremipsum...",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 184.63,
+       "text": "Loremipsum..."
+      }
+     ]
+    },
+    {
+     "y": 210.24,
+     "x0": 56.64,
+     "x1": 522.33,
+     "size": 12.0,
+     "text": "...dolorsitamet,consecteturadipiscingelit.Vestibulumconsequatmiquispretiumsemper.Proin",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 522.33,
+       "text": "...dolorsitamet,consecteturadipiscingelit.Vestibulumconsequatmiquispretiumsemper.Proin"
+      }
+     ]
+    },
+    {
+     "y": 322.8,
+     "x0": 56.64,
+     "x1": 526.2,
+     "size": 43.92,
+     "text": "luctusorciacnequevenenatis,quiscommododolorposuere.Curabitur",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 526.2,
+       "text": "luctusorciacnequevenenatis,quiscommododolorposuere.Curabitur"
+      }
+     ]
+    },
+    {
+     "y": 596.64,
+     "x0": 56.64,
+     "x1": 513.84,
+     "size": 12.0,
+     "text": "dignissimsapienquiscursusegestas.Donecblanditauctorarcu,necpellentesqueerosmolestie",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 513.84,
+       "text": "dignissimsapienquiscursusegestas.Donecblanditauctorarcu,necpellentesqueerosmolestie"
+      }
+     ]
+    },
+    {
+     "y": 679.44,
+     "x0": 56.64,
+     "x1": 538.14,
+     "size": 12.0,
+     "text": "eget.Inconsecteturaliquamhendrerit.Sedcursusmaurisvitaeligulapellentesque,nonpellentesque",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 538.14,
+       "text": "eget.Inconsecteturaliquamhendrerit.Sedcursusmaurisvitaeligulapellentesque,nonpellentesque"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 67.92,
+     "x0": 56.64,
+     "x1": 532.8,
+     "size": 12.0,
+     "text": "urnaaliquet.Fusceplaceratmaurisenim,necrutrumpurussempervel.Praesenttinciduntnequeeu",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 532.8,
+       "text": "urnaaliquet.Fusceplaceratmaurisenim,necrutrumpurussempervel.Praesenttinciduntnequeeu"
+      }
+     ]
+    },
+    {
+     "y": 150.72,
+     "x0": 56.64,
+     "x1": 161.92,
+     "size": 12.0,
+     "text": "pellentesquepharetra.",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 161.92,
+       "text": "pellentesquepharetra."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

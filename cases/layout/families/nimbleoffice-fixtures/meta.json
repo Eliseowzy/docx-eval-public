@@ -1,0 +1,9 @@
+{
+ "origin": "BetterOffice repository, crates/docx-edit/tests/fixtures (commit in SOURCE_COMMIT); each directory keeps its generate.py, README and word.json measurements",
+ "license": "Apache-2.0",
+ "redistributable": true,
+ "tags": [
+  "synthetic",
+  "rule-family"
+ ]
+}

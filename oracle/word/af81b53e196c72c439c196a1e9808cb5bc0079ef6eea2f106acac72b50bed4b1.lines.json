@@ -1,0 +1,127 @@
+{
+ "pages": [
+  {
+   "width": 595.68,
+   "height": 841.68,
+   "lines": [
+    {
+     "y": 110.64,
+     "x0": 274.53,
+     "x1": 343.87,
+     "size": 12.0,
+     "text": "SOMETEXT",
+     "segments": [
+      {
+       "x0": 274.53,
+       "x1": 343.87,
+       "text": "SOMETEXT"
+      }
+     ]
+    },
+    {
+     "y": 668.88,
+     "x0": 267.86,
+     "x1": 330.95,
+     "size": 9.12,
+     "text": "LOREMIPSUM",
+     "segments": [
+      {
+       "x0": 267.86,
+       "x1": 330.95,
+       "text": "LOREMIPSUM"
+      }
+     ]
+    },
+    {
+     "y": 687.6,
+     "x0": 88.97,
+     "x1": 509.81,
+     "size": 11.04,
+     "text": "LOREMIPSUMDOLORSITAMET,CONSECTETURADIPISICINGELIT,SEDDOEIUSMODTEMPOR",
+     "segments": [
+      {
+       "x0": 88.97,
+       "x1": 509.81,
+       "text": "LOREMIPSUMDOLORSITAMET,CONSECTETURADIPISICINGELIT,SEDDOEIUSMODTEMPOR"
+      }
+     ]
+    },
+    {
+     "y": 700.32,
+     "x0": 84.06,
+     "x1": 514.75,
+     "size": 11.04,
+     "text": "INCIDIDUNTUTLABOREETDOLOREMAGNAALIQUA.UTENIMADMINIMVENIAM,QUISNOSTRUD",
+     "segments": [
+      {
+       "x0": 84.06,
+       "x1": 514.75,
+       "text": "INCIDIDUNTUTLABOREETDOLOREMAGNAALIQUA.UTENIMADMINIMVENIAM,QUISNOSTRUD"
+      }
+     ]
+    },
+    {
+     "y": 712.8,
+     "x0": 88.58,
+     "x1": 510.24,
+     "size": 11.04,
+     "text": "EXERCITATIONULLAMCOLABORISNISIUTALIQUIPEXEACOMMODOCONSEQUAT.DUISAUTE",
+     "segments": [
+      {
+       "x0": 88.58,
+       "x1": 510.24,
+       "text": "EXERCITATIONULLAMCOLABORISNISIUTALIQUIPEXEACOMMODOCONSEQUAT.DUISAUTE"
+      }
+     ]
+    },
+    {
+     "y": 725.52,
+     "x0": 98.57,
+     "x1": 500.15,
+     "size": 9.12,
+     "text": "IRUREDOLORINREPREHENDERITINVOLUPTATEVELITESSECILLUMDOLOREEUFUGIAT",
+     "segments": [
+      {
+       "x0": 98.57,
+       "x1": 500.15,
+       "text": "IRUREDOLORINREPREHENDERITINVOLUPTATEVELITESSECILLUMDOLOREEUFUGIAT"
+      }
+     ]
+    },
+    {
+     "y": 738.24,
+     "x0": 92.61,
+     "x1": 506.18,
+     "size": 11.04,
+     "text": "NULLAPARIATUR.EXCEPTEURSINTOCCAECATCUPIDATATNONPROIDENT,SUNTINCULPA",
+     "segments": [
+      {
+       "x0": 92.61,
+       "x1": 506.18,
+       "text": "NULLAPARIATUR.EXCEPTEURSINTOCCAECATCUPIDATATNONPROIDENT,SUNTINCULPA"
+      }
+     ]
+    },
+    {
+     "y": 750.96,
+     "x0": 175.57,
+     "x1": 423.16,
+     "size": 11.04,
+     "text": "QUIOFFICIADESERUNTMOLLITANIMIDESTLABORUM.",
+     "segments": [
+      {
+       "x0": 175.57,
+       "x1": 423.16,
+       "text": "QUIOFFICIADESERUNTMOLLITANIMIDESTLABORUM."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.68,
+   "height": 841.68,
+   "lines": []
+  }
+ ]
+}

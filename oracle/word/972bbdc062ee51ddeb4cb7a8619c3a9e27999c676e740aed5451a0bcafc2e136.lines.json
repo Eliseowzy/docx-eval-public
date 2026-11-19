@@ -1,0 +1,85 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": []
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 82.08,
+     "x0": 71.28,
+     "x1": 174.01,
+     "size": 12.0,
+     "text": "Somefloatingtable",
+     "segments": [
+      {
+       "x0": 71.28,
+       "x1": 174.01,
+       "text": "Somefloatingtable"
+      }
+     ]
+    },
+    {
+     "y": 106.08,
+     "x0": 71.28,
+     "x1": 200.72,
+     "size": 12.0,
+     "text": "SecondparagraphofA1",
+     "segments": [
+      {
+       "x0": 71.28,
+       "x1": 200.72,
+       "text": "SecondparagraphofA1"
+      }
+     ]
+    },
+    {
+     "y": 167.04,
+     "x0": 71.28,
+     "x1": 85.96,
+     "size": 12.0,
+     "text": "A2",
+     "segments": [
+      {
+       "x0": 71.28,
+       "x1": 85.96,
+       "text": "A2"
+      }
+     ]
+    },
+    {
+     "y": 191.04,
+     "x0": 71.28,
+     "x1": 85.96,
+     "size": 12.0,
+     "text": "A3",
+     "segments": [
+      {
+       "x0": 71.28,
+       "x1": 85.96,
+       "text": "A3"
+      }
+     ]
+    },
+    {
+     "y": 239.04,
+     "x0": 70.8,
+     "x1": 90.82,
+     "size": 12.0,
+     "text": "end",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 90.82,
+       "text": "end"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

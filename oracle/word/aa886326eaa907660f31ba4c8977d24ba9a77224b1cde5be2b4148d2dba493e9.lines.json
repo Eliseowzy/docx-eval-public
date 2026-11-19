@@ -1,0 +1,38 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 83.52,
+     "x0": 102.96,
+     "x1": 376.24,
+     "size": 28.08,
+     "text": "1.Atitleofdocument",
+     "segments": [
+      {
+       "x0": 102.96,
+       "x1": 376.24,
+       "text": "1.Atitleofdocument"
+      }
+     ]
+    },
+    {
+     "y": 122.64,
+     "x0": 102.96,
+     "x1": 503.25,
+     "size": 28.08,
+     "text": "2.Anotheronetitleofdocument",
+     "segments": [
+      {
+       "x0": 102.96,
+       "x1": 503.25,
+       "text": "2.Anotheronetitleofdocument"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

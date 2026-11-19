@@ -1,0 +1,178 @@
+{
+ "pages": [
+  {
+   "width": 595.44,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 82.32,
+     "x0": 70.8,
+     "x1": 283.03,
+     "size": 11.04,
+     "text": "alphabetagammadeltaalphabetagamma",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 283.03,
+       "text": "alphabetagammadeltaalphabetagamma"
+      }
+     ]
+    },
+    {
+     "y": 94.8,
+     "x0": 70.8,
+     "x1": 270.2,
+     "size": 11.04,
+     "text": "deltaalphabetagammadeltaalphabeta",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 270.2,
+       "text": "deltaalphabetagammadeltaalphabeta"
+      }
+     ]
+    },
+    {
+     "y": 107.52,
+     "x0": 70.8,
+     "x1": 285.47,
+     "size": 11.04,
+     "text": "gammadeltaalphabetagammadeltaalpha",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 285.47,
+       "text": "gammadeltaalphabetagammadeltaalpha"
+      }
+     ]
+    },
+    {
+     "y": 120.24,
+     "x0": 70.8,
+     "x1": 279.97,
+     "size": 11.04,
+     "text": "betagammadeltaalphabetagammadelta",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 279.97,
+       "text": "betagammadeltaalphabetagammadelta"
+      }
+     ]
+    },
+    {
+     "y": 132.96,
+     "x0": 70.8,
+     "x1": 283.03,
+     "size": 11.04,
+     "text": "alphabetagammadeltaalphabetagamma",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 283.03,
+       "text": "alphabetagammadeltaalphabetagamma"
+      }
+     ]
+    },
+    {
+     "y": 145.44,
+     "x0": 70.8,
+     "x1": 270.2,
+     "size": 11.04,
+     "text": "deltaalphabetagammadeltaalphabeta",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 270.2,
+       "text": "deltaalphabetagammadeltaalphabeta"
+      }
+     ]
+    },
+    {
+     "y": 158.16,
+     "x0": 70.8,
+     "x1": 285.47,
+     "size": 11.04,
+     "text": "gammadeltaalphabetagammadeltaalpha",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 285.47,
+       "text": "gammadeltaalphabetagammadeltaalpha"
+      }
+     ]
+    },
+    {
+     "y": 170.88,
+     "x0": 70.8,
+     "x1": 279.97,
+     "size": 11.04,
+     "text": "betagammadeltaalphabetagammadelta",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 279.97,
+       "text": "betagammadeltaalphabetagammadelta"
+      }
+     ]
+    },
+    {
+     "y": 183.36,
+     "x0": 70.8,
+     "x1": 218.82,
+     "size": 11.04,
+     "text": "alphabetagammadeltaalpha",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 218.82,
+       "text": "alphabetagammadeltaalpha"
+      }
+     ]
+    },
+    {
+     "y": 206.4,
+     "x0": 308.4,
+     "x1": 398.35,
+     "size": 11.04,
+     "text": "captionalphabeta",
+     "segments": [
+      {
+       "x0": 308.4,
+       "x1": 398.35,
+       "text": "captionalphabeta"
+      }
+     ]
+    },
+    {
+     "y": 219.12,
+     "x0": 308.4,
+     "x1": 410.56,
+     "size": 11.04,
+     "text": "captiongammadelta",
+     "segments": [
+      {
+       "x0": 308.4,
+       "x1": 410.56,
+       "text": "captiongammadelta"
+      }
+     ]
+    },
+    {
+     "y": 221.52,
+     "x0": 70.8,
+     "x1": 182.14,
+     "size": 12.0,
+     "text": "MARKERHEADING",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 182.14,
+       "text": "MARKERHEADING"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

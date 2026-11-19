@@ -1,0 +1,114 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 83.28,
+     "x0": 72.0,
+     "x1": 181.41,
+     "size": 12.0,
+     "text": "top24-inside4before",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 181.41,
+       "text": "top24-inside4before"
+      }
+     ]
+    },
+    {
+     "y": 100.08,
+     "x0": 77.76,
+     "x1": 376.41,
+     "size": 12.0,
+     "text": "top24-inside4r1c1top24-inside4r1c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 176.49,
+       "text": "top24-inside4r1c1"
+      },
+      {
+       "x0": 277.68,
+       "x1": 376.41,
+       "text": "top24-inside4r1c2"
+      }
+     ]
+    },
+    {
+     "y": 114.48,
+     "x0": 77.76,
+     "x1": 376.41,
+     "size": 12.0,
+     "text": "top24-inside4r2c1top24-inside4r2c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 176.49,
+       "text": "top24-inside4r2c1"
+      },
+      {
+       "x0": 277.68,
+       "x1": 376.41,
+       "text": "top24-inside4r2c2"
+      }
+     ]
+    },
+    {
+     "y": 128.64,
+     "x0": 77.76,
+     "x1": 376.41,
+     "size": 12.0,
+     "text": "top24-inside4r3c1top24-inside4r3c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 176.49,
+       "text": "top24-inside4r3c1"
+      },
+      {
+       "x0": 277.68,
+       "x1": 376.41,
+       "text": "top24-inside4r3c2"
+      }
+     ]
+    },
+    {
+     "y": 143.04,
+     "x0": 77.76,
+     "x1": 376.41,
+     "size": 12.0,
+     "text": "top24-inside4r4c1top24-inside4r4c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 176.49,
+       "text": "top24-inside4r4c1"
+      },
+      {
+       "x0": 277.68,
+       "x1": 376.41,
+       "text": "top24-inside4r4c2"
+      }
+     ]
+    },
+    {
+     "y": 157.2,
+     "x0": 72.0,
+     "x1": 171.4,
+     "size": 12.0,
+     "text": "top24-inside4after",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 171.4,
+       "text": "top24-inside4after"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

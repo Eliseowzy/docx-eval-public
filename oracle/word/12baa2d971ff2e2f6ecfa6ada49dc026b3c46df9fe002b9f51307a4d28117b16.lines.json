@@ -1,0 +1,24 @@
+{
+ "pages": [
+  {
+   "width": 792.0,
+   "height": 612.0,
+   "lines": [
+    {
+     "y": 153.84,
+     "x0": 43.2,
+     "x1": 294.05,
+     "size": 11.04,
+     "text": "Thefirstlineisalone,thesecondisinsideagroupshape.",
+     "segments": [
+      {
+       "x0": 43.2,
+       "x1": 294.05,
+       "text": "Thefirstlineisalone,thesecondisinsideagroupshape."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

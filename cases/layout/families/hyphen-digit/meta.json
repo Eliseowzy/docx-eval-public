@@ -1,0 +1,17 @@
+{
+ "origin": "docx-eval",
+ "license": "base/shell.docx and generated .docx: Apache-2.0 (the shell is a copy of a NimbleOffice fixture; generated variants inherit its license); generate.py, read.py and meta.json: CC0-1.0",
+ "redistributable": true,
+ "tags": [
+  "synthetic",
+  "rule-family",
+  "line-breaking",
+  "latin"
+ ],
+ "generator": "generate.py",
+ "reader": "none; the lines in oracle/word/*.lines.json show the break column",
+ "word": [
+  "Word 16.114, compat 14 and 15 alike: a line breaks after a hyphen that a digit follows (abcdef-9..., 123456-7890...), and after U+2013 before a digit; UAX-14 forbids it",
+  "Breaks after '.' and ',' before a digit stay forbidden"
+ ]
+}

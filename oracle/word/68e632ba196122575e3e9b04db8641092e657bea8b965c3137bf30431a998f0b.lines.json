@@ -1,0 +1,646 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 90.48,
+     "x0": 90.0,
+     "x1": 134.04,
+     "size": 16.08,
+     "text": "附件1",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 134.04,
+       "text": "附件1"
+      }
+     ]
+    },
+    {
+     "y": 131.52,
+     "x0": 189.65,
+     "x1": 405.65,
+     "size": 18.0,
+     "text": "格点客观指导产品命名规则",
+     "segments": [
+      {
+       "x0": 189.65,
+       "x1": 405.65,
+       "text": "格点客观指导产品命名规则"
+      }
+     ]
+    },
+    {
+     "y": 173.04,
+     "x0": 119.65,
+     "x1": 475.72,
+     "size": 16.08,
+     "text": "表1-1作物农事活动气象适宜等级预报产品命名表",
+     "segments": [
+      {
+       "x0": 119.65,
+       "x1": 475.72,
+       "text": "表1-1作物农事活动气象适宜等级预报产品命名表"
+      }
+     ]
+    },
+    {
+     "y": 199.02,
+     "x0": 260.95,
+     "x1": 334.12,
+     "size": 11.76,
+     "text": "（下发各省）",
+     "segments": [
+      {
+       "x0": 260.95,
+       "x1": 334.12,
+       "text": "（下发各省）"
+      }
+     ]
+    },
+    {
+     "y": 227.28,
+     "x0": 102.2,
+     "x1": 365.59,
+     "size": 12.0,
+     "text": "产品名称命名",
+     "segments": [
+      {
+       "x0": 102.2,
+       "x1": 150.2,
+       "text": "产品名称"
+      },
+      {
+       "x0": 341.59,
+       "x1": 365.59,
+       "text": "命名"
+      }
+     ]
+    },
+    {
+     "y": 243.84,
+     "x0": 81.2,
+     "x1": 468.66,
+     "size": 7.44,
+     "text": "玉米收获气象适宜等级预报Z_AGME_C_BABJ_YYYYMMDDHHmmss_P_CAGMSS_AWFC_MAIZ-HAR-MSG_5KM_CCCC_L88_PD.FFF",
+     "segments": [
+      {
+       "x0": 81.2,
+       "x1": 171.14,
+       "text": "玉米收获气象适宜等级预报"
+      },
+      {
+       "x0": 187.44,
+       "x1": 468.66,
+       "text": "Z_AGME_C_BABJ_YYYYMMDDHHmmss_P_CAGMSS_AWFC_MAIZ-HAR-MSG_5KM_CCCC_L88_PD.FFF"
+      }
+     ]
+    },
+    {
+     "y": 259.92,
+     "x0": 81.2,
+     "x1": 472.41,
+     "size": 7.44,
+     "text": "水稻收获气象适宜等级预报Z_AGME_C_BABJ_YYYYMMDDHHmmss_P_CAGMSS_AWFC_RICE-HAR-MSG_5KM_CCCC_L88_PD.FFF",
+     "segments": [
+      {
+       "x0": 81.2,
+       "x1": 171.14,
+       "text": "水稻收获气象适宜等级预报"
+      },
+      {
+       "x0": 187.44,
+       "x1": 472.41,
+       "text": "Z_AGME_C_BABJ_YYYYMMDDHHmmss_P_CAGMSS_AWFC_RICE-HAR-MSG_5KM_CCCC_L88_PD.FFF"
+      }
+     ]
+    },
+    {
+     "y": 276.0,
+     "x0": 81.2,
+     "x1": 472.41,
+     "size": 7.44,
+     "text": "棉花收获气象适宜等级预报Z_AGME_C_BABJ_YYYYMMDDHHmmss_P_CAGMSS_AWFC_COTT-HAR-MSG_5KM_CCCC_L88_PD.FFF",
+     "segments": [
+      {
+       "x0": 81.2,
+       "x1": 171.14,
+       "text": "棉花收获气象适宜等级预报"
+      },
+      {
+       "x0": 187.44,
+       "x1": 472.41,
+       "text": "Z_AGME_C_BABJ_YYYYMMDDHHmmss_P_CAGMSS_AWFC_COTT-HAR-MSG_5KM_CCCC_L88_PD.FFF"
+      }
+     ]
+    },
+    {
+     "y": 292.08,
+     "x0": 81.2,
+     "x1": 472.41,
+     "size": 7.44,
+     "text": "大豆收获气象适宜等级预报Z_AGME_C_BABJ_YYYYMMDDHHmmss_P_CAGMSS_AWFC_SOYB-HAR-MSG_5KM_CCCC_L88_PD.FFF",
+     "segments": [
+      {
+       "x0": 81.2,
+       "x1": 171.14,
+       "text": "大豆收获气象适宜等级预报"
+      },
+      {
+       "x0": 187.44,
+       "x1": 472.41,
+       "text": "Z_AGME_C_BABJ_YYYYMMDDHHmmss_P_CAGMSS_AWFC_SOYB-HAR-MSG_5KM_CCCC_L88_PD.FFF"
+      }
+     ]
+    },
+    {
+     "y": 308.16,
+     "x0": 81.2,
+     "x1": 468.65,
+     "size": 7.44,
+     "text": "油菜播种气象适宜等级预报Z_AGME_C_BABJ_YYYYMMDDHHmmss_P_CAGMSS_AWFC_RAPE-SOW-MSG_5KM_CCCC_L88_PD.FFF",
+     "segments": [
+      {
+       "x0": 81.2,
+       "x1": 171.14,
+       "text": "油菜播种气象适宜等级预报"
+      },
+      {
+       "x0": 187.44,
+       "x1": 468.65,
+       "text": "Z_AGME_C_BABJ_YYYYMMDDHHmmss_P_CAGMSS_AWFC_RAPE-SOW-MSG_5KM_CCCC_L88_PD.FFF"
+      }
+     ]
+    },
+    {
+     "y": 324.24,
+     "x0": 77.45,
+     "x1": 468.65,
+     "size": 7.44,
+     "text": "冬小麦播种气象适宜等级预报Z_AGME_C_BABJ_YYYYMMDDHHmmss_P_CAGMSS_AWFC_WIWH-SOW-MSG_5KM_CCCC_L88_PD.FFF",
+     "segments": [
+      {
+       "x0": 77.45,
+       "x1": 174.89,
+       "text": "冬小麦播种气象适宜等级预报"
+      },
+      {
+       "x0": 187.44,
+       "x1": 468.65,
+       "text": "Z_AGME_C_BABJ_YYYYMMDDHHmmss_P_CAGMSS_AWFC_WIWH-SOW-MSG_5KM_CCCC_L88_PD.FFF"
+      }
+     ]
+    },
+    {
+     "y": 376.56,
+     "x0": 121.65,
+     "x1": 473.72,
+     "size": 16.08,
+     "text": "表1-2作物农事活动气象适宜等级预报产品命名表",
+     "segments": [
+      {
+       "x0": 121.65,
+       "x1": 473.72,
+       "text": "表1-2作物农事活动气象适宜等级预报产品命名表"
+      }
+     ]
+    },
+    {
+     "y": 402.54,
+     "x0": 212.01,
+     "x1": 383.05,
+     "size": 11.76,
+     "text": "（各省发往国家气象信息中心）",
+     "segments": [
+      {
+       "x0": 212.01,
+       "x1": 383.05,
+       "text": "（各省发往国家气象信息中心）"
+      }
+     ]
+    },
+    {
+     "y": 430.8,
+     "x0": 95.75,
+     "x1": 366.99,
+     "size": 12.0,
+     "text": "产品名称命名",
+     "segments": [
+      {
+       "x0": 95.75,
+       "x1": 143.75,
+       "text": "产品名称"
+      },
+      {
+       "x0": 342.99,
+       "x1": 366.99,
+       "text": "命名"
+      }
+     ]
+    },
+    {
+     "y": 447.36,
+     "x0": 74.75,
+     "x1": 463.86,
+     "size": 7.44,
+     "text": "玉米收获气象适宜等级预报Z_AGME_C_CCCC_YYYYMMDDHHmmss_P_CAGMSS_AWFC_MAIZ-HAR-MSG_5KM_BABJ_L88_PD.FFF",
+     "segments": [
+      {
+       "x0": 74.75,
+       "x1": 164.7,
+       "text": "玉米收获气象适宜等级预报"
+      },
+      {
+       "x0": 182.64,
+       "x1": 463.86,
+       "text": "Z_AGME_C_CCCC_YYYYMMDDHHmmss_P_CAGMSS_AWFC_MAIZ-HAR-MSG_5KM_BABJ_L88_PD.FFF"
+      }
+     ]
+    },
+    {
+     "y": 463.44,
+     "x0": 74.75,
+     "x1": 463.86,
+     "size": 7.44,
+     "text": "水稻收获气象适宜等级预报Z_AGME_C_CCCC_YYYYMMDDHHmmss_P_CAGMSS_AWFC_RICE-HAR-MSG_5KM_BABJ_L88_PD.FFF",
+     "segments": [
+      {
+       "x0": 74.75,
+       "x1": 164.7,
+       "text": "水稻收获气象适宜等级预报"
+      },
+      {
+       "x0": 182.64,
+       "x1": 463.86,
+       "text": "Z_AGME_C_CCCC_YYYYMMDDHHmmss_P_CAGMSS_AWFC_RICE-HAR-MSG_5KM_BABJ_L88_PD.FFF"
+      }
+     ]
+    },
+    {
+     "y": 479.52,
+     "x0": 74.75,
+     "x1": 463.86,
+     "size": 7.44,
+     "text": "棉花收获气象适宜等级预报Z_AGME_C_CCCC_YYYYMMDDHHmmss_P_CAGMSS_AWFC_COTT-HAR-MSG_5KM_BABJ_L88_PD.FFF",
+     "segments": [
+      {
+       "x0": 74.75,
+       "x1": 164.7,
+       "text": "棉花收获气象适宜等级预报"
+      },
+      {
+       "x0": 182.64,
+       "x1": 463.86,
+       "text": "Z_AGME_C_CCCC_YYYYMMDDHHmmss_P_CAGMSS_AWFC_COTT-HAR-MSG_5KM_BABJ_L88_PD.FFF"
+      }
+     ]
+    },
+    {
+     "y": 495.6,
+     "x0": 74.75,
+     "x1": 463.85,
+     "size": 7.44,
+     "text": "大豆收获气象适宜等级预报Z_AGME_C_CCCC_YYYYMMDDHHmmss_P_CAGMSS_AWFC_SOYB-HAR-MSG_5KM_BABJ_L88_PD.FFF",
+     "segments": [
+      {
+       "x0": 74.75,
+       "x1": 164.7,
+       "text": "大豆收获气象适宜等级预报"
+      },
+      {
+       "x0": 182.64,
+       "x1": 463.85,
+       "text": "Z_AGME_C_CCCC_YYYYMMDDHHmmss_P_CAGMSS_AWFC_SOYB-HAR-MSG_5KM_BABJ_L88_PD.FFF"
+      }
+     ]
+    },
+    {
+     "y": 511.68,
+     "x0": 74.75,
+     "x1": 463.85,
+     "size": 7.44,
+     "text": "油菜播种气象适宜等级预报Z_AGME_C_CCCC_YYYYMMDDHHmmss_P_CAGMSS_AWFC_RAPE-SOW-MSG_5KM_BABJ_L88_PD.FFF",
+     "segments": [
+      {
+       "x0": 74.75,
+       "x1": 164.7,
+       "text": "油菜播种气象适宜等级预报"
+      },
+      {
+       "x0": 182.64,
+       "x1": 463.85,
+       "text": "Z_AGME_C_CCCC_YYYYMMDDHHmmss_P_CAGMSS_AWFC_RAPE-SOW-MSG_5KM_BABJ_L88_PD.FFF"
+      }
+     ]
+    },
+    {
+     "y": 527.76,
+     "x0": 71.0,
+     "x1": 463.85,
+     "size": 7.44,
+     "text": "冬小麦播种气象适宜等级预报Z_AGME_C_CCCC_YYYYMMDDHHmmss_P_CAGMSS_AWFC_WIWH-SOW-MSG_5KM_BABJ_L88_PD.FFF",
+     "segments": [
+      {
+       "x0": 71.0,
+       "x1": 168.45,
+       "text": "冬小麦播种气象适宜等级预报"
+      },
+      {
+       "x0": 182.64,
+       "x1": 463.85,
+       "text": "Z_AGME_C_CCCC_YYYYMMDDHHmmss_P_CAGMSS_AWFC_WIWH-SOW-MSG_5KM_BABJ_L88_PD.FFF"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 89.58,
+     "x0": 106.0,
+     "x1": 166.94,
+     "size": 11.76,
+     "text": "各项意义：",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 166.94,
+       "text": "各项意义："
+      }
+     ]
+    },
+    {
+     "y": 111.6,
+     "x0": 106.0,
+     "x1": 493.0,
+     "size": 12.0,
+     "text": "FFF：预报日次（024表示24小时，048表示48小时，072表示72小时）",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 493.0,
+       "text": "FFF：预报日次（024表示24小时，048表示48小时，072表示72小时）"
+      }
+     ]
+    },
+    {
+     "y": 133.68,
+     "x0": 106.0,
+     "x1": 199.0,
+     "size": 12.0,
+     "text": "Z表示国内交换码",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 199.0,
+       "text": "Z表示国内交换码"
+      }
+     ]
+    },
+    {
+     "y": 155.76,
+     "x0": 106.0,
+     "x1": 205.0,
+     "size": 12.0,
+     "text": "AGME表示农业气象",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 205.0,
+       "text": "AGME表示农业气象"
+      }
+     ]
+    },
+    {
+     "y": 177.6,
+     "x0": 106.0,
+     "x1": 187.0,
+     "size": 12.0,
+     "text": "C表示省级单位",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 187.0,
+       "text": "C表示省级单位"
+      }
+     ]
+    },
+    {
+     "y": 199.68,
+     "x0": 106.0,
+     "x1": 229.0,
+     "size": 12.0,
+     "text": "CCCC表示省级单位代码",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 229.0,
+       "text": "CCCC表示省级单位代码"
+      }
+     ]
+    },
+    {
+     "y": 221.76,
+     "x0": 106.0,
+     "x1": 391.0,
+     "size": 12.0,
+     "text": "YYYYMMDDHHmmss表示产品制作的时间mmss取“0000”",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 391.0,
+       "text": "YYYYMMDDHHmmss表示产品制作的时间mmss取“0000”"
+      }
+     ]
+    },
+    {
+     "y": 243.6,
+     "x0": 106.0,
+     "x1": 163.0,
+     "size": 12.0,
+     "text": "P表示产品",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 163.0,
+       "text": "P表示产品"
+      }
+     ]
+    },
+    {
+     "y": 265.68,
+     "x0": 106.0,
+     "x1": 241.0,
+     "size": 12.0,
+     "text": "AWFC农用天气预报类产品",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 241.0,
+       "text": "AWFC农用天气预报类产品"
+      }
+     ]
+    },
+    {
+     "y": 287.76,
+     "x0": 106.0,
+     "x1": 253.0,
+     "size": 12.0,
+     "text": "CAGMSS表示产品的制作系统",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 253.0,
+       "text": "CAGMSS表示产品的制作系统"
+      }
+     ]
+    },
+    {
+     "y": 309.6,
+     "x0": 106.0,
+     "x1": 181.0,
+     "size": 12.0,
+     "text": "MAIZ表示玉米",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 181.0,
+       "text": "MAIZ表示玉米"
+      }
+     ]
+    },
+    {
+     "y": 331.68,
+     "x0": 106.0,
+     "x1": 181.0,
+     "size": 12.0,
+     "text": "RICE表示水稻",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 181.0,
+       "text": "RICE表示水稻"
+      }
+     ]
+    },
+    {
+     "y": 353.76,
+     "x0": 106.0,
+     "x1": 181.0,
+     "size": 12.0,
+     "text": "COTT表示棉花",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 181.0,
+       "text": "COTT表示棉花"
+      }
+     ]
+    },
+    {
+     "y": 375.6,
+     "x0": 106.0,
+     "x1": 181.0,
+     "size": 12.0,
+     "text": "SOYB表示大豆",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 181.0,
+       "text": "SOYB表示大豆"
+      }
+     ]
+    },
+    {
+     "y": 397.68,
+     "x0": 106.0,
+     "x1": 181.0,
+     "size": 12.0,
+     "text": "RAPE表示油菜",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 181.0,
+       "text": "RAPE表示油菜"
+      }
+     ]
+    },
+    {
+     "y": 419.76,
+     "x0": 106.0,
+     "x1": 193.0,
+     "size": 12.0,
+     "text": "WIWH表示冬小麦",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 193.0,
+       "text": "WIWH表示冬小麦"
+      }
+     ]
+    },
+    {
+     "y": 441.6,
+     "x0": 106.0,
+     "x1": 175.0,
+     "size": 12.0,
+     "text": "HAR表示收获",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 175.0,
+       "text": "HAR表示收获"
+      }
+     ]
+    },
+    {
+     "y": 463.68,
+     "x0": 106.0,
+     "x1": 175.0,
+     "size": 12.0,
+     "text": "SOW表示播种",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 175.0,
+       "text": "SOW表示播种"
+      }
+     ]
+    },
+    {
+     "y": 485.76,
+     "x0": 106.0,
+     "x1": 223.0,
+     "size": 12.0,
+     "text": "MSG表示气象适宜等级",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 223.0,
+       "text": "MSG表示气象适宜等级"
+      }
+     ]
+    },
+    {
+     "y": 507.6,
+     "x0": 106.0,
+     "x1": 244.0,
+     "size": 12.0,
+     "text": "5KM表示空间分辨率为5KM",
+     "segments": [
+      {
+       "x0": 106.0,
+       "x1": 244.0,
+       "text": "5KM表示空间分辨率为5KM"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

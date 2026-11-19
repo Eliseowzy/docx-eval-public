@@ -1,0 +1,102 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 225.12,
+   "lines": [
+    {
+     "y": 83.28,
+     "x0": 72.0,
+     "x1": 158.74,
+     "size": 12.0,
+     "text": "float7000before",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 158.74,
+       "text": "float7000before"
+      }
+     ]
+    },
+    {
+     "y": 97.68,
+     "x0": 77.76,
+     "x1": 328.78,
+     "size": 12.0,
+     "text": "float7000r1c1float7000r1c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 153.82,
+       "text": "float7000r1c1"
+      },
+      {
+       "x0": 252.72,
+       "x1": 328.78,
+       "text": "float7000r1c2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 225.12,
+   "lines": [
+    {
+     "y": 83.76,
+     "x0": 77.76,
+     "x1": 328.78,
+     "size": 12.0,
+     "text": "float7000r2c1float7000r2c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 153.82,
+       "text": "float7000r2c1"
+      },
+      {
+       "x0": 252.72,
+       "x1": 328.78,
+       "text": "float7000r2c2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 225.12,
+   "lines": [
+    {
+     "y": 83.28,
+     "x0": 72.0,
+     "x1": 521.62,
+     "size": 12.0,
+     "text": "Aftertablewordswraparoundthefinalrowsofthisfloatingtableandcontinueonthe",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 521.62,
+       "text": "Aftertablewordswraparoundthefinalrowsofthisfloatingtableandcontinueonthe"
+      }
+     ]
+    },
+    {
+     "y": 96.96,
+     "x0": 72.0,
+     "x1": 102.03,
+     "size": 12.0,
+     "text": "page.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 102.03,
+       "text": "page."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

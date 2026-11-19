@@ -1,0 +1,150 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 79.68,
+     "x0": 54.72,
+     "x1": 397.7,
+     "size": 12.0,
+     "text": "PARASTYLEWITHBOLDITALICCAPSEMBOSSEDSTRIKEAND",
+     "segments": [
+      {
+       "x0": 54.72,
+       "x1": 397.7,
+       "text": "PARASTYLEWITHBOLDITALICCAPSEMBOSSEDSTRIKEAND"
+      }
+     ]
+    },
+    {
+     "y": 80.64,
+     "x0": 55.68,
+     "x1": 398.66,
+     "size": 12.0,
+     "text": "PARASTYLEWITHBOLDITALICCAPSEMBOSSEDSTRIKEAND",
+     "segments": [
+      {
+       "x0": 55.68,
+       "x1": 398.66,
+       "text": "PARASTYLEWITHBOLDITALICCAPSEMBOSSEDSTRIKEAND"
+      }
+     ]
+    },
+    {
+     "y": 81.6,
+     "x0": 56.64,
+     "x1": 450.5,
+     "size": 12.0,
+     "text": "PARASTYLEWITHBOLDITALICCAPSEMBOSSEDSTRIKEANDCharStyle",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 450.5,
+       "text": "PARASTYLEWITHBOLDITALICCAPSEMBOSSEDSTRIKEANDCharStyle"
+      }
+     ]
+    },
+    {
+     "y": 95.28,
+     "x0": 56.64,
+     "x1": 206.62,
+     "size": 12.0,
+     "text": "BoldItalicCapsEmbossedStrike",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 206.62,
+       "text": "BoldItalicCapsEmbossedStrike"
+      }
+     ]
+    },
+    {
+     "y": 109.2,
+     "x0": 56.64,
+     "x1": 374.88,
+     "size": 12.0,
+     "text": "PARASTYLESMALLCAPSIMPRINTANDCharStyleSmallcapsImprint",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 374.88,
+       "text": "PARASTYLESMALLCAPSIMPRINTANDCharStyleSmallcapsImprint"
+      }
+     ]
+    },
+    {
+     "y": 110.16,
+     "x0": 57.6,
+     "x1": 237.33,
+     "size": 12.0,
+     "text": "PARASTYLESMALLCAPSIMPRINTAND",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 237.33,
+       "text": "PARASTYLESMALLCAPSIMPRINTAND"
+      }
+     ]
+    },
+    {
+     "y": 111.12,
+     "x0": 58.56,
+     "x1": 238.29,
+     "size": 12.0,
+     "text": "PARASTYLESMALLCAPSIMPRINTAND",
+     "segments": [
+      {
+       "x0": 58.56,
+       "x1": 238.29,
+       "text": "PARASTYLESMALLCAPSIMPRINTAND"
+      }
+     ]
+    },
+    {
+     "y": 122.88,
+     "x0": 56.64,
+     "x1": 95.3,
+     "size": 12.0,
+     "text": "Hidden:",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 95.3,
+       "text": "Hidden:"
+      }
+     ]
+    },
+    {
+     "y": 136.8,
+     "x0": 56.64,
+     "x1": 142.96,
+     "size": 12.0,
+     "text": "CharStyleHidden",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 142.96,
+       "text": "CharStyleHidden"
+      }
+     ]
+    },
+    {
+     "y": 150.48,
+     "x0": 57.12,
+     "x1": 329.27,
+     "size": 12.0,
+     "text": "ParaStyleOutlineShadowandCharStyleOutlineShadow",
+     "segments": [
+      {
+       "x0": 57.12,
+       "x1": 329.27,
+       "text": "ParaStyleOutlineShadowandCharStyleOutlineShadow"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

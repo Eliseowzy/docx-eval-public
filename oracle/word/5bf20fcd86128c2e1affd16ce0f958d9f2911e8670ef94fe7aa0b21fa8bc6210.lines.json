@@ -1,0 +1,52 @@
+{
+ "pages": [
+  {
+   "width": 595.44,
+   "height": 841.68,
+   "lines": [
+    {
+     "y": 67.2,
+     "x0": 70.8,
+     "x1": 100.07,
+     "size": 11.04,
+     "text": "before",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 100.07,
+       "text": "before"
+      }
+     ]
+    },
+    {
+     "y": 88.32,
+     "x0": 70.8,
+     "x1": 139.96,
+     "size": 6.48,
+     "text": "superscript,withparatext",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 139.96,
+       "text": "superscript,withparatext"
+      }
+     ]
+    },
+    {
+     "y": 105.12,
+     "x0": 70.8,
+     "x1": 91.98,
+     "size": 11.04,
+     "text": "a(er",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 91.98,
+       "text": "a(er"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

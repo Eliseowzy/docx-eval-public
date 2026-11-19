@@ -1,0 +1,1537 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 37.68,
+     "x0": 70.8,
+     "x1": 517.37,
+     "size": 10.08,
+     "text": "[Hiereingeben][Hiereingeben][Hiereingeben]",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 138.64,
+       "text": "[Hiereingeben]"
+      },
+      {
+       "x0": 260.16,
+       "x1": 328.01,
+       "text": "[Hiereingeben]"
+      },
+      {
+       "x0": 449.53,
+       "x1": 517.37,
+       "text": "[Hiereingeben]"
+      }
+     ]
+    },
+    {
+     "y": 80.4,
+     "x0": 70.8,
+     "x1": 160.65,
+     "size": 16.08,
+     "text": "PATIENTEN",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 160.65,
+       "text": "PATIENTEN"
+      }
+     ]
+    },
+    {
+     "y": 98.88,
+     "x0": 106.2,
+     "x1": 219.13,
+     "size": 16.08,
+     "text": "INFORMATION",
+     "segments": [
+      {
+       "x0": 106.2,
+       "x1": 219.13,
+       "text": "INFORMATION"
+      }
+     ]
+    },
+    {
+     "y": 128.4,
+     "x0": 70.8,
+     "x1": 517.44,
+     "size": 11.04,
+     "text": "INFORMATIONSBLATTUNDEINWILLIGUNGSERKLÄRUNGZURTEILNAHMEANEINER",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 517.44,
+       "text": "INFORMATIONSBLATTUNDEINWILLIGUNGSERKLÄRUNGZURTEILNAHMEANEINER"
+      }
+     ]
+    },
+    {
+     "y": 141.12,
+     "x0": 70.8,
+     "x1": 183.28,
+     "size": 11.04,
+     "text": "KLINISCHENSTUDIE:",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 183.28,
+       "text": "KLINISCHENSTUDIE:"
+      }
+     ]
+    },
+    {
+     "y": 166.32,
+     "x0": 70.8,
+     "x1": 83.06,
+     "size": 11.04,
+     "text": "xx",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 83.06,
+       "text": "xx"
+      }
+     ]
+    },
+    {
+     "y": 179.04,
+     "x0": 73.84,
+     "x1": 514.33,
+     "size": 11.04,
+     "text": "________________________________________________________________________",
+     "segments": [
+      {
+       "x0": 73.84,
+       "x1": 514.33,
+       "text": "________________________________________________________________________"
+      }
+     ]
+    },
+    {
+     "y": 203.76,
+     "x0": 70.8,
+     "x1": 111.16,
+     "size": 11.04,
+     "text": "INHALT",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 111.16,
+       "text": "INHALT"
+      }
+     ]
+    },
+    {
+     "y": 221.52,
+     "x0": 99.15,
+     "x1": 474.87,
+     "size": 9.12,
+     "text": "ORGANISATIONUND..............................................................................................................3",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.87,
+       "text": "ORGANISATIONUND..............................................................................................................3"
+      }
+     ]
+    },
+    {
+     "y": 237.84,
+     "x0": 99.15,
+     "x1": 474.87,
+     "size": 9.12,
+     "text": "VERANTWORTLICHKEIT........................................................................................................3",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.87,
+       "text": "VERANTWORTLICHKEIT........................................................................................................3"
+      }
+     ]
+    },
+    {
+     "y": 254.16,
+     "x0": 99.15,
+     "x1": 104.22,
+     "size": 9.12,
+     "text": "3",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 104.22,
+       "text": "3"
+      }
+     ]
+    },
+    {
+     "y": 270.48,
+     "x0": 99.15,
+     "x1": 474.87,
+     "size": 9.12,
+     "text": "ZIELSETZUNGDER.................................................................................................................3",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.87,
+       "text": "ZIELSETZUNGDER.................................................................................................................3"
+      }
+     ]
+    },
+    {
+     "y": 287.04,
+     "x0": 99.15,
+     "x1": 474.87,
+     "size": 9.12,
+     "text": "STUDIE......................................................................................................................................3",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.87,
+       "text": "STUDIE......................................................................................................................................3"
+      }
+     ]
+    },
+    {
+     "y": 303.36,
+     "x0": 99.15,
+     "x1": 104.22,
+     "size": 9.12,
+     "text": "3",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 104.22,
+       "text": "3"
+      }
+     ]
+    },
+    {
+     "y": 319.68,
+     "x0": 99.15,
+     "x1": 474.87,
+     "size": 9.12,
+     "text": "AUSWAHLDER........................................................................................................................3",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.87,
+       "text": "AUSWAHLDER........................................................................................................................3"
+      }
+     ]
+    },
+    {
+     "y": 336.0,
+     "x0": 99.15,
+     "x1": 474.87,
+     "size": 9.12,
+     "text": "TEILNEHMENDEN....................................................................................................................3",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.87,
+       "text": "TEILNEHMENDEN....................................................................................................................3"
+      }
+     ]
+    },
+    {
+     "y": 352.32,
+     "x0": 99.15,
+     "x1": 104.22,
+     "size": 9.12,
+     "text": "3",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 104.22,
+       "text": "3"
+      }
+     ]
+    },
+    {
+     "y": 369.36,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "ALLGEMEINE................................................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "ALLGEMEINE................................................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 387.12,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "INFORMATION..............................................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "INFORMATION..............................................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 404.64,
+     "x0": 99.15,
+     "x1": 173.77,
+     "size": 9.12,
+     "text": "错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 173.77,
+       "text": "错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 421.68,
+     "x0": 99.15,
+     "x1": 474.87,
+     "size": 9.12,
+     "text": "FREIWILLIGKEIT......................................................................................................................3",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.87,
+       "text": "FREIWILLIGKEIT......................................................................................................................3"
+      }
+     ]
+    },
+    {
+     "y": 438.0,
+     "x0": 99.15,
+     "x1": 474.87,
+     "size": 9.12,
+     "text": "IHRERTEILNAHME..................................................................................................................3",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.87,
+       "text": "IHRERTEILNAHME..................................................................................................................3"
+      }
+     ]
+    },
+    {
+     "y": 454.32,
+     "x0": 99.15,
+     "x1": 104.22,
+     "size": 9.12,
+     "text": "3",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 104.22,
+       "text": "3"
+      }
+     ]
+    },
+    {
+     "y": 470.64,
+     "x0": 99.15,
+     "x1": 474.87,
+     "size": 9.12,
+     "text": "ABLAUF....................................................................................................................................3",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.87,
+       "text": "ABLAUF....................................................................................................................................3"
+      }
+     ]
+    },
+    {
+     "y": 487.2,
+     "x0": 99.15,
+     "x1": 474.87,
+     "size": 9.12,
+     "text": "DERSTUDIE.............................................................................................................................3",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.87,
+       "text": "DERSTUDIE.............................................................................................................................3"
+      }
+     ]
+    },
+    {
+     "y": 503.52,
+     "x0": 99.15,
+     "x1": 104.22,
+     "size": 9.12,
+     "text": "3",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 104.22,
+       "text": "3"
+      }
+     ]
+    },
+    {
+     "y": 520.56,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "ZUTEILUNGZUEINER.................................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "ZUTEILUNGZUEINER.................................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 538.08,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "BEHANDLUNGSGRUPPE.............................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "BEHANDLUNGSGRUPPE.............................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 555.84,
+     "x0": 99.15,
+     "x1": 173.77,
+     "size": 9.12,
+     "text": "错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 173.77,
+       "text": "错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 573.6,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "PFLICHTENDES...........................................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "PFLICHTENDES...........................................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 591.12,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "TEILNEHMERSUNDDESPRÜFARZTES....................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "TEILNEHMERSUNDDESPRÜFARZTES....................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 608.88,
+     "x0": 99.15,
+     "x1": 173.77,
+     "size": 9.12,
+     "text": "错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 173.77,
+       "text": "错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 626.64,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "NUTZEN.........................................................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "NUTZEN.........................................................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 644.16,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "FÜRDENTEILNEHMER...............................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "FÜRDENTEILNEHMER...............................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 661.92,
+     "x0": 99.15,
+     "x1": 173.77,
+     "size": 9.12,
+     "text": "错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 173.77,
+       "text": "错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 679.44,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "MÖGLICHERISIKENUND............................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "MÖGLICHERISIKENUND............................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 697.2,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "UNANNEHMLICKEITEN................................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "UNANNEHMLICKEITEN................................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 714.96,
+     "x0": 99.15,
+     "x1": 173.77,
+     "size": 9.12,
+     "text": "错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 173.77,
+       "text": "错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 732.48,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "MITTEILUNGNEUER....................................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "MITTEILUNGNEUER....................................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 750.24,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "ERKENNTNISSSE.........................................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "ERKENNTNISSSE.........................................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 768.0,
+     "x0": 99.15,
+     "x1": 173.77,
+     "size": 9.12,
+     "text": "错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 173.77,
+       "text": "错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 816.72,
+     "x0": 70.8,
+     "x1": 295.94,
+     "size": 10.08,
+     "text": "xxxx,Patienteninformation/Einwilligungserklärung,",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 295.94,
+       "text": "xxxx,Patienteninformation/Einwilligungserklärung,"
+      }
+     ]
+    },
+    {
+     "y": 828.24,
+     "x0": 70.8,
+     "x1": 517.33,
+     "size": 10.08,
+     "text": "Version5.0,datiertXX.05.2018Seite1von3",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 209.82,
+       "text": "Version5.0,datiertXX.05.2018"
+      },
+      {
+       "x0": 476.49,
+       "x1": 517.33,
+       "text": "Seite1von3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 37.68,
+     "x0": 70.8,
+     "x1": 517.37,
+     "size": 10.08,
+     "text": "[Hiereingeben][Hiereingeben][Hiereingeben]",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 138.64,
+       "text": "[Hiereingeben]"
+      },
+      {
+       "x0": 260.16,
+       "x1": 328.01,
+       "text": "[Hiereingeben]"
+      },
+      {
+       "x0": 449.53,
+       "x1": 517.37,
+       "text": "[Hiereingeben]"
+      }
+     ]
+    },
+    {
+     "y": 48.96,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "ALTERNATIVE...............................................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "ALTERNATIVE...............................................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 66.72,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "BEHANDLUNGSMÖGLICHKEITEN..............................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "BEHANDLUNGSMÖGLICHKEITEN..............................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 84.24,
+     "x0": 99.15,
+     "x1": 173.77,
+     "size": 9.12,
+     "text": "错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 173.77,
+       "text": "错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 102.0,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "VERTRAULICHKEITDERDATEN/..............................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "VERTRAULICHKEITDERDATEN/..............................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 119.76,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "AUFBEWAHRUNGVONPROBENMATERIAL............................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "AUFBEWAHRUNGVONPROBENMATERIAL............................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 137.28,
+     "x0": 99.15,
+     "x1": 173.77,
+     "size": 9.12,
+     "text": "错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 173.77,
+       "text": "错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 155.04,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "KOSTEN.........................................................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "KOSTEN.........................................................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 172.56,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "DERSTUDIENBEHANDLUNG......................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "DERSTUDIENBEHANDLUNG......................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 190.32,
+     "x0": 99.15,
+     "x1": 173.77,
+     "size": 9.12,
+     "text": "错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 173.77,
+       "text": "错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 208.08,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "ENTSCHÄDIGUNGFÜR................................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "ENTSCHÄDIGUNGFÜR................................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 225.6,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "DIETEILNEHMENDEN..................................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "DIETEILNEHMENDEN..................................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 243.36,
+     "x0": 99.15,
+     "x1": 173.77,
+     "size": 9.12,
+     "text": "错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 173.77,
+       "text": "错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 261.12,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "VORZEITIGER...............................................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "VORZEITIGER...............................................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 278.64,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "STUDIENABBRUCH......................................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "STUDIENABBRUCH......................................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 296.4,
+     "x0": 99.15,
+     "x1": 173.77,
+     "size": 9.12,
+     "text": "错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 173.77,
+       "text": "错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 314.16,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "DECKUNG......................................................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "DECKUNG......................................................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 331.68,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "VONSCHÄDEN.............................................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "VONSCHÄDEN.............................................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 349.44,
+     "x0": 99.15,
+     "x1": 173.77,
+     "size": 9.12,
+     "text": "错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 173.77,
+       "text": "错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 366.96,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "KONTAKTPERSONEN..................................................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "KONTAKTPERSONEN..................................................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 384.72,
+     "x0": 99.15,
+     "x1": 173.77,
+     "size": 9.12,
+     "text": "错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 173.77,
+       "text": "错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 402.48,
+     "x0": 99.15,
+     "x1": 474.92,
+     "size": 9.12,
+     "text": "ÜBERSICHTDERSTUDIENVISITEN...........................................................错误!未定义书签。",
+     "segments": [
+      {
+       "x0": 99.15,
+       "x1": 474.92,
+       "text": "ÜBERSICHTDERSTUDIENVISITEN...........................................................错误!未定义书签。"
+      }
+     ]
+    },
+    {
+     "y": 816.72,
+     "x0": 70.8,
+     "x1": 295.94,
+     "size": 10.08,
+     "text": "xxxx,Patienteninformation/Einwilligungserklärung,",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 295.94,
+       "text": "xxxx,Patienteninformation/Einwilligungserklärung,"
+      }
+     ]
+    },
+    {
+     "y": 828.24,
+     "x0": 70.8,
+     "x1": 517.33,
+     "size": 10.08,
+     "text": "Version5.0,datiertXX.05.2018Seite2von3",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 209.82,
+       "text": "Version5.0,datiertXX.05.2018"
+      },
+      {
+       "x0": 476.49,
+       "x1": 517.33,
+       "text": "Seite2von3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 37.68,
+     "x0": 70.8,
+     "x1": 517.37,
+     "size": 10.08,
+     "text": "[Hiereingeben][Hiereingeben][Hiereingeben]",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 138.64,
+       "text": "[Hiereingeben]"
+      },
+      {
+       "x0": 260.16,
+       "x1": 328.01,
+       "text": "[Hiereingeben]"
+      },
+      {
+       "x0": 449.53,
+       "x1": 517.37,
+       "text": "[Hiereingeben]"
+      }
+     ]
+    },
+    {
+     "y": 54.96,
+     "x0": 70.8,
+     "x1": 259.6,
+     "size": 16.08,
+     "text": "PATIENTENINFORMATION",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 259.6,
+       "text": "PATIENTENINFORMATION"
+      }
+     ]
+    },
+    {
+     "y": 80.4,
+     "x0": 106.2,
+     "x1": 327.57,
+     "size": 11.04,
+     "text": "SehrgeehrtePatientin,sehrgeehrterPatient,",
+     "segments": [
+      {
+       "x0": 106.2,
+       "x1": 327.57,
+       "text": "SehrgeehrtePatientin,sehrgeehrterPatient,"
+      }
+     ]
+    },
+    {
+     "y": 105.84,
+     "x0": 106.2,
+     "x1": 517.36,
+     "size": 11.04,
+     "text": "dieklinischeForschungarbeitetpermanentanderWeiterentwicklungund",
+     "segments": [
+      {
+       "x0": 106.2,
+       "x1": 517.36,
+       "text": "dieklinischeForschungarbeitetpermanentanderWeiterentwicklungund"
+      }
+     ]
+    },
+    {
+     "y": 118.56,
+     "x0": 106.25,
+     "x1": 517.36,
+     "size": 11.04,
+     "text": "VerbesserungvonTherapienzurBehandlungunterschiedlichsterErkrankungen.",
+     "segments": [
+      {
+       "x0": 106.25,
+       "x1": 517.36,
+       "text": "VerbesserungvonTherapienzurBehandlungunterschiedlichsterErkrankungen."
+      }
+     ]
+    },
+    {
+     "y": 131.04,
+     "x0": 106.25,
+     "x1": 417.49,
+     "size": 11.04,
+     "text": "HierfüristdieDurchführungvonklinischenStudienunerlässlich.",
+     "segments": [
+      {
+       "x0": 106.25,
+       "x1": 417.49,
+       "text": "HierfüristdieDurchführungvonklinischenStudienunerlässlich."
+      }
+     ]
+    },
+    {
+     "y": 156.48,
+     "x0": 106.2,
+     "x1": 517.37,
+     "size": 11.04,
+     "text": "DieseklinischenStudienwerdennachstrengenrechtlichen,sowieethischen",
+     "segments": [
+      {
+       "x0": 106.2,
+       "x1": 517.37,
+       "text": "DieseklinischenStudienwerdennachstrengenrechtlichen,sowieethischen"
+      }
+     ]
+    },
+    {
+     "y": 168.96,
+     "x0": 106.25,
+     "x1": 517.4,
+     "size": 11.04,
+     "text": "Anforderungenentwickeltunddurchgeführt.BevordieStudiestartenkann,bedarfes",
+     "segments": [
+      {
+       "x0": 106.25,
+       "x1": 517.4,
+       "text": "Anforderungenentwickeltunddurchgeführt.BevordieStudiestartenkann,bedarfes"
+      }
+     ]
+    },
+    {
+     "y": 181.68,
+     "x0": 106.25,
+     "x1": 517.37,
+     "size": 11.04,
+     "text": "einerzustimmendenBewertungdurchdiezuständigeEthikkommission,sowie",
+     "segments": [
+      {
+       "x0": 106.25,
+       "x1": 517.37,
+       "text": "einerzustimmendenBewertungdurchdiezuständigeEthikkommission,sowie"
+      }
+     ]
+    },
+    {
+     "y": 194.4,
+     "x0": 106.25,
+     "x1": 439.97,
+     "size": 11.04,
+     "text": "einerGenehmigungdurchdiezuständigeBehörde(SwissMedic).",
+     "segments": [
+      {
+       "x0": 106.25,
+       "x1": 439.97,
+       "text": "einerGenehmigungdurchdiezuständigeBehörde(SwissMedic)."
+      }
+     ]
+    },
+    {
+     "y": 215.04,
+     "x0": 177.0,
+     "x1": 514.8,
+     "size": 11.04,
+     "text": "MitdiesemDokumentmöchtenwirSieumIhrEinverständniszur",
+     "segments": [
+      {
+       "x0": 177.0,
+       "x1": 514.8,
+       "text": "MitdiesemDokumentmöchtenwirSieumIhrEinverständniszur"
+      }
+     ]
+    },
+    {
+     "y": 227.52,
+     "x0": 177.0,
+     "x1": 511.41,
+     "size": 11.04,
+     "text": "TeilnahmeaneinerklinischenStudiebitten.DiefolgendenSeiten",
+     "segments": [
+      {
+       "x0": 177.0,
+       "x1": 511.41,
+       "text": "TeilnahmeaneinerklinischenStudiebitten.DiefolgendenSeiten"
+      }
+     ]
+    },
+    {
+     "y": 240.24,
+     "x0": 177.0,
+     "x1": 492.58,
+     "size": 11.04,
+     "text": "sollenSieüberdieStudieunddiedamitverbundenenrelevanten",
+     "segments": [
+      {
+       "x0": 177.0,
+       "x1": 492.58,
+       "text": "sollenSieüberdieStudieunddiedamitverbundenenrelevanten"
+      }
+     ]
+    },
+    {
+     "y": 252.96,
+     "x0": 177.0,
+     "x1": 499.26,
+     "size": 11.04,
+     "text": "Themeninformieren.EssollIhnenhelfen,eineEntscheidungüber",
+     "segments": [
+      {
+       "x0": 177.0,
+       "x1": 499.26,
+       "text": "Themeninformieren.EssollIhnenhelfen,eineEntscheidungüber"
+      }
+     ]
+    },
+    {
+     "y": 265.68,
+     "x0": 106.25,
+     "x1": 231.64,
+     "size": 11.04,
+     "text": "IhreTeilnahmezutreffen.",
+     "segments": [
+      {
+       "x0": 106.25,
+       "x1": 231.64,
+       "text": "IhreTeilnahmezutreffen."
+      }
+     ]
+    },
+    {
+     "y": 278.16,
+     "x0": 106.25,
+     "x1": 517.37,
+     "size": 11.04,
+     "text": "DasDokumentdientalsBasisfürdasanschliessendeGesprächmitIhremArzt.Hier",
+     "segments": [
+      {
+       "x0": 106.25,
+       "x1": 517.37,
+       "text": "DasDokumentdientalsBasisfürdasanschliessendeGesprächmitIhremArzt.Hier"
+      }
+     ]
+    },
+    {
+     "y": 290.88,
+     "x0": 106.25,
+     "x1": 517.36,
+     "size": 11.04,
+     "text": "könnenSieFragenstellenundDingeansprechen,dieggf.indiesemDokumentnicht",
+     "segments": [
+      {
+       "x0": 106.25,
+       "x1": 517.36,
+       "text": "könnenSieFragenstellenundDingeansprechen,dieggf.indiesemDokumentnicht"
+      }
+     ]
+    },
+    {
+     "y": 303.6,
+     "x0": 106.25,
+     "x1": 517.37,
+     "size": 11.04,
+     "text": "berücksichtigtwurden,fürSieabervonInteressesind.NachdemGesprächmitdem",
+     "segments": [
+      {
+       "x0": 106.25,
+       "x1": 517.37,
+       "text": "berücksichtigtwurden,fürSieabervonInteressesind.NachdemGesprächmitdem"
+      }
+     ]
+    },
+    {
+     "y": 316.08,
+     "x0": 106.25,
+     "x1": 517.37,
+     "size": 11.04,
+     "text": "PrüfarztwerdenSieausreichendBedenkzeiterhalten,umübereineTeilnahmezu",
+     "segments": [
+      {
+       "x0": 106.25,
+       "x1": 517.37,
+       "text": "PrüfarztwerdenSieausreichendBedenkzeiterhalten,umübereineTeilnahmezu"
+      }
+     ]
+    },
+    {
+     "y": 328.8,
+     "x0": 106.25,
+     "x1": 517.35,
+     "size": 11.04,
+     "text": "entscheiden.IhreStudienteilnahmeistfreiwilligundbedarfIhrerschriftlichen",
+     "segments": [
+      {
+       "x0": 106.25,
+       "x1": 517.35,
+       "text": "entscheiden.IhreStudienteilnahmeistfreiwilligundbedarfIhrerschriftlichen"
+      }
+     ]
+    },
+    {
+     "y": 341.52,
+     "x0": 106.25,
+     "x1": 517.61,
+     "size": 11.04,
+     "text": "Einwilligung.SolltenSienichtanderStudieteilnehmenwollenoderzueinem",
+     "segments": [
+      {
+       "x0": 106.25,
+       "x1": 517.61,
+       "text": "Einwilligung.SolltenSienichtanderStudieteilnehmenwollenoderzueinem"
+      }
+     ]
+    },
+    {
+     "y": 354.24,
+     "x0": 106.25,
+     "x1": 517.62,
+     "size": 11.04,
+     "text": "späterenZeitpunktausscheidenmöchten,erwachsenIhnendarauskeineNachteile.",
+     "segments": [
+      {
+       "x0": 106.25,
+       "x1": 517.62,
+       "text": "späterenZeitpunktausscheidenmöchten,erwachsenIhnendarauskeineNachteile."
+      }
+     ]
+    },
+    {
+     "y": 366.72,
+     "x0": 106.25,
+     "x1": 517.5,
+     "size": 11.04,
+     "text": "EineTeilnahmeistausgeschlossen,wennSiegleichzeitigananderenklinischen",
+     "segments": [
+      {
+       "x0": 106.25,
+       "x1": 517.5,
+       "text": "EineTeilnahmeistausgeschlossen,wennSiegleichzeitigananderenklinischen"
+      }
+     ]
+    },
+    {
+     "y": 379.44,
+     "x0": 106.25,
+     "x1": 517.25,
+     "size": 11.04,
+     "text": "StudienoderForschungsprojektenteilnehmenodervorkurzemteilgenommenhaben.",
+     "segments": [
+      {
+       "x0": 106.25,
+       "x1": 517.25,
+       "text": "StudienoderForschungsprojektenteilnehmenodervorkurzemteilgenommenhaben."
+      }
+     ]
+    },
+    {
+     "y": 420.96,
+     "x0": 106.2,
+     "x1": 458.29,
+     "size": 16.08,
+     "text": "ORGANISATIONUNDVERANTWORTLICHKEIT",
+     "segments": [
+      {
+       "x0": 106.2,
+       "x1": 458.29,
+       "text": "ORGANISATIONUNDVERANTWORTLICHKEIT"
+      }
+     ]
+    },
+    {
+     "y": 440.4,
+     "x0": 106.2,
+     "x1": 129.44,
+     "size": 11.04,
+     "text": "blabl",
+     "segments": [
+      {
+       "x0": 106.2,
+       "x1": 129.44,
+       "text": "blabl"
+      }
+     ]
+    },
+    {
+     "y": 481.92,
+     "x0": 106.2,
+     "x1": 317.84,
+     "size": 16.08,
+     "text": "ZIELSETZUNGDERSTUDIE",
+     "segments": [
+      {
+       "x0": 106.2,
+       "x1": 317.84,
+       "text": "ZIELSETZUNGDERSTUDIE"
+      }
+     ]
+    },
+    {
+     "y": 501.6,
+     "x0": 106.2,
+     "x1": 129.44,
+     "size": 11.04,
+     "text": "blabl",
+     "segments": [
+      {
+       "x0": 106.2,
+       "x1": 129.44,
+       "text": "blabl"
+      }
+     ]
+    },
+    {
+     "y": 543.12,
+     "x0": 106.2,
+     "x1": 364.99,
+     "size": 16.08,
+     "text": "AUSWAHLDERTEILNEHMENDEN",
+     "segments": [
+      {
+       "x0": 106.2,
+       "x1": 364.99,
+       "text": "AUSWAHLDERTEILNEHMENDEN"
+      }
+     ]
+    },
+    {
+     "y": 562.56,
+     "x0": 106.2,
+     "x1": 129.44,
+     "size": 11.04,
+     "text": "blabl",
+     "segments": [
+      {
+       "x0": 106.2,
+       "x1": 129.44,
+       "text": "blabl"
+      }
+     ]
+    },
+    {
+     "y": 575.28,
+     "x0": 106.25,
+     "x1": 517.31,
+     "size": 11.04,
+     "text": "DieseStudiewirdnachgeltendenSchweizerGesetzen(Humanforschungsgesetz",
+     "segments": [
+      {
+       "x0": 106.25,
+       "x1": 517.31,
+       "text": "DieseStudiewirdnachgeltendenSchweizerGesetzen(Humanforschungsgesetz"
+      }
+     ]
+    },
+    {
+     "y": 587.76,
+     "x0": 106.25,
+     "x1": 510.51,
+     "size": 11.04,
+     "text": "undVerordnungen)undnachinternationalanerkanntenGrundsätzendurchgeführt.",
+     "segments": [
+      {
+       "x0": 106.25,
+       "x1": 510.51,
+       "text": "undVerordnungen)undnachinternationalanerkanntenGrundsätzendurchgeführt."
+      }
+     ]
+    },
+    {
+     "y": 629.28,
+     "x0": 106.2,
+     "x1": 382.72,
+     "size": 16.08,
+     "text": "FREIWILLIGKEITIHRERTEILNAHME",
+     "segments": [
+      {
+       "x0": 106.2,
+       "x1": 382.72,
+       "text": "FREIWILLIGKEITIHRERTEILNAHME"
+      }
+     ]
+    },
+    {
+     "y": 648.96,
+     "x0": 106.2,
+     "x1": 129.44,
+     "size": 11.04,
+     "text": "blabl",
+     "segments": [
+      {
+       "x0": 106.2,
+       "x1": 129.44,
+       "text": "blabl"
+      }
+     ]
+    },
+    {
+     "y": 690.48,
+     "x0": 106.2,
+     "x1": 269.84,
+     "size": 16.08,
+     "text": "ABLAUFDERSTUDIE",
+     "segments": [
+      {
+       "x0": 106.2,
+       "x1": 269.84,
+       "text": "ABLAUFDERSTUDIE"
+      }
+     ]
+    },
+    {
+     "y": 709.92,
+     "x0": 106.2,
+     "x1": 129.44,
+     "size": 11.04,
+     "text": "blabl",
+     "segments": [
+      {
+       "x0": 106.2,
+       "x1": 129.44,
+       "text": "blabl"
+      }
+     ]
+    },
+    {
+     "y": 816.72,
+     "x0": 70.8,
+     "x1": 295.94,
+     "size": 10.08,
+     "text": "xxxx,Patienteninformation/Einwilligungserklärung,",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 295.94,
+       "text": "xxxx,Patienteninformation/Einwilligungserklärung,"
+      }
+     ]
+    },
+    {
+     "y": 828.24,
+     "x0": 70.8,
+     "x1": 517.33,
+     "size": 10.08,
+     "text": "Version5.0,datiertXX.05.2018Seite3von3",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 209.82,
+       "text": "Version5.0,datiertXX.05.2018"
+      },
+      {
+       "x0": 476.49,
+       "x1": 517.33,
+       "text": "Seite3von3"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

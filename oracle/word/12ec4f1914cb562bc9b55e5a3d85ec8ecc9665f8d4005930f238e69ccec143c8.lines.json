@@ -1,0 +1,122 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 120.72,
+     "x0": 108.0,
+     "x1": 215.69,
+     "size": 11.52,
+     "text": "Article1.Definitions",
+     "segments": [
+      {
+       "x0": 108.0,
+       "x1": 215.69,
+       "text": "Article1.Definitions"
+      }
+     ]
+    },
+    {
+     "y": 158.16,
+     "x0": 90.0,
+     "x1": 238.37,
+     "size": 11.04,
+     "text": "Appleshallmeanapieceoffruit;",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 238.37,
+       "text": "Appleshallmeanapieceoffruit;"
+      }
+     ]
+    },
+    {
+     "y": 182.64,
+     "x0": 90.0,
+     "x1": 231.07,
+     "size": 11.04,
+     "text": "Breadshallmeanbakeddough;",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 231.07,
+       "text": "Breadshallmeanbakeddough;"
+      }
+     ]
+    },
+    {
+     "y": 207.36,
+     "x0": 90.0,
+     "x1": 359.58,
+     "size": 11.04,
+     "text": "Cableshallmeanwiringconnectingtoacomputerordevice;",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 359.58,
+       "text": "Cableshallmeanwiringconnectingtoacomputerordevice;"
+      }
+     ]
+    },
+    {
+     "y": 245.76,
+     "x0": 108.0,
+     "x1": 328.4,
+     "size": 11.52,
+     "text": "Article2.Threestyleseparatorsinoneline!",
+     "segments": [
+      {
+       "x0": 108.0,
+       "x1": 328.4,
+       "text": "Article2.Threestyleseparatorsinoneline!"
+      }
+     ]
+    },
+    {
+     "y": 283.2,
+     "x0": 90.0,
+     "x1": 499.74,
+     "size": 11.04,
+     "text": "Heading2followedbyNormalstyle;thensayheading3forsomeoddreasonfollowedby",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 499.74,
+       "text": "Heading2followedbyNormalstyle;thensayheading3forsomeoddreasonfollowedby"
+      }
+     ]
+    },
+    {
+     "y": 295.92,
+     "x0": 90.0,
+     "x1": 123.93,
+     "size": 11.04,
+     "text": "normal.",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 123.93,
+       "text": "normal."
+      }
+     ]
+    },
+    {
+     "y": 333.12,
+     "x0": 90.0,
+     "x1": 510.59,
+     "size": 11.04,
+     "text": "Heading2AgainfollowedbyNormalstylethenheading2toseetheNavigationPaneeffect",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 510.59,
+       "text": "Heading2AgainfollowedbyNormalstylethenheading2toseetheNavigationPaneeffect"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

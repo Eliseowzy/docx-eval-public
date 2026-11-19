@@ -1,0 +1,24 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 94.56,
+     "x0": 72.0,
+     "x1": 407.62,
+     "size": 11.04,
+     "text": "Importingthisdocumentaddsborderstotherightcellthatareunexpected",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 407.62,
+       "text": "Importingthisdocumentaddsborderstotherightcellthatareunexpected"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

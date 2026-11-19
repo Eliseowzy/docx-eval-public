@@ -1,0 +1,29 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 51.36,
+     "x0": 35.76,
+     "x1": 575.97,
+     "size": 11.04,
+     "text": "TextinleftboxTextinrightbox",
+     "segments": [
+      {
+       "x0": 35.76,
+       "x1": 101.98,
+       "text": "Textinleftbox"
+      },
+      {
+       "x0": 503.76,
+       "x1": 575.97,
+       "text": "Textinrightbox"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

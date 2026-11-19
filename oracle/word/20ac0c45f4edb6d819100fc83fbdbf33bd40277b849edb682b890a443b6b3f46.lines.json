@@ -1,0 +1,71 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 169.85,
+     "x0": 54.48,
+     "x1": 546.63,
+     "size": 8.21,
+     "text": "Loremipsumdolorsitamet,consectetueradipiscingelit下移了[1]:.Maecenasporttitorconguemassa.",
+     "segments": [
+      {
+       "x0": 54.48,
+       "x1": 240.63,
+       "text": "Loremipsumdolorsitamet,consectetueradipiscingelit"
+      },
+      {
+       "x0": 416.28,
+       "x1": 546.63,
+       "text": "下移了[1]:.Maecenasporttitorconguemassa."
+      }
+     ]
+    },
+    {
+     "y": 186.62,
+     "x0": 54.48,
+     "x1": 368.87,
+     "size": 8.21,
+     "text": "Fusceposuere,magnasedpulvinarultricies,puruslectusmalesuadalibero,sitametcommodo",
+     "segments": [
+      {
+       "x0": 54.48,
+       "x1": 368.87,
+       "text": "Fusceposuere,magnasedpulvinarultricies,puruslectusmalesuadalibero,sitametcommodo"
+      }
+     ]
+    },
+    {
+     "y": 196.56,
+     "x0": 416.28,
+     "x1": 464.26,
+     "size": 6.69,
+     "text": "移动了(插⼊)[1]",
+     "segments": [
+      {
+       "x0": 416.28,
+       "x1": 464.26,
+       "text": "移动了(插⼊)[1]"
+      }
+     ]
+    },
+    {
+     "y": 197.32,
+     "x0": 54.48,
+     "x1": 249.09,
+     "size": 8.21,
+     "text": "magnaerosquisurna..Maecenasporttitorconguemassa.",
+     "segments": [
+      {
+       "x0": 54.48,
+       "x1": 249.09,
+       "text": "magnaerosquisurna..Maecenasporttitorconguemassa."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

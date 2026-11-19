@@ -1,0 +1,63 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 310.08,
+   "lines": [
+    {
+     "y": 82.56,
+     "x0": 72.0,
+     "x1": 139.91,
+     "size": 11.04,
+     "text": "Firstparagraph",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 139.91,
+       "text": "Firstparagraph"
+      }
+     ]
+    },
+    {
+     "y": 105.6,
+     "x0": 77.76,
+     "x1": 89.72,
+     "size": 11.04,
+     "text": "A1",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 89.72,
+       "text": "A1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 310.08,
+   "lines": [
+    {
+     "y": 82.56,
+     "x0": 77.76,
+     "x1": 356.46,
+     "size": 11.04,
+     "text": "A2Secondparagraph.",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 89.72,
+       "text": "A2"
+      },
+      {
+       "x0": 272.65,
+       "x1": 356.46,
+       "text": "Secondparagraph."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

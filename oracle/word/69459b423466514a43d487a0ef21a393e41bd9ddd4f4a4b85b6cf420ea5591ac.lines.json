@@ -1,0 +1,499 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 281.76,
+   "lines": [
+    {
+     "y": 82.56,
+     "x0": 72.0,
+     "x1": 160.36,
+     "size": 11.04,
+     "text": "Para1beforetable.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 160.36,
+       "text": "Para1beforetable."
+      }
+     ]
+    },
+    {
+     "y": 105.12,
+     "x0": 72.0,
+     "x1": 160.36,
+     "size": 11.04,
+     "text": "Para2beforetable.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 160.36,
+       "text": "Para2beforetable."
+      }
+     ]
+    },
+    {
+     "y": 127.44,
+     "x0": 72.0,
+     "x1": 160.36,
+     "size": 11.04,
+     "text": "Para3beforetable.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 160.36,
+       "text": "Para3beforetable."
+      }
+     ]
+    },
+    {
+     "y": 150.0,
+     "x0": 72.0,
+     "x1": 160.36,
+     "size": 11.04,
+     "text": "Para4beforetable.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 160.36,
+       "text": "Para4beforetable."
+      }
+     ]
+    },
+    {
+     "y": 173.04,
+     "x0": 77.76,
+     "x1": 465.35,
+     "size": 11.04,
+     "text": "A1Heheardquietsteps.B1Thatdidn'tbodewell.C1Whocouldbe",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 187.67,
+       "text": "A1Heheardquietsteps."
+      },
+      {
+       "x0": 233.52,
+       "x1": 345.13,
+       "text": "B1Thatdidn'tbodewell."
+      },
+      {
+       "x0": 389.28,
+       "x1": 465.35,
+       "text": "C1Whocouldbe"
+      }
+     ]
+    },
+    {
+     "y": 186.48,
+     "x0": 389.28,
+     "x1": 469.01,
+     "size": 11.04,
+     "text": "followinghimthis",
+     "segments": [
+      {
+       "x0": 389.28,
+       "x1": 469.01,
+       "text": "followinghimthis"
+      }
+     ]
+    },
+    {
+     "y": 199.92,
+     "x0": 389.28,
+     "x1": 462.47,
+     "size": 11.04,
+     "text": "lateatnightand",
+     "segments": [
+      {
+       "x0": 389.28,
+       "x1": 462.47,
+       "text": "lateatnightand"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 281.76,
+   "lines": [
+    {
+     "y": 83.04,
+     "x0": 389.28,
+     "x1": 461.4,
+     "size": 11.04,
+     "text": "inthisdeadbeat",
+     "segments": [
+      {
+       "x0": 389.28,
+       "x1": 461.4,
+       "text": "inthisdeadbeat"
+      }
+     ]
+    },
+    {
+     "y": 96.48,
+     "x0": 389.28,
+     "x1": 450.23,
+     "size": 11.04,
+     "text": "partoftown?",
+     "segments": [
+      {
+       "x0": 389.28,
+       "x1": 450.23,
+       "text": "partoftown?"
+      }
+     ]
+    },
+    {
+     "y": 110.4,
+     "x0": 77.76,
+     "x1": 448.33,
+     "size": 11.04,
+     "text": "A2AndatthisparticularB2WasthereanothercrookC2Ordidthe",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 186.0,
+       "text": "A2Andatthisparticular"
+      },
+      {
+       "x0": 233.52,
+       "x1": 359.34,
+       "text": "B2Wasthereanothercrook"
+      },
+      {
+       "x0": 389.28,
+       "x1": 448.33,
+       "text": "C2Ordidthe"
+      }
+     ]
+    },
+    {
+     "y": 123.84,
+     "x0": 77.76,
+     "x1": 466.06,
+     "size": 11.04,
+     "text": "moment,justafterhepulledoffwho'dhadthesameidea,andstepsbehindhim",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 367.83,
+       "text": "moment,justafterhepulledoffwho'dhadthesameidea,and"
+      },
+      {
+       "x0": 389.28,
+       "x1": 466.06,
+       "text": "stepsbehindhim"
+      }
+     ]
+    },
+    {
+     "y": 137.28,
+     "x0": 77.76,
+     "x1": 466.7,
+     "size": 11.04,
+     "text": "thebigtimeandwasmakingoffwasnowwatchinghimandmeanthatoneof",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 354.99,
+       "text": "thebigtimeandwasmakingoffwasnowwatchinghimand"
+      },
+      {
+       "x0": 389.28,
+       "x1": 466.7,
+       "text": "meanthatoneof"
+      }
+     ]
+    },
+    {
+     "y": 150.72,
+     "x0": 77.76,
+     "x1": 468.03,
+     "size": 11.04,
+     "text": "withthegreenbacks.waitingforachancetograbthemanylawofficers",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 171.04,
+       "text": "withthegreenbacks."
+      },
+      {
+       "x0": 233.52,
+       "x1": 468.03,
+       "text": "waitingforachancetograbthemanylawofficers"
+      }
+     ]
+    },
+    {
+     "y": 164.16,
+     "x0": 233.52,
+     "x1": 469.22,
+     "size": 11.04,
+     "text": "fruitofhislabor?intownwasonto",
+     "segments": [
+      {
+       "x0": 233.52,
+       "x1": 310.23,
+       "text": "fruitofhislabor?"
+      },
+      {
+       "x0": 389.28,
+       "x1": 469.22,
+       "text": "intownwasonto"
+      }
+     ]
+    },
+    {
+     "y": 177.6,
+     "x0": 389.28,
+     "x1": 444.58,
+     "size": 11.04,
+     "text": "himandjust",
+     "segments": [
+      {
+       "x0": 389.28,
+       "x1": 444.58,
+       "text": "himandjust"
+      }
+     ]
+    },
+    {
+     "y": 191.04,
+     "x0": 389.28,
+     "x1": 469.83,
+     "size": 11.04,
+     "text": "waitingtopounce",
+     "segments": [
+      {
+       "x0": 389.28,
+       "x1": 469.83,
+       "text": "waitingtopounce"
+      }
+     ]
+    },
+    {
+     "y": 204.48,
+     "x0": 389.28,
+     "x1": 462.33,
+     "size": 11.04,
+     "text": "andsnapthose?",
+     "segments": [
+      {
+       "x0": 389.28,
+       "x1": 462.33,
+       "text": "andsnapthose?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 281.76,
+   "lines": [
+    {
+     "y": 82.56,
+     "x0": 77.76,
+     "x1": 533.37,
+     "size": 11.04,
+     "text": "A3HenervouslylookedallB3Suddenlyhesawthealley.C3LikelightningHetriedto",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 196.13,
+       "text": "A3Henervouslylookedall"
+      },
+      {
+       "x0": 233.52,
+       "x1": 365.88,
+       "text": "B3Suddenlyhesawthealley."
+      },
+      {
+       "x0": 389.28,
+       "x1": 462.27,
+       "text": "C3Likelightning"
+      },
+      {
+       "x0": 485.25,
+       "x1": 533.37,
+       "text": "Hetriedto"
+      }
+     ]
+    },
+    {
+     "y": 96.48,
+     "x0": 77.76,
+     "x1": 528.7,
+     "size": 11.04,
+     "text": "around.hedartedofftonervously",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 112.78,
+       "text": "around."
+      },
+      {
+       "x0": 389.28,
+       "x1": 459.84,
+       "text": "hedartedoffto"
+      },
+      {
+       "x0": 485.25,
+       "x1": 528.7,
+       "text": "nervously"
+      }
+     ]
+    },
+    {
+     "y": 109.92,
+     "x0": 389.28,
+     "x1": 424.53,
+     "size": 11.04,
+     "text": "theleft.",
+     "segments": [
+      {
+       "x0": 389.28,
+       "x1": 424.53,
+       "text": "theleft."
+      }
+     ]
+    },
+    {
+     "y": 111.6,
+     "x0": 485.25,
+     "x1": 535.72,
+     "size": 11.04,
+     "text": "taphisway",
+     "segments": [
+      {
+       "x0": 485.25,
+       "x1": 535.72,
+       "text": "taphisway"
+      }
+     ]
+    },
+    {
+     "y": 126.0,
+     "x0": 72.0,
+     "x1": 534.14,
+     "size": 11.04,
+     "text": "alongintheinkydarknessandsuddenlystiffened:itwasadead-end,hewouldhavetogobacktheway",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 534.14,
+       "text": "alongintheinkydarknessandsuddenlystiffened:itwasadead-end,hewouldhavetogobacktheway"
+      }
+     ]
+    },
+    {
+     "y": 140.64,
+     "x0": 72.0,
+     "x1": 526.51,
+     "size": 11.04,
+     "text": "hehadcome.Thestepsgotlouderandlouder,hesawtheblackoutlineofafigurecomingaroundthe",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 526.51,
+       "text": "hehadcome.Thestepsgotlouderandlouder,hesawtheblackoutlineofafigurecomingaroundthe"
+      }
+     ]
+    },
+    {
+     "y": 155.04,
+     "x0": 72.0,
+     "x1": 512.29,
+     "size": 11.04,
+     "text": "corner.Isthistheendoftheline?hethoughtpressinghimselfbackagainstthewalltryingtomake",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 512.29,
+       "text": "corner.Isthistheendoftheline?hethoughtpressinghimselfbackagainstthewalltryingtomake"
+      }
+     ]
+    },
+    {
+     "y": 169.44,
+     "x0": 72.0,
+     "x1": 534.68,
+     "size": 11.04,
+     "text": "himselfinvisibleinthedark,wasallthatplanningandenergywasted?Hewasdrippingwithsweatnow,",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 534.68,
+       "text": "himselfinvisibleinthedark,wasallthatplanningandenergywasted?Hewasdrippingwithsweatnow,"
+      }
+     ]
+    },
+    {
+     "y": 184.08,
+     "x0": 72.0,
+     "x1": 500.24,
+     "size": 11.04,
+     "text": "coldandwet,hecouldsmellthefearcomingoffhisclothes.Suddenlynexttohim,withabarely",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 500.24,
+       "text": "coldandwet,hecouldsmellthefearcomingoffhisclothes.Suddenlynexttohim,withabarely"
+      }
+     ]
+    },
+    {
+     "y": 198.48,
+     "x0": 72.0,
+     "x1": 524.63,
+     "size": 11.04,
+     "text": "noticeablesqueak,adoorswungquietlytoandfrointhenight'sbreeze.Couldthisbethehavenhe'd",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 524.63,
+       "text": "noticeablesqueak,adoorswungquietlytoandfrointhenight'sbreeze.Couldthisbethehavenhe'd"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 281.76,
+   "lines": [
+    {
+     "y": 82.56,
+     "x0": 72.0,
+     "x1": 535.77,
+     "size": 11.04,
+     "text": "prayedfor?Slowlyheslidtowardthedoor,pressinghimselfmoreandmoreintothewall,intothedark,",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 535.77,
+       "text": "prayedfor?Slowlyheslidtowardthedoor,pressinghimselfmoreandmoreintothewall,intothedark,"
+      }
+     ]
+    },
+    {
+     "y": 96.96,
+     "x0": 72.0,
+     "x1": 309.81,
+     "size": 11.04,
+     "text": "awayfromhisenemy.Wouldthisdoorsavehishide?",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 309.81,
+       "text": "awayfromhisenemy.Wouldthisdoorsavehishide?"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

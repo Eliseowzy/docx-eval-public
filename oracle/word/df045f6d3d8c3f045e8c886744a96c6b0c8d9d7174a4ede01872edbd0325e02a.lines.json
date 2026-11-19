@@ -1,0 +1,452 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 74.16,
+     "x0": 57.6,
+     "x1": 210.87,
+     "size": 24.96,
+     "text": "AnnualReport",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 210.87,
+       "text": "AnnualReport"
+      }
+     ]
+    },
+    {
+     "y": 99.36,
+     "x0": 57.6,
+     "x1": 499.06,
+     "size": 9.12,
+     "text": "Replacebracketedfieldswithyourowndetails.Deleteguidancethatdoesnotbelonginthefinisheddocument.",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 499.06,
+       "text": "Replacebracketedfieldswithyourowndetails.Deleteguidancethatdoesnotbelonginthefinisheddocument."
+      }
+     ]
+    },
+    {
+     "y": 129.84,
+     "x0": 57.6,
+     "x1": 140.62,
+     "size": 13.92,
+     "text": "Yearoverview",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 140.62,
+       "text": "Yearoverview"
+      }
+     ]
+    },
+    {
+     "y": 151.92,
+     "x0": 57.6,
+     "x1": 535.14,
+     "size": 11.04,
+     "text": "Organization:[Name].Reportingperiod:[Dates].Thisreportdescribes[Scope]for[Audience].The",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 535.14,
+       "text": "Organization:[Name].Reportingperiod:[Dates].Thisreportdescribes[Scope]for[Audience].The"
+      }
+     ]
+    },
+    {
+     "y": 166.08,
+     "x0": 57.6,
+     "x1": 313.18,
+     "size": 11.04,
+     "text": "maindevelopmentthisyearwas[Supportedfinding].",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 313.18,
+       "text": "maindevelopmentthisyearwas[Supportedfinding]."
+      }
+     ]
+    },
+    {
+     "y": 187.44,
+     "x0": 57.6,
+     "x1": 281.95,
+     "size": 11.04,
+     "text": "[Addthedetailsandevidenceforthissection.]",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 281.95,
+       "text": "[Addthedetailsandevidenceforthissection.]"
+      }
+     ]
+    },
+    {
+     "y": 218.64,
+     "x0": 57.6,
+     "x1": 196.73,
+     "size": 13.92,
+     "text": "Activitiesandoutcomes",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 196.73,
+       "text": "Activitiesandoutcomes"
+      }
+     ]
+    },
+    {
+     "y": 240.72,
+     "x0": 57.6,
+     "x1": 538.43,
+     "size": 11.04,
+     "text": "Describethemajoractivitiesandtheoutcomestheyproduced.Includedates,unitsandsourcesfor",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 538.43,
+       "text": "Describethemajoractivitiesandtheoutcomestheyproduced.Includedates,unitsandsourcesfor"
+      }
+     ]
+    },
+    {
+     "y": 254.88,
+     "x0": 57.6,
+     "x1": 151.15,
+     "size": 11.04,
+     "text": "quantitativeclaims.",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 151.15,
+       "text": "quantitativeclaims."
+      }
+     ]
+    },
+    {
+     "y": 276.0,
+     "x0": 57.6,
+     "x1": 281.95,
+     "size": 11.04,
+     "text": "[Addthedetailsandevidenceforthissection.]",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 281.95,
+       "text": "[Addthedetailsandevidenceforthissection.]"
+      }
+     ]
+    },
+    {
+     "y": 307.2,
+     "x0": 57.6,
+     "x1": 191.9,
+     "size": 13.92,
+     "text": "Performancemeasures",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 191.9,
+       "text": "Performancemeasures"
+      }
+     ]
+    },
+    {
+     "y": 329.28,
+     "x0": 57.6,
+     "x1": 548.57,
+     "size": 11.04,
+     "text": "Metric:[Definition].Currentperiod:[Value].Priorperiod:[Comparablevalue].Explanation:[Evidence-",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 548.57,
+       "text": "Metric:[Definition].Currentperiod:[Value].Priorperiod:[Comparablevalue].Explanation:[Evidence-"
+      }
+     ]
+    },
+    {
+     "y": 343.44,
+     "x0": 57.6,
+     "x1": 355.42,
+     "size": 11.04,
+     "text": "backedchange].Notechangesinmeasurementorcoverage.",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 355.42,
+       "text": "backedchange].Notechangesinmeasurementorcoverage."
+      }
+     ]
+    },
+    {
+     "y": 364.8,
+     "x0": 57.6,
+     "x1": 281.95,
+     "size": 11.04,
+     "text": "[Addthedetailsandevidenceforthissection.]",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 281.95,
+       "text": "[Addthedetailsandevidenceforthissection.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 63.84,
+     "x0": 57.6,
+     "x1": 193.1,
+     "size": 13.92,
+     "text": "Resourcesandfinances",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 193.1,
+       "text": "Resourcesandfinances"
+      }
+     ]
+    },
+    {
+     "y": 85.92,
+     "x0": 57.6,
+     "x1": 529.26,
+     "size": 11.04,
+     "text": "Summarizeapprovedfinancialinformationwiththerelevantbasisandperiod.Distinguishaudited",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 529.26,
+       "text": "Summarizeapprovedfinancialinformationwiththerelevantbasisandperiod.Distinguishaudited"
+      }
+     ]
+    },
+    {
+     "y": 100.08,
+     "x0": 57.6,
+     "x1": 420.3,
+     "size": 11.04,
+     "text": "statementsfrommanagementinformationandlinktoauthoritativerecords.",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 420.3,
+       "text": "statementsfrommanagementinformationandlinktoauthoritativerecords."
+      }
+     ]
+    },
+    {
+     "y": 121.2,
+     "x0": 57.6,
+     "x1": 281.95,
+     "size": 11.04,
+     "text": "[Addthedetailsandevidenceforthissection.]",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 281.95,
+       "text": "[Addthedetailsandevidenceforthissection.]"
+      }
+     ]
+    },
+    {
+     "y": 152.4,
+     "x0": 57.6,
+     "x1": 182.09,
+     "size": 13.92,
+     "text": "Governanceandrisks",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 182.09,
+       "text": "Governanceandrisks"
+      }
+     ]
+    },
+    {
+     "y": 174.48,
+     "x0": 57.6,
+     "x1": 550.03,
+     "size": 11.04,
+     "text": "Describedecisionresponsibilities,materialrisksandtheactionstaken.Usereviewedinformationand",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 550.03,
+       "text": "Describedecisionresponsibilities,materialrisksandtheactionstaken.Usereviewedinformationand"
+      }
+     ]
+    },
+    {
+     "y": 188.64,
+     "x0": 57.6,
+     "x1": 244.09,
+     "size": 11.04,
+     "text": "avoidunsupportedcomplianceclaims.",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 244.09,
+       "text": "avoidunsupportedcomplianceclaims."
+      }
+     ]
+    },
+    {
+     "y": 210.0,
+     "x0": 57.6,
+     "x1": 281.95,
+     "size": 11.04,
+     "text": "[Addthedetailsandevidenceforthissection.]",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 281.95,
+       "text": "[Addthedetailsandevidenceforthissection.]"
+      }
+     ]
+    },
+    {
+     "y": 241.2,
+     "x0": 57.6,
+     "x1": 188.11,
+     "size": 13.92,
+     "text": "Prioritiesfornextyear",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 188.11,
+       "text": "Prioritiesfornextyear"
+      }
+     ]
+    },
+    {
+     "y": 263.28,
+     "x0": 57.6,
+     "x1": 539.11,
+     "size": 11.04,
+     "text": "Setoutpriorities,ownersandintendedmeasures.Explaindependenciesanduncertainties.Include",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 539.11,
+       "text": "Setoutpriorities,ownersandintendedmeasures.Explaindependenciesanduncertainties.Include"
+      }
+     ]
+    },
+    {
+     "y": 277.44,
+     "x0": 57.6,
+     "x1": 323.0,
+     "size": 11.04,
+     "text": "acknowledgementsandcontactdetailsasappropriate.",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 323.0,
+       "text": "acknowledgementsandcontactdetailsasappropriate."
+      }
+     ]
+    },
+    {
+     "y": 298.56,
+     "x0": 57.6,
+     "x1": 281.95,
+     "size": 11.04,
+     "text": "[Addthedetailsandevidenceforthissection.]",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 281.95,
+       "text": "[Addthedetailsandevidenceforthissection.]"
+      }
+     ]
+    },
+    {
+     "y": 324.24,
+     "x0": 1.44,
+     "x1": 473.98,
+     "size": 10.08,
+     "text": "ActionOwnerDue",
+     "segments": [
+      {
+       "x0": 1.44,
+       "x1": 32.6,
+       "text": "Action"
+      },
+      {
+       "x0": 289.44,
+       "x1": 320.59,
+       "text": "Owner"
+      },
+      {
+       "x0": 455.04,
+       "x1": 473.98,
+       "text": "Due"
+      }
+     ]
+    },
+    {
+     "y": 351.84,
+     "x0": 1.44,
+     "x1": 481.74,
+     "size": 10.08,
+     "text": "[Nextaction][Name][Date]",
+     "segments": [
+      {
+       "x0": 1.44,
+       "x1": 57.03,
+       "text": "[Nextaction]"
+      },
+      {
+       "x0": 289.44,
+       "x1": 321.7,
+       "text": "[Name]"
+      },
+      {
+       "x0": 455.04,
+       "x1": 481.74,
+       "text": "[Date]"
+      }
+     ]
+    },
+    {
+     "y": 379.44,
+     "x0": 1.44,
+     "x1": 481.74,
+     "size": 10.08,
+     "text": "[Review][Name][Date]",
+     "segments": [
+      {
+       "x0": 1.44,
+       "x1": 39.81,
+       "text": "[Review]"
+      },
+      {
+       "x0": 289.44,
+       "x1": 321.7,
+       "text": "[Name]"
+      },
+      {
+       "x0": 455.04,
+       "x1": 481.74,
+       "text": "[Date]"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

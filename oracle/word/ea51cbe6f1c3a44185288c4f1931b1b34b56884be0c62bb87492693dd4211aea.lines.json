@@ -1,0 +1,66 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 69.12,
+     "x0": 57.6,
+     "x1": 154.33,
+     "size": 12.0,
+     "text": "Hamburgefontsline",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 154.33,
+       "text": "Hamburgefontsline"
+      }
+     ]
+    },
+    {
+     "y": 98.4,
+     "x0": 57.6,
+     "x1": 154.33,
+     "size": 12.0,
+     "text": "Hamburgefontsline",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 154.33,
+       "text": "Hamburgefontsline"
+      }
+     ]
+    },
+    {
+     "y": 127.68,
+     "x0": 57.6,
+     "x1": 154.33,
+     "size": 12.0,
+     "text": "Hamburgefontsline",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 154.33,
+       "text": "Hamburgefontsline"
+      }
+     ]
+    },
+    {
+     "y": 156.96,
+     "x0": 57.6,
+     "x1": 154.33,
+     "size": 12.0,
+     "text": "Hamburgefontsline",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 154.33,
+       "text": "Hamburgefontsline"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

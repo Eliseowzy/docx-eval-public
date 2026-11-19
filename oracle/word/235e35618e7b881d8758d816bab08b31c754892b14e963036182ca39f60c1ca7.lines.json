@@ -1,0 +1,484 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 94.32,
+     "x0": 70.8,
+     "x1": 524.4,
+     "size": 12.0,
+     "text": "tttttttttttttttttttt.t.TttttttttttttTttttttttttttttttttttttttttttttttttt.TttttttttTtttttttttttttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 524.4,
+       "text": "tttttttttttttttttttt.t.TttttttttttttTttttttttttttttttttttttttttttttttttt.TttttttttTtttttttttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 116.4,
+     "x0": 70.8,
+     "x1": 524.4,
+     "size": 12.0,
+     "text": "tttt,tttttttTttttttttttttttttttttttttttttttttttttTttttttttttttttttttTttttttttttttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 524.4,
+       "text": "tttt,tttttttTttttttttttttttttttttttttttttttttttttTttttttttttttttttttTttttttttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 138.24,
+     "x0": 70.8,
+     "x1": 524.4,
+     "size": 12.0,
+     "text": "Tttttttttttttttttttttttttttttttttttttttttttt,t.T.ttTttttttttttttttttttttTttttttttttttttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 524.4,
+       "text": "Tttttttttttttttttttttttttttttttttttttttttttt,t.T.ttTttttttttttttttttttttTttttttttttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 160.32,
+     "x0": 70.8,
+     "x1": 524.4,
+     "size": 12.0,
+     "text": "tttttttttttttttttTtttttttttttttttttttTTTT.TttttttttttttttttttTttttttttttttttttttttttTtttttttttttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 524.4,
+       "text": "tttttttttttttttttTtttttttttttttttttttTTTT.TttttttttttttttttttTttttttttttttttttttttttTtttttttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 182.16,
+     "x0": 70.8,
+     "x1": 524.39,
+     "size": 12.0,
+     "text": "ttttttttttttttttttttt,tttttTttttttttttttttttttttttttttttttttttttTtttttttttttttttttttttttttttttttttttt.",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 524.39,
+       "text": "ttttttttttttttttttttt,tttttTttttttttttttttttttttttttttttttttttttTtttttttttttttttttttttttttttttttttttt."
+      }
+     ]
+    },
+    {
+     "y": 204.24,
+     "x0": 70.8,
+     "x1": 524.45,
+     "size": 12.0,
+     "text": "TttttttttttttttttttttttttttttttttttttTttttttttttttttttttttttttttttttttttttTtttttttttttttttttttttttttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 524.45,
+       "text": "TttttttttttttttttttttttttttttttttttttTttttttttttttttttttttttttttttttttttttTtttttttttttttttttttttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 226.32,
+     "x0": 70.8,
+     "x1": 524.45,
+     "size": 12.0,
+     "text": "ttttttTttttttttttttttttttttttttttttttttttttTttttttttttttttttttttttttttttttttttttTtttttttttttttttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 524.45,
+       "text": "ttttttTttttttttttttttttttttttttttttttttttttTttttttttttttttttttttttttttttttttttttTtttttttttttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 248.16,
+     "x0": 70.8,
+     "x1": 524.43,
+     "size": 12.0,
+     "text": "ttttttttttttttttTttttttttttttttttttttttttttttttttttttTtttttttttttttttttttttttttttttttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 524.43,
+       "text": "ttttttttttttttttTttttttttttttttttttttttttttttttttttttTtttttttttttttttttttttttttttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 270.24,
+     "x0": 70.8,
+     "x1": 524.45,
+     "size": 12.0,
+     "text": "TttttttttttttttttttttttttttttttttttttTttttttttttttttttttttttttttttttttttttTtttttttttttttttttttttttttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 524.45,
+       "text": "TttttttttttttttttttttttttttttttttttttTttttttttttttttttttttttttttttttttttttTtttttttttttttttttttttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 292.08,
+     "x0": 70.8,
+     "x1": 259.05,
+     "size": 12.0,
+     "text": "ttttttTtttttttttttttttttttttttttttttttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 259.05,
+       "text": "ttttttTtttttttttttttttttttttttttttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 327.12,
+     "x0": 70.8,
+     "x1": 240.04,
+     "size": 12.96,
+     "text": "1.1TtttttttttttttttttTttttttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 240.04,
+       "text": "1.1TtttttttttttttttttTttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 349.92,
+     "x0": 70.8,
+     "x1": 524.4,
+     "size": 12.0,
+     "text": "TttTtttttttTttttttttttttt(TTT1,§4)tttttttTttttttttttttttttttttt,ttttttttttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 524.4,
+       "text": "TttTtttttttTttttttttttttt(TTT1,§4)tttttttTttttttttttttttttttttt,ttttttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 371.76,
+     "x0": 70.8,
+     "x1": 524.41,
+     "size": 12.0,
+     "text": "TtttttttttttttttttttttttttttttTtttttttttttttttttttttttTtttttttttttttt.Ttttttttttttttttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 524.41,
+       "text": "TtttttttttttttttttttttttttttttTtttttttttttttttttttttttTtttttttttttttt.Ttttttttttttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 393.84,
+     "x0": 70.8,
+     "x1": 524.4,
+     "size": 12.0,
+     "text": "TttttttttttttttttttttttttttttttttttttttttttTttttttttttttttttttttttttttttttttt,tttttttttttttttttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 524.4,
+       "text": "TttttttttttttttttttttttttttttttttttttttttttTttttttttttttttttttttttttttttttttt,tttttttttttttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 415.92,
+     "x0": 70.8,
+     "x1": 524.4,
+     "size": 12.0,
+     "text": "TttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTtttttttt.TttttttttTtttt,ttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 524.4,
+       "text": "TttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTtttttttt.TttttttttTtttt,ttttttt"
+      }
+     ]
+    },
+    {
+     "y": 437.76,
+     "x0": 70.8,
+     "x1": 524.4,
+     "size": 12.0,
+     "text": "ttttTttttttttttttttTtttttttttttttttttttttttttttttttttttttttttttttttttttttttTtttttttttTttttttttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 524.4,
+       "text": "ttttTttttttttttttttTtttttttttttttttttttttttttttttttttttttttttttttttttttttttTtttttttttTttttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 459.84,
+     "x0": 70.8,
+     "x1": 524.41,
+     "size": 12.0,
+     "text": "Tttttttttttttttttttttttttttttttttt.TttttttttttttttttttttttTtttttttttTtttttttttt,ttttttttttTttttttttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 524.41,
+       "text": "Tttttttttttttttttttttttttttttttttt.TttttttttttttttttttttttTtttttttttTtttttttttt,ttttttttttTttttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 481.68,
+     "x0": 70.8,
+     "x1": 524.4,
+     "size": 12.0,
+     "text": "tttTtttttttttttTttttttttttttttttttttttttttttt.TtttttttttttTttttttttttttttttttttttttttTtttttttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 524.4,
+       "text": "tttTtttttttttttTttttttttttttttttttttttttttttt.TtttttttttttTttttttttttttttttttttttttttTtttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 503.76,
+     "x0": 70.8,
+     "x1": 524.4,
+     "size": 12.0,
+     "text": "tttttttttttttt.TttttttttttttttttttttttttttttTttttttttttttTtttttttttttttttttttttttttt,tttttttttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 524.4,
+       "text": "tttttttttttttt.TttttttttttttttttttttttttttttTttttttttttttTtttttttttttttttttttttttttt,tttttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 525.6,
+     "x0": 70.8,
+     "x1": 333.37,
+     "size": 12.0,
+     "text": "TttttttttttttTtttttttttttttttttttTTTTTTttttttttt(Ttt.2).",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 333.37,
+       "text": "TttttttttttttTtttttttttttttttttttTTTTTTttttttttt(Ttt.2)."
+      }
+     ]
+    },
+    {
+     "y": 569.52,
+     "x0": 70.8,
+     "x1": 418.64,
+     "size": 12.0,
+     "text": "Ttttttt2.TttttttttttttTttttttttttttTttttttttttttttttttttTttttttttttttttttttt",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 418.64,
+       "text": "Ttttttt2.TttttttttttttTttttttttttttTttttttttttttttttttttTttttttttttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 588.48,
+     "x0": 76.56,
+     "x1": 480.47,
+     "size": 12.0,
+     "text": "TttttttttTTTttttTttttttttttttttttttttttttttttttttttttttttttttttttTttttttttttttttttttt",
+     "segments": [
+      {
+       "x0": 76.56,
+       "x1": 130.38,
+       "text": "TttttttttTT"
+      },
+      {
+       "x0": 153.12,
+       "x1": 480.47,
+       "text": "TttttTttttttttttttttttttttttttttttttttttttttttttttttttTttttttttttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 605.28,
+     "x0": 153.12,
+     "x1": 355.03,
+     "size": 12.0,
+     "text": "ttttttttttttttttttttttttttttttttttttttttTtttttt.",
+     "segments": [
+      {
+       "x0": 153.12,
+       "x1": 355.03,
+       "text": "ttttttttttttttttttttttttttttttttttttttttTtttttt."
+      }
+     ]
+    },
+    {
+     "y": 627.84,
+     "x0": 76.56,
+     "x1": 496.55,
+     "size": 12.0,
+     "text": "TttttttttTTTttttTttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTttttttttt",
+     "segments": [
+      {
+       "x0": 76.56,
+       "x1": 130.38,
+       "text": "TttttttttTT"
+      },
+      {
+       "x0": 153.12,
+       "x1": 496.55,
+       "text": "TttttTttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 644.64,
+     "x0": 153.12,
+     "x1": 423.74,
+     "size": 12.0,
+     "text": "tttttttt,tttttttttttttttttttttttttttttttttttttttttttTtttttttttt.",
+     "segments": [
+      {
+       "x0": 153.12,
+       "x1": 423.74,
+       "text": "tttttttt,tttttttttttttttttttttttttttttttttttttttttttTtttttttttt."
+      }
+     ]
+    },
+    {
+     "y": 666.96,
+     "x0": 76.56,
+     "x1": 507.31,
+     "size": 12.0,
+     "text": "TttttttttTTTttttTtttttttttttttttttttttttttttttttTtttttt/Ttttttttttttttttttttttttt,tttttttttt",
+     "segments": [
+      {
+       "x0": 76.56,
+       "x1": 130.38,
+       "text": "TttttttttTT"
+      },
+      {
+       "x0": 153.12,
+       "x1": 507.31,
+       "text": "TttttTtttttttttttttttttttttttttttttttTtttttt/Ttttttttttttttttttttttttt,tttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 684.0,
+     "x0": 153.12,
+     "x1": 342.97,
+     "size": 12.0,
+     "text": "tttttttttttttttttttttttttttttttttTtttttttttt.",
+     "segments": [
+      {
+       "x0": 153.12,
+       "x1": 342.97,
+       "text": "tttttttttttttttttttttttttttttttttTtttttttttt."
+      }
+     ]
+    },
+    {
+     "y": 706.32,
+     "x0": 76.56,
+     "x1": 518.62,
+     "size": 12.0,
+     "text": "TttttttttTTTTtttttttt,tttttttttTttttttttttttttttttttttttttttttttttttttttttttttTtttttttttttttttt,",
+     "segments": [
+      {
+       "x0": 76.56,
+       "x1": 518.62,
+       "text": "TttttttttTTTTtttttttt,tttttttttTttttttttttttttttttttttttttttttttttttttttttttttTtttttttttttttttt,"
+      }
+     ]
+    },
+    {
+     "y": 723.12,
+     "x0": 153.12,
+     "x1": 316.24,
+     "size": 12.0,
+     "text": "ttttttttttttttTttttttttttttttttttttt.",
+     "segments": [
+      {
+       "x0": 153.12,
+       "x1": 316.24,
+       "text": "ttttttttttttttTttttttttttttttttttttt."
+      }
+     ]
+    },
+    {
+     "y": 745.68,
+     "x0": 76.56,
+     "x1": 448.88,
+     "size": 12.0,
+     "text": "TttttttttTTTtttttttttttt,TtttttttttttTttttttttttttttt,ttttttttttttttttttttttttt",
+     "segments": [
+      {
+       "x0": 76.56,
+       "x1": 130.38,
+       "text": "TttttttttTT"
+      },
+      {
+       "x0": 153.12,
+       "x1": 448.88,
+       "text": "Ttttttttttttt,TtttttttttttTttttttttttttttt,ttttttttttttttttttttttttt"
+      }
+     ]
+    },
+    {
+     "y": 762.48,
+     "x0": 153.12,
+     "x1": 294.74,
+     "size": 12.0,
+     "text": "Tttttttttttttttttttttttttttttttt.",
+     "segments": [
+      {
+       "x0": 153.12,
+       "x1": 294.74,
+       "text": "Tttttttttttttttttttttttttttttttt."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 85.92,
+     "x0": 70.8,
+     "x1": 135.74,
+     "size": 16.08,
+     "text": "2page2",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 135.74,
+       "text": "2page2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

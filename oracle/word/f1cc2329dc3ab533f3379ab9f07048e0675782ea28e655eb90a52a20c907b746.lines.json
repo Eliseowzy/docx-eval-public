@@ -1,0 +1,29 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 67.2,
+     "x0": 84.96,
+     "x1": 569.6,
+     "size": 11.04,
+     "text": "Loremipsumdolorsitamet,consecteturadipiscingelit.1",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 332.14,
+       "text": "Loremipsumdolorsitamet,consecteturadipiscingelit."
+      },
+      {
+       "x0": 564.0,
+       "x1": 569.6,
+       "text": "1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

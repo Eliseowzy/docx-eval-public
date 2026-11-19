@@ -1,0 +1,24 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 81.36,
+     "x0": 72.0,
+     "x1": 265.85,
+     "size": 10.08,
+     "text": "dotickmarkifOk(R)and(S)ifNotOk",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 265.85,
+       "text": "dotickmarkifOk(R)and(S)ifNotOk"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

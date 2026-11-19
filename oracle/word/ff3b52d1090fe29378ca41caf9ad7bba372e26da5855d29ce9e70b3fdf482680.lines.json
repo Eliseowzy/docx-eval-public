@@ -1,0 +1,1695 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 67.2,
+     "x0": 90.0,
+     "x1": 522.01,
+     "size": 11.04,
+     "text": "Whenyoucreatepictures,charts,ordiagrams,theyalsocoordinatewithyourcurrentdocument",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 522.01,
+       "text": "Whenyoucreatepictures,charts,ordiagrams,theyalsocoordinatewithyourcurrentdocument"
+      }
+     ]
+    },
+    {
+     "y": 80.64,
+     "x0": 90.0,
+     "x1": 522.09,
+     "size": 11.04,
+     "text": "look.IntheInserttab,thegalleriesincludeitemsthataredesignedtocoordinatewiththe",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 522.09,
+       "text": "look.IntheInserttab,thegalleriesincludeitemsthataredesignedtocoordinatewiththe"
+      }
+     ]
+    },
+    {
+     "y": 94.08,
+     "x0": 90.0,
+     "x1": 522.03,
+     "size": 11.04,
+     "text": "overalllookofyourdocument.Youcanusethesegalleriestoinserttables,headers,footers,lists,",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 522.03,
+       "text": "overalllookofyourdocument.Youcanusethesegalleriestoinserttables,headers,footers,lists,"
+      }
+     ]
+    },
+    {
+     "y": 107.52,
+     "x0": 90.0,
+     "x1": 524.89,
+     "size": 11.04,
+     "text": "coverpages,andotherdocumentbuildingblocks.Whenyoucreatepictures,charts,ordiagrams,",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 524.89,
+       "text": "coverpages,andotherdocumentbuildingblocks.Whenyoucreatepictures,charts,ordiagrams,"
+      }
+     ]
+    },
+    {
+     "y": 120.96,
+     "x0": 90.0,
+     "x1": 333.8,
+     "size": 11.04,
+     "text": "theyalsocoordinatewithyourcurrentdocumentlook.",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 333.8,
+       "text": "theyalsocoordinatewithyourcurrentdocumentlook."
+      }
+     ]
+    },
+    {
+     "y": 154.08,
+     "x0": 244.56,
+     "x1": 522.04,
+     "size": 11.04,
+     "text": "directly.TochangetheYoucaneasilychangethe",
+     "segments": [
+      {
+       "x0": 244.56,
+       "x1": 365.33,
+       "text": "directly.Tochangethe"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.04,
+       "text": "Youcaneasilychangethe"
+      }
+     ]
+    },
+    {
+     "y": 163.68,
+     "x0": 95.75,
+     "x1": 200.76,
+     "size": 15.12,
+     "text": "PageOrientation",
+     "segments": [
+      {
+       "x0": 95.75,
+       "x1": 200.76,
+       "text": "PageOrientation"
+      }
+     ]
+    },
+    {
+     "y": 170.4,
+     "x0": 244.56,
+     "x1": 522.07,
+     "size": 11.04,
+     "text": "overalllookofyourformattingofselectedtext",
+     "segments": [
+      {
+       "x0": 244.56,
+       "x1": 365.34,
+       "text": "overalllookofyour"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.07,
+       "text": "formattingofselectedtext"
+      }
+     ]
+    },
+    {
+     "y": 186.72,
+     "x0": 244.56,
+     "x1": 522.07,
+     "size": 11.04,
+     "text": "document,choosenewinthedocumenttextby",
+     "segments": [
+      {
+       "x0": 244.56,
+       "x1": 365.32,
+       "text": "document,choosenew"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.07,
+       "text": "inthedocumenttextby"
+      }
+     ]
+    },
+    {
+     "y": 203.04,
+     "x0": 87.84,
+     "x1": 522.04,
+     "size": 11.04,
+     "text": "OntheInserttab,theThemeelementsonthechoosingalookforthe",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.61,
+       "text": "OntheInserttab,the"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.32,
+       "text": "Themeelementsonthe"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.04,
+       "text": "choosingalookforthe"
+      }
+     ]
+    },
+    {
+     "y": 219.36,
+     "x0": 87.84,
+     "x1": 522.06,
+     "size": 11.04,
+     "text": "galleriesincludeitemsthatPageLayouttab.Tochangeselectedtextfromthe",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.58,
+       "text": "galleriesincludeitemsthat"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.33,
+       "text": "PageLayouttab.Tochange"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.06,
+       "text": "selectedtextfromthe"
+      }
+     ]
+    },
+    {
+     "y": 235.68,
+     "x0": 87.84,
+     "x1": 522.03,
+     "size": 11.04,
+     "text": "aredesignedtocoordinatethelooksavailableintheQuickStylesgalleryonthe",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.59,
+       "text": "aredesignedtocoordinate"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.37,
+       "text": "thelooksavailableinthe"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.03,
+       "text": "QuickStylesgalleryonthe"
+      }
+     ]
+    },
+    {
+     "y": 252.0,
+     "x0": 87.84,
+     "x1": 522.09,
+     "size": 11.04,
+     "text": "withtheoveralllookofQuickStylegallery,usetheHometab.Youcanalso",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.58,
+       "text": "withtheoveralllookof"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.3,
+       "text": "QuickStylegallery,usethe"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.09,
+       "text": "Hometab.Youcanalso"
+      }
+     ]
+    },
+    {
+     "y": 268.32,
+     "x0": 87.84,
+     "x1": 522.08,
+     "size": 11.04,
+     "text": "yourdocument.YoucanChangeCurrentQuickformattextdirectlyby",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.6,
+       "text": "yourdocument.Youcan"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.3,
+       "text": "ChangeCurrentQuick"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.08,
+       "text": "formattextdirectlyby"
+      }
+     ]
+    },
+    {
+     "y": 284.64,
+     "x0": 87.84,
+     "x1": 522.02,
+     "size": 11.04,
+     "text": "usethesegalleriestoStyleSetcommand.Bothusingtheothercontrolson",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.57,
+       "text": "usethesegalleriesto"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.33,
+       "text": "StyleSetcommand.Both"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.02,
+       "text": "usingtheothercontrolson"
+      }
+     ]
+    },
+    {
+     "y": 300.96,
+     "x0": 87.84,
+     "x1": 522.05,
+     "size": 11.04,
+     "text": "inserttables,headers,theThemesgalleryandtheHometab.Most",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.63,
+       "text": "inserttables,headers,"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.33,
+       "text": "theThemesgalleryand"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.05,
+       "text": "theHometab.Most"
+      }
+     ]
+    },
+    {
+     "y": 317.04,
+     "x0": 87.84,
+     "x1": 522.02,
+     "size": 11.04,
+     "text": "footers,lists,coverpages,theQuickStylesgallerycontrolsofferachoiceof",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.63,
+       "text": "footers,lists,coverpages,"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.34,
+       "text": "theQuickStylesgallery"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.02,
+       "text": "controlsofferachoiceof"
+      }
+     ]
+    },
+    {
+     "y": 333.36,
+     "x0": 87.84,
+     "x1": 522.06,
+     "size": 11.04,
+     "text": "andotherdocumentprovideresetcommandsusingthelookfromthe",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 104.68,
+       "text": "and"
+      },
+      {
+       "x0": 121.53,
+       "x1": 146.1,
+       "text": "other"
+      },
+      {
+       "x0": 162.95,
+       "x1": 208.59,
+       "text": "document"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.3,
+       "text": "provideresetcommands"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.06,
+       "text": "usingthelookfromthe"
+      }
+     ]
+    },
+    {
+     "y": 349.68,
+     "x0": 87.84,
+     "x1": 522.0,
+     "size": 11.04,
+     "text": "buildingblocks.Whenyousothatyoucanalwayscurrentthemeorusinga",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.61,
+       "text": "buildingblocks.Whenyou"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.32,
+       "text": "sothatyoucanalways"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.0,
+       "text": "currentthemeorusinga"
+      }
+     ]
+    },
+    {
+     "y": 366.0,
+     "x0": 87.84,
+     "x1": 522.07,
+     "size": 11.04,
+     "text": "createpictures,charts,orrestorethelookofyourformatthatyouspecify",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.55,
+       "text": "createpictures,charts,or"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.36,
+       "text": "restorethelookofyour"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.07,
+       "text": "formatthatyouspecify"
+      }
+     ]
+    },
+    {
+     "y": 382.32,
+     "x0": 87.84,
+     "x1": 522.05,
+     "size": 11.04,
+     "text": "diagrams,theyalsodocumenttotheoriginaldirectly.Tochangethe",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 131.3,
+       "text": "diagrams,"
+      },
+      {
+       "x0": 151.07,
+       "x1": 170.93,
+       "text": "they"
+      },
+      {
+       "x0": 190.68,
+       "x1": 208.6,
+       "text": "also"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.28,
+       "text": "documenttotheoriginal"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.05,
+       "text": "directly.Tochangethe"
+      }
+     ]
+    },
+    {
+     "y": 398.64,
+     "x0": 87.84,
+     "x1": 522.06,
+     "size": 11.04,
+     "text": "coordinatewithyourcontainedinyourcurrentoveralllookofyour",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.63,
+       "text": "coordinatewithyour"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.33,
+       "text": "containedinyourcurrent"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.06,
+       "text": "overalllookofyour"
+      }
+     ]
+    },
+    {
+     "y": 414.96,
+     "x0": 87.84,
+     "x1": 522.04,
+     "size": 11.04,
+     "text": "currentdocumentlook.template.OntheInsertdocument,choosenew",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.58,
+       "text": "currentdocumentlook."
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.36,
+       "text": "template.OntheInsert"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.04,
+       "text": "document,choosenew"
+      }
+     ]
+    },
+    {
+     "y": 431.28,
+     "x0": 87.84,
+     "x1": 485.69,
+     "size": 11.04,
+     "text": "Youcaneasilychangethetab,thegalleriesincludeTheme",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.6,
+       "text": "Youcaneasilychangethe"
+      },
+      {
+       "x0": 244.56,
+       "x1": 362.33,
+       "text": "tab,thegalleriesinclude"
+      },
+      {
+       "x0": 454.8,
+       "x1": 485.69,
+       "text": "Theme"
+      }
+     ]
+    },
+    {
+     "y": 447.6,
+     "x0": 87.84,
+     "x1": 522.11,
+     "size": 11.04,
+     "text": "formattingofselectedtextitemsthataredesignedelementson",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.63,
+       "text": "formattingofselectedtext"
+      },
+      {
+       "x0": 244.56,
+       "x1": 351.88,
+       "text": "itemsthataredesigned"
+      },
+      {
+       "x0": 465.84,
+       "x1": 522.11,
+       "text": "elementson"
+      }
+     ]
+    },
+    {
+     "y": 456.48,
+     "x0": 373.2,
+     "x1": 433.93,
+     "size": 11.04,
+     "text": "Shape:Ellipse",
+     "segments": [
+      {
+       "x0": 373.2,
+       "x1": 433.93,
+       "text": "Shape:Ellipse"
+      }
+     ]
+    },
+    {
+     "y": 463.92,
+     "x0": 87.84,
+     "x1": 522.16,
+     "size": 11.04,
+     "text": "inthedocumenttextbytocoordinatewiththethePage",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.63,
+       "text": "inthedocumenttextby"
+      },
+      {
+       "x0": 244.56,
+       "x1": 348.1,
+       "text": "tocoordinatewiththe"
+      },
+      {
+       "x0": 469.92,
+       "x1": 522.16,
+       "text": "thePage"
+      }
+     ]
+    },
+    {
+     "y": 472.8,
+     "x0": 373.2,
+     "x1": 422.35,
+     "size": 11.04,
+     "text": "PageWrap",
+     "segments": [
+      {
+       "x0": 373.2,
+       "x1": 422.35,
+       "text": "PageWrap"
+      }
+     ]
+    },
+    {
+     "y": 480.24,
+     "x0": 87.84,
+     "x1": 522.11,
+     "size": 11.04,
+     "text": "choosingalookfortheoveralllookofyourLayouttab.",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.6,
+       "text": "choosingalookforthe"
+      },
+      {
+       "x0": 244.56,
+       "x1": 348.08,
+       "text": "overalllookofyour"
+      },
+      {
+       "x0": 470.16,
+       "x1": 522.11,
+       "text": "Layouttab."
+      }
+     ]
+    },
+    {
+     "y": 496.56,
+     "x0": 87.84,
+     "x1": 522.29,
+     "size": 11.04,
+     "text": "selectedtextfromthedocument.YoucanuseTochange",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.6,
+       "text": "selectedtextfromthe"
+      },
+      {
+       "x0": 244.56,
+       "x1": 351.08,
+       "text": "document.Youcanuse"
+      },
+      {
+       "x0": 466.56,
+       "x1": 522.29,
+       "text": "Tochange"
+      }
+     ]
+    },
+    {
+     "y": 512.64,
+     "x0": 87.84,
+     "x1": 522.2,
+     "size": 11.04,
+     "text": "QuickStylesgalleryonthethesegalleriestoinsertthelooks",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.59,
+       "text": "QuickStylesgalleryonthe"
+      },
+      {
+       "x0": 244.56,
+       "x1": 363.49,
+       "text": "thesegalleriestoinsert"
+      },
+      {
+       "x0": 454.08,
+       "x1": 469.04,
+       "text": "the"
+      },
+      {
+       "x0": 498.86,
+       "x1": 522.2,
+       "text": "looks"
+      }
+     ]
+    },
+    {
+     "y": 528.96,
+     "x0": 87.84,
+     "x1": 522.1,
+     "size": 11.04,
+     "text": "Hometab.Youcanalsotables,headers,footers,availableintheQuickStyle",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.61,
+       "text": "Hometab.Youcanalso"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.34,
+       "text": "tables,headers,footers,"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.1,
+       "text": "availableintheQuickStyle"
+      }
+     ]
+    },
+    {
+     "y": 545.28,
+     "x0": 87.84,
+     "x1": 522.05,
+     "size": 11.04,
+     "text": "formattextdirectlybylists,coverpages,andgallery,usetheChange",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.64,
+       "text": "formattextdirectlyby"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.34,
+       "text": "lists,coverpages,and"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.05,
+       "text": "gallery,usetheChange"
+      }
+     ]
+    },
+    {
+     "y": 561.6,
+     "x0": 87.84,
+     "x1": 522.02,
+     "size": 11.04,
+     "text": "usingtheothercontrolsonotherdocumentbuildingCurrentQuickStyleSet",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.58,
+       "text": "usingtheothercontrolson"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.29,
+       "text": "otherdocumentbuilding"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.02,
+       "text": "CurrentQuickStyleSet"
+      }
+     ]
+    },
+    {
+     "y": 577.92,
+     "x0": 87.84,
+     "x1": 522.08,
+     "size": 11.04,
+     "text": "theHometab.Mostblocks.Whenyoucreatecommand.Boththe",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.61,
+       "text": "theHometab.Most"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.34,
+       "text": "blocks.Whenyoucreate"
+      },
+      {
+       "x0": 401.28,
+       "x1": 448.83,
+       "text": "command."
+      },
+      {
+       "x0": 467.34,
+       "x1": 488.61,
+       "text": "Both"
+      },
+      {
+       "x0": 507.11,
+       "x1": 522.08,
+       "text": "the"
+      }
+     ]
+    },
+    {
+     "y": 594.24,
+     "x0": 87.84,
+     "x1": 522.05,
+     "size": 11.04,
+     "text": "controlsofferachoiceofpictures,charts,orThemesgalleryandthe",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.58,
+       "text": "controlsofferachoiceof"
+      },
+      {
+       "x0": 244.56,
+       "x1": 283.2,
+       "text": "pictures,"
+      },
+      {
+       "x0": 304.3,
+       "x1": 334.58,
+       "text": "charts,"
+      },
+      {
+       "x0": 355.68,
+       "x1": 365.33,
+       "text": "or"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.05,
+       "text": "Themesgalleryandthe"
+      }
+     ]
+    },
+    {
+     "y": 610.56,
+     "x0": 87.84,
+     "x1": 522.04,
+     "size": 11.04,
+     "text": "usingthelookfromthediagrams,theyalsoQuickStylesgallery",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.62,
+       "text": "usingthelookfromthe"
+      },
+      {
+       "x0": 244.56,
+       "x1": 288.02,
+       "text": "diagrams,"
+      },
+      {
+       "x0": 307.79,
+       "x1": 327.65,
+       "text": "they"
+      },
+      {
+       "x0": 347.4,
+       "x1": 365.32,
+       "text": "also"
+      },
+      {
+       "x0": 401.28,
+       "x1": 426.66,
+       "text": "Quick"
+      },
+      {
+       "x0": 446.52,
+       "x1": 472.54,
+       "text": "Styles"
+      },
+      {
+       "x0": 492.4,
+       "x1": 522.04,
+       "text": "gallery"
+      }
+     ]
+    },
+    {
+     "y": 626.88,
+     "x0": 87.84,
+     "x1": 522.02,
+     "size": 11.04,
+     "text": "currentthemeorusingacoordinatewithyourprovideresetcommands",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.56,
+       "text": "currentthemeorusinga"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.35,
+       "text": "coordinatewithyour"
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.02,
+       "text": "provideresetcommands"
+      }
+     ]
+    },
+    {
+     "y": 643.2,
+     "x0": 87.84,
+     "x1": 522.04,
+     "size": 11.04,
+     "text": "formatthatyouspecifycurrentdocumentlook.sothatyoucanalways",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.63,
+       "text": "formatthatyouspecify"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.3,
+       "text": "currentdocumentlook."
+      },
+      {
+       "x0": 401.28,
+       "x1": 522.04,
+       "text": "sothatyoucanalways"
+      }
+     ]
+    },
+    {
+     "y": 665.28,
+     "x0": 90.0,
+     "x1": 502.96,
+     "size": 11.04,
+     "text": "OntheInserttab,thegalleriesincludeitemsthataredesignedtocoordinatewiththeoverall",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 502.96,
+       "text": "OntheInserttab,thegalleriesincludeitemsthataredesignedtocoordinatewiththeoverall"
+      }
+     ]
+    },
+    {
+     "y": 678.72,
+     "x0": 90.0,
+     "x1": 515.3,
+     "size": 11.04,
+     "text": "lookofyourdocument.Youcanusethesegalleriestoinserttables,headers,footers,lists,cover",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 515.3,
+       "text": "lookofyourdocument.Youcanusethesegalleriestoinserttables,headers,footers,lists,cover"
+      }
+     ]
+    },
+    {
+     "y": 692.16,
+     "x0": 90.0,
+     "x1": 517.73,
+     "size": 11.04,
+     "text": "pages,andotherdocumentbuildingblocks.Whenyoucreatepictures,charts,ordiagrams,they",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 517.73,
+       "text": "pages,andotherdocumentbuildingblocks.Whenyoucreatepictures,charts,ordiagrams,they"
+      }
+     ]
+    },
+    {
+     "y": 705.6,
+     "x0": 90.0,
+     "x1": 489.05,
+     "size": 11.04,
+     "text": "alsocoordinatewithyourcurrentdocumentlook.Youcaneasilychangetheformattingof",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 489.05,
+       "text": "alsocoordinatewithyourcurrentdocumentlook.Youcaneasilychangetheformattingof"
+      }
+     ]
+    },
+    {
+     "y": 719.04,
+     "x0": 90.0,
+     "x1": 518.35,
+     "size": 11.04,
+     "text": "selectedtextinthedocumenttextbychoosingalookfortheselectedtextfromtheQuickStyles",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 518.35,
+       "text": "selectedtextinthedocumenttextbychoosingalookfortheselectedtextfromtheQuickStyles"
+      }
+     ]
+    },
+    {
+     "y": 732.48,
+     "x0": 90.0,
+     "x1": 200.39,
+     "size": 11.04,
+     "text": "galleryontheHometab.",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 200.39,
+       "text": "galleryontheHometab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 67.2,
+     "x0": 87.84,
+     "x1": 522.0,
+     "size": 11.04,
+     "text": "Whenyoucreatepictures,charts,ordiagrams,theyalsocoordinatewithyourcurrentdocument",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 522.0,
+       "text": "Whenyoucreatepictures,charts,ordiagrams,theyalsocoordinatewithyourcurrentdocument"
+      }
+     ]
+    },
+    {
+     "y": 80.64,
+     "x0": 87.84,
+     "x1": 522.1,
+     "size": 11.04,
+     "text": "look.IntheInserttab,thegalleriesincludeitemsthataredesignedtocoordinatewiththeoverall",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 522.1,
+       "text": "look.IntheInserttab,thegalleriesincludeitemsthataredesignedtocoordinatewiththeoverall"
+      }
+     ]
+    },
+    {
+     "y": 94.08,
+     "x0": 87.84,
+     "x1": 522.25,
+     "size": 11.04,
+     "text": "lookofyourdocument.Youcanusethesegalleriestoinserttables,headers,footers,lists,cover",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 522.25,
+       "text": "lookofyourdocument.Youcanusethesegalleriestoinserttables,headers,footers,lists,cover"
+      }
+     ]
+    },
+    {
+     "y": 107.52,
+     "x0": 87.84,
+     "x1": 522.03,
+     "size": 11.04,
+     "text": "pages,andotherdocumentbuildingblocks.Whenyoucreatepictures,charts,ordiagrams,they",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 522.03,
+       "text": "pages,andotherdocumentbuildingblocks.Whenyoucreatepictures,charts,ordiagrams,they"
+      }
+     ]
+    },
+    {
+     "y": 120.96,
+     "x0": 87.84,
+     "x1": 309.18,
+     "size": 11.04,
+     "text": "alsocoordinatewithyourcurrentdocumentlook.",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 309.18,
+       "text": "alsocoordinatewithyourcurrentdocumentlook."
+      }
+     ]
+    },
+    {
+     "y": 135.84,
+     "x0": 87.84,
+     "x1": 365.34,
+     "size": 11.04,
+     "text": "restorethelookofyouroveralllookofyour",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.64,
+       "text": "restorethelookofyour"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.34,
+       "text": "overalllookofyour"
+      }
+     ]
+    },
+    {
+     "y": 152.16,
+     "x0": 87.84,
+     "x1": 365.32,
+     "size": 11.04,
+     "text": "documenttotheoriginaldocument,choosenew",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.58,
+       "text": "documenttotheoriginal"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.32,
+       "text": "document,choosenew"
+      }
+     ]
+    },
+    {
+     "y": 168.48,
+     "x0": 87.84,
+     "x1": 365.32,
+     "size": 11.04,
+     "text": "containedinyourcurrentThemeelementsonthe",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.61,
+       "text": "containedinyourcurrent"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.32,
+       "text": "Themeelementsonthe"
+      }
+     ]
+    },
+    {
+     "y": 184.8,
+     "x0": 87.84,
+     "x1": 365.33,
+     "size": 11.04,
+     "text": "template.OntheInsertPageLayouttab.Tochange",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.64,
+       "text": "template.OntheInsert"
+      },
+      {
+       "x0": 244.56,
+       "x1": 365.33,
+       "text": "PageLayouttab.Tochange"
+      }
+     ]
+    },
+    {
+     "y": 201.12,
+     "x0": 87.84,
+     "x1": 208.63,
+     "size": 11.04,
+     "text": "tab,thegalleriesinclude",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.63,
+       "text": "tab,thegalleriesinclude"
+      }
+     ]
+    },
+    {
+     "y": 217.44,
+     "x0": 87.84,
+     "x1": 208.59,
+     "size": 11.04,
+     "text": "itemsthataredesignedto",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.59,
+       "text": "itemsthataredesignedto"
+      }
+     ]
+    },
+    {
+     "y": 230.88,
+     "x0": 336.96,
+     "x1": 413.51,
+     "size": 11.04,
+     "text": "Shape:Rectangle",
+     "segments": [
+      {
+       "x0": 336.96,
+       "x1": 413.51,
+       "text": "Shape:Rectangle"
+      }
+     ]
+    },
+    {
+     "y": 233.52,
+     "x0": 87.84,
+     "x1": 208.63,
+     "size": 11.04,
+     "text": "coordinatewiththeoverall",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.63,
+       "text": "coordinatewiththeoverall"
+      }
+     ]
+    },
+    {
+     "y": 247.2,
+     "x0": 339.45,
+     "x1": 379.26,
+     "size": 11.04,
+     "text": "NoWrap",
+     "segments": [
+      {
+       "x0": 339.45,
+       "x1": 379.26,
+       "text": "NoWrap"
+      }
+     ]
+    },
+    {
+     "y": 249.84,
+     "x0": 87.84,
+     "x1": 208.63,
+     "size": 11.04,
+     "text": "lookofyourdocument.",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.63,
+       "text": "lookofyourdocument."
+      }
+     ]
+    },
+    {
+     "y": 266.16,
+     "x0": 87.84,
+     "x1": 208.6,
+     "size": 11.04,
+     "text": "Youcanusethesegalleries",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.6,
+       "text": "Youcanusethesegalleries"
+      }
+     ]
+    },
+    {
+     "y": 282.48,
+     "x0": 87.84,
+     "x1": 208.64,
+     "size": 11.04,
+     "text": "toinserttables,headers,",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.64,
+       "text": "toinserttables,headers,"
+      }
+     ]
+    },
+    {
+     "y": 293.76,
+     "x0": 244.56,
+     "x1": 259.52,
+     "size": 11.04,
+     "text": "the",
+     "segments": [
+      {
+       "x0": 244.56,
+       "x1": 259.52,
+       "text": "the"
+      }
+     ]
+    },
+    {
+     "y": 298.8,
+     "x0": 87.84,
+     "x1": 208.63,
+     "size": 11.04,
+     "text": "footers,lists,coverpages,",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.63,
+       "text": "footers,lists,coverpages,"
+      }
+     ]
+    },
+    {
+     "y": 315.12,
+     "x0": 87.84,
+     "x1": 208.59,
+     "size": 11.04,
+     "text": "andotherdocument",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 104.68,
+       "text": "and"
+      },
+      {
+       "x0": 121.53,
+       "x1": 146.1,
+       "text": "other"
+      },
+      {
+       "x0": 162.95,
+       "x1": 208.59,
+       "text": "document"
+      }
+     ]
+    },
+    {
+     "y": 331.44,
+     "x0": 87.84,
+     "x1": 208.61,
+     "size": 11.04,
+     "text": "buildingblocks.Whenyou",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.61,
+       "text": "buildingblocks.Whenyou"
+      }
+     ]
+    },
+    {
+     "y": 347.76,
+     "x0": 87.84,
+     "x1": 208.55,
+     "size": 11.04,
+     "text": "createpictures,charts,or",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.55,
+       "text": "createpictures,charts,or"
+      }
+     ]
+    },
+    {
+     "y": 364.08,
+     "x0": 87.84,
+     "x1": 208.6,
+     "size": 11.04,
+     "text": "diagrams,theyalso",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 131.3,
+       "text": "diagrams,"
+      },
+      {
+       "x0": 151.07,
+       "x1": 170.93,
+       "text": "they"
+      },
+      {
+       "x0": 190.68,
+       "x1": 208.6,
+       "text": "also"
+      }
+     ]
+    },
+    {
+     "y": 380.4,
+     "x0": 87.84,
+     "x1": 208.63,
+     "size": 11.04,
+     "text": "coordinatewithyour",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.63,
+       "text": "coordinatewithyour"
+      }
+     ]
+    },
+    {
+     "y": 396.72,
+     "x0": 87.84,
+     "x1": 208.58,
+     "size": 11.04,
+     "text": "currentdocumentlook.",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.58,
+       "text": "currentdocumentlook."
+      }
+     ]
+    },
+    {
+     "y": 413.04,
+     "x0": 87.84,
+     "x1": 208.6,
+     "size": 11.04,
+     "text": "Youcaneasilychangethe",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.6,
+       "text": "Youcaneasilychangethe"
+      }
+     ]
+    },
+    {
+     "y": 429.12,
+     "x0": 87.84,
+     "x1": 208.63,
+     "size": 11.04,
+     "text": "formattingofselectedtext",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.63,
+       "text": "formattingofselectedtext"
+      }
+     ]
+    },
+    {
+     "y": 445.44,
+     "x0": 87.84,
+     "x1": 208.63,
+     "size": 11.04,
+     "text": "inthedocumenttextby",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.63,
+       "text": "inthedocumenttextby"
+      }
+     ]
+    },
+    {
+     "y": 461.76,
+     "x0": 87.84,
+     "x1": 208.61,
+     "size": 11.04,
+     "text": "choosingalookforthe",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.61,
+       "text": "choosingalookforthe"
+      }
+     ]
+    },
+    {
+     "y": 478.08,
+     "x0": 87.84,
+     "x1": 208.6,
+     "size": 11.04,
+     "text": "selectedtextfromthe",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.6,
+       "text": "selectedtextfromthe"
+      }
+     ]
+    },
+    {
+     "y": 494.4,
+     "x0": 87.84,
+     "x1": 208.59,
+     "size": 11.04,
+     "text": "QuickStylesgalleryonthe",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.59,
+       "text": "QuickStylesgalleryonthe"
+      }
+     ]
+    },
+    {
+     "y": 510.72,
+     "x0": 87.84,
+     "x1": 208.65,
+     "size": 11.04,
+     "text": "Hometab.Youcanalso",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.65,
+       "text": "Hometab.Youcanalso"
+      }
+     ]
+    },
+    {
+     "y": 527.04,
+     "x0": 87.84,
+     "x1": 208.64,
+     "size": 11.04,
+     "text": "formattextdirectlyby",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.64,
+       "text": "formattextdirectlyby"
+      }
+     ]
+    },
+    {
+     "y": 543.36,
+     "x0": 87.84,
+     "x1": 208.58,
+     "size": 11.04,
+     "text": "usingtheothercontrolson",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.58,
+       "text": "usingtheothercontrolson"
+      }
+     ]
+    },
+    {
+     "y": 559.68,
+     "x0": 87.84,
+     "x1": 208.61,
+     "size": 11.04,
+     "text": "theHometab.Most",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.61,
+       "text": "theHometab.Most"
+      }
+     ]
+    },
+    {
+     "y": 576.0,
+     "x0": 87.84,
+     "x1": 208.58,
+     "size": 11.04,
+     "text": "controlsofferachoiceof",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.58,
+       "text": "controlsofferachoiceof"
+      }
+     ]
+    },
+    {
+     "y": 592.32,
+     "x0": 87.84,
+     "x1": 208.62,
+     "size": 11.04,
+     "text": "usingthelookfromthe",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.62,
+       "text": "usingthelookfromthe"
+      }
+     ]
+    },
+    {
+     "y": 608.64,
+     "x0": 87.84,
+     "x1": 208.56,
+     "size": 11.04,
+     "text": "currentthemeorusinga",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.56,
+       "text": "currentthemeorusinga"
+      }
+     ]
+    },
+    {
+     "y": 624.72,
+     "x0": 87.84,
+     "x1": 208.63,
+     "size": 11.04,
+     "text": "formatthatyouspecify",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.63,
+       "text": "formatthatyouspecify"
+      }
+     ]
+    },
+    {
+     "y": 641.04,
+     "x0": 87.84,
+     "x1": 208.61,
+     "size": 11.04,
+     "text": "directly.Tochangethe",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 208.61,
+       "text": "directly.Tochangethe"
+      }
+     ]
+    },
+    {
+     "y": 665.28,
+     "x0": 87.84,
+     "x1": 500.8,
+     "size": 11.04,
+     "text": "OntheInserttab,thegalleriesincludeitemsthataredesignedtocoordinatewiththeoverall",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 500.8,
+       "text": "OntheInserttab,thegalleriesincludeitemsthataredesignedtocoordinatewiththeoverall"
+      }
+     ]
+    },
+    {
+     "y": 678.72,
+     "x0": 87.84,
+     "x1": 513.14,
+     "size": 11.04,
+     "text": "lookofyourdocument.Youcanusethesegalleriestoinserttables,headers,footers,lists,cover",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 513.14,
+       "text": "lookofyourdocument.Youcanusethesegalleriestoinserttables,headers,footers,lists,cover"
+      }
+     ]
+    },
+    {
+     "y": 692.16,
+     "x0": 87.84,
+     "x1": 515.57,
+     "size": 11.04,
+     "text": "pages,andotherdocumentbuildingblocks.Whenyoucreatepictures,charts,ordiagrams,they",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 515.57,
+       "text": "pages,andotherdocumentbuildingblocks.Whenyoucreatepictures,charts,ordiagrams,they"
+      }
+     ]
+    },
+    {
+     "y": 705.6,
+     "x0": 87.84,
+     "x1": 486.89,
+     "size": 11.04,
+     "text": "alsocoordinatewithyourcurrentdocumentlook.Youcaneasilychangetheformattingof",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 486.89,
+       "text": "alsocoordinatewithyourcurrentdocumentlook.Youcaneasilychangetheformattingof"
+      }
+     ]
+    },
+    {
+     "y": 719.04,
+     "x0": 87.84,
+     "x1": 516.19,
+     "size": 11.04,
+     "text": "selectedtextinthedocumenttextbychoosingalookfortheselectedtextfromtheQuickStyles",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 516.19,
+       "text": "selectedtextinthedocumenttextbychoosingalookfortheselectedtextfromtheQuickStyles"
+      }
+     ]
+    },
+    {
+     "y": 732.48,
+     "x0": 87.84,
+     "x1": 198.23,
+     "size": 11.04,
+     "text": "galleryontheHometab.",
+     "segments": [
+      {
+       "x0": 87.84,
+       "x1": 198.23,
+       "text": "galleryontheHometab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 792.0,
+   "height": 612.0,
+   "lines": []
+  }
+ ]
+}

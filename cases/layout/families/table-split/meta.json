@@ -1,0 +1,52 @@
+{
+ "origin": "docx-eval; bases 01/02 are NimbleOffice (formerly BetterOffice) table fixtures (Apache-2.0; byte-identical to crates/docx-edit/tests/fixtures/table-split-bands/), the floattable-* bases are LibreOffice QA documents (MPL-2.0)",
+ "license": "bases 01/02: Apache-2.0; floattable-*: MPL-2.0; generated variants inherit their base's license",
+ "redistributable": true,
+ "tags": [
+  "synthetic",
+  "rule-family",
+  "tables",
+  "floating-tables",
+  "pagination"
+ ],
+ "generator": "generate.py",
+ "groups": {
+  "float-pagination": {
+   "varies": "text before / after a page-anchored float (tblpY 85pt), anchor kind, compat mode",
+   "word": [
+    "compat 14, no text before (vA): page one fills to min(footer line, top + body height); 01 ends at line 41 (742.32pt), 02 at row 18",
+    "compat 14 with a title before (v0): the title wraps beside the float in a narrow column; the first cut follows the text on the page",
+    "vB: Word leaves an exclusion artefact (float ends 233pt, text keeps wrapping to 496pt): iterative layout, not a rule to copy"
+   ]
+  },
+  "compat15-move": {
+   "varies": "compat 15: float position vs text above it, overlap, text after, table height",
+   "word": [
+    "a float that must split, positioned above body text already on the page, moves to the next page at the same tblpY",
+    "no text above (a), one short line above (f), position below the text (b): stays on page one",
+    "five rows that fit (s-short5-c15): stays, text wraps beside it",
+    "c-y8000 (tblpY 400pt): Word pulls the float up to about 207pt instead of moving it; rule not yet derived"
+   ]
+  },
+  "legacy-pre-anchor-wrap": {
+   "varies": "k paragraphs before a legacy page float (k = 1..30), anchor paragraph with text",
+   "word": [
+    "text before the anchor wraps beside the float; the first page's cut = min(footer line, top + body height - text already on the page)"
+   ]
+  },
+  "footer-vs-compat": {
+   "varies": "floattable-footer-2rows (compat 15) vs floattable-avoid-last-manip-ofst (compat 12): row height, footer, column count",
+   "word": [
+    "the compat mode decides: compat 15 cuts row 3 at the body bottom (536pt), compat 12 completes it to 563.76pt; trHeight, footers and column count change nothing"
+   ]
+  }
+ },
+ "sources": [
+  "Word 16.114 (build 26110224) PDF exports, oracle/word",
+  "LibreOffice sw/source/core/layout/fly.cxx GetFlyAnchorBottom"
+ ],
+ "knownUnstable": {
+  "cases/float-pagination/01-vB-moretext.docx": "Word's iterative-layout artefact (exclusion left at 233-496pt); not a rule to match",
+  "cases/float-pagination/02-vB-moretext.docx": "Word's iterative-layout artefact (exclusion left at 233-496pt); not a rule to match"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 71.28,
+     "x0": 56.64,
+     "x1": 309.34,
+     "size": 12.0,
+     "text": "Thelinespacingissettodoubleinthisparagraph.",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 309.34,
+       "text": "Thelinespacingissettodoubleinthisparagraph."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

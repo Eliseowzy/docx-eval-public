@@ -1,0 +1,164 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 91.68,
+     "x0": 222.85,
+     "x1": 278.77,
+     "size": 13.92,
+     "text": "图表标题",
+     "segments": [
+      {
+       "x0": 222.85,
+       "x1": 278.77,
+       "text": "图表标题"
+      }
+     ]
+    },
+    {
+     "y": 116.88,
+     "x0": 261.35,
+     "x1": 308.83,
+     "size": 9.12,
+     "text": "datalabel1,2",
+     "segments": [
+      {
+       "x0": 261.35,
+       "x1": 308.83,
+       "text": "datalabel1,2"
+      }
+     ]
+    },
+    {
+     "y": 117.84,
+     "x0": 193.1,
+     "x1": 240.58,
+     "size": 9.12,
+     "text": "datalabel8,2",
+     "segments": [
+      {
+       "x0": 193.1,
+       "x1": 240.58,
+       "text": "datalabel8,2"
+      }
+     ]
+    },
+    {
+     "y": 153.84,
+     "x0": 301.85,
+     "x1": 349.33,
+     "size": 9.12,
+     "text": "datalabel2,2",
+     "segments": [
+      {
+       "x0": 301.85,
+       "x1": 349.33,
+       "text": "datalabel2,2"
+      }
+     ]
+    },
+    {
+     "y": 156.72,
+     "x0": 151.85,
+     "x1": 199.33,
+     "size": 9.12,
+     "text": "datalabel7,2",
+     "segments": [
+      {
+       "x0": 151.85,
+       "x1": 199.33,
+       "text": "datalabel7,2"
+      }
+     ]
+    },
+    {
+     "y": 195.84,
+     "x0": 151.85,
+     "x1": 199.33,
+     "size": 9.12,
+     "text": "datalabel6,2",
+     "segments": [
+      {
+       "x0": 151.85,
+       "x1": 199.33,
+       "text": "datalabel6,2"
+      }
+     ]
+    },
+    {
+     "y": 198.72,
+     "x0": 301.85,
+     "x1": 349.33,
+     "size": 9.12,
+     "text": "datalabel3,2",
+     "segments": [
+      {
+       "x0": 301.85,
+       "x1": 349.33,
+       "text": "datalabel3,2"
+      }
+     ]
+    },
+    {
+     "y": 232.56,
+     "x0": 187.1,
+     "x1": 234.58,
+     "size": 9.12,
+     "text": "datalabel5,2",
+     "segments": [
+      {
+       "x0": 187.1,
+       "x1": 234.58,
+       "text": "datalabel5,2"
+      }
+     ]
+    },
+    {
+     "y": 234.0,
+     "x0": 271.85,
+     "x1": 319.33,
+     "size": 9.12,
+     "text": "datalabel4,2",
+     "segments": [
+      {
+       "x0": 271.85,
+       "x1": 319.33,
+       "text": "datalabel4,2"
+      }
+     ]
+    },
+    {
+     "y": 255.6,
+     "x0": 164.19,
+     "x1": 348.28,
+     "size": 9.12,
+     "text": "datalabel1datalabel2datalabel3datalabel4",
+     "segments": [
+      {
+       "x0": 164.19,
+       "x1": 348.28,
+       "text": "datalabel1datalabel2datalabel3datalabel4"
+      }
+     ]
+    },
+    {
+     "y": 272.4,
+     "x0": 164.19,
+     "x1": 348.28,
+     "size": 9.12,
+     "text": "datalabel5datalabel6datalabel7datalabel8",
+     "segments": [
+      {
+       "x0": 164.19,
+       "x1": 348.28,
+       "text": "datalabel5datalabel6datalabel7datalabel8"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

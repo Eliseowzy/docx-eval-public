@@ -1,0 +1,57 @@
+{
+ "228177606455053e67c638c6411157544738602cc8a44d94968e6e13054dae53": {
+  "case": "layout/corpus/extras_ooxmlimport_data/n764745-alignment.docx",
+  "reason": "Word reports an error opening or saving the document",
+  "word": "16.114.26110224"
+ },
+ "2e005d2e0f01ea5b4d3445136d726a1d3d0f479d89c6e19c319d6634c269a829": {
+  "case": "layout/families/nimbleoffice-fixtures/layout-request/theme-accent.docx",
+  "reason": "Word reports an error opening or saving the document",
+  "word": "16.114.26110224"
+ },
+ "30c88782e665853021b628403cebd395634b2f774c9e59a3089eb7971490aa1d": {
+  "case": "layout/corpus/extras_ooxmlimport_data/math-malformed_xml.docx",
+  "reason": "Word reports an error opening or saving the document",
+  "word": "16.114.26110224"
+ },
+ "31d01c5ccc14d8a670ee9275a14127873b22fabcad4e278144124b0988420ae8": {
+  "case": "layout/corpus/extras_ooxmlimport_data/n773061.docx",
+  "reason": "Word reports an error opening or saving the document",
+  "word": "16.114.26110224"
+ },
+ "325cba860a21b39b8860fbe9f50686fb76b6fdd9431d7b057fde45487e5e160b": {
+  "case": "layout/corpus/core_text_data/redline-image-anchored.docx",
+  "reason": "Word reports an error opening or saving the document",
+  "word": "16.114.26110224"
+ },
+ "3bb835278f493fb0137808bd9e3bf16879605087e1b8d3a9c86caacc80ac2cb1": {
+  "case": "layout/corpus/core_text_data/tdf153040.docx",
+  "reason": "Word reports an error opening or saving the document",
+  "word": "16.114.26110224"
+ },
+ "5ea3a1ed1fb663f8cadab1323c1ec3a69b729128374840e47541606fa23e8afe": {
+  "case": "layout/corpus/extras_ooxmlimport_data/tdf101627.docx",
+  "reason": "Word reports an error opening or saving the document",
+  "word": "16.114.26110224"
+ },
+ "83b81194fee809de43bacf8c54c33bdc1b2bd43fe3261b8c2fc763ed1be55263": {
+  "case": "layout/corpus/extras_ooxmlimport_data/tdf165348_broken_package.docx",
+  "reason": "Word reports an error opening or saving the document",
+  "word": "16.114.26110224"
+ },
+ "cb484d422da7cccbecc3ace93e929d4f55e473ae2d16e50941184c42d6f7cb37": {
+  "case": "layout/families/nimbleoffice-fixtures/structured-export/principal.docx",
+  "reason": "Word reports an error opening or saving the document",
+  "word": "16.114.26110224"
+ },
+ "d88152cce1e2574cc2c6ff95bdfc3d2721a93b6e34519a4fcf1ff40696ba13d9": {
+  "case": "layout/corpus/extras_layout_data/tdf123163-1.docx",
+  "reason": "Word reports an error opening or saving the document",
+  "word": "16.114.26110224"
+ },
+ "d97ebfb1db12029c2b7a216791bd51634e0309ac410d3d28331f8374886bc8a6": {
+  "case": "layout/corpus/extras_layout_data/floattable-center-shift-down.docx",
+  "reason": "Word reports an error opening or saving the document",
+  "word": "16.114.26110224"
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 97.68,
+     "x0": 182.82,
+     "x1": 390.94,
+     "size": 9.12,
+     "text": "longdatalabel8longdatalabel1",
+     "segments": [
+      {
+       "x0": 182.82,
+       "x1": 243.33,
+       "text": "longdatalabel8"
+      },
+      {
+       "x0": 330.43,
+       "x1": 390.94,
+       "text": "longdatalabel1"
+      }
+     ]
+    },
+    {
+     "y": 157.68,
+     "x0": 126.38,
+     "x1": 447.38,
+     "size": 9.12,
+     "text": "longdatalabel7longdatalabel2",
+     "segments": [
+      {
+       "x0": 126.38,
+       "x1": 186.89,
+       "text": "longdatalabel7"
+      },
+      {
+       "x0": 386.87,
+       "x1": 447.38,
+       "text": "longdatalabel2"
+      }
+     ]
+    },
+    {
+     "y": 242.4,
+     "x0": 126.38,
+     "x1": 447.38,
+     "size": 9.12,
+     "text": "longdatalabel6longdatalabel3",
+     "segments": [
+      {
+       "x0": 126.38,
+       "x1": 186.89,
+       "text": "longdatalabel6"
+      },
+      {
+       "x0": 386.87,
+       "x1": 447.38,
+       "text": "longdatalabel3"
+      }
+     ]
+    },
+    {
+     "y": 302.4,
+     "x0": 182.82,
+     "x1": 390.94,
+     "size": 9.12,
+     "text": "longdatalabel5longdatalabel4",
+     "segments": [
+      {
+       "x0": 182.82,
+       "x1": 243.33,
+       "text": "longdatalabel5"
+      },
+      {
+       "x0": 330.43,
+       "x1": 390.94,
+       "text": "longdatalabel4"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

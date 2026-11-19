@@ -1,0 +1,680 @@
+{
+ "pages": [
+  {
+   "width": 792.0,
+   "height": 612.0,
+   "lines": [
+    {
+     "y": 84.0,
+     "x0": 236.16,
+     "x1": 375.91,
+     "size": 11.04,
+     "text": "page1startTalkingPoints",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 375.91,
+       "text": "page1startTalkingPoints"
+      }
+     ]
+    },
+    {
+     "y": 113.28,
+     "x0": 236.16,
+     "x1": 389.8,
+     "size": 12.96,
+     "text": "IntroductionandVision",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 389.8,
+       "text": "IntroductionandVision"
+      }
+     ]
+    },
+    {
+     "y": 140.88,
+     "x0": 236.16,
+     "x1": 491.98,
+     "size": 11.04,
+     "text": "MicrosoftLync2013deliversanexperiencethatis",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 491.98,
+       "text": "MicrosoftLync2013deliversanexperiencethatis"
+      }
+     ]
+    },
+    {
+     "y": 158.16,
+     "x0": 236.16,
+     "x1": 518.27,
+     "size": 11.04,
+     "text": "differentiatedfromanyotherUnifiedCommunications",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 518.27,
+       "text": "differentiatedfromanyotherUnifiedCommunications"
+      }
+     ]
+    },
+    {
+     "y": 175.44,
+     "x0": 236.16,
+     "x1": 533.82,
+     "size": 11.04,
+     "text": "solutionintheindustry.Lync2013deliversthebestsingle",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 533.82,
+       "text": "solutionintheindustry.Lync2013deliversthebestsingle"
+      }
+     ]
+    },
+    {
+     "y": 192.72,
+     "x0": 236.16,
+     "x1": 525.97,
+     "size": 11.04,
+     "text": "clientexperienceacrossdevices–integratedwithallthe",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 525.97,
+       "text": "clientexperienceacrossdevices–integratedwithallthe"
+      }
+     ]
+    },
+    {
+     "y": 210.0,
+     "x0": 236.16,
+     "x1": 555.81,
+     "size": 11.04,
+     "text": "applicationspeopleuse,andavailableanywherewithInternet",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 555.81,
+       "text": "applicationspeopleuse,andavailableanywherewithInternet"
+      }
+     ]
+    },
+    {
+     "y": 227.04,
+     "x0": 236.16,
+     "x1": 554.53,
+     "size": 11.04,
+     "text": "access.Lync2013allowsuserstofocuslessonhowtousethe",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 554.53,
+       "text": "access.Lync2013allowsuserstofocuslessonhowtousethe"
+      }
+     ]
+    },
+    {
+     "y": 244.32,
+     "x0": 236.16,
+     "x1": 536.47,
+     "size": 11.04,
+     "text": "toolsanddirecttheirenergytomeetingtheneedsoftheir",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 536.47,
+       "text": "toolsanddirecttheirenergytomeetingtheneedsoftheir"
+      }
+     ]
+    },
+    {
+     "y": 261.6,
+     "x0": 236.16,
+     "x1": 284.33,
+     "size": 11.04,
+     "text": "business.",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 284.33,
+       "text": "business."
+      }
+     ]
+    },
+    {
+     "y": 302.88,
+     "x0": 236.16,
+     "x1": 469.0,
+     "size": 12.96,
+     "text": "RefresshedClientUI;“single”client",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 469.0,
+       "text": "RefresshedClientUI;“single”client"
+      }
+     ]
+    },
+    {
+     "y": 330.48,
+     "x0": 236.16,
+     "x1": 516.71,
+     "size": 11.04,
+     "text": "Lync2013providesasingle,unifiedclientforreal-time",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 516.71,
+       "text": "Lync2013providesasingle,unifiedclientforreal-time"
+      }
+     ]
+    },
+    {
+     "y": 347.76,
+     "x0": 236.16,
+     "x1": 512.79,
+     "size": 11.04,
+     "text": "communications,includingvoiceandvideocalls,Lync",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 512.79,
+       "text": "communications,includingvoiceandvideocalls,Lync"
+      }
+     ]
+    },
+    {
+     "y": 365.04,
+     "x0": 236.16,
+     "x1": 545.77,
+     "size": 11.04,
+     "text": "Meetings,presence,instantmessaging,andpersistentchat.",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 545.77,
+       "text": "Meetings,presence,instantmessaging,andpersistentchat."
+      }
+     ]
+    },
+    {
+     "y": 382.08,
+     "x0": 236.16,
+     "x1": 523.19,
+     "size": 11.04,
+     "text": "HavingasingleUCclientapplicationinsteadofmultiple",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 523.19,
+       "text": "HavingasingleUCclientapplicationinsteadofmultiple"
+      }
+     ]
+    },
+    {
+     "y": 399.36,
+     "x0": 236.16,
+     "x1": 539.47,
+     "size": 11.04,
+     "text": "applicationssimplifiesdeployment,adoption,andsupport.",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 539.47,
+       "text": "applicationssimplifiesdeployment,adoption,andsupport."
+      }
+     ]
+    },
+    {
+     "y": 428.64,
+     "x0": 236.16,
+     "x1": 534.95,
+     "size": 11.04,
+     "text": "TheLync2013clientUIwasredesignedtobeintuitiveand",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 534.95,
+       "text": "TheLync2013clientUIwasredesignedtobeintuitiveand"
+      }
+     ]
+    },
+    {
+     "y": 445.92,
+     "x0": 236.16,
+     "x1": 515.04,
+     "size": 11.04,
+     "text": "touchfriendly,buildinguponLync2010–withfamiliar",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 515.04,
+       "text": "touchfriendly,buildinguponLync2010–withfamiliar"
+      }
+     ]
+    },
+    {
+     "y": 463.2,
+     "x0": 236.16,
+     "x1": 517.84,
+     "size": 11.04,
+     "text": "pictures,presence,andcascadinggroupsofcontacts–",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 517.84,
+       "text": "pictures,presence,andcascadinggroupsofcontacts–"
+      }
+     ]
+    },
+    {
+     "y": 480.24,
+     "x0": 236.16,
+     "x1": 552.67,
+     "size": 11.04,
+     "text": "thoughalignedtothenewMicrosoftOfficelookandfeelwith",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 552.67,
+       "text": "thoughalignedtothenewMicrosoftOfficelookandfeelwith"
+      }
+     ]
+    },
+    {
+     "y": 497.52,
+     "x0": 236.16,
+     "x1": 439.29,
+     "size": 11.04,
+     "text": "minimalchrome.Newfeaturesinclude:",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 439.29,
+       "text": "minimalchrome.Newfeaturesinclude:"
+      }
+     ]
+    },
+    {
+     "y": 526.8,
+     "x0": 236.16,
+     "x1": 533.65,
+     "size": 11.04,
+     "text": "§Improvedtouch,useofcommonOfficedesignobjects",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 533.65,
+       "text": "§Improvedtouch,useofcommonOfficedesignobjects"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 792.0,
+   "height": 612.0,
+   "lines": [
+    {
+     "y": 84.0,
+     "x0": 236.16,
+     "x1": 542.68,
+     "size": 11.04,
+     "text": "§Pictures–higherdefinitionviatheMicrosoftpage1end",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 542.68,
+       "text": "§Pictures–higherdefinitionviatheMicrosoftpage1end"
+      }
+     ]
+    },
+    {
+     "y": 113.28,
+     "x0": 236.16,
+     "x1": 297.8,
+     "size": 11.04,
+     "text": "page2start",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 297.8,
+       "text": "page2start"
+      }
+     ]
+    },
+    {
+     "y": 142.56,
+     "x0": 236.16,
+     "x1": 546.54,
+     "size": 11.04,
+     "text": "withasingletouchfromyourWindowsPhone,iPhone,iPad,",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 546.54,
+       "text": "withasingletouchfromyourWindowsPhone,iPhone,iPad,"
+      }
+     ]
+    },
+    {
+     "y": 159.6,
+     "x0": 236.16,
+     "x1": 546.1,
+     "size": 11.04,
+     "text": "NokiaSymbian,orAndroidsmartphone.Andmorethanjust",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 546.1,
+       "text": "NokiaSymbian,orAndroidsmartphone.Andmorethanjust"
+      }
+     ]
+    },
+    {
+     "y": 176.88,
+     "x0": 236.16,
+     "x1": 545.7,
+     "size": 11.04,
+     "text": "LyncMeetings–theseclientsallowyoutostayconnectedto",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 545.7,
+       "text": "LyncMeetings–theseclientsallowyoutostayconnectedto"
+      }
+     ]
+    },
+    {
+     "y": 194.16,
+     "x0": 236.16,
+     "x1": 537.12,
+     "size": 11.04,
+     "text": "yournetworkandcommunicateonthego,whetherbyIM,",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 537.12,
+       "text": "yournetworkandcommunicateonthego,whetherbyIM,"
+      }
+     ]
+    },
+    {
+     "y": 211.44,
+     "x0": 236.16,
+     "x1": 531.72,
+     "size": 11.04,
+     "text": "email,oracall-via-work,allonaLyncclientthathasbeen",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 531.72,
+       "text": "email,oracall-via-work,allonaLyncclientthathasbeen"
+      }
+     ]
+    },
+    {
+     "y": 228.48,
+     "x0": 236.16,
+     "x1": 547.02,
+     "size": 11.04,
+     "text": "designedwithalookandfeelconsistentwiththeunderlying",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 547.02,
+       "text": "designedwithalookandfeelconsistentwiththeunderlying"
+      }
+     ]
+    },
+    {
+     "y": 245.76,
+     "x0": 236.16,
+     "x1": 543.78,
+     "size": 11.04,
+     "text": "platform-specificdesignelementsandgestureinteractions.",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 543.78,
+       "text": "platform-specificdesignelementsandgestureinteractions."
+      }
+     ]
+    },
+    {
+     "y": 275.04,
+     "x0": 236.16,
+     "x1": 543.77,
+     "size": 11.04,
+     "text": "WithourLync2013mobileclients,we’lladdvoiceandvideo",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 543.77,
+       "text": "WithourLync2013mobileclients,we’lladdvoiceandvideo"
+      }
+     ]
+    },
+    {
+     "y": 292.32,
+     "x0": 236.16,
+     "x1": 486.5,
+     "size": 11.04,
+     "text": "overIP,aswellasmoreimmersiveLyncMeeting",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 486.5,
+       "text": "overIP,aswellasmoreimmersiveLyncMeeting"
+      }
+     ]
+    },
+    {
+     "y": 309.6,
+     "x0": 236.16,
+     "x1": 368.15,
+     "size": 11.04,
+     "text": "collaborationcapabilities.",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 368.15,
+       "text": "collaborationcapabilities."
+      }
+     ]
+    },
+    {
+     "y": 340.56,
+     "x0": 236.16,
+     "x1": 371.94,
+     "size": 12.96,
+     "text": "LyncMetroStyleapp",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 371.94,
+       "text": "LyncMetroStyleapp"
+      }
+     ]
+    },
+    {
+     "y": 368.4,
+     "x0": 236.16,
+     "x1": 545.81,
+     "size": 11.04,
+     "text": "TheLyncMetrostyleappisLyncreimaginedandspecifically",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 545.81,
+       "text": "TheLyncMetrostyleappisLyncreimaginedandspecifically"
+      }
+     ]
+    },
+    {
+     "y": 385.68,
+     "x0": 236.16,
+     "x1": 551.65,
+     "size": 11.04,
+     "text": "optimizedfortouchonMicrosoftWindows8(bothx86-based",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 551.65,
+       "text": "optimizedfortouchonMicrosoftWindows8(bothx86-based"
+      }
+     ]
+    },
+    {
+     "y": 402.96,
+     "x0": 236.16,
+     "x1": 428.6,
+     "size": 11.04,
+     "text": "Windows8devicesandWindowsRT).",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 428.6,
+       "text": "Windows8devicesandWindowsRT)."
+      }
+     ]
+    },
+    {
+     "y": 433.92,
+     "x0": 236.16,
+     "x1": 308.49,
+     "size": 12.96,
+     "text": "Introduction",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 308.49,
+       "text": "Introduction"
+      }
+     ]
+    },
+    {
+     "y": 461.76,
+     "x0": 236.16,
+     "x1": 525.14,
+     "size": 11.04,
+     "text": "TheLyncMetrostyleapptakesadvantageofWindows8",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 525.14,
+       "text": "TheLyncMetrostyleapptakesadvantageofWindows8"
+      }
+     ]
+    },
+    {
+     "y": 479.04,
+     "x0": 236.16,
+     "x1": 536.05,
+     "size": 11.04,
+     "text": "\"touchfirst\"capabilitiestoprovidefast,natural,hands-on",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 536.05,
+       "text": "\"touchfirst\"capabilitiestoprovidefast,natural,hands-on"
+      }
+     ]
+    },
+    {
+     "y": 496.32,
+     "x0": 236.16,
+     "x1": 534.86,
+     "size": 11.04,
+     "text": "controlofcommunicationsacrossavarietyofdevicesand",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 534.86,
+       "text": "controlofcommunicationsacrossavarietyofdevicesand"
+      }
+     ]
+    },
+    {
+     "y": 513.6,
+     "x0": 236.16,
+     "x1": 531.48,
+     "size": 11.04,
+     "text": "architectures.TheLyncMetrostyleappbenefitsfromthe",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 531.48,
+       "text": "architectures.TheLyncMetrostyleappbenefitsfromthe"
+      }
+     ]
+    },
+    {
+     "y": 530.64,
+     "x0": 236.16,
+     "x1": 551.49,
+     "size": 11.04,
+     "text": "end-to-endsecurityandstrongpower-managementfeatures",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 551.49,
+       "text": "end-to-endsecurityandstrongpower-managementfeatures"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 792.0,
+   "height": 612.0,
+   "lines": [
+    {
+     "y": 84.0,
+     "x0": 236.16,
+     "x1": 306.14,
+     "size": 11.04,
+     "text": "inpage2end",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 306.14,
+       "text": "inpage2end"
+      }
+     ]
+    },
+    {
+     "y": 113.28,
+     "x0": 236.16,
+     "x1": 486.77,
+     "size": 11.04,
+     "text": "lock-screenupdatestoensurethatnoimportant",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 486.77,
+       "text": "lock-screenupdatestoensurethatnoimportant"
+      }
+     ]
+    },
+    {
+     "y": 130.56,
+     "x0": 236.16,
+     "x1": 322.14,
+     "size": 11.04,
+     "text": "communications",
+     "segments": [
+      {
+       "x0": 236.16,
+       "x1": 322.14,
+       "text": "communications"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

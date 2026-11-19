@@ -1,0 +1,122 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 102.0,
+     "x0": 68.16,
+     "x1": 185.97,
+     "size": 16.08,
+     "text": "Paraadjustments:",
+     "segments": [
+      {
+       "x0": 68.16,
+       "x1": 185.97,
+       "text": "Paraadjustments:"
+      }
+     ]
+    },
+    {
+     "y": 134.4,
+     "x0": 442.56,
+     "x1": 476.27,
+     "size": 16.08,
+     "text": "Right",
+     "segments": [
+      {
+       "x0": 442.56,
+       "x1": 476.27,
+       "text": "Right"
+      }
+     ]
+    },
+    {
+     "y": 166.8,
+     "x0": 68.16,
+     "x1": 164.3,
+     "size": 16.08,
+     "text": "Noadjastment",
+     "segments": [
+      {
+       "x0": 68.16,
+       "x1": 164.3,
+       "text": "Noadjastment"
+      }
+     ]
+    },
+    {
+     "y": 199.2,
+     "x0": 250.32,
+     "x1": 294.08,
+     "size": 16.08,
+     "text": "Center",
+     "segments": [
+      {
+       "x0": 250.32,
+       "x1": 294.08,
+       "text": "Center"
+      }
+     ]
+    },
+    {
+     "y": 231.84,
+     "x0": 68.16,
+     "x1": 164.3,
+     "size": 16.08,
+     "text": "Noadjastment",
+     "segments": [
+      {
+       "x0": 68.16,
+       "x1": 164.3,
+       "text": "Noadjastment"
+      }
+     ]
+    },
+    {
+     "y": 264.48,
+     "x0": 68.16,
+     "x1": 476.06,
+     "size": 16.08,
+     "text": "JustifiedJustifiedJustifiedJustifiedJustifiedJustifiedJustified",
+     "segments": [
+      {
+       "x0": 68.16,
+       "x1": 476.06,
+       "text": "JustifiedJustifiedJustifiedJustifiedJustifiedJustifiedJustified"
+      }
+     ]
+    },
+    {
+     "y": 286.8,
+     "x0": 68.16,
+     "x1": 179.1,
+     "size": 16.08,
+     "text": "JustifiedJustified",
+     "segments": [
+      {
+       "x0": 68.16,
+       "x1": 179.1,
+       "text": "JustifiedJustified"
+      }
+     ]
+    },
+    {
+     "y": 319.2,
+     "x0": 68.16,
+     "x1": 164.3,
+     "size": 16.08,
+     "text": "Noadjastment",
+     "segments": [
+      {
+       "x0": 68.16,
+       "x1": 164.3,
+       "text": "Noadjastment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

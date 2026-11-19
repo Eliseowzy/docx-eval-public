@@ -1,0 +1,266 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 83.28,
+     "x0": 72.0,
+     "x1": 221.43,
+     "size": 12.0,
+     "text": "exact850-sz4-top100before",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 221.43,
+       "text": "exact850-sz4-top100before"
+      }
+     ]
+    },
+    {
+     "y": 102.48,
+     "x0": 77.76,
+     "x1": 416.43,
+     "size": 12.0,
+     "text": "exact850-sz4-top100r1c1exact850-sz4-top100r1c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 216.51,
+       "text": "exact850-sz4-top100r1c1"
+      },
+      {
+       "x0": 277.68,
+       "x1": 416.43,
+       "text": "exact850-sz4-top100r1c2"
+      }
+     ]
+    },
+    {
+     "y": 144.96,
+     "x0": 77.76,
+     "x1": 416.43,
+     "size": 12.0,
+     "text": "exact850-sz4-top100r2c1exact850-sz4-top100r2c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 216.51,
+       "text": "exact850-sz4-top100r2c1"
+      },
+      {
+       "x0": 277.68,
+       "x1": 416.43,
+       "text": "exact850-sz4-top100r2c2"
+      }
+     ]
+    },
+    {
+     "y": 187.68,
+     "x0": 77.76,
+     "x1": 416.43,
+     "size": 12.0,
+     "text": "exact850-sz4-top100r3c1exact850-sz4-top100r3c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 216.51,
+       "text": "exact850-sz4-top100r3c1"
+      },
+      {
+       "x0": 277.68,
+       "x1": 416.43,
+       "text": "exact850-sz4-top100r3c2"
+      }
+     ]
+    },
+    {
+     "y": 230.16,
+     "x0": 77.76,
+     "x1": 416.43,
+     "size": 12.0,
+     "text": "exact850-sz4-top100r4c1exact850-sz4-top100r4c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 216.51,
+       "text": "exact850-sz4-top100r4c1"
+      },
+      {
+       "x0": 277.68,
+       "x1": 416.43,
+       "text": "exact850-sz4-top100r4c2"
+      }
+     ]
+    },
+    {
+     "y": 272.64,
+     "x0": 77.76,
+     "x1": 416.43,
+     "size": 12.0,
+     "text": "exact850-sz4-top100r5c1exact850-sz4-top100r5c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 216.51,
+       "text": "exact850-sz4-top100r5c1"
+      },
+      {
+       "x0": 277.68,
+       "x1": 416.43,
+       "text": "exact850-sz4-top100r5c2"
+      }
+     ]
+    },
+    {
+     "y": 315.12,
+     "x0": 77.76,
+     "x1": 416.43,
+     "size": 12.0,
+     "text": "exact850-sz4-top100r6c1exact850-sz4-top100r6c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 216.51,
+       "text": "exact850-sz4-top100r6c1"
+      },
+      {
+       "x0": 277.68,
+       "x1": 416.43,
+       "text": "exact850-sz4-top100r6c2"
+      }
+     ]
+    },
+    {
+     "y": 357.6,
+     "x0": 77.76,
+     "x1": 416.43,
+     "size": 12.0,
+     "text": "exact850-sz4-top100r7c1exact850-sz4-top100r7c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 216.51,
+       "text": "exact850-sz4-top100r7c1"
+      },
+      {
+       "x0": 277.68,
+       "x1": 416.43,
+       "text": "exact850-sz4-top100r7c2"
+      }
+     ]
+    },
+    {
+     "y": 400.08,
+     "x0": 77.76,
+     "x1": 416.43,
+     "size": 12.0,
+     "text": "exact850-sz4-top100r8c1exact850-sz4-top100r8c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 216.51,
+       "text": "exact850-sz4-top100r8c1"
+      },
+      {
+       "x0": 277.68,
+       "x1": 416.43,
+       "text": "exact850-sz4-top100r8c2"
+      }
+     ]
+    },
+    {
+     "y": 442.56,
+     "x0": 77.76,
+     "x1": 416.43,
+     "size": 12.0,
+     "text": "exact850-sz4-top100r9c1exact850-sz4-top100r9c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 216.51,
+       "text": "exact850-sz4-top100r9c1"
+      },
+      {
+       "x0": 277.68,
+       "x1": 416.43,
+       "text": "exact850-sz4-top100r9c2"
+      }
+     ]
+    },
+    {
+     "y": 485.04,
+     "x0": 77.76,
+     "x1": 423.11,
+     "size": 12.0,
+     "text": "exact850-sz4-top100r10c1exact850-sz4-top100r10c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 223.19,
+       "text": "exact850-sz4-top100r10c1"
+      },
+      {
+       "x0": 277.68,
+       "x1": 423.11,
+       "text": "exact850-sz4-top100r10c2"
+      }
+     ]
+    },
+    {
+     "y": 527.52,
+     "x0": 77.76,
+     "x1": 423.11,
+     "size": 12.0,
+     "text": "exact850-sz4-top100r11c1exact850-sz4-top100r11c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 223.19,
+       "text": "exact850-sz4-top100r11c1"
+      },
+      {
+       "x0": 277.68,
+       "x1": 423.11,
+       "text": "exact850-sz4-top100r11c2"
+      }
+     ]
+    },
+    {
+     "y": 570.0,
+     "x0": 77.76,
+     "x1": 423.11,
+     "size": 12.0,
+     "text": "exact850-sz4-top100r12c1exact850-sz4-top100r12c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 223.19,
+       "text": "exact850-sz4-top100r12c1"
+      },
+      {
+       "x0": 277.68,
+       "x1": 423.11,
+       "text": "exact850-sz4-top100r12c2"
+      }
+     ]
+    },
+    {
+     "y": 607.68,
+     "x0": 72.0,
+     "x1": 211.39,
+     "size": 12.0,
+     "text": "exact850-sz4-top100after",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 211.39,
+       "text": "exact850-sz4-top100after"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

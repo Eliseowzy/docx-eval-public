@@ -1,0 +1,48 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 84.24,
+     "x0": 111.0,
+     "x1": 317.54,
+     "size": 11.04,
+     "text": "Alinewithxml:space=\"preserve\"",
+     "segments": [
+      {
+       "x0": 111.0,
+       "x1": 118.02,
+       "text": "A"
+      },
+      {
+       "x0": 153.0,
+       "x1": 195.36,
+       "text": "linewith"
+      },
+      {
+       "x0": 216.0,
+       "x1": 317.54,
+       "text": "xml:space=\"preserve\""
+      }
+     ]
+    },
+    {
+     "y": 102.24,
+     "x0": 90.0,
+     "x1": 210.16,
+     "size": 11.04,
+     "text": "Alinewithoutxml:space",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 210.16,
+       "text": "Alinewithoutxml:space"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

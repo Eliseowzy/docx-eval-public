@@ -1,0 +1,129 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 225.12,
+   "lines": [
+    {
+     "y": 83.28,
+     "x0": 72.0,
+     "x1": 158.74,
+     "size": 12.0,
+     "text": "float7000before",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 158.74,
+       "text": "float7000before"
+      }
+     ]
+    },
+    {
+     "y": 97.68,
+     "x0": 77.76,
+     "x1": 328.78,
+     "size": 12.0,
+     "text": "float7000r1c1float7000r1c2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 153.82,
+       "text": "float7000r1c1"
+      },
+      {
+       "x0": 252.72,
+       "x1": 328.78,
+       "text": "float7000r1c2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 225.12,
+   "lines": [
+    {
+     "y": 83.28,
+     "x0": 77.76,
+     "x1": 521.54,
+     "size": 12.0,
+     "text": "float7000r2c1float7000r2c2Aftertablewords",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 153.82,
+       "text": "float7000r2c1"
+      },
+      {
+       "x0": 252.72,
+       "x1": 328.78,
+       "text": "float7000r2c2"
+      },
+      {
+       "x0": 431.5,
+       "x1": 521.54,
+       "text": "Aftertablewords"
+      }
+     ]
+    },
+    {
+     "y": 96.96,
+     "x0": 431.5,
+     "x1": 518.23,
+     "size": 12.0,
+     "text": "wraparoundthe",
+     "segments": [
+      {
+       "x0": 431.5,
+       "x1": 518.23,
+       "text": "wraparoundthe"
+      }
+     ]
+    },
+    {
+     "y": 110.88,
+     "x0": 431.5,
+     "x1": 517.53,
+     "size": 12.0,
+     "text": "finalrowsofthis",
+     "segments": [
+      {
+       "x0": 431.5,
+       "x1": 517.53,
+       "text": "finalrowsofthis"
+      }
+     ]
+    },
+    {
+     "y": 124.56,
+     "x0": 431.5,
+     "x1": 522.85,
+     "size": 12.0,
+     "text": "floatingtableand",
+     "segments": [
+      {
+       "x0": 431.5,
+       "x1": 522.85,
+       "text": "floatingtableand"
+      }
+     ]
+    },
+    {
+     "y": 138.48,
+     "x0": 72.0,
+     "x1": 187.44,
+     "size": 12.0,
+     "text": "continueonthepage.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 187.44,
+       "text": "continueonthepage."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

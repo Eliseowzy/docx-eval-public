@@ -1,0 +1,64 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 182.64,
+     "x0": 72.0,
+     "x1": 113.52,
+     "size": 11.04,
+     "text": "Firstpara",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 113.52,
+       "text": "Firstpara"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 82.56,
+     "x0": 72.0,
+     "x1": 144.97,
+     "size": 11.04,
+     "text": "a)erpagebreak",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 144.97,
+       "text": "a)erpagebreak"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 174.48,
+     "x0": 72.0,
+     "x1": 155.5,
+     "size": 11.04,
+     "text": "a)ersec/onbreak",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 155.5,
+       "text": "a)ersec/onbreak"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

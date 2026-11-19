@@ -1,0 +1,15 @@
+{
+ "name": "dev-65549f0e",
+ "created": "2026-11-14T22:35:28",
+ "engineInfo": {
+  "engine": "betteroffice",
+  "repo": "work/engines/nimble-65549f0e",
+  "commit": "65549f0e05e5edf91bd0edc85de94d55345d93c7",
+  "branch": "",
+  "dirty": false
+ },
+ "word": "16.114.26110224",
+ "select": [],
+ "note": "dev-set gate for zh-2026-11 holdout: 0-regression check vs baseline",
+ "wordFontSubstitutions": true
+}

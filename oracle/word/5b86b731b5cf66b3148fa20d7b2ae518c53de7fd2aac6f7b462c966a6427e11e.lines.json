@@ -1,0 +1,38 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 88.08,
+     "x0": 79.2,
+     "x1": 427.17,
+     "size": 12.0,
+     "text": "20mmrowheightatLeast,border6pt==2,11667mm==120twip",
+     "segments": [
+      {
+       "x0": 79.2,
+       "x1": 427.17,
+       "text": "20mmrowheightatLeast,border6pt==2,11667mm==120twip"
+      }
+     ]
+    },
+    {
+     "y": 102.0,
+     "x0": 79.2,
+     "x1": 331.46,
+     "size": 12.0,
+     "text": "Resultsin22,11667mmrowheight~1253twip",
+     "segments": [
+      {
+       "x0": 79.2,
+       "x1": 331.46,
+       "text": "Resultsin22,11667mmrowheight~1253twip"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

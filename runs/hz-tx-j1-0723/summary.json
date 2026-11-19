@@ -1,0 +1,88 @@
+{
+ "totals": {
+  "cases": 2,
+  "errors": 0,
+  "scored": 2,
+  "pageParity": 1.0,
+  "lineParity": 0.3087,
+  "localParity": 0.4417,
+  "defects": 1620,
+  "invariantViolations": 0,
+  "casesWithViolations": 0
+ },
+ "groups": {
+  "layout/corpus/zh-2026-11": {
+   "cases": 2,
+   "errors": 0,
+   "scored": 2,
+   "pageParity": 1.0,
+   "lineParity": 0.3087,
+   "localParity": 0.4417,
+   "defects": 1620,
+   "invariantViolations": 0,
+   "casesWithViolations": 0
+  }
+ },
+ "cases": [
+  {
+   "case": "layout/corpus/zh-2026-11/gov-table/072-2025111109293887610.docx",
+   "sha": "7dd25f57ed98641bf59167fb126185928ac5d2a1326d5c105246829319a4a4d0",
+   "group": "layout/corpus/zh-2026-11",
+   "enginePages": 158,
+   "pages": {
+    "word": 158,
+    "engine": 158
+   },
+   "pageParity": true,
+   "lineParity": 0.4669,
+   "localParity": 0.729,
+   "defects": 805,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 267.12,
+    "text": "计算书号组分被身份证号码投保受损受损定损",
+    "wordLines": 6,
+    "engineLines": 6
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "计算书号组分被身份证号码投保受损受损定损",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/corpus/zh-2026-11/gov-table/073-2025111109293813035.docx",
+   "sha": "154e4437b984d991aad79da8235deeb3ee834d297eee4d1ff83b834010b695ef",
+   "group": "layout/corpus/zh-2026-11",
+   "enginePages": 177,
+   "pages": {
+    "word": 177,
+    "engine": 177
+   },
+   "pageParity": true,
+   "lineParity": 0.1506,
+   "localParity": 0.1544,
+   "defects": 815,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 286.32,
+    "text": "631E72211224250000024二1昌图县9321",
+    "wordLines": 2,
+    "engineLines": 2
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "631E72211224250000024二1昌图县9321",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "name": "hz-tx-j1-0723",
+ "created": "2026-11-14T23:30:42",
+ "engineInfo": {
+  "engine": "tencent",
+  "repo": "$WORKBUDDY_APP/Contents/Resources/app.asar.unpacked/node_modules/@tencent/tencent-docs-ai-engine/bin/darwin-arm64/editor_sdk",
+  "version": "Editor SDK Server\nVersion: 0.0.0.533\nChannel: common\nBuild Time: 2026-10-19T10:38:05Z",
+  "sha256_16": "d29a67b869431652",
+  "appVersion": "",
+  "branch": "",
+  "dirty": false
+ },
+ "word": "16.114.26110224",
+ "select": [
+  "layout/corpus/zh-2026-11/gov-table/072-2025111109293887610.docx",
+  "layout/corpus/zh-2026-11/gov-table/073-2025111109293813035.docx"
+ ],
+ "note": "",
+ "wordFontSubstitutions": true
+}

@@ -1,0 +1,654 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 96.24,
+     "x0": 84.96,
+     "x1": 534.39,
+     "size": 11.04,
+     "text": "1.Videoprovidesapowerfulwaytohelpyouproveyourpoint.WhenyouclickOnlineVideo,",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 534.39,
+       "text": "1.Videoprovidesapowerfulwaytohelpyouproveyourpoint.WhenyouclickOnlineVideo,"
+      }
+     ]
+    },
+    {
+     "y": 110.4,
+     "x0": 84.96,
+     "x1": 538.24,
+     "size": 11.04,
+     "text": "youcanpasteintheembedcodeforthevideoyouwanttoadd.Youcanalsotypeakeyword",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 538.24,
+       "text": "youcanpasteintheembedcodeforthevideoyouwanttoadd.Youcanalsotypeakeyword"
+      }
+     ]
+    },
+    {
+     "y": 124.32,
+     "x0": 84.96,
+     "x1": 512.37,
+     "size": 11.04,
+     "text": "tosearchonlineforthevideothatbestfitsyourdocument.Tomakeyourdocumentlook",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 512.37,
+       "text": "tosearchonlineforthevideothatbestfitsyourdocument.Tomakeyourdocumentlook"
+      }
+     ]
+    },
+    {
+     "y": 134.4,
+     "x0": 51.12,
+     "x1": 69.4,
+     "size": 11.04,
+     "text": "Box",
+     "segments": [
+      {
+       "x0": 51.12,
+       "x1": 69.4,
+       "text": "Box"
+      }
+     ]
+    },
+    {
+     "y": 138.24,
+     "x0": 84.96,
+     "x1": 517.33,
+     "size": 11.04,
+     "text": "professionallyproduced,Wordprovidesheader,footer,coverpage,andtextboxdesigns",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 517.33,
+       "text": "professionallyproduced,Wordprovidesheader,footer,coverpage,andtextboxdesigns"
+      }
+     ]
+    },
+    {
+     "y": 152.4,
+     "x0": 84.96,
+     "x1": 224.33,
+     "size": 11.04,
+     "text": "thatcomplementeachother.",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 224.33,
+       "text": "thatcomplementeachother."
+      }
+     ]
+    },
+    {
+     "y": 166.32,
+     "x0": 84.96,
+     "x1": 534.39,
+     "size": 11.04,
+     "text": "2.Videoprovidesapowerfulwaytohelpyouproveyourpoint.WhenyouclickOnlineVideo,",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 534.39,
+       "text": "2.Videoprovidesapowerfulwaytohelpyouproveyourpoint.WhenyouclickOnlineVideo,"
+      }
+     ]
+    },
+    {
+     "y": 180.24,
+     "x0": 84.96,
+     "x1": 538.24,
+     "size": 11.04,
+     "text": "youcanpasteintheembedcodeforthevideoyouwanttoadd.Youcanalsotypeakeyword",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 538.24,
+       "text": "youcanpasteintheembedcodeforthevideoyouwanttoadd.Youcanalsotypeakeyword"
+      }
+     ]
+    },
+    {
+     "y": 194.4,
+     "x0": 84.96,
+     "x1": 512.37,
+     "size": 11.04,
+     "text": "tosearchonlineforthevideothatbestfitsyourdocument.Tomakeyourdocumentlook",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 512.37,
+       "text": "tosearchonlineforthevideothatbestfitsyourdocument.Tomakeyourdocumentlook"
+      }
+     ]
+    },
+    {
+     "y": 208.32,
+     "x0": 84.96,
+     "x1": 517.33,
+     "size": 11.04,
+     "text": "professionallyproduced,Wordprovidesheader,footer,coverpage,andtextboxdesigns",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 517.33,
+       "text": "professionallyproduced,Wordprovidesheader,footer,coverpage,andtextboxdesigns"
+      }
+     ]
+    },
+    {
+     "y": 222.24,
+     "x0": 84.96,
+     "x1": 224.33,
+     "size": 11.04,
+     "text": "thatcomplementeachother.",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 224.33,
+       "text": "thatcomplementeachother."
+      }
+     ]
+    },
+    {
+     "y": 236.4,
+     "x0": 84.96,
+     "x1": 534.39,
+     "size": 11.04,
+     "text": "3.Videoprovidesapowerfulwaytohelpyouproveyourpoint.WhenyouclickOnlineVideo,",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 534.39,
+       "text": "3.Videoprovidesapowerfulwaytohelpyouproveyourpoint.WhenyouclickOnlineVideo,"
+      }
+     ]
+    },
+    {
+     "y": 250.32,
+     "x0": 84.96,
+     "x1": 538.24,
+     "size": 11.04,
+     "text": "youcanpasteintheembedcodeforthevideoyouwanttoadd.Youcanalsotypeakeyword",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 538.24,
+       "text": "youcanpasteintheembedcodeforthevideoyouwanttoadd.Youcanalsotypeakeyword"
+      }
+     ]
+    },
+    {
+     "y": 264.24,
+     "x0": 84.96,
+     "x1": 512.37,
+     "size": 11.04,
+     "text": "tosearchonlineforthevideothatbestfitsyourdocument.Tomakeyourdocumentlook",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 512.37,
+       "text": "tosearchonlineforthevideothatbestfitsyourdocument.Tomakeyourdocumentlook"
+      }
+     ]
+    },
+    {
+     "y": 278.4,
+     "x0": 84.96,
+     "x1": 517.33,
+     "size": 11.04,
+     "text": "professionallyproduced,Wordprovidesheader,footer,coverpage,andtextboxdesigns",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 517.33,
+       "text": "professionallyproduced,Wordprovidesheader,footer,coverpage,andtextboxdesigns"
+      }
+     ]
+    },
+    {
+     "y": 292.32,
+     "x0": 84.96,
+     "x1": 224.33,
+     "size": 11.04,
+     "text": "thatcomplementeachother.",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 224.33,
+       "text": "thatcomplementeachother."
+      }
+     ]
+    },
+    {
+     "y": 306.24,
+     "x0": 84.96,
+     "x1": 534.39,
+     "size": 11.04,
+     "text": "4.Videoprovidesapowerfulwaytohelpyouproveyourpoint.WhenyouclickOnlineVideo,",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 534.39,
+       "text": "4.Videoprovidesapowerfulwaytohelpyouproveyourpoint.WhenyouclickOnlineVideo,"
+      }
+     ]
+    },
+    {
+     "y": 320.4,
+     "x0": 84.96,
+     "x1": 538.24,
+     "size": 11.04,
+     "text": "youcanpasteintheembedcodeforthevideoyouwanttoadd.Youcanalsotypeakeyword",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 538.24,
+       "text": "youcanpasteintheembedcodeforthevideoyouwanttoadd.Youcanalsotypeakeyword"
+      }
+     ]
+    },
+    {
+     "y": 334.32,
+     "x0": 84.96,
+     "x1": 512.37,
+     "size": 11.04,
+     "text": "tosearchonlineforthevideothatbestfitsyourdocument.Tomakeyourdocumentlook",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 512.37,
+       "text": "tosearchonlineforthevideothatbestfitsyourdocument.Tomakeyourdocumentlook"
+      }
+     ]
+    },
+    {
+     "y": 348.24,
+     "x0": 84.96,
+     "x1": 517.33,
+     "size": 11.04,
+     "text": "professionallyproduced,Wordprovidesheader,footer,coverpage,andtextboxdesigns",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 517.33,
+       "text": "professionallyproduced,Wordprovidesheader,footer,coverpage,andtextboxdesigns"
+      }
+     ]
+    },
+    {
+     "y": 362.4,
+     "x0": 84.96,
+     "x1": 224.33,
+     "size": 11.04,
+     "text": "thatcomplementeachother.",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 224.33,
+       "text": "thatcomplementeachother."
+      }
+     ]
+    },
+    {
+     "y": 376.32,
+     "x0": 84.96,
+     "x1": 534.39,
+     "size": 11.04,
+     "text": "5.Videoprovidesapowerfulwaytohelpyouproveyourpoint.WhenyouclickOnlineVideo,",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 534.39,
+       "text": "5.Videoprovidesapowerfulwaytohelpyouproveyourpoint.WhenyouclickOnlineVideo,"
+      }
+     ]
+    },
+    {
+     "y": 390.24,
+     "x0": 84.96,
+     "x1": 538.24,
+     "size": 11.04,
+     "text": "youcanpasteintheembedcodeforthevideoyouwanttoadd.Youcanalsotypeakeyword",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 538.24,
+       "text": "youcanpasteintheembedcodeforthevideoyouwanttoadd.Youcanalsotypeakeyword"
+      }
+     ]
+    },
+    {
+     "y": 404.4,
+     "x0": 84.96,
+     "x1": 512.37,
+     "size": 11.04,
+     "text": "tosearchonlineforthevideothatbestfitsyourdocument.Tomakeyourdocumentlook",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 512.37,
+       "text": "tosearchonlineforthevideothatbestfitsyourdocument.Tomakeyourdocumentlook"
+      }
+     ]
+    },
+    {
+     "y": 418.32,
+     "x0": 84.96,
+     "x1": 517.33,
+     "size": 11.04,
+     "text": "professionallyproduced,Wordprovidesheader,footer,coverpage,andtextboxdesigns",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 517.33,
+       "text": "professionallyproduced,Wordprovidesheader,footer,coverpage,andtextboxdesigns"
+      }
+     ]
+    },
+    {
+     "y": 432.24,
+     "x0": 84.96,
+     "x1": 224.33,
+     "size": 11.04,
+     "text": "thatcomplementeachother.",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 224.33,
+       "text": "thatcomplementeachother."
+      }
+     ]
+    },
+    {
+     "y": 446.4,
+     "x0": 84.96,
+     "x1": 534.39,
+     "size": 11.04,
+     "text": "6.Videoprovidesapowerfulwaytohelpyouproveyourpoint.WhenyouclickOnlineVideo,",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 534.39,
+       "text": "6.Videoprovidesapowerfulwaytohelpyouproveyourpoint.WhenyouclickOnlineVideo,"
+      }
+     ]
+    },
+    {
+     "y": 460.32,
+     "x0": 84.96,
+     "x1": 538.24,
+     "size": 11.04,
+     "text": "youcanpasteintheembedcodeforthevideoyouwanttoadd.Youcanalsotypeakeyword",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 538.24,
+       "text": "youcanpasteintheembedcodeforthevideoyouwanttoadd.Youcanalsotypeakeyword"
+      }
+     ]
+    },
+    {
+     "y": 474.24,
+     "x0": 84.96,
+     "x1": 512.37,
+     "size": 11.04,
+     "text": "tosearchonlineforthevideothatbestfitsyourdocument.Tomakeyourdocumentlook",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 512.37,
+       "text": "tosearchonlineforthevideothatbestfitsyourdocument.Tomakeyourdocumentlook"
+      }
+     ]
+    },
+    {
+     "y": 488.4,
+     "x0": 84.96,
+     "x1": 517.33,
+     "size": 11.04,
+     "text": "professionallyproduced,Wordprovidesheader,footer,coverpage,andtextboxdesigns",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 517.33,
+       "text": "professionallyproduced,Wordprovidesheader,footer,coverpage,andtextboxdesigns"
+      }
+     ]
+    },
+    {
+     "y": 502.32,
+     "x0": 84.96,
+     "x1": 224.33,
+     "size": 11.04,
+     "text": "thatcomplementeachother.",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 224.33,
+       "text": "thatcomplementeachother."
+      }
+     ]
+    },
+    {
+     "y": 516.24,
+     "x0": 84.96,
+     "x1": 534.39,
+     "size": 11.04,
+     "text": "7.Videoprovidesapowerfulwaytohelpyouproveyourpoint.WhenyouclickOnlineVideo,",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 534.39,
+       "text": "7.Videoprovidesapowerfulwaytohelpyouproveyourpoint.WhenyouclickOnlineVideo,"
+      }
+     ]
+    },
+    {
+     "y": 530.4,
+     "x0": 84.96,
+     "x1": 538.24,
+     "size": 11.04,
+     "text": "youcanpasteintheembedcodeforthevideoyouwanttoadd.Youcanalsotypeakeyword",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 538.24,
+       "text": "youcanpasteintheembedcodeforthevideoyouwanttoadd.Youcanalsotypeakeyword"
+      }
+     ]
+    },
+    {
+     "y": 544.32,
+     "x0": 84.96,
+     "x1": 512.37,
+     "size": 11.04,
+     "text": "tosearchonlineforthevideothatbestfitsyourdocument.Tomakeyourdocumentlook",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 512.37,
+       "text": "tosearchonlineforthevideothatbestfitsyourdocument.Tomakeyourdocumentlook"
+      }
+     ]
+    },
+    {
+     "y": 558.24,
+     "x0": 84.96,
+     "x1": 517.33,
+     "size": 11.04,
+     "text": "professionallyproduced,Wordprovidesheader,footer,coverpage,andtextboxdesigns",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 517.33,
+       "text": "professionallyproduced,Wordprovidesheader,footer,coverpage,andtextboxdesigns"
+      }
+     ]
+    },
+    {
+     "y": 572.4,
+     "x0": 84.96,
+     "x1": 224.33,
+     "size": 11.04,
+     "text": "thatcomplementeachother.",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 224.33,
+       "text": "thatcomplementeachother."
+      }
+     ]
+    },
+    {
+     "y": 586.32,
+     "x0": 84.96,
+     "x1": 534.39,
+     "size": 11.04,
+     "text": "8.Videoprovidesapowerfulwaytohelpyouproveyourpoint.WhenyouclickOnlineVideo,",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 534.39,
+       "text": "8.Videoprovidesapowerfulwaytohelpyouproveyourpoint.WhenyouclickOnlineVideo,"
+      }
+     ]
+    },
+    {
+     "y": 600.24,
+     "x0": 84.96,
+     "x1": 538.24,
+     "size": 11.04,
+     "text": "youcanpasteintheembedcodeforthevideoyouwanttoadd.Youcanalsotypeakeyword",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 538.24,
+       "text": "youcanpasteintheembedcodeforthevideoyouwanttoadd.Youcanalsotypeakeyword"
+      }
+     ]
+    },
+    {
+     "y": 614.4,
+     "x0": 84.96,
+     "x1": 512.37,
+     "size": 11.04,
+     "text": "tosearchonlineforthevideothatbestfitsyourdocument.Tomakeyourdocumentlook",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 512.37,
+       "text": "tosearchonlineforthevideothatbestfitsyourdocument.Tomakeyourdocumentlook"
+      }
+     ]
+    },
+    {
+     "y": 628.32,
+     "x0": 84.96,
+     "x1": 517.33,
+     "size": 11.04,
+     "text": "professionallyproduced,Wordprovidesheader,footer,coverpage,andtextboxdesigns",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 517.33,
+       "text": "professionallyproduced,Wordprovidesheader,footer,coverpage,andtextboxdesigns"
+      }
+     ]
+    },
+    {
+     "y": 642.24,
+     "x0": 84.96,
+     "x1": 224.33,
+     "size": 11.04,
+     "text": "thatcomplementeachother.",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 224.33,
+       "text": "thatcomplementeachother."
+      }
+     ]
+    },
+    {
+     "y": 656.4,
+     "x0": 84.96,
+     "x1": 534.39,
+     "size": 11.04,
+     "text": "9.Videoprovidesapowerfulwaytohelpyouproveyourpoint.WhenyouclickOnlineVideo,",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 534.39,
+       "text": "9.Videoprovidesapowerfulwaytohelpyouproveyourpoint.WhenyouclickOnlineVideo,"
+      }
+     ]
+    },
+    {
+     "y": 670.32,
+     "x0": 84.96,
+     "x1": 538.24,
+     "size": 11.04,
+     "text": "youcanpasteintheembedcodeforthevideoyouwanttoadd.Youcanalsotypeakeyword",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 538.24,
+       "text": "youcanpasteintheembedcodeforthevideoyouwanttoadd.Youcanalsotypeakeyword"
+      }
+     ]
+    },
+    {
+     "y": 684.24,
+     "x0": 84.96,
+     "x1": 512.37,
+     "size": 11.04,
+     "text": "tosearchonlineforthevideothatbestfitsyourdocument.Tomakeyourdocumentlook",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 512.37,
+       "text": "tosearchonlineforthevideothatbestfitsyourdocument.Tomakeyourdocumentlook"
+      }
+     ]
+    },
+    {
+     "y": 698.4,
+     "x0": 84.96,
+     "x1": 517.33,
+     "size": 11.04,
+     "text": "professionallyproduced,Wordprovidesheader,footer,coverpage,andtextboxdesigns",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 517.33,
+       "text": "professionallyproduced,Wordprovidesheader,footer,coverpage,andtextboxdesigns"
+      }
+     ]
+    },
+    {
+     "y": 712.32,
+     "x0": 84.96,
+     "x1": 224.33,
+     "size": 11.04,
+     "text": "thatcomplementeachother.",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 224.33,
+       "text": "thatcomplementeachother."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

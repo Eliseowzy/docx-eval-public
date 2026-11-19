@@ -1,0 +1,29 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 161.48,
+     "x0": 54.72,
+     "x1": 489.14,
+     "size": 8.96,
+     "text": "baselinenewcontent删除了:oldcontent",
+     "segments": [
+      {
+       "x0": 54.72,
+       "x1": 135.46,
+       "text": "baselinenewcontent"
+      },
+      {
+       "x0": 430.5,
+       "x1": 489.14,
+       "text": "删除了:oldcontent"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 143.52,
+     "x0": 95.7,
+     "x1": 124.09,
+     "size": 6.0,
+     "text": "Zufahrtfür",
+     "segments": [
+      {
+       "x0": 95.7,
+       "x1": 124.09,
+       "text": "Zufahrtfür"
+      }
+     ]
+    },
+    {
+     "y": 151.44,
+     "x0": 95.7,
+     "x1": 134.74,
+     "size": 6.0,
+     "text": "Rollstuhlfahrer",
+     "segments": [
+      {
+       "x0": 95.7,
+       "x1": 134.74,
+       "text": "Rollstuhlfahrer"
+      }
+     ]
+    },
+    {
+     "y": 159.6,
+     "x0": 70.8,
+     "x1": 133.22,
+     "size": 6.0,
+     "text": "zumEGüberdieRampe",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 133.22,
+       "text": "zumEGüberdieRampe"
+      }
+     ]
+    },
+    {
+     "y": 167.52,
+     "x0": 70.8,
+     "x1": 116.73,
+     "size": 6.0,
+     "text": "amHaupteingang",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 116.73,
+       "text": "amHaupteingang"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

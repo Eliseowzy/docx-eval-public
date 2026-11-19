@@ -1,0 +1,38 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 254.16,
+     "x0": 62.4,
+     "x1": 376.19,
+     "size": 10.08,
+     "text": "vulputatenislcommodo.Proinaliquetturpisacposuerecommodo.",
+     "segments": [
+      {
+       "x0": 62.4,
+       "x1": 376.19,
+       "text": "vulputatenislcommodo.Proinaliquetturpisacposuerecommodo."
+      }
+     ]
+    },
+    {
+     "y": 267.6,
+     "x0": 62.4,
+     "x1": 246.36,
+     "size": 10.08,
+     "text": "Curabiturfacilisismaurisacnulladapibus",
+     "segments": [
+      {
+       "x0": 62.4,
+       "x1": 246.36,
+       "text": "Curabiturfacilisismaurisacnulladapibus"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

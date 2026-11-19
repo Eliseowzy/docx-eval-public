@@ -1,0 +1,170 @@
+{
+ "pages": [
+  {
+   "width": 792.0,
+   "height": 612.0,
+   "lines": [
+    {
+     "y": 193.92,
+     "x0": 207.81,
+     "x1": 223.15,
+     "size": 12.0,
+     "text": "A1",
+     "segments": [
+      {
+       "x0": 207.81,
+       "x1": 223.15,
+       "text": "A1"
+      }
+     ]
+    },
+    {
+     "y": 227.04,
+     "x0": 77.76,
+     "x1": 89.72,
+     "size": 11.04,
+     "text": "A2",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 89.72,
+       "text": "A2"
+      }
+     ]
+    },
+    {
+     "y": 331.2,
+     "x0": 77.76,
+     "x1": 89.72,
+     "size": 11.04,
+     "text": "A3",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 89.72,
+       "text": "A3"
+      }
+     ]
+    },
+    {
+     "y": 465.36,
+     "x0": 77.76,
+     "x1": 346.03,
+     "size": 11.04,
+     "text": "Loremipsumdolorsitamet,consecteturadipisicingelit,sed",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 346.03,
+       "text": "Loremipsumdolorsitamet,consecteturadipisicingelit,sed"
+      }
+     ]
+    },
+    {
+     "y": 478.8,
+     "x0": 77.76,
+     "x1": 332.65,
+     "size": 11.04,
+     "text": "doeiusmodtemporincididuntutlaboreetdoloremagna",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 332.65,
+       "text": "doeiusmodtemporincididuntutlaboreetdoloremagna"
+      }
+     ]
+    },
+    {
+     "y": 492.24,
+     "x0": 77.76,
+     "x1": 342.61,
+     "size": 11.04,
+     "text": "aliqua.Utenimadminimveniam,quisnostrudexercitation",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 342.61,
+       "text": "aliqua.Utenimadminimveniam,quisnostrudexercitation"
+      }
+     ]
+    },
+    {
+     "y": 505.68,
+     "x0": 77.76,
+     "x1": 355.35,
+     "size": 11.04,
+     "text": "ullamcolaborisnisiutaliquipexeacommodoconsequat.Duis",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 355.35,
+       "text": "ullamcolaborisnisiutaliquipexeacommodoconsequat.Duis"
+      }
+     ]
+    },
+    {
+     "y": 519.12,
+     "x0": 77.76,
+     "x1": 353.34,
+     "size": 11.04,
+     "text": "auteiruredolorinreprehenderitinvoluptatevelitessecillum",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 353.34,
+       "text": "auteiruredolorinreprehenderitinvoluptatevelitessecillum"
+      }
+     ]
+    },
+    {
+     "y": 532.56,
+     "x0": 77.76,
+     "x1": 322.63,
+     "size": 11.04,
+     "text": "doloreeufugiatnullapariatur.Excepteursintoccaecat",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 322.63,
+       "text": "doloreeufugiatnullapariatur.Excepteursintoccaecat"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 792.0,
+   "height": 612.0,
+   "lines": [
+    {
+     "y": 83.04,
+     "x0": 77.76,
+     "x1": 332.27,
+     "size": 11.04,
+     "text": "cupidatatnonproident,suntinculpaquiofficiadeserunt",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 332.27,
+       "text": "cupidatatnonproident,suntinculpaquiofficiadeserunt"
+      }
+     ]
+    },
+    {
+     "y": 96.48,
+     "x0": 77.76,
+     "x1": 198.27,
+     "size": 11.04,
+     "text": "mollitanimidestlaborum.",
+     "segments": [
+      {
+       "x0": 77.76,
+       "x1": 198.27,
+       "text": "mollitanimidestlaborum."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

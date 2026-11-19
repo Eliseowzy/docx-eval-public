@@ -1,0 +1,206 @@
+{
+ "pages": [
+  {
+   "width": 595.44,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 82.32,
+     "x0": 352.32,
+     "x1": 524.81,
+     "size": 11.04,
+     "text": "alphabetagammadeltaalphabeta",
+     "segments": [
+      {
+       "x0": 352.32,
+       "x1": 524.81,
+       "text": "alphabetagammadeltaalphabeta"
+      }
+     ]
+    },
+    {
+     "y": 94.8,
+     "x0": 352.32,
+     "x1": 537.02,
+     "size": 11.04,
+     "text": "gammadeltaalphabetagammadelta",
+     "segments": [
+      {
+       "x0": 352.32,
+       "x1": 537.02,
+       "text": "gammadeltaalphabetagammadelta"
+      }
+     ]
+    },
+    {
+     "y": 107.52,
+     "x0": 352.32,
+     "x1": 524.81,
+     "size": 11.04,
+     "text": "alphabetagammadeltaalphabeta",
+     "segments": [
+      {
+       "x0": 352.32,
+       "x1": 524.81,
+       "text": "alphabetagammadeltaalphabeta"
+      }
+     ]
+    },
+    {
+     "y": 120.24,
+     "x0": 352.32,
+     "x1": 537.02,
+     "size": 11.04,
+     "text": "gammadeltaalphabetagammadelta",
+     "segments": [
+      {
+       "x0": 352.32,
+       "x1": 537.02,
+       "text": "gammadeltaalphabetagammadelta"
+      }
+     ]
+    },
+    {
+     "y": 132.96,
+     "x0": 352.32,
+     "x1": 524.81,
+     "size": 11.04,
+     "text": "alphabetagammadeltaalphabeta",
+     "segments": [
+      {
+       "x0": 352.32,
+       "x1": 524.81,
+       "text": "alphabetagammadeltaalphabeta"
+      }
+     ]
+    },
+    {
+     "y": 145.44,
+     "x0": 352.32,
+     "x1": 537.02,
+     "size": 11.04,
+     "text": "gammadeltaalphabetagammadelta",
+     "segments": [
+      {
+       "x0": 352.32,
+       "x1": 537.02,
+       "text": "gammadeltaalphabetagammadelta"
+      }
+     ]
+    },
+    {
+     "y": 158.16,
+     "x0": 352.32,
+     "x1": 524.81,
+     "size": 11.04,
+     "text": "alphabetagammadeltaalphabeta",
+     "segments": [
+      {
+       "x0": 352.32,
+       "x1": 524.81,
+       "text": "alphabetagammadeltaalphabeta"
+      }
+     ]
+    },
+    {
+     "y": 170.88,
+     "x0": 352.32,
+     "x1": 537.02,
+     "size": 11.04,
+     "text": "gammadeltaalphabetagammadelta",
+     "segments": [
+      {
+       "x0": 352.32,
+       "x1": 537.02,
+       "text": "gammadeltaalphabetagammadelta"
+      }
+     ]
+    },
+    {
+     "y": 183.36,
+     "x0": 352.32,
+     "x1": 524.81,
+     "size": 11.04,
+     "text": "alphabetagammadeltaalphabeta",
+     "segments": [
+      {
+       "x0": 352.32,
+       "x1": 524.81,
+       "text": "alphabetagammadeltaalphabeta"
+      }
+     ]
+    },
+    {
+     "y": 196.08,
+     "x0": 352.32,
+     "x1": 537.02,
+     "size": 11.04,
+     "text": "gammadeltaalphabetagammadelta",
+     "segments": [
+      {
+       "x0": 352.32,
+       "x1": 537.02,
+       "text": "gammadeltaalphabetagammadelta"
+      }
+     ]
+    },
+    {
+     "y": 206.4,
+     "x0": 70.8,
+     "x1": 160.75,
+     "size": 11.04,
+     "text": "captionalphabeta",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 160.75,
+       "text": "captionalphabeta"
+      }
+     ]
+    },
+    {
+     "y": 208.8,
+     "x0": 352.32,
+     "x1": 379.25,
+     "size": 11.04,
+     "text": "alpha",
+     "segments": [
+      {
+       "x0": 352.32,
+       "x1": 379.25,
+       "text": "alpha"
+      }
+     ]
+    },
+    {
+     "y": 219.12,
+     "x0": 70.8,
+     "x1": 172.96,
+     "size": 11.04,
+     "text": "captiongammadelta",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 172.96,
+       "text": "captiongammadelta"
+      }
+     ]
+    },
+    {
+     "y": 246.72,
+     "x0": 70.8,
+     "x1": 182.14,
+     "size": 12.0,
+     "text": "MARKERHEADING",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 182.14,
+       "text": "MARKERHEADING"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

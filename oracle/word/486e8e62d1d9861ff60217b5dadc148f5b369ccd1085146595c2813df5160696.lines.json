@@ -1,0 +1,52 @@
+{
+ "pages": [
+  {
+   "width": 792.0,
+   "height": 523.92,
+   "lines": [
+    {
+     "y": 45.12,
+     "x0": 72.72,
+     "x1": 106.15,
+     "size": 11.04,
+     "text": "intable",
+     "segments": [
+      {
+       "x0": 72.72,
+       "x1": 106.15,
+       "text": "intable"
+      }
+     ]
+    },
+    {
+     "y": 132.24,
+     "x0": 72.0,
+     "x1": 126.36,
+     "size": 11.04,
+     "text": "beforetable",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 126.36,
+       "text": "beforetable"
+      }
+     ]
+    },
+    {
+     "y": 157.68,
+     "x0": 72.0,
+     "x1": 118.26,
+     "size": 11.04,
+     "text": "a*ertable",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 118.26,
+       "text": "a*ertable"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

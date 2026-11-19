@@ -1,0 +1,22 @@
+{
+ "origin": "docx-eval",
+ "license": "base/shell.docx and generated .docx: Apache-2.0 (the shell is a copy of a NimbleOffice fixture; generated variants inherit its license); generate.py, read.py and meta.json: CC0-1.0",
+ "redistributable": true,
+ "tags": [
+  "synthetic",
+  "rule-family",
+  "line-breaking",
+  "latin"
+ ],
+ "generator": "generate.py",
+ "reader": "read.py <run>  (prints Word's and the engine's decision per probe)",
+ "word": [
+  "Word 16.114, compat 14 and 15 alike: a line breaks after a space, '-', U+2010, U+2013, U+2014 and after 、。，",
+  "no break after / ? ! } | or a bare U+00AD when a letter follows (UAX-14 allows these): the whole token moves",
+  "no break after , . : ; ) ] % & + = _ ~ * @ # ' ’ \" U+2011 U+00A0 either"
+ ],
+ "engine": "ooxml-text word_break_opportunities (NimbleOffice fork)",
+ "knownDifferences": {
+  "U+00AD": "Word keeps a bare U+00AD unbroken; the engine carries w:softHyphen as U+00AD and must break there, so it keeps the break"
+ }
+}

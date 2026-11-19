@@ -1,0 +1,57 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 170.38,
+     "x0": 54.48,
+     "x1": 389.96,
+     "size": 8.92,
+     "text": "Loremipsumdolorsitamet,consectetueradipiscingelit.Maecenasporttitorcongue",
+     "segments": [
+      {
+       "x0": 54.48,
+       "x1": 389.96,
+       "text": "Loremipsumdolorsitamet,consectetueradipiscingelit.Maecenasporttitorcongue"
+      }
+     ]
+    },
+    {
+     "y": 182.16,
+     "x0": 54.48,
+     "x1": 389.96,
+     "size": 8.92,
+     "text": "massa.Fusceposuere,magnasedpulvinarultricies,puruslectusmalesuadalibero,",
+     "segments": [
+      {
+       "x0": 54.48,
+       "x1": 389.96,
+       "text": "massa.Fusceposuere,magnasedpulvinarultricies,puruslectusmalesuadalibero,"
+      }
+     ]
+    },
+    {
+     "y": 194.11,
+     "x0": 54.48,
+     "x1": 481.42,
+     "size": 8.92,
+     "text": "sitametcommodomagnaerosquisurnaabc批注[A1]:HelloWorld!",
+     "segments": [
+      {
+       "x0": 54.48,
+       "x1": 229.28,
+       "text": "sitametcommodomagnaerosquisurnaabc"
+      },
+      {
+       "x0": 416.28,
+       "x1": 481.42,
+       "text": "批注[A1]:HelloWorld!"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

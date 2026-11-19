@@ -1,0 +1,94 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 81.6,
+     "x0": 72.0,
+     "x1": 124.0,
+     "size": 12.0,
+     "text": "ANCHOR",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 124.0,
+       "text": "ANCHOR"
+      }
+     ]
+    },
+    {
+     "y": 93.6,
+     "x0": 72.0,
+     "x1": 157.35,
+     "size": 12.0,
+     "text": "BEFOREONLY",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 157.35,
+       "text": "BEFOREONLY"
+      }
+     ]
+    },
+    {
+     "y": 105.6,
+     "x0": 72.0,
+     "x1": 147.35,
+     "size": 12.0,
+     "text": "AFTERONLY",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 147.35,
+       "text": "AFTERONLY"
+      }
+     ]
+    },
+    {
+     "y": 117.6,
+     "x0": 72.0,
+     "x1": 163.34,
+     "size": 12.0,
+     "text": "AFTERTARGET",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 163.34,
+       "text": "AFTERTARGET"
+      }
+     ]
+    },
+    {
+     "y": 129.6,
+     "x0": 72.0,
+     "x1": 105.33,
+     "size": 12.0,
+     "text": "BOTH",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 105.33,
+       "text": "BOTH"
+      }
+     ]
+    },
+    {
+     "y": 141.6,
+     "x0": 72.0,
+     "x1": 157.34,
+     "size": 12.0,
+     "text": "BOTHTARGET",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 157.34,
+       "text": "BOTHTARGET"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

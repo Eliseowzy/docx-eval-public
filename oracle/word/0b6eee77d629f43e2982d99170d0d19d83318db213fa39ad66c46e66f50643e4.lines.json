@@ -1,0 +1,48 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 82.56,
+     "x0": 72.0,
+     "x1": 433.5,
+     "size": 11.04,
+     "text": "Thisisafloatingtable.Thisissometext",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 107.05,
+       "text": "Thisisa"
+      },
+      {
+       "x0": 209.76,
+       "x1": 271.89,
+       "text": "floatingtable."
+      },
+      {
+       "x0": 359.28,
+       "x1": 433.5,
+       "text": "Thisissometext"
+      }
+     ]
+    },
+    {
+     "y": 97.92,
+     "x0": 72.0,
+     "x1": 149.63,
+     "size": 11.04,
+     "text": "aroundthetable.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 149.63,
+       "text": "aroundthetable."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,8912 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 67.68,
+     "x0": 107.28,
+     "x1": 269.88,
+     "size": 6.96,
+     "text": "JournalofZhejiangUniversity-SCIENCEAinpress",
+     "segments": [
+      {
+       "x0": 107.28,
+       "x1": 269.88,
+       "text": "JournalofZhejiangUniversity-SCIENCEAinpress"
+      }
+     ]
+    },
+    {
+     "y": 76.56,
+     "x0": 107.28,
+     "x1": 274.82,
+     "size": 6.96,
+     "text": "www.jzus.zju.edu.cn;www.springer.com/journal/11582",
+     "segments": [
+      {
+       "x0": 107.28,
+       "x1": 274.82,
+       "text": "www.jzus.zju.edu.cn;www.springer.com/journal/11582"
+      }
+     ]
+    },
+    {
+     "y": 85.44,
+     "x0": 107.28,
+     "x1": 190.21,
+     "size": 6.96,
+     "text": "E-mail:jzus_a@zju.edu.cn",
+     "segments": [
+      {
+       "x0": 107.28,
+       "x1": 190.21,
+       "text": "E-mail:jzus_a@zju.edu.cn"
+      }
+     ]
+    },
+    {
+     "y": 126.96,
+     "x0": 65.28,
+     "x1": 159.55,
+     "size": 12.0,
+     "text": "ResearchArticle",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 159.55,
+       "text": "ResearchArticle"
+      }
+     ]
+    },
+    {
+     "y": 138.48,
+     "x0": 65.28,
+     "x1": 198.66,
+     "size": 7.92,
+     "text": "https://doi.org/10.1631/jzus.A2600xxx",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 198.66,
+       "text": "https://doi.org/10.1631/jzus.A2600xxx"
+      }
+     ]
+    },
+    {
+     "y": 187.68,
+     "x0": 65.28,
+     "x1": 519.96,
+     "size": 16.08,
+     "text": "Anadaptivedesignmethodforunderstandingtoleranceinthe",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 519.96,
+       "text": "Anadaptivedesignmethodforunderstandingtoleranceinthe"
+      }
+     ]
+    },
+    {
+     "y": 211.68,
+     "x0": 65.28,
+     "x1": 262.78,
+     "size": 16.08,
+     "text": "precisionstampingprocess",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 262.78,
+       "text": "precisionstampingprocess"
+      }
+     ]
+    },
+    {
+     "y": 240.24,
+     "x0": 119.29,
+     "x1": 296.45,
+     "size": 5.52,
+     "text": "1,2*3*21",
+     "segments": [
+      {
+       "x0": 119.29,
+       "x1": 128.56,
+       "text": "1,2*"
+      },
+      {
+       "x0": 158.44,
+       "x1": 163.61,
+       "text": "3*"
+      },
+      {
+       "x0": 231.21,
+       "x1": 234.12,
+       "text": "2"
+      },
+      {
+       "x0": 293.54,
+       "x1": 296.45,
+       "text": "1"
+      }
+     ]
+    },
+    {
+     "y": 242.16,
+     "x0": 296.44,
+     "x1": 303.78,
+     "size": 6.48,
+     "text": "*",
+     "segments": [
+      {
+       "x0": 296.44,
+       "x1": 303.78,
+       "text": "*"
+      }
+     ]
+    },
+    {
+     "y": 245.76,
+     "x0": 65.28,
+     "x1": 293.59,
+     "size": 10.56,
+     "text": "SanZHANG,SisiLI,WuwuWANG,LiuliuZHAO",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 293.59,
+       "text": "SanZHANG,SisiLI,WuwuWANG,LiuliuZHAO"
+      }
+     ]
+    },
+    {
+     "y": 270.48,
+     "x0": 64.96,
+     "x1": 68.5,
+     "size": 4.08,
+     "text": "1",
+     "segments": [
+      {
+       "x0": 64.96,
+       "x1": 68.5,
+       "text": "1"
+      }
+     ]
+    },
+    {
+     "y": 274.56,
+     "x0": 66.76,
+     "x1": 355.02,
+     "size": 7.92,
+     "text": "MOEKeyLaboratoryofXXXXXXXXX,ZhejiangUniversity,Hangzhou310027,China",
+     "segments": [
+      {
+       "x0": 66.76,
+       "x1": 355.02,
+       "text": "MOEKeyLaboratoryofXXXXXXXXX,ZhejiangUniversity,Hangzhou310027,China"
+      }
+     ]
+    },
+    {
+     "y": 282.48,
+     "x0": 64.96,
+     "x1": 68.5,
+     "size": 4.08,
+     "text": "2",
+     "segments": [
+      {
+       "x0": 64.96,
+       "x1": 68.5,
+       "text": "2"
+      }
+     ]
+    },
+    {
+     "y": 286.56,
+     "x0": 66.76,
+     "x1": 275.1,
+     "size": 7.92,
+     "text": "ShanghaiXXXXXXXXXXXCo.,Ltd.,Shanghai201100,China",
+     "segments": [
+      {
+       "x0": 66.76,
+       "x1": 275.1,
+       "text": "ShanghaiXXXXXXXXXXXCo.,Ltd.,Shanghai201100,China"
+      }
+     ]
+    },
+    {
+     "y": 294.48,
+     "x0": 64.96,
+     "x1": 68.5,
+     "size": 4.08,
+     "text": "3",
+     "segments": [
+      {
+       "x0": 64.96,
+       "x1": 68.5,
+       "text": "3"
+      }
+     ]
+    },
+    {
+     "y": 298.56,
+     "x0": 66.76,
+     "x1": 304.47,
+     "size": 7.92,
+     "text": "DepartmentofXXXXXXX,UniversityofXXXX,Liverpool,L697ZX,UK",
+     "segments": [
+      {
+       "x0": 66.76,
+       "x1": 304.47,
+       "text": "DepartmentofXXXXXXX,UniversityofXXXX,Liverpool,L697ZX,UK"
+      }
+     ]
+    },
+    {
+     "y": 324.72,
+     "x0": 65.28,
+     "x1": 530.39,
+     "size": 9.12,
+     "text": "Abstract:Withthedevelopmentofprecisionmanufacturing,theunderstandingoftolerancehasbecomearesearch",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 530.39,
+       "text": "Abstract:Withthedevelopmentofprecisionmanufacturing,theunderstandingoftolerancehasbecomearesearch"
+      }
+     ]
+    },
+    {
+     "y": 338.16,
+     "x0": 65.28,
+     "x1": 530.2,
+     "size": 9.12,
+     "text": "hotspotinthefieldofmanufacturing.Anadaptabledesignmethodforunderstandingtoleranceintheprecisionstamping",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 530.2,
+       "text": "hotspotinthefieldofmanufacturing.Anadaptabledesignmethodforunderstandingtoleranceintheprecisionstamping"
+      }
+     ]
+    },
+    {
+     "y": 351.6,
+     "x0": 65.28,
+     "x1": 530.24,
+     "size": 9.12,
+     "text": "processisproposedinthisstudy.First,fluctuationsoftolerancewhicharecausedbydifferencesinthestampingprocess",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 530.24,
+       "text": "processisproposedinthisstudy.First,fluctuationsoftolerancewhicharecausedbydifferencesinthestampingprocess"
+      }
+     ]
+    },
+    {
+     "y": 365.04,
+     "x0": 65.28,
+     "x1": 530.19,
+     "size": 9.12,
+     "text": "areanalyzed,suchasdifferencesinmaterialandthickness,whichcanleadtochangesinthemetalflowstresscurve.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 530.19,
+       "text": "areanalyzed,suchasdifferencesinmaterialandthickness,whichcanleadtochangesinthemetalflowstresscurve."
+      }
+     ]
+    },
+    {
+     "y": 378.48,
+     "x0": 65.28,
+     "x1": 530.22,
+     "size": 9.12,
+     "text": "Second,acondition-drivenadaptivedesignmethodisconstructedbasedonamonitoringsystemandhydrauliccontrol",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 530.22,
+       "text": "Second,acondition-drivenadaptivedesignmethodisconstructedbasedonamonitoringsystemandhydrauliccontrol"
+      }
+     ]
+    },
+    {
+     "y": 391.92,
+     "x0": 65.28,
+     "x1": 530.22,
+     "size": 9.12,
+     "text": "system.Themappingrulesbetweenmultipledisturbancefactorsandtheexecutionstrategyareestablishedbythehidden",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 530.22,
+       "text": "system.Themappingrulesbetweenmultipledisturbancefactorsandtheexecutionstrategyareestablishedbythehidden"
+      }
+     ]
+    },
+    {
+     "y": 405.36,
+     "x0": 65.28,
+     "x1": 530.23,
+     "size": 9.12,
+     "text": "Markovmodelalgorithm.Third,executiveparameters,suchasvelocity,pressure,andgaps,arecalculatedandoptimized",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 530.23,
+       "text": "Markovmodelalgorithm.Third,executiveparameters,suchasvelocity,pressure,andgaps,arecalculatedandoptimized"
+      }
+     ]
+    },
+    {
+     "y": 418.56,
+     "x0": 65.28,
+     "x1": 530.25,
+     "size": 9.12,
+     "text": "bythedatastatisticsofpartialtolerancefluctuationsinthecontrolmodule.Thendisturbancesofvariousconditionscould",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 530.25,
+       "text": "bythedatastatisticsofpartialtolerancefluctuationsinthecontrolmodule.Thendisturbancesofvariousconditionscould"
+      }
+     ]
+    },
+    {
+     "y": 432.0,
+     "x0": 65.28,
+     "x1": 530.24,
+     "size": 9.12,
+     "text": "beadaptivelycontrolledtimelyandeffectivelybytheexecutiveparameters.Finally,theadaptivedesignmethodfortol-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 530.24,
+       "text": "beadaptivelycontrolledtimelyandeffectivelybytheexecutiveparameters.Finally,theadaptivedesignmethodfortol-"
+      }
+     ]
+    },
+    {
+     "y": 445.44,
+     "x0": 65.28,
+     "x1": 514.54,
+     "size": 9.12,
+     "text": "eranceofoneprecisionstampingpartisapplied,andtheeffectoftheapplicationisprovedbytheoptimizedresults.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 514.54,
+       "text": "eranceofoneprecisionstampingpartisapplied,andtheeffectoftheapplicationisprovedbytheoptimizedresults."
+      }
+     ]
+    },
+    {
+     "y": 472.32,
+     "x0": 65.28,
+     "x1": 396.42,
+     "size": 9.12,
+     "text": "Keywords:Adaptivedesign;Tolerance;Condition-driven;Precisionstampingprocess",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 396.42,
+       "text": "Keywords:Adaptivedesign;Tolerance;Condition-driven;Precisionstampingprocess"
+      }
+     ]
+    },
+    {
+     "y": 513.6,
+     "x0": 65.28,
+     "x1": 530.13,
+     "size": 10.56,
+     "text": "1Introductionberightandleftjustified.Pleasetrytousethe",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 135.32,
+       "text": "1Introduction"
+      },
+      {
+       "x0": 305.52,
+       "x1": 530.13,
+       "text": "berightandleftjustified.Pleasetrytousethe"
+      }
+     ]
+    },
+    {
+     "y": 529.44,
+     "x0": 305.52,
+     "x1": 508.04,
+     "size": 10.56,
+     "text": "paragraphstylescontainedinthisdocument.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 508.04,
+       "text": "paragraphstylescontainedinthisdocument."
+      }
+     ]
+    },
+    {
+     "y": 542.88,
+     "x0": 86.28,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "Theseareformatsforauthorstypesettingfor",
+     "segments": [
+      {
+       "x0": 86.28,
+       "x1": 289.85,
+       "text": "Theseareformatsforauthorstypesettingfor"
+      }
+     ]
+    },
+    {
+     "y": 545.04,
+     "x0": 326.52,
+     "x1": 530.13,
+     "size": 10.56,
+     "text": "Figuresmustbenumberedconsecutivelywith",
+     "segments": [
+      {
+       "x0": 326.52,
+       "x1": 530.13,
+       "text": "Figuresmustbenumberedconsecutivelywith"
+      }
+     ]
+    },
+    {
+     "y": 560.88,
+     "x0": 305.52,
+     "x1": 530.15,
+     "size": 10.56,
+     "text": "Arabicnumerals,andeachfiguremustbeplaced",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.15,
+       "text": "Arabicnumerals,andeachfiguremustbeplaced"
+      }
+     ]
+    },
+    {
+     "y": 576.48,
+     "x0": 305.52,
+     "x1": 530.17,
+     "size": 10.56,
+     "text": "inthetextfollowingtheparagraphinwhichitis",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.17,
+       "text": "inthetextfollowingtheparagraphinwhichitis"
+      }
+     ]
+    },
+    {
+     "y": 579.6,
+     "x0": 65.52,
+     "x1": 183.39,
+     "size": 7.92,
+     "text": "*LiuliuZHAO,xxxxxx@zju.edu.cn",
+     "segments": [
+      {
+       "x0": 65.52,
+       "x1": 183.39,
+       "text": "*LiuliuZHAO,xxxxxx@zju.edu.cn"
+      }
+     ]
+    },
+    {
+     "y": 591.6,
+     "x0": 65.52,
+     "x1": 530.08,
+     "size": 10.56,
+     "text": "*Thetwoauthorscontributedequallytothisworkfirstmentioned.Acaptiongivingthefigure",
+     "segments": [
+      {
+       "x0": 65.52,
+       "x1": 237.45,
+       "text": "*Thetwoauthorscontributedequallytothiswork"
+      },
+      {
+       "x0": 305.52,
+       "x1": 530.08,
+       "text": "firstmentioned.Acaptiongivingthefigure"
+      }
+     ]
+    },
+    {
+     "y": 603.36,
+     "x0": 74.88,
+     "x1": 258.33,
+     "size": 7.92,
+     "text": "SanZHANG,https://orcid.org/0000-0000-0000-0001",
+     "segments": [
+      {
+       "x0": 74.88,
+       "x1": 258.33,
+       "text": "SanZHANG,https://orcid.org/0000-0000-0000-0001"
+      }
+     ]
+    },
+    {
+     "y": 607.68,
+     "x0": 305.52,
+     "x1": 530.12,
+     "size": 10.56,
+     "text": "numberandabriefdescriptionmustbeincluded.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.12,
+       "text": "numberandabriefdescriptionmustbeincluded."
+      }
+     ]
+    },
+    {
+     "y": 615.36,
+     "x0": 73.44,
+     "x1": 234.57,
+     "size": 7.92,
+     "text": "SisiLI,https://orcid.org/0000-0000-0000-0002",
+     "segments": [
+      {
+       "x0": 73.44,
+       "x1": 234.57,
+       "text": "SisiLI,https://orcid.org/0000-0000-0000-0002"
+      }
+     ]
+    },
+    {
+     "y": 623.28,
+     "x0": 305.52,
+     "x1": 530.13,
+     "size": 10.56,
+     "text": "Thecaptionshouldbeunderstandablewithout",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.13,
+       "text": "Thecaptionshouldbeunderstandablewithout"
+      }
+     ]
+    },
+    {
+     "y": 639.12,
+     "x0": 65.52,
+     "x1": 530.07,
+     "size": 10.56,
+     "text": "ReceivedApr.xx,2026;RevisionacceptedOct.xx,2026;referencetothetext.Figuresshouldbecitedinthe",
+     "segments": [
+      {
+       "x0": 65.52,
+       "x1": 255.89,
+       "text": "ReceivedApr.xx,2026;RevisionacceptedOct.xx,2026;"
+      },
+      {
+       "x0": 305.52,
+       "x1": 530.07,
+       "text": "referencetothetext.Figuresshouldbecitedinthe"
+      }
+     ]
+    },
+    {
+     "y": 651.12,
+     "x0": 65.52,
+     "x1": 112.29,
+     "size": 7.92,
+     "text": "Crosschecked",
+     "segments": [
+      {
+       "x0": 65.52,
+       "x1": 112.29,
+       "text": "Crosschecked"
+      }
+     ]
+    },
+    {
+     "y": 654.72,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "textusingthefollowingformat:Fig.1,Fig.1a,Figs.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "textusingthefollowingformat:Fig.1,Fig.1a,Figs."
+      }
+     ]
+    },
+    {
+     "y": 670.32,
+     "x0": 305.52,
+     "x1": 452.82,
+     "size": 10.56,
+     "text": "1and2,Figs.1–3,orFigs.1a–1c.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 452.82,
+       "text": "1and2,Figs.1–3,orFigs.1a–1c."
+      }
+     ]
+    },
+    {
+     "y": 673.92,
+     "x0": 64.45,
+     "x1": 292.62,
+     "size": 10.56,
+     "text": "JournalofZhejiangUniversity-SCIENCEA(JZUS-",
+     "segments": [
+      {
+       "x0": 64.45,
+       "x1": 292.62,
+       "text": "JournalofZhejiangUniversity-SCIENCEA(JZUS-"
+      }
+     ]
+    },
+    {
+     "y": 685.92,
+     "x0": 326.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "Associetyadvances,productqualityrequire-",
+     "segments": [
+      {
+       "x0": 326.52,
+       "x1": 530.1,
+       "text": "Associetyadvances,productqualityrequire-"
+      }
+     ]
+    },
+    {
+     "y": 689.52,
+     "x0": 64.45,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "A).Authorswhosubmittheirmanuscripts(for",
+     "segments": [
+      {
+       "x0": 64.45,
+       "x1": 289.87,
+       "text": "A).Authorswhosubmittheirmanuscripts(for"
+      }
+     ]
+    },
+    {
+     "y": 701.52,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "mentsarecontinuouslyimprovedinthemarket-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "mentsarecontinuouslyimprovedinthemarket-"
+      }
+     ]
+    },
+    {
+     "y": 705.12,
+     "x0": 64.45,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "JZUS-A,inWordformatonly)shouldfollowthe",
+     "segments": [
+      {
+       "x0": 64.45,
+       "x1": 289.86,
+       "text": "JZUS-A,inWordformatonly)shouldfollowthe"
+      }
+     ]
+    },
+    {
+     "y": 717.12,
+     "x0": 305.52,
+     "x1": 530.09,
+     "size": 10.56,
+     "text": "place.Manufacturingenterprisesarefacingin-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.09,
+       "text": "place.Manufacturingenterprisesarefacingin-"
+      }
+     ]
+    },
+    {
+     "y": 720.72,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "formatsaccordingtothissample.Thisdocument",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "formatsaccordingtothissample.Thisdocument"
+      }
+     ]
+    },
+    {
+     "y": 732.96,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "creasingcostandtechnicalpressuresinthepro-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "creasingcostandtechnicalpressuresinthepro-"
+      }
+     ]
+    },
+    {
+     "y": 736.56,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "hasbeenpreparedusingtherequiredformat.The",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "hasbeenpreparedusingtherequiredformat.The"
+      }
+     ]
+    },
+    {
+     "y": 748.56,
+     "x0": 305.52,
+     "x1": 530.11,
+     "size": 10.56,
+     "text": "ductionofprecisionparts.Highqualityparts,",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.11,
+       "text": "ductionofprecisionparts.Highqualityparts,"
+      }
+     ]
+    },
+    {
+     "y": 752.16,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "paperistobewrittenintwo-columnformatand",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "paperistobewrittenintwo-columnformatand"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 85.92,
+     "x0": 65.29,
+     "x1": 180.83,
+     "size": 6.96,
+     "text": "2|JZhejiangUniv-SciAinpress",
+     "segments": [
+      {
+       "x0": 65.29,
+       "x1": 180.83,
+       "text": "2|JZhejiangUniv-SciAinpress"
+      }
+     ]
+    },
+    {
+     "y": 123.36,
+     "x0": 65.28,
+     "x1": 289.89,
+     "size": 10.56,
+     "text": "whichwithhighdimensionalaccuracy,smooth",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.89,
+       "text": "whichwithhighdimensionalaccuracy,smooth"
+      }
+     ]
+    },
+    {
+     "y": 136.56,
+     "x0": 305.52,
+     "x1": 467.85,
+     "size": 10.56,
+     "text": "2Tolerancefluctuationanalyses",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 467.85,
+       "text": "2Tolerancefluctuationanalyses"
+      }
+     ]
+    },
+    {
+     "y": 139.2,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "blankedsurfaces,andgoodinterchangeability,can",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "blankedsurfaces,andgoodinterchangeability,can"
+      }
+     ]
+    },
+    {
+     "y": 154.8,
+     "x0": 65.28,
+     "x1": 289.95,
+     "size": 10.56,
+     "text": "beobtainedthroughprecisionstampingtechnol-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.95,
+       "text": "beobtainedthroughprecisionstampingtechnol-"
+      }
+     ]
+    },
+    {
+     "y": 156.72,
+     "x0": 305.52,
+     "x1": 402.58,
+     "size": 10.56,
+     "text": "2.1Txxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 402.58,
+       "text": "2.1Txxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 170.4,
+     "x0": 65.28,
+     "x1": 289.84,
+     "size": 10.56,
+     "text": "ogyprocessing.Somesubsequentprocessingop-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.84,
+       "text": "ogyprocessing.Somesubsequentprocessingop-"
+      }
+     ]
+    },
+    {
+     "y": 178.8,
+     "x0": 326.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "Precisionpartsareproducedbasedongeo-",
+     "segments": [
+      {
+       "x0": 326.52,
+       "x1": 530.1,
+       "text": "Precisionpartsareproducedbasedongeo-"
+      }
+     ]
+    },
+    {
+     "y": 186.0,
+     "x0": 65.28,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "erationscanbereducedorevencancelled,suchas",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.85,
+       "text": "erationscanbereducedorevencancelled,suchas"
+      }
+     ]
+    },
+    {
+     "y": 194.64,
+     "x0": 305.52,
+     "x1": 530.14,
+     "size": 10.56,
+     "text": "metricdimensionsandprocessroutesdetermined",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.14,
+       "text": "metricdimensionsandprocessroutesdetermined"
+      }
+     ]
+    },
+    {
+     "y": 201.6,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "levelingandgrinding.Productqualityandproduc-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "levelingandgrinding.Productqualityandproduc-"
+      }
+     ]
+    },
+    {
+     "y": 210.24,
+     "x0": 305.52,
+     "x1": 530.08,
+     "size": 10.56,
+     "text": "duringdetaileddesign.Aimingforhighquality,",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.08,
+       "text": "duringdetaileddesign.Aimingforhighquality,"
+      }
+     ]
+    },
+    {
+     "y": 217.44,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "tionefficiencycanbeimprovedbyprecision",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "tionefficiencycanbeimprovedbyprecision"
+      }
+     ]
+    },
+    {
+     "y": 225.84,
+     "x0": 305.52,
+     "x1": 530.11,
+     "size": 10.56,
+     "text": "operatorsprocesstherawmaterialintopartsusing",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.11,
+       "text": "operatorsprocesstherawmaterialintopartsusing"
+      }
+     ]
+    },
+    {
+     "y": 233.04,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "stampingprocessesatarelativelylowcost.Inin-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "stampingprocessesatarelativelylowcost.Inin-"
+      }
+     ]
+    },
+    {
+     "y": 241.44,
+     "x0": 305.52,
+     "x1": 530.11,
+     "size": 10.56,
+     "text": "equipmentintheproductionenvironment.There",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.11,
+       "text": "equipmentintheproductionenvironment.There"
+      }
+     ]
+    },
+    {
+     "y": 248.64,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "dustrializedcountries,precisionstampingtech-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "dustrializedcountries,precisionstampingtech-"
+      }
+     ]
+    },
+    {
+     "y": 257.04,
+     "x0": 305.52,
+     "x1": 530.09,
+     "size": 10.56,
+     "text": "areinevitabledisturbancefactors(suchasman,",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.09,
+       "text": "areinevitabledisturbancefactors(suchasman,"
+      }
+     ]
+    },
+    {
+     "y": 264.24,
+     "x0": 65.28,
+     "x1": 289.83,
+     "size": 10.56,
+     "text": "nologyisbecomingmorewidelyappliedinvarious",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.83,
+       "text": "nologyisbecomingmorewidelyappliedinvarious"
+      }
+     ]
+    },
+    {
+     "y": 272.64,
+     "x0": 305.52,
+     "x1": 530.09,
+     "size": 10.56,
+     "text": "material,machine,method,measure,andenviron-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.09,
+       "text": "material,machine,method,measure,andenviron-"
+      }
+     ]
+    },
+    {
+     "y": 279.84,
+     "x0": 65.28,
+     "x1": 289.9,
+     "size": 10.56,
+     "text": "industrialsectorsincludingautomobilemanufac-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.9,
+       "text": "industrialsectorsincludingautomobilemanufac-"
+      }
+     ]
+    },
+    {
+     "y": 288.48,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "ment(5M1E))intheproductionenvironmentaf-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "ment(5M1E))intheproductionenvironmentaf-"
+      }
+     ]
+    },
+    {
+     "y": 295.68,
+     "x0": 65.28,
+     "x1": 192.2,
+     "size": 10.56,
+     "text": "turing(WengandXu,2012).",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 192.2,
+       "text": "turing(WengandXu,2012)."
+      }
+     ]
+    },
+    {
+     "y": 304.08,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "fectingtheprocessingquality.Tolerancefluctua-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "fectingtheprocessingquality.Tolerancefluctua-"
+      }
+     ]
+    },
+    {
+     "y": 311.28,
+     "x0": 86.28,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "Astechnologyadvances,manyresearchers",
+     "segments": [
+      {
+       "x0": 86.28,
+       "x1": 289.85,
+       "text": "Astechnologyadvances,manyresearchers"
+      }
+     ]
+    },
+    {
+     "y": 319.68,
+     "x0": 305.52,
+     "x1": 530.12,
+     "size": 10.56,
+     "text": "tionsarecausedby5M1Einthemanufacturing",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.12,
+       "text": "tionsarecausedby5M1Einthemanufacturing"
+      }
+     ]
+    },
+    {
+     "y": 326.88,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "havemadealotofachievementsinthefieldofdi-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "havemadealotofachievementsinthefieldofdi-"
+      }
+     ]
+    },
+    {
+     "y": 335.28,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "processwhichresultsinalossofquality.Tolerance",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "processwhichresultsinalossofquality.Tolerance"
+      }
+     ]
+    },
+    {
+     "y": 342.48,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "mensionaltolerancesdesignandcontrol.Re-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "mensionaltolerancesdesignandcontrol.Re-"
+      }
+     ]
+    },
+    {
+     "y": 350.88,
+     "x0": 305.52,
+     "x1": 530.11,
+     "size": 10.56,
+     "text": "fluctuationswouldcausegeometryerrorsofthe",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.11,
+       "text": "fluctuationswouldcausegeometryerrorsofthe"
+      }
+     ]
+    },
+    {
+     "y": 358.08,
+     "x0": 65.28,
+     "x1": 289.89,
+     "size": 10.56,
+     "text": "quicha(1983)proposedanoffsettingtolerance",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.89,
+       "text": "quicha(1983)proposedanoffsettingtolerance"
+      }
+     ]
+    },
+    {
+     "y": 366.72,
+     "x0": 305.52,
+     "x1": 530.12,
+     "size": 10.56,
+     "text": "precisionpartsinthemanufacturingprocess,while",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.12,
+       "text": "precisionpartsinthemanufacturingprocess,while"
+      }
+     ]
+    },
+    {
+     "y": 373.68,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "zonetheory,whichlaidthetheoreticalbasisfor",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "zonetheory,whichlaidthetheoreticalbasisfor"
+      }
+     ]
+    },
+    {
+     "y": 382.32,
+     "x0": 305.52,
+     "x1": 530.08,
+     "size": 10.56,
+     "text": "therewillalsobedimensionandpositionerrors.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.08,
+       "text": "therewillalsobedimensionandpositionerrors."
+      }
+     ]
+    },
+    {
+     "y": 389.52,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "computer-aidedtolerancedesign.Virtualbound-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "computer-aidedtolerancedesign.Virtualbound-"
+      }
+     ]
+    },
+    {
+     "y": 397.92,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "Theformandpositionerrorsimpacttheperfor-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "Theformandpositionerrorsimpacttheperfor-"
+      }
+     ]
+    },
+    {
+     "y": 405.12,
+     "x0": 65.28,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "aryrequirements(VBR)wereproposedtorestrict",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.85,
+       "text": "aryrequirements(VBR)wereproposedtorestrict"
+      }
+     ]
+    },
+    {
+     "y": 413.52,
+     "x0": 305.52,
+     "x1": 530.09,
+     "size": 10.56,
+     "text": "manceoftheparts(assembly,structuralstrength,",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.09,
+       "text": "manceoftheparts(assembly,structuralstrength,"
+      }
+     ]
+    },
+    {
+     "y": 420.72,
+     "x0": 65.28,
+     "x1": 289.83,
+     "size": 10.56,
+     "text": "themaximumphysicalconditionandthesmallest",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.83,
+       "text": "themaximumphysicalconditionandthesmallest"
+      }
+     ]
+    },
+    {
+     "y": 429.12,
+     "x0": 305.52,
+     "x1": 530.13,
+     "size": 10.56,
+     "text": "contactstiffness,interchangeability,sealing,mo-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.13,
+       "text": "contactstiffness,interchangeability,sealing,mo-"
+      }
+     ]
+    },
+    {
+     "y": 436.32,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "entitystateoftheparts,andthentolerancespeci-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "entitystateoftheparts,andthentolerancespeci-"
+      }
+     ]
+    },
+    {
+     "y": 444.96,
+     "x0": 305.52,
+     "x1": 530.11,
+     "size": 10.56,
+     "text": "tionaccuracy,andmeshing,etc.)invaryingde-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.11,
+       "text": "tionaccuracy,andmeshing,etc.)invaryingde-"
+      }
+     ]
+    },
+    {
+     "y": 451.92,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "ficationlanguagewasusedtodescribetheVBR",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "ficationlanguagewasusedtodescribetheVBR"
+      }
+     ]
+    },
+    {
+     "y": 460.56,
+     "x0": 305.52,
+     "x1": 332.47,
+     "size": 10.56,
+     "text": "grees.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 332.47,
+       "text": "grees."
+      }
+     ]
+    },
+    {
+     "y": 467.76,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "model(Etesami,1993).Thecomputer-aidedtoler-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "model(Etesami,1993).Thecomputer-aidedtoler-"
+      }
+     ]
+    },
+    {
+     "y": 476.16,
+     "x0": 326.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "Whentheloadstressislessthantheproof",
+     "segments": [
+      {
+       "x0": 326.52,
+       "x1": 530.1,
+       "text": "Whentheloadstressislessthantheproof"
+      }
+     ]
+    },
+    {
+     "y": 483.36,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "anceoptimaldesignmethodwasproposedbyus-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "anceoptimaldesignmethodwasproposedbyus-"
+      }
+     ]
+    },
+    {
+     "y": 492.24,
+     "x0": 305.52,
+     "x1": 530.69,
+     "size": 10.56,
+     "text": "stress,thestrainεisproportionaltothestresss.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.69,
+       "text": "stress,thestrainεisproportionaltothestresss."
+      }
+     ]
+    },
+    {
+     "y": 498.96,
+     "x0": 65.28,
+     "x1": 289.9,
+     "size": 10.56,
+     "text": "ingthesimplifiedintegratingregionandMonte",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.9,
+       "text": "ingthesimplifiedintegratingregionandMonte"
+      }
+     ]
+    },
+    {
+     "y": 507.84,
+     "x0": 305.52,
+     "x1": 530.09,
+     "size": 10.56,
+     "text": "Thefinalvalueofthestrainisdeterminedbythe",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.09,
+       "text": "Thefinalvalueofthestrainisdeterminedbythe"
+      }
+     ]
+    },
+    {
+     "y": 514.56,
+     "x0": 65.28,
+     "x1": 289.84,
+     "size": 10.56,
+     "text": "Carlosimulation(WuandYang,1999).Therobust",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.84,
+       "text": "Carlosimulation(WuandYang,1999).Therobust"
+      }
+     ]
+    },
+    {
+     "y": 523.44,
+     "x0": 305.52,
+     "x1": 506.45,
+     "size": 10.56,
+     "text": "modulusofelasticityandobeysHooke’slaw:",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 506.45,
+       "text": "modulusofelasticityandobeysHooke’slaw:"
+      }
+     ]
+    },
+    {
+     "y": 530.16,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "tolerancedesignmethodwasstudiedformanu-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "tolerancedesignmethodwasstudiedformanu-"
+      }
+     ]
+    },
+    {
+     "y": 545.76,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "facturing(Cao,2003).Anewfunctionaltolerancing",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "facturing(Cao,2003).Anewfunctionaltolerancing"
+      }
+     ]
+    },
+    {
+     "y": 551.98,
+     "x0": 402.55,
+     "x1": 412.62,
+     "size": 11.21,
+     "text": "!",
+     "segments": [
+      {
+       "x0": 402.55,
+       "x1": 412.62,
+       "text": "!"
+      }
+     ]
+    },
+    {
+     "y": 558.96,
+     "x0": 388.36,
+     "x1": 530.09,
+     "size": 11.21,
+     "text": "\"!\"(1)",
+     "segments": [
+      {
+       "x0": 388.36,
+       "x1": 416.19,
+       "text": "\"!\""
+      },
+      {
+       "x0": 518.41,
+       "x1": 530.09,
+       "text": "(1)"
+      }
+     ]
+    },
+    {
+     "y": 561.6,
+     "x0": 65.28,
+     "x1": 289.89,
+     "size": 10.56,
+     "text": "methodwaspresentedforageometricalfunc-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.89,
+       "text": "methodwaspresentedforageometricalfunc-"
+      }
+     ]
+    },
+    {
+     "y": 567.88,
+     "x0": 404.44,
+     "x1": 411.02,
+     "size": 11.21,
+     "text": "!",
+     "segments": [
+      {
+       "x0": 404.44,
+       "x1": 411.02,
+       "text": "!"
+      }
+     ]
+    },
+    {
+     "y": 577.2,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "tionalrequirementtogeometricalspecification",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "tionalrequirementtogeometricalspecification"
+      }
+     ]
+    },
+    {
+     "y": 592.8,
+     "x0": 65.28,
+     "x1": 402.51,
+     "size": 10.56,
+     "text": "(Yangetal.,2010).Meanwhile,someotherre-whereEisaconstant.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 402.51,
+       "text": "(Yangetal.,2010).Meanwhile,someotherre-whereEisaconstant."
+      }
+     ]
+    },
+    {
+     "y": 608.4,
+     "x0": 65.28,
+     "x1": 289.88,
+     "size": 10.56,
+     "text": "searchrelatedtocomputer-aidedtolerancede-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.88,
+       "text": "searchrelatedtocomputer-aidedtolerancede-"
+      }
+     ]
+    },
+    {
+     "y": 609.12,
+     "x0": 326.52,
+     "x1": 530.01,
+     "size": 10.56,
+     "text": "Whentheloadstressexceedstheproofstress,",
+     "segments": [
+      {
+       "x0": 326.52,
+       "x1": 530.01,
+       "text": "Whentheloadstressexceedstheproofstress,"
+      }
+     ]
+    },
+    {
+     "y": 624.0,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "signwerebeingproposed,suchassequentialtol-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "signwerebeingproposed,suchassequentialtol-"
+      }
+     ]
+    },
+    {
+     "y": 624.72,
+     "x0": 305.52,
+     "x1": 530.09,
+     "size": 10.56,
+     "text": "metallicmaterialsbegintoflow.Therequired",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.09,
+       "text": "metallicmaterialsbegintoflow.Therequired"
+      }
+     ]
+    },
+    {
+     "y": 639.84,
+     "x0": 65.28,
+     "x1": 528.34,
+     "size": 10.56,
+     "text": "erancecontrol(STC)(Fraticellietal.,1997,1999),stresscanbeobtainedbytheHall-Petchformula:",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 528.34,
+       "text": "erancecontrol(STC)(Fraticellietal.,1997,1999),stresscanbeobtainedbytheHall-Petchformula:"
+      }
+     ]
+    },
+    {
+     "y": 655.44,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "someextensionapplicationsofsequentialtoler-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "someextensionapplicationsofsequentialtoler-"
+      }
+     ]
+    },
+    {
+     "y": 671.04,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "ancecontrol(CavalierandLehtihet,2000),alow-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "ancecontrol(CavalierandLehtihet,2000),alow-"
+      }
+     ]
+    },
+    {
+     "y": 672.24,
+     "x0": 518.41,
+     "x1": 530.09,
+     "size": 10.56,
+     "text": "(2)",
+     "segments": [
+      {
+       "x0": 518.41,
+       "x1": 530.09,
+       "text": "(2)"
+      }
+     ]
+    },
+    {
+     "y": 672.88,
+     "x0": 329.71,
+     "x1": 491.47,
+     "size": 10.99,
+     "text": "!=\"!+\"+\"++!!!\"#'",
+     "segments": [
+      {
+       "x0": 329.71,
+       "x1": 389.03,
+       "text": "!=\"!+\"+\"++!"
+      },
+      {
+       "x0": 406.54,
+       "x1": 416.92,
+       "text": "!"
+      },
+      {
+       "x0": 435.01,
+       "x1": 462.68,
+       "text": "!\""
+      },
+      {
+       "x0": 480.51,
+       "x1": 491.47,
+       "text": "#'"
+      }
+     ]
+    },
+    {
+     "y": 675.71,
+     "x0": 335.7,
+     "x1": 466.02,
+     "size": 6.33,
+     "text": "!\"#$%&#",
+     "segments": [
+      {
+       "x0": 335.7,
+       "x1": 338.53,
+       "text": "!"
+      },
+      {
+       "x0": 356.89,
+       "x1": 361.77,
+       "text": "\"#"
+      },
+      {
+       "x0": 386.87,
+       "x1": 389.71,
+       "text": "$"
+      },
+      {
+       "x0": 414.97,
+       "x1": 418.16,
+       "text": "%"
+      },
+      {
+       "x0": 443.26,
+       "x1": 446.45,
+       "text": "&"
+      },
+      {
+       "x0": 462.83,
+       "x1": 466.02,
+       "text": "#"
+      }
+     ]
+    },
+    {
+     "y": 686.64,
+     "x0": 65.28,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "costfaulttoleranceapproach(Vakilietal.,2009),",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.85,
+       "text": "costfaulttoleranceapproach(Vakilietal.,2009),"
+      }
+     ]
+    },
+    {
+     "y": 702.24,
+     "x0": 65.28,
+     "x1": 289.84,
+     "size": 10.56,
+     "text": "materialselectionstrategyforoptimalstructural",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.84,
+       "text": "materialselectionstrategyforoptimalstructural"
+      }
+     ]
+    },
+    {
+     "y": 704.16,
+     "x0": 305.52,
+     "x1": 530.05,
+     "size": 10.56,
+     "text": "whereReistheelasticlimit,theloadstresswhen",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.05,
+       "text": "whereReistheelasticlimit,theloadstresswhen"
+      }
+     ]
+    },
+    {
+     "y": 718.08,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "design(Qiuetal.,2013),andamulti-physicscou-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "design(Qiuetal.,2013),andamulti-physicscou-"
+      }
+     ]
+    },
+    {
+     "y": 720.24,
+     "x0": 305.52,
+     "x1": 530.03,
+     "size": 10.56,
+     "text": "themetalbeginstoflow;siyisthePeierlsstress,",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.03,
+       "text": "themetalbeginstoflow;siyisthePeierlsstress,"
+      }
+     ]
+    },
+    {
+     "y": 733.68,
+     "x0": 65.28,
+     "x1": 292.14,
+     "size": 10.56,
+     "text": "plingfieldfiniteelementanalysis(Zhaoetal.,2009).",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 292.14,
+       "text": "plingfieldfiniteelementanalysis(Zhaoetal.,2009)."
+      }
+     ]
+    },
+    {
+     "y": 735.84,
+     "x0": 305.52,
+     "x1": 530.05,
+     "size": 10.56,
+     "text": "theinternalfrictionwhichmustbeovercome",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.05,
+       "text": "theinternalfrictionwhichmustbeovercome"
+      }
+     ]
+    },
+    {
+     "y": 751.92,
+     "x0": 305.52,
+     "x1": 530.03,
+     "size": 10.56,
+     "text": "whenthemetalflows;Δscistheincrementof",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.03,
+       "text": "whenthemetalflows;Δscistheincrementof"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 85.92,
+     "x0": 414.61,
+     "x1": 529.96,
+     "size": 6.96,
+     "text": "JZhejiangUniv-SciAinpress|3",
+     "segments": [
+      {
+       "x0": 414.61,
+       "x1": 529.96,
+       "text": "JZhejiangUniv-SciAinpress|3"
+      }
+     ]
+    },
+    {
+     "y": 121.92,
+     "x0": 340.99,
+     "x1": 494.67,
+     "size": 9.12,
+     "text": "Fig.2HardeningstatecurvesofQ345",
+     "segments": [
+      {
+       "x0": 340.99,
+       "x1": 494.67,
+       "text": "Fig.2HardeningstatecurvesofQ345"
+      }
+     ]
+    },
+    {
+     "y": 123.36,
+     "x0": 65.28,
+     "x1": 289.8,
+     "size": 10.56,
+     "text": "strengthofmaterialscausedbythesolidsolution",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.8,
+       "text": "strengthofmaterialscausedbythesolidsolution"
+      }
+     ]
+    },
+    {
+     "y": 139.68,
+     "x0": 65.28,
+     "x1": 289.79,
+     "size": 10.56,
+     "text": "intensification;Δsvistheincrementofstrengthof",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.79,
+       "text": "intensification;Δsvistheincrementofstrengthof"
+      }
+     ]
+    },
+    {
+     "y": 155.76,
+     "x0": 65.28,
+     "x1": 289.8,
+     "size": 10.56,
+     "text": "thematerialscausedbystrainhardening;Δsois",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.8,
+       "text": "thematerialscausedbystrainhardening;Δsois"
+      }
+     ]
+    },
+    {
+     "y": 171.12,
+     "x0": 65.28,
+     "x1": 289.81,
+     "size": 10.56,
+     "text": "theincrementofstrengthofmaterialscausedby",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.81,
+       "text": "theincrementofstrengthofmaterialscausedby"
+      }
+     ]
+    },
+    {
+     "y": 189.84,
+     "x0": 65.28,
+     "x1": 289.82,
+     "size": 10.99,
+     "text": "dispersionstrengthening;!\"istheincre-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 199.05,
+       "text": "dispersionstrengthening;!"
+      },
+      {
+       "x0": 217.19,
+       "x1": 289.82,
+       "text": "\"istheincre-"
+      }
+     ]
+    },
+    {
+     "y": 193.23,
+     "x0": 199.25,
+     "x1": 202.46,
+     "size": 6.33,
+     "text": "!",
+     "segments": [
+      {
+       "x0": 199.25,
+       "x1": 202.46,
+       "text": "!"
+      }
+     ]
+    },
+    {
+     "y": 208.32,
+     "x0": 65.28,
+     "x1": 289.81,
+     "size": 10.56,
+     "text": "mentofstrengthofthematerialscausedbyfine-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.81,
+       "text": "mentofstrengthofthematerialscausedbyfine-"
+      }
+     ]
+    },
+    {
+     "y": 223.92,
+     "x0": 65.28,
+     "x1": 289.8,
+     "size": 10.56,
+     "text": "grainstrengthening;ky,theresistanceofthegrain",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.8,
+       "text": "grainstrengthening;ky,theresistanceofthegrain"
+      }
+     ]
+    },
+    {
+     "y": 239.52,
+     "x0": 65.28,
+     "x1": 289.83,
+     "size": 10.56,
+     "text": "boundary,isconstant;anddisthediameterofthe",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.83,
+       "text": "boundary,isconstant;anddisthediameterofthe"
+      }
+     ]
+    },
+    {
+     "y": 255.12,
+     "x0": 65.28,
+     "x1": 289.83,
+     "size": 10.56,
+     "text": "grain.Eq.(2)showsthattheelasticlimitofthe",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.83,
+       "text": "grain.Eq.(2)showsthattheelasticlimitofthe"
+      }
+     ]
+    },
+    {
+     "y": 270.96,
+     "x0": 65.28,
+     "x1": 289.82,
+     "size": 10.56,
+     "text": "metalmaterialisthesuperpositionofthevalues",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.82,
+       "text": "metalmaterialisthesuperpositionofthevalues"
+      }
+     ]
+    },
+    {
+     "y": 286.56,
+     "x0": 65.28,
+     "x1": 289.8,
+     "size": 10.56,
+     "text": "ofdifferentmechanisms.Thesevaluesconstitute",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.8,
+       "text": "ofdifferentmechanisms.Thesevaluesconstitute"
+      }
+     ]
+    },
+    {
+     "y": 300.48,
+     "x0": 344.23,
+     "x1": 491.43,
+     "size": 9.12,
+     "text": "Fig.3Hardeningstatecurvesof35#",
+     "segments": [
+      {
+       "x0": 344.23,
+       "x1": 491.43,
+       "text": "Fig.3Hardeningstatecurvesof35#"
+      }
+     ]
+    },
+    {
+     "y": 302.16,
+     "x0": 65.28,
+     "x1": 162.72,
+     "size": 10.56,
+     "text": "thematerialstrength.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 162.72,
+       "text": "thematerialstrength."
+      }
+     ]
+    },
+    {
+     "y": 317.76,
+     "x0": 86.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "Fig.1istheschematicdiagramoftheplastic",
+     "segments": [
+      {
+       "x0": 86.28,
+       "x1": 289.86,
+       "text": "Fig.1istheschematicdiagramoftheplastic"
+      }
+     ]
+    },
+    {
+     "y": 333.36,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "deformationofmetallicmaterialsintheprecision",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "deformationofmetallicmaterialsintheprecision"
+      }
+     ]
+    },
+    {
+     "y": 337.68,
+     "x0": 305.52,
+     "x1": 407.84,
+     "size": 10.56,
+     "text": "2.2Txxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 407.84,
+       "text": "2.2Txxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 349.2,
+     "x0": 65.28,
+     "x1": 179.99,
+     "size": 10.56,
+     "text": "stampingtestingprocess.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 179.99,
+       "text": "stampingtestingprocess."
+      }
+     ]
+    },
+    {
+     "y": 359.76,
+     "x0": 326.62,
+     "x1": 530.02,
+     "size": 10.56,
+     "text": "Thefittingcurveoftheexperimentaldatais",
+     "segments": [
+      {
+       "x0": 326.62,
+       "x1": 530.02,
+       "text": "Thefittingcurveoftheexperimentaldatais"
+      }
+     ]
+    },
+    {
+     "y": 375.36,
+     "x0": 305.52,
+     "x1": 530.03,
+     "size": 10.56,
+     "text": "showninFig2.Thetestobjectwasagenericsteel",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.03,
+       "text": "showninFig2.Thetestobjectwasagenericsteel"
+      }
+     ]
+    },
+    {
+     "y": 390.96,
+     "x0": 305.52,
+     "x1": 530.04,
+     "size": 10.56,
+     "text": "material(No.Q345).Theaveragecurvaturesof",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.04,
+       "text": "material(No.Q345).Theaveragecurvaturesof"
+      }
+     ]
+    },
+    {
+     "y": 406.56,
+     "x0": 305.52,
+     "x1": 530.11,
+     "size": 10.56,
+     "text": "thehardeningstatecurvesofthematerialforming",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.11,
+       "text": "thehardeningstatecurvesofthematerialforming"
+      }
+     ]
+    },
+    {
+     "y": 422.4,
+     "x0": 305.52,
+     "x1": 530.02,
+     "size": 10.56,
+     "text": "weredifferentwithdifferentdistancestothepre-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.02,
+       "text": "weredifferentwithdifferentdistancestothepre-"
+      }
+     ]
+    },
+    {
+     "y": 438.0,
+     "x0": 305.52,
+     "x1": 530.03,
+     "size": 10.56,
+     "text": "cisionstampingsurfacewhentheloadstressex-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.03,
+       "text": "cisionstampingsurfacewhentheloadstressex-"
+      }
+     ]
+    },
+    {
+     "y": 453.6,
+     "x0": 305.52,
+     "x1": 530.04,
+     "size": 10.56,
+     "text": "ceededtheproofstress.Thesmallerthedistance,",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.04,
+       "text": "ceededtheproofstress.Thesmallerthedistance,"
+      }
+     ]
+    },
+    {
+     "y": 469.2,
+     "x0": 305.52,
+     "x1": 530.05,
+     "size": 10.56,
+     "text": "thegreaterthematerialhardeningchange.The",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.05,
+       "text": "thegreaterthematerialhardeningchange.The"
+      }
+     ]
+    },
+    {
+     "y": 483.36,
+     "x0": 83.04,
+     "x1": 272.04,
+     "size": 9.12,
+     "text": "Fig.1Plasticdeformationofmetallicmaterials",
+     "segments": [
+      {
+       "x0": 83.04,
+       "x1": 272.04,
+       "text": "Fig.1Plasticdeformationofmetallicmaterials"
+      }
+     ]
+    },
+    {
+     "y": 484.8,
+     "x0": 305.52,
+     "x1": 530.02,
+     "size": 10.56,
+     "text": "hardeningdegreeofdistance0.1mmwasgreater",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.02,
+       "text": "hardeningdegreeofdistance0.1mmwasgreater"
+      }
+     ]
+    },
+    {
+     "y": 500.4,
+     "x0": 305.52,
+     "x1": 530.05,
+     "size": 10.56,
+     "text": "than1mm(Fig.2).Thesamesituationhappensin",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.05,
+       "text": "than1mm(Fig.2).Thesamesituationhappensin"
+      }
+     ]
+    },
+    {
+     "y": 513.84,
+     "x0": 86.38,
+     "x1": 289.81,
+     "size": 10.56,
+     "text": "Stampingtrialswereconductedusingtwo",
+     "segments": [
+      {
+       "x0": 86.38,
+       "x1": 289.81,
+       "text": "Stampingtrialswereconductedusingtwo"
+      }
+     ]
+    },
+    {
+     "y": 516.24,
+     "x0": 305.52,
+     "x1": 530.06,
+     "size": 10.56,
+     "text": "Fig.3withthetestobjectNo.35#.Thebasic",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.06,
+       "text": "Fig.3withthetestobjectNo.35#.Thebasic"
+      }
+     ]
+    },
+    {
+     "y": 529.44,
+     "x0": 65.28,
+     "x1": 289.81,
+     "size": 10.56,
+     "text": "typesofsteelmaterials(Q345and35#)tostudy",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.81,
+       "text": "typesofsteelmaterials(Q345and35#)tostudy"
+      }
+     ]
+    },
+    {
+     "y": 531.84,
+     "x0": 305.52,
+     "x1": 530.07,
+     "size": 10.56,
+     "text": "strengthofthematerialstayedthesamewhenthe",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.07,
+       "text": "strengthofthematerialstayedthesamewhenthe"
+      }
+     ]
+    },
+    {
+     "y": 545.28,
+     "x0": 65.28,
+     "x1": 289.81,
+     "size": 10.56,
+     "text": "thehardeningstate.Themeasurementdatawere",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.81,
+       "text": "thehardeningstate.Themeasurementdatawere"
+      }
+     ]
+    },
+    {
+     "y": 547.44,
+     "x0": 305.52,
+     "x1": 530.15,
+     "size": 10.56,
+     "text": "loadstresswaslessthantheproofstressorthe",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.15,
+       "text": "loadstresswaslessthantheproofstressorthe"
+      }
+     ]
+    },
+    {
+     "y": 560.88,
+     "x0": 65.28,
+     "x1": 289.82,
+     "size": 10.56,
+     "text": "carriedoutbyquadraticfit.Figs.2and3wereob-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.82,
+       "text": "carriedoutbyquadraticfit.Figs.2and3wereob-"
+      }
+     ]
+    },
+    {
+     "y": 563.04,
+     "x0": 305.52,
+     "x1": 444.74,
+     "size": 10.56,
+     "text": "distancewasmorethan1mm.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 444.74,
+       "text": "distancewasmorethan1mm."
+      }
+     ]
+    },
+    {
+     "y": 576.48,
+     "x0": 65.28,
+     "x1": 258.1,
+     "size": 10.56,
+     "text": "tainedtoshowstressvariationinthesteel.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 258.1,
+       "text": "tainedtoshowstressvariationinthesteel."
+      }
+     ]
+    },
+    {
+     "y": 578.64,
+     "x0": 326.62,
+     "x1": 530.05,
+     "size": 10.56,
+     "text": "ByanalyzingtheresultsshowninFigs.2and",
+     "segments": [
+      {
+       "x0": 326.62,
+       "x1": 530.05,
+       "text": "ByanalyzingtheresultsshowninFigs.2and"
+      }
+     ]
+    },
+    {
+     "y": 594.48,
+     "x0": 305.52,
+     "x1": 530.03,
+     "size": 10.56,
+     "text": "3,wecanseethatthehardeningstatecurvesof",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.03,
+       "text": "3,wecanseethatthehardeningstatecurvesof"
+      }
+     ]
+    },
+    {
+     "y": 610.08,
+     "x0": 305.52,
+     "x1": 530.08,
+     "size": 10.56,
+     "text": "differentmaterialsweredifferent.Underthesame",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.08,
+       "text": "differentmaterialsweredifferent.Underthesame"
+      }
+     ]
+    },
+    {
+     "y": 625.68,
+     "x0": 305.52,
+     "x1": 530.08,
+     "size": 10.56,
+     "text": "distance,thevaluesofthehardeningstateofdif-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.08,
+       "text": "distance,thevaluesofthehardeningstateofdif-"
+      }
+     ]
+    },
+    {
+     "y": 641.28,
+     "x0": 305.52,
+     "x1": 529.99,
+     "size": 10.56,
+     "text": "ferentmaterialsweredifferent.Stiffnesspresents",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 529.99,
+       "text": "ferentmaterialsweredifferent.Stiffnesspresents"
+      }
+     ]
+    },
+    {
+     "y": 656.88,
+     "x0": 305.52,
+     "x1": 530.0,
+     "size": 10.56,
+     "text": "thephysicalparameterofpressureinthestamp-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.0,
+       "text": "thephysicalparameterofpressureinthestamp-"
+      }
+     ]
+    },
+    {
+     "y": 672.48,
+     "x0": 305.52,
+     "x1": 530.08,
+     "size": 10.56,
+     "text": "ingprocess.Orientedtodifferentrawmaterials,",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.08,
+       "text": "ingprocess.Orientedtodifferentrawmaterials,"
+      }
+     ]
+    },
+    {
+     "y": 688.32,
+     "x0": 305.52,
+     "x1": 530.06,
+     "size": 10.56,
+     "text": "thickness,andmolds,fluctuationsofgeometric",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.06,
+       "text": "thickness,andmolds,fluctuationsofgeometric"
+      }
+     ]
+    },
+    {
+     "y": 703.92,
+     "x0": 305.52,
+     "x1": 530.05,
+     "size": 10.56,
+     "text": "tolerancewerecausedandtheprocessingquality",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.05,
+       "text": "tolerancewerecausedandtheprocessingquality"
+      }
+     ]
+    },
+    {
+     "y": 719.52,
+     "x0": 305.52,
+     "x1": 530.05,
+     "size": 10.56,
+     "text": "decreasedwithouttheadaptivedesignforthe",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.05,
+       "text": "decreasedwithouttheadaptivedesignforthe"
+      }
+     ]
+    },
+    {
+     "y": 735.12,
+     "x0": 305.52,
+     "x1": 381.61,
+     "size": 10.56,
+     "text": "pressurecontrol.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 381.61,
+       "text": "pressurecontrol."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 85.92,
+     "x0": 65.29,
+     "x1": 180.83,
+     "size": 6.96,
+     "text": "4|JZhejiangUniv-SciAinpress",
+     "segments": [
+      {
+       "x0": 65.29,
+       "x1": 180.83,
+       "text": "4|JZhejiangUniv-SciAinpress"
+      }
+     ]
+    },
+    {
+     "y": 138.96,
+     "x0": 65.28,
+     "x1": 530.09,
+     "size": 10.56,
+     "text": "3Adaptivedesignmodel(4)",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 188.99,
+       "text": "3Adaptivedesignmodel"
+      },
+      {
+       "x0": 518.41,
+       "x1": 530.09,
+       "text": "(4)"
+      }
+     ]
+    },
+    {
+     "y": 139.97,
+     "x0": 364.12,
+     "x1": 449.39,
+     "size": 11.14,
+     "text": "#\"!#!#!#!$",
+     "segments": [
+      {
+       "x0": 364.12,
+       "x1": 449.39,
+       "text": "#\"!#!#!#!$"
+      }
+     ]
+    },
+    {
+     "y": 140.78,
+     "x0": 381.82,
+     "x1": 446.54,
+     "size": 14.56,
+     "text": "{}",
+     "segments": [
+      {
+       "x0": 381.82,
+       "x1": 387.16,
+       "text": "{"
+      },
+      {
+       "x0": 441.2,
+       "x1": 446.54,
+       "text": "}"
+      }
+     ]
+    },
+    {
+     "y": 142.86,
+     "x0": 369.0,
+     "x1": 439.81,
+     "size": 6.45,
+     "text": "!!\"\"",
+     "segments": [
+      {
+       "x0": 369.0,
+       "x1": 370.82,
+       "text": "!"
+      },
+      {
+       "x0": 391.27,
+       "x1": 394.54,
+       "text": "!"
+      },
+      {
+       "x0": 405.11,
+       "x1": 408.38,
+       "text": "\""
+      },
+      {
+       "x0": 434.36,
+       "x1": 439.81,
+       "text": "\""
+      }
+     ]
+    },
+    {
+     "y": 168.0,
+     "x0": 86.38,
+     "x1": 289.78,
+     "size": 10.56,
+     "text": "Theprecisionstampingdeviceisconstituted",
+     "segments": [
+      {
+       "x0": 86.38,
+       "x1": 289.78,
+       "text": "Theprecisionstampingdeviceisconstituted"
+      }
+     ]
+    },
+    {
+     "y": 171.6,
+     "x0": 325.69,
+     "x1": 530.04,
+     "size": 10.56,
+     "text": "π:Theprobabilitydistributionoftheinitial",
+     "segments": [
+      {
+       "x0": 325.69,
+       "x1": 530.04,
+       "text": "π:Theprobabilitydistributionoftheinitial"
+      }
+     ]
+    },
+    {
+     "y": 183.6,
+     "x0": 65.28,
+     "x1": 289.81,
+     "size": 10.56,
+     "text": "bythefunction,behavior,structure,carriers,and",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.81,
+       "text": "bythefunction,behavior,structure,carriers,and"
+      }
+     ]
+    },
+    {
+     "y": 187.44,
+     "x0": 305.52,
+     "x1": 493.46,
+     "size": 10.56,
+     "text": "state(qt)intheprocessisexpressedasπ.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 493.46,
+       "text": "state(qt)intheprocessisexpressedasπ."
+      }
+     ]
+    },
+    {
+     "y": 199.44,
+     "x0": 65.28,
+     "x1": 289.78,
+     "size": 10.56,
+     "text": "otherdesignelements.Inthemechanicalsystem",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.78,
+       "text": "otherdesignelements.Inthemechanicalsystem"
+      }
+     ]
+    },
+    {
+     "y": 215.04,
+     "x0": 65.28,
+     "x1": 289.8,
+     "size": 10.56,
+     "text": "designtheory,therearereciprocatingmapping",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.8,
+       "text": "designtheory,therearereciprocatingmapping"
+      }
+     ]
+    },
+    {
+     "y": 218.88,
+     "x0": 365.1,
+     "x1": 530.09,
+     "size": 11.14,
+     "text": "!=!#!#!#!$(5)",
+     "segments": [
+      {
+       "x0": 365.1,
+       "x1": 448.18,
+       "text": "!=!#!#!#!$"
+      },
+      {
+       "x0": 518.41,
+       "x1": 530.09,
+       "text": "(5)"
+      }
+     ]
+    },
+    {
+     "y": 220.29,
+     "x0": 380.88,
+     "x1": 445.4,
+     "size": 14.66,
+     "text": "{}",
+     "segments": [
+      {
+       "x0": 380.88,
+       "x1": 386.27,
+       "text": "{"
+      },
+      {
+       "x0": 440.01,
+       "x1": 445.4,
+       "text": "}"
+      }
+     ]
+    },
+    {
+     "y": 222.37,
+     "x0": 390.64,
+     "x1": 438.89,
+     "size": 6.45,
+     "text": "!\"!",
+     "segments": [
+      {
+       "x0": 390.64,
+       "x1": 393.93,
+       "text": "!"
+      },
+      {
+       "x0": 404.8,
+       "x1": 408.09,
+       "text": "\""
+      },
+      {
+       "x0": 434.5,
+       "x1": 438.89,
+       "text": "!"
+      }
+     ]
+    },
+    {
+     "y": 230.64,
+     "x0": 65.28,
+     "x1": 289.79,
+     "size": 10.56,
+     "text": "relationshipsamongfunctiondomain(F-domain),",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.79,
+       "text": "relationshipsamongfunctiondomain(F-domain),"
+      }
+     ]
+    },
+    {
+     "y": 246.24,
+     "x0": 65.28,
+     "x1": 289.8,
+     "size": 10.56,
+     "text": "behaviordomain(B-domain),andcarrierdomain",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.8,
+       "text": "behaviordomain(B-domain),andcarrierdomain"
+      }
+     ]
+    },
+    {
+     "y": 252.0,
+     "x0": 305.52,
+     "x1": 490.77,
+     "size": 10.56,
+     "text": "Supplementary,πi=P(q1=θi)and1≤i≤N.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 490.77,
+       "text": "Supplementary,πi=P(q1=θi)and1≤i≤N."
+      }
+     ]
+    },
+    {
+     "y": 261.84,
+     "x0": 65.28,
+     "x1": 289.82,
+     "size": 10.56,
+     "text": "(C-domain)(Umedaetal.,1990).Functionalityis",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.82,
+       "text": "(C-domain)(Umedaetal.,1990).Functionalityis"
+      }
+     ]
+    },
+    {
+     "y": 267.6,
+     "x0": 325.79,
+     "x1": 530.04,
+     "size": 10.56,
+     "text": "A:Thestatetransitionprobabilitymatrixis",
+     "segments": [
+      {
+       "x0": 325.79,
+       "x1": 530.04,
+       "text": "A:Thestatetransitionprobabilitymatrixis"
+      }
+     ]
+    },
+    {
+     "y": 277.44,
+     "x0": 65.28,
+     "x1": 289.78,
+     "size": 10.56,
+     "text": "achievedbythecombinationofproductbehavior.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.78,
+       "text": "achievedbythecombinationofproductbehavior."
+      }
+     ]
+    },
+    {
+     "y": 283.2,
+     "x0": 305.52,
+     "x1": 376.24,
+     "size": 10.56,
+     "text": "expressedasA.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 376.24,
+       "text": "expressedasA."
+      }
+     ]
+    },
+    {
+     "y": 293.28,
+     "x0": 65.28,
+     "x1": 289.81,
+     "size": 10.56,
+     "text": "Behaviorisperformedbythecarriers.Thecarrier",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.81,
+       "text": "Behaviorisperformedbythecarriers.Thecarrier"
+      }
+     ]
+    },
+    {
+     "y": 308.88,
+     "x0": 65.28,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "isthebasisofcomponentsthatmakeupthecom-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.85,
+       "text": "isthebasisofcomponentsthatmakeupthecom-"
+      }
+     ]
+    },
+    {
+     "y": 313.2,
+     "x0": 380.71,
+     "x1": 530.09,
+     "size": 10.95,
+     "text": "!=!$\"#(6)",
+     "segments": [
+      {
+       "x0": 380.71,
+       "x1": 433.6,
+       "text": "!=!$\"#"
+      },
+      {
+       "x0": 518.41,
+       "x1": 530.09,
+       "text": "(6)"
+      }
+     ]
+    },
+    {
+     "y": 316.52,
+     "x0": 407.06,
+     "x1": 429.15,
+     "size": 6.33,
+     "text": "!\"#!#",
+     "segments": [
+      {
+       "x0": 407.06,
+       "x1": 429.15,
+       "text": "!\"#!#"
+      }
+     ]
+    },
+    {
+     "y": 324.48,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "pletedevice.Duringtheprecisionstampingpro-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "pletedevice.Duringtheprecisionstampingpro-"
+      }
+     ]
+    },
+    {
+     "y": 332.88,
+     "x0": 349.81,
+     "x1": 516.01,
+     "size": 11.02,
+     "text": "!=\"\"#=!#and1≤i≤N,1≤j≤N.",
+     "segments": [
+      {
+       "x0": 349.81,
+       "x1": 516.01,
+       "text": "!=\"\"#=!#and1≤i≤N,1≤j≤N."
+      }
+     ]
+    },
+    {
+     "y": 336.04,
+     "x0": 355.28,
+     "x1": 406.11,
+     "size": 6.37,
+     "text": "!!!",
+     "segments": [
+      {
+       "x0": 355.28,
+       "x1": 357.02,
+       "text": "!"
+      },
+      {
+       "x0": 384.86,
+       "x1": 387.98,
+       "text": "!"
+      },
+      {
+       "x0": 404.37,
+       "x1": 406.11,
+       "text": "!"
+      }
+     ]
+    },
+    {
+     "y": 340.08,
+     "x0": 65.28,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "cess,thedeviceperformancedegradesbecauseof",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.85,
+       "text": "cess,thedeviceperformancedegradesbecauseof"
+      }
+     ]
+    },
+    {
+     "y": 355.68,
+     "x0": 65.28,
+     "x1": 165.68,
+     "size": 10.56,
+     "text": "conditionfluctuations.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 165.68,
+       "text": "conditionfluctuations."
+      }
+     ]
+    },
+    {
+     "y": 362.64,
+     "x0": 325.79,
+     "x1": 530.05,
+     "size": 10.56,
+     "text": "B:Themonitorvalueprobabilitymatrixisex-",
+     "segments": [
+      {
+       "x0": 325.79,
+       "x1": 530.05,
+       "text": "B:Themonitorvalueprobabilitymatrixisex-"
+      }
+     ]
+    },
+    {
+     "y": 371.52,
+     "x0": 86.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "Thestatedataaretracedbacktothesource",
+     "segments": [
+      {
+       "x0": 86.28,
+       "x1": 289.86,
+       "text": "Thestatedataaretracedbacktothesource"
+      }
+     ]
+    },
+    {
+     "y": 378.48,
+     "x0": 305.52,
+     "x1": 365.41,
+     "size": 10.56,
+     "text": "pressedasB.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 365.41,
+       "text": "pressedasB."
+      }
+     ]
+    },
+    {
+     "y": 387.12,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "ofthefluctuationsinconditionfactorsbythehid-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "ofthefluctuationsinconditionfactorsbythehid-"
+      }
+     ]
+    },
+    {
+     "y": 394.08,
+     "x0": 326.62,
+     "x1": 530.05,
+     "size": 10.56,
+     "text": "Thestatesoftolerancefluctuationsareiden-",
+     "segments": [
+      {
+       "x0": 326.62,
+       "x1": 530.05,
+       "text": "Thestatesoftolerancefluctuationsareiden-"
+      }
+     ]
+    },
+    {
+     "y": 402.72,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "denMarkovmodel(HMM).Thecarrierdomainis",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "denMarkovmodel(HMM).Thecarrierdomainis"
+      }
+     ]
+    },
+    {
+     "y": 409.68,
+     "x0": 305.52,
+     "x1": 460.04,
+     "size": 10.56,
+     "text": "tifiedbythefollowingthreesteps:",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 460.04,
+       "text": "tifiedbythefollowingthreesteps:"
+      }
+     ]
+    },
+    {
+     "y": 418.32,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "calculatedthroughthemappingrelationshipsof",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "calculatedthroughthemappingrelationshipsof"
+      }
+     ]
+    },
+    {
+     "y": 425.28,
+     "x0": 326.62,
+     "x1": 530.02,
+     "size": 10.56,
+     "text": "Step1:Initialvaluesselection.Statisticaldata",
+     "segments": [
+      {
+       "x0": 326.62,
+       "x1": 530.02,
+       "text": "Step1:Initialvaluesselection.Statisticaldata"
+      }
+     ]
+    },
+    {
+     "y": 433.92,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "thedevicestructure.Feedbackofthetolerance",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "thedevicestructure.Feedbackofthetolerance"
+      }
+     ]
+    },
+    {
+     "y": 440.88,
+     "x0": 305.52,
+     "x1": 530.07,
+     "size": 10.56,
+     "text": "ofthetolerancefluctuationsintheprecision",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.07,
+       "text": "ofthetolerancefluctuationsintheprecision"
+      }
+     ]
+    },
+    {
+     "y": 449.76,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "fluctuationsisregulatedbycontrollingtheexecu-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "fluctuationsisregulatedbycontrollingtheexecu-"
+      }
+     ]
+    },
+    {
+     "y": 456.72,
+     "x0": 305.52,
+     "x1": 530.02,
+     "size": 10.56,
+     "text": "stampingprocessareanalyzed.Theinitialvalues",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.02,
+       "text": "stampingprocessareanalyzed.Theinitialvalues"
+      }
+     ]
+    },
+    {
+     "y": 465.36,
+     "x0": 65.28,
+     "x1": 289.88,
+     "size": 10.56,
+     "text": "tionparametersofthecarrier.Thenaclosed-loop",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.88,
+       "text": "tionparametersofthecarrier.Thenaclosed-loop"
+      }
+     ]
+    },
+    {
+     "y": 472.32,
+     "x0": 305.52,
+     "x1": 530.08,
+     "size": 10.56,
+     "text": "ofAandBareselectedinthehistoricalstatistics",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.08,
+       "text": "ofAandBareselectedinthehistoricalstatistics"
+      }
+     ]
+    },
+    {
+     "y": 480.96,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "feedbackadaptivecontrolsystemforcomputer-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "feedbackadaptivecontrolsystemforcomputer-"
+      }
+     ]
+    },
+    {
+     "y": 487.92,
+     "x0": 305.52,
+     "x1": 478.13,
+     "size": 10.56,
+     "text": "tomeettheconstraintsofEqs.(3)–(6).",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 478.13,
+       "text": "tomeettheconstraintsofEqs.(3)–(6)."
+      }
+     ]
+    },
+    {
+     "y": 496.56,
+     "x0": 65.28,
+     "x1": 216.54,
+     "size": 10.56,
+     "text": "aidedtolerancecanbeproposed.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 216.54,
+       "text": "aidedtolerancecanbeproposed."
+      }
+     ]
+    },
+    {
+     "y": 503.52,
+     "x0": 326.62,
+     "x1": 530.02,
+     "size": 10.56,
+     "text": "Step2:Modeltraining.Theprobabilityisde-",
+     "segments": [
+      {
+       "x0": 326.62,
+       "x1": 530.02,
+       "text": "Step2:Modeltraining.Theprobabilityisde-"
+      }
+     ]
+    },
+    {
+     "y": 512.16,
+     "x0": 86.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "TheHMMisexpressedbythefollowingfive",
+     "segments": [
+      {
+       "x0": 86.28,
+       "x1": 289.86,
+       "text": "TheHMMisexpressedbythefollowingfive"
+      }
+     ]
+    },
+    {
+     "y": 519.12,
+     "x0": 305.52,
+     "x1": 530.44,
+     "size": 10.56,
+     "text": "finedasξt(i,j)whenHMMisinstateθiattimet,",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.44,
+       "text": "finedasξt(i,j)whenHMMisinstateθiattimet,"
+      }
+     ]
+    },
+    {
+     "y": 527.76,
+     "x0": 65.28,
+     "x1": 189.23,
+     "size": 10.56,
+     "text": "parameters(Rabiner,1989):",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 189.23,
+       "text": "parameters(Rabiner,1989):"
+      }
+     ]
+    },
+    {
+     "y": 534.72,
+     "x0": 305.52,
+     "x1": 530.06,
+     "size": 10.56,
+     "text": "whileinstateθjattimet+1basedonthegiven",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.06,
+       "text": "whileinstateθjattimet+1basedonthegiven"
+      }
+     ]
+    },
+    {
+     "y": 543.6,
+     "x0": 85.55,
+     "x1": 289.81,
+     "size": 10.56,
+     "text": "N:Thenumberofhiddenstates(θi)ofthe",
+     "segments": [
+      {
+       "x0": 85.55,
+       "x1": 289.81,
+       "text": "N:Thenumberofhiddenstates(θi)ofthe"
+      }
+     ]
+    },
+    {
+     "y": 550.56,
+     "x0": 305.52,
+     "x1": 460.29,
+     "size": 10.56,
+     "text": "trainingsequenceOandmodelλ.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 460.29,
+       "text": "trainingsequenceOandmodelλ."
+      }
+     ]
+    },
+    {
+     "y": 559.2,
+     "x0": 65.28,
+     "x1": 289.82,
+     "size": 10.56,
+     "text": "hiddenMarkovchainisexpressedasN,andthe",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.82,
+       "text": "hiddenMarkovchainisexpressedasN,andthe"
+      }
+     ]
+    },
+    {
+     "y": 566.16,
+     "x0": 326.52,
+     "x1": 531.63,
+     "size": 10.56,
+     "text": "TheprobabilityofMarkovchaininthestateθi",
+     "segments": [
+      {
+       "x0": 326.52,
+       "x1": 531.63,
+       "text": "TheprobabilityofMarkovchaininthestateθi"
+      }
+     ]
+    },
+    {
+     "y": 574.8,
+     "x0": 65.28,
+     "x1": 289.81,
+     "size": 10.56,
+     "text": "statesareexpressedasS.Thestateofthehidden",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.81,
+       "text": "statesareexpressedasS.Thestateofthehidden"
+      }
+     ]
+    },
+    {
+     "y": 581.76,
+     "x0": 305.52,
+     "x1": 433.62,
+     "size": 10.56,
+     "text": "attimetisexpressedasγt(i):",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 433.62,
+       "text": "attimetisexpressedasγt(i):"
+      }
+     ]
+    },
+    {
+     "y": 590.4,
+     "x0": 65.28,
+     "x1": 251.04,
+     "size": 10.56,
+     "text": "Markovchainattimetisexpressedasqt.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 251.04,
+       "text": "Markovchainattimetisexpressedasqt."
+      }
+     ]
+    },
+    {
+     "y": 609.3,
+     "x0": 377.99,
+     "x1": 382.15,
+     "size": 6.21,
+     "text": "!",
+     "segments": [
+      {
+       "x0": 377.99,
+       "x1": 382.15,
+       "text": "!"
+      }
+     ]
+    },
+    {
+     "y": 612.22,
+     "x0": 427.36,
+     "x1": 464.32,
+     "size": 10.76,
+     "text": "$\"%#&\"%#",
+     "segments": [
+      {
+       "x0": 427.36,
+       "x1": 464.32,
+       "text": "$\"%#&\"%#"
+      }
+     ]
+    },
+    {
+     "y": 613.14,
+     "x0": 423.39,
+     "x1": 468.1,
+     "size": 14.67,
+     "text": "[]",
+     "segments": [
+      {
+       "x0": 423.39,
+       "x1": 426.92,
+       "text": "["
+      },
+      {
+       "x0": 464.57,
+       "x1": 468.1,
+       "text": "]"
+      }
+     ]
+    },
+    {
+     "y": 615.02,
+     "x0": 432.39,
+     "x1": 452.28,
+     "size": 6.21,
+     "text": "\"\"",
+     "segments": [
+      {
+       "x0": 432.39,
+       "x1": 434.12,
+       "text": "\""
+      },
+      {
+       "x0": 450.55,
+       "x1": 452.28,
+       "text": "\""
+      }
+     ]
+    },
+    {
+     "y": 619.68,
+     "x0": 343.97,
+     "x1": 530.09,
+     "size": 10.76,
+     "text": "!\"%#=\"\"%$##=%(7)",
+     "segments": [
+      {
+       "x0": 343.97,
+       "x1": 420.88,
+       "text": "!\"%#=\"\"%$##="
+      },
+      {
+       "x0": 469.03,
+       "x1": 471.73,
+       "text": "%"
+      },
+      {
+       "x0": 518.41,
+       "x1": 530.09,
+       "text": "(7)"
+      }
+     ]
+    },
+    {
+     "y": 622.34,
+     "x0": 125.62,
+     "x1": 386.18,
+     "size": 16.15,
+     "text": "#=!#!#!#!#$",
+     "segments": [
+      {
+       "x0": 125.62,
+       "x1": 207.79,
+       "text": "#=!#!#!#!#"
+      },
+      {
+       "x0": 374.61,
+       "x1": 386.18,
+       "text": "$"
+      }
+     ]
+    },
+    {
+     "y": 623.03,
+     "x0": 141.7,
+     "x1": 351.96,
+     "size": 14.17,
+     "text": "{}\"",
+     "segments": [
+      {
+       "x0": 141.7,
+       "x1": 146.84,
+       "text": "{"
+      },
+      {
+       "x0": 199.41,
+       "x1": 204.56,
+       "text": "}"
+      },
+      {
+       "x0": 350.23,
+       "x1": 351.96,
+       "text": "\""
+      }
+     ]
+    },
+    {
+     "y": 625.13,
+     "x0": 150.99,
+     "x1": 198.12,
+     "size": 6.23,
+     "text": "!\"!",
+     "segments": [
+      {
+       "x0": 150.99,
+       "x1": 154.13,
+       "text": "!"
+      },
+      {
+       "x0": 164.7,
+       "x1": 167.84,
+       "text": "\""
+      },
+      {
+       "x0": 193.93,
+       "x1": 198.12,
+       "text": "!"
+      }
+     ]
+    },
+    {
+     "y": 628.7,
+     "x0": 430.45,
+     "x1": 461.64,
+     "size": 10.76,
+     "text": "'\"(##",
+     "segments": [
+      {
+       "x0": 430.45,
+       "x1": 461.64,
+       "text": "'\"(##"
+      }
+     ]
+    },
+    {
+     "y": 629.76,
+     "x0": 278.17,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "(3)",
+     "segments": [
+      {
+       "x0": 278.17,
+       "x1": 289.85,
+       "text": "(3)"
+      }
+     ]
+    },
+    {
+     "y": 630.43,
+     "x0": 376.77,
+     "x1": 385.38,
+     "size": 6.21,
+     "text": "#=!",
+     "segments": [
+      {
+       "x0": 376.77,
+       "x1": 385.38,
+       "text": "#=!"
+      }
+     ]
+    },
+    {
+     "y": 638.54,
+     "x0": 125.45,
+     "x1": 208.99,
+     "size": 10.79,
+     "text": "$\"!#!#!#!$",
+     "segments": [
+      {
+       "x0": 125.45,
+       "x1": 208.99,
+       "text": "$\"!#!#!#!$"
+      }
+     ]
+    },
+    {
+     "y": 639.31,
+     "x0": 143.24,
+     "x1": 206.1,
+     "size": 14.17,
+     "text": "{}",
+     "segments": [
+      {
+       "x0": 143.24,
+       "x1": 148.39,
+       "text": "{"
+      },
+      {
+       "x0": 200.96,
+       "x1": 206.1,
+       "text": "}"
+      }
+     ]
+    },
+    {
+     "y": 641.31,
+     "x0": 130.48,
+     "x1": 199.66,
+     "size": 6.23,
+     "text": "\"!\"!",
+     "segments": [
+      {
+       "x0": 130.48,
+       "x1": 132.23,
+       "text": "\""
+      },
+      {
+       "x0": 152.54,
+       "x1": 155.68,
+       "text": "!"
+      },
+      {
+       "x0": 166.25,
+       "x1": 169.39,
+       "text": "\""
+      },
+      {
+       "x0": 195.47,
+       "x1": 199.66,
+       "text": "!"
+      }
+     ]
+    },
+    {
+     "y": 658.56,
+     "x0": 326.62,
+     "x1": 530.05,
+     "size": 10.56,
+     "text": "Parametersareconductedbyseveralitera-",
+     "segments": [
+      {
+       "x0": 326.62,
+       "x1": 530.05,
+       "text": "Parametersareconductedbyseveralitera-"
+      }
+     ]
+    },
+    {
+     "y": 670.32,
+     "x0": 85.55,
+     "x1": 289.81,
+     "size": 10.56,
+     "text": "M:Thenumberofdifferentvaluesmonitored",
+     "segments": [
+      {
+       "x0": 85.55,
+       "x1": 289.81,
+       "text": "M:Thenumberofdifferentvaluesmonitored"
+      }
+     ]
+    },
+    {
+     "y": 674.4,
+     "x0": 305.52,
+     "x1": 530.08,
+     "size": 10.56,
+     "text": "tiveoperationsbyusingtherevaluationformula",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.08,
+       "text": "tiveoperationsbyusingtherevaluationformula"
+      }
+     ]
+    },
+    {
+     "y": 685.92,
+     "x0": 65.28,
+     "x1": 289.81,
+     "size": 10.56,
+     "text": "bythecorrespondingsensorsintheprocessisex-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.81,
+       "text": "bythecorrespondingsensorsintheprocessisex-"
+      }
+     ]
+    },
+    {
+     "y": 690.0,
+     "x0": 305.52,
+     "x1": 530.05,
+     "size": 10.56,
+     "text": "oftheBaum-Welchalgorithm.Convergentpa-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.05,
+       "text": "oftheBaum-Welchalgorithm.Convergentpa-"
+      }
+     ]
+    },
+    {
+     "y": 701.52,
+     "x0": 65.28,
+     "x1": 289.82,
+     "size": 10.56,
+     "text": "pressedasM.Thesetofmonitoringvaluesisrep-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.82,
+       "text": "pressedasM.Thesetofmonitoringvaluesisrep-"
+      }
+     ]
+    },
+    {
+     "y": 705.31,
+     "x0": 425.61,
+     "x1": 473.71,
+     "size": 11.37,
+     "text": "!!!",
+     "segments": [
+      {
+       "x0": 425.61,
+       "x1": 429.37,
+       "text": "!"
+      },
+      {
+       "x0": 457.34,
+       "x1": 473.71,
+       "text": "!!"
+      }
+     ]
+    },
+    {
+     "y": 707.76,
+     "x0": 305.52,
+     "x1": 530.05,
+     "size": 11.37,
+     "text": "rametersofthemodel!wereob-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 416.52,
+       "text": "rametersofthemodel"
+      },
+      {
+       "x0": 445.45,
+       "x1": 449.2,
+       "text": "!"
+      },
+      {
+       "x0": 484.64,
+       "x1": 530.05,
+       "text": "wereob-"
+      }
+     ]
+    },
+    {
+     "y": 708.52,
+     "x0": 422.12,
+     "x1": 478.7,
+     "size": 11.37,
+     "text": "!=!!\"!\"\"#",
+     "segments": [
+      {
+       "x0": 422.12,
+       "x1": 478.7,
+       "text": "!=!!\"!\"\"#"
+      }
+     ]
+    },
+    {
+     "y": 717.36,
+     "x0": 65.28,
+     "x1": 281.6,
+     "size": 10.56,
+     "text": "resentedasV,andviistheelementofthesetV.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 281.6,
+       "text": "resentedasV,andviistheelementofthesetV."
+      }
+     ]
+    },
+    {
+     "y": 724.32,
+     "x0": 305.52,
+     "x1": 529.99,
+     "size": 10.56,
+     "text": "tainedtomeettherequirementsoftheerror",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 529.99,
+       "text": "tainedtomeettherequirementsoftheerror"
+      }
+     ]
+    },
+    {
+     "y": 732.96,
+     "x0": 86.38,
+     "x1": 289.82,
+     "size": 10.56,
+     "text": "Themonitoringvalueattimetisexpressed",
+     "segments": [
+      {
+       "x0": 86.38,
+       "x1": 289.82,
+       "text": "Themonitoringvalueattimetisexpressed"
+      }
+     ]
+    },
+    {
+     "y": 739.92,
+     "x0": 305.52,
+     "x1": 334.1,
+     "size": 10.56,
+     "text": "range.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 334.1,
+       "text": "range."
+      }
+     ]
+    },
+    {
+     "y": 748.56,
+     "x0": 65.28,
+     "x1": 88.01,
+     "size": 10.56,
+     "text": "asot.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 88.01,
+       "text": "asot."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 85.92,
+     "x0": 414.61,
+     "x1": 529.96,
+     "size": 6.96,
+     "text": "JZhejiangUniv-SciAinpress|5",
+     "segments": [
+      {
+       "x0": 414.61,
+       "x1": 529.96,
+       "text": "JZhejiangUniv-SciAinpress|5"
+      }
+     ]
+    },
+    {
+     "y": 123.36,
+     "x0": 86.38,
+     "x1": 530.12,
+     "size": 10.56,
+     "text": "Step3:Statesolution.StatesequenceΘises-modelofadedicateddieintheprecisionstamping",
+     "segments": [
+      {
+       "x0": 86.38,
+       "x1": 530.12,
+       "text": "Step3:Statesolution.StatesequenceΘises-modelofadedicateddieintheprecisionstamping"
+      }
+     ]
+    },
+    {
+     "y": 139.2,
+     "x0": 65.28,
+     "x1": 342.11,
+     "size": 10.56,
+     "text": "timatedbytheViterbialgorithminthosecasesprocess.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 342.11,
+       "text": "timatedbytheViterbialgorithminthosecasesprocess."
+      }
+     ]
+    },
+    {
+     "y": 154.8,
+     "x0": 65.28,
+     "x1": 289.8,
+     "size": 10.56,
+     "text": "whenthevalueofP(Θ|V)isatthemaximum.Itcan",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.8,
+       "text": "whenthevalueofP(Θ|V)isatthemaximum.Itcan"
+      }
+     ]
+    },
+    {
+     "y": 170.4,
+     "x0": 65.28,
+     "x1": 226.4,
+     "size": 10.56,
+     "text": "becalculatedbytheBayesformula.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 226.4,
+       "text": "becalculatedbytheBayesformula."
+      }
+     ]
+    },
+    {
+     "y": 178.35,
+     "x0": 414.34,
+     "x1": 418.45,
+     "size": 6.69,
+     "text": "F",
+     "segments": [
+      {
+       "x0": 414.34,
+       "x1": 418.45,
+       "text": "F"
+      }
+     ]
+    },
+    {
+     "y": 179.38,
+     "x0": 418.47,
+     "x1": 420.8,
+     "size": 4.63,
+     "text": "y",
+     "segments": [
+      {
+       "x0": 418.47,
+       "x1": 420.8,
+       "text": "y"
+      }
+     ]
+    },
+    {
+     "y": 186.0,
+     "x0": 86.38,
+     "x1": 289.8,
+     "size": 10.56,
+     "text": "Thefollowingformulacanbeobtainedafter",
+     "segments": [
+      {
+       "x0": 86.38,
+       "x1": 289.8,
+       "text": "Thefollowingformulacanbeobtainedafter"
+      }
+     ]
+    },
+    {
+     "y": 201.6,
+     "x0": 65.28,
+     "x1": 459.76,
+     "size": 10.56,
+     "text": "transformation:F",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 134.74,
+       "text": "transformation:"
+      },
+      {
+       "x0": 455.66,
+       "x1": 459.76,
+       "text": "F"
+      }
+     ]
+    },
+    {
+     "y": 203.06,
+     "x0": 459.79,
+     "x1": 462.11,
+     "size": 4.63,
+     "text": "x",
+     "segments": [
+      {
+       "x0": 459.79,
+       "x1": 462.11,
+       "text": "x"
+      }
+     ]
+    },
+    {
+     "y": 232.3,
+     "x0": 84.63,
+     "x1": 248.02,
+     "size": 10.66,
+     "text": "##$$%&#!$&#$!$=&#!$&#$!$%",
+     "segments": [
+      {
+       "x0": 84.63,
+       "x1": 248.02,
+       "text": "##$$%&#!$&#$!$=&#!$&#$!$%"
+      }
+     ]
+    },
+    {
+     "y": 235.06,
+     "x0": 90.09,
+     "x1": 204.93,
+     "size": 6.14,
+     "text": "!!",
+     "segments": [
+      {
+       "x0": 90.09,
+       "x1": 94.46,
+       "text": "!"
+      },
+      {
+       "x0": 201.9,
+       "x1": 204.93,
+       "text": "!"
+      }
+     ]
+    },
+    {
+     "y": 245.99,
+     "x0": 121.65,
+     "x1": 176.26,
+     "size": 6.14,
+     "text": "!!",
+     "segments": [
+      {
+       "x0": 121.65,
+       "x1": 124.68,
+       "text": "!"
+      },
+      {
+       "x0": 173.24,
+       "x1": 176.26,
+       "text": "!"
+      }
+     ]
+    },
+    {
+     "y": 247.68,
+     "x0": 278.17,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "(8)",
+     "segments": [
+      {
+       "x0": 278.17,
+       "x1": 289.85,
+       "text": "(8)"
+      }
+     ]
+    },
+    {
+     "y": 257.03,
+     "x0": 129.23,
+     "x1": 215.85,
+     "size": 10.66,
+     "text": "&#!!$&#'!$&",
+     "segments": [
+      {
+       "x0": 129.23,
+       "x1": 215.85,
+       "text": "&#!!$&#'!$&"
+      }
+     ]
+    },
+    {
+     "y": 259.71,
+     "x0": 116.63,
+     "x1": 208.1,
+     "size": 15.98,
+     "text": "#\"\"\"!#\"\"",
+     "segments": [
+      {
+       "x0": 116.63,
+       "x1": 208.1,
+       "text": "#\"\"\"!#\"\""
+      }
+     ]
+    },
+    {
+     "y": 267.36,
+     "x0": 118.52,
+     "x1": 179.23,
+     "size": 6.14,
+     "text": "\"=\"\"=!",
+     "segments": [
+      {
+       "x0": 118.52,
+       "x1": 127.72,
+       "text": "\"=\""
+      },
+      {
+       "x0": 170.66,
+       "x1": 179.23,
+       "text": "\"=!"
+      }
+     ]
+    },
+    {
+     "y": 289.54,
+     "x0": 414.34,
+     "x1": 418.45,
+     "size": 6.69,
+     "text": "F",
+     "segments": [
+      {
+       "x0": 414.34,
+       "x1": 418.45,
+       "text": "F"
+      }
+     ]
+    },
+    {
+     "y": 290.57,
+     "x0": 418.47,
+     "x1": 420.8,
+     "size": 4.63,
+     "text": "z",
+     "segments": [
+      {
+       "x0": 418.47,
+       "x1": 420.8,
+       "text": "z"
+      }
+     ]
+    },
+    {
+     "y": 294.48,
+     "x0": 86.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "ThemodelparametersofHMMareobtained",
+     "segments": [
+      {
+       "x0": 86.28,
+       "x1": 289.87,
+       "text": "ThemodelparametersofHMMareobtained"
+      }
+     ]
+    },
+    {
+     "y": 310.32,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "byrevaluatingthemonitoringdata.Themaximum",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "byrevaluatingthemonitoringdata.Themaximum"
+      }
+     ]
+    },
+    {
+     "y": 315.36,
+     "x0": 342.92,
+     "x1": 492.69,
+     "size": 9.12,
+     "text": "Fig.4Designmodelofdedicateddie",
+     "segments": [
+      {
+       "x0": 342.92,
+       "x1": 492.69,
+       "text": "Fig.4Designmodelofdedicateddie"
+      }
+     ]
+    },
+    {
+     "y": 325.92,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "valuesofthesub-statearecalculatedforeach",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "valuesofthesub-statearecalculatedforeach"
+      }
+     ]
+    },
+    {
+     "y": 341.52,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "stateateachtime.ThesequenceΘofthestate",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "stateateachtime.ThesequenceΘofthestate"
+      }
+     ]
+    },
+    {
+     "y": 345.84,
+     "x0": 326.52,
+     "x1": 530.08,
+     "size": 10.56,
+     "text": "Precisionstampingtestswerecarriedoutsev-",
+     "segments": [
+      {
+       "x0": 326.52,
+       "x1": 530.08,
+       "text": "Precisionstampingtestswerecarriedoutsev-"
+      }
+     ]
+    },
+    {
+     "y": 357.12,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "valuesateachtimecanbeobtainedbyaccumu-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "valuesateachtimecanbeobtainedbyaccumu-"
+      }
+     ]
+    },
+    {
+     "y": 361.44,
+     "x0": 305.52,
+     "x1": 530.14,
+     "size": 10.56,
+     "text": "eraltimesunderthetraditionalprocessingmeth-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.14,
+       "text": "eraltimesunderthetraditionalprocessingmeth-"
+      }
+     ]
+    },
+    {
+     "y": 372.72,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "latingthesub-statevalues.Thesequenceisthe",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "latingthesub-statevalues.Thesequenceisthe"
+      }
+     ]
+    },
+    {
+     "y": 377.28,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "odsonsteelmaterials(No.35#).Thetestdatais",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "odsonsteelmaterials(No.35#).Thetestdatais"
+      }
+     ]
+    },
+    {
+     "y": 388.56,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "hiddentolerancefluctuantstatesintheprecision",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "hiddentolerancefluctuantstatesintheprecision"
+      }
+     ]
+    },
+    {
+     "y": 392.88,
+     "x0": 305.52,
+     "x1": 383.77,
+     "size": 10.56,
+     "text": "showninTable1.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 383.77,
+       "text": "showninTable1."
+      }
+     ]
+    },
+    {
+     "y": 404.16,
+     "x0": 65.28,
+     "x1": 146.64,
+     "size": 10.56,
+     "text": "stampingprocess.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 146.64,
+       "text": "stampingprocess."
+      }
+     ]
+    },
+    {
+     "y": 408.48,
+     "x0": 326.52,
+     "x1": 530.08,
+     "size": 10.56,
+     "text": "Basicprocessparameterswereheldconstant,",
+     "segments": [
+      {
+       "x0": 326.52,
+       "x1": 530.08,
+       "text": "Basicprocessparameterswereheldconstant,"
+      }
+     ]
+    },
+    {
+     "y": 419.76,
+     "x0": 86.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "Oncethevolatilityofthetolerancefluctua-",
+     "segments": [
+      {
+       "x0": 86.28,
+       "x1": 289.87,
+       "text": "Oncethevolatilityofthetolerancefluctua-"
+      }
+     ]
+    },
+    {
+     "y": 424.08,
+     "x0": 305.52,
+     "x1": 530.13,
+     "size": 10.56,
+     "text": "whilesomeparticularconditionfactorswereal-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.13,
+       "text": "whilesomeparticularconditionfactorswereal-"
+      }
+     ]
+    },
+    {
+     "y": 435.36,
+     "x0": 65.28,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "tionsexceededthetolerancerangeindesign,the",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.85,
+       "text": "tionsexceededthetolerancerangeindesign,the"
+      }
+     ]
+    },
+    {
+     "y": 439.68,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "lowedtofluctuateinthetrials.Itwasshownthat",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "lowedtofluctuateinthetrials.Itwasshownthat"
+      }
+     ]
+    },
+    {
+     "y": 450.96,
+     "x0": 65.28,
+     "x1": 289.88,
+     "size": 10.56,
+     "text": "adaptivecontrolstrategywouldbeactivatedinthe",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.88,
+       "text": "adaptivecontrolstrategywouldbeactivatedinthe"
+      }
+     ]
+    },
+    {
+     "y": 455.28,
+     "x0": 305.52,
+     "x1": 530.14,
+     "size": 10.56,
+     "text": "thevolatilityofthetolerancefluctuationwasdif-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.14,
+       "text": "thevolatilityofthetolerancefluctuationwasdif-"
+      }
+     ]
+    },
+    {
+     "y": 466.56,
+     "x0": 65.28,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "computernumericalcontrolsystem.Theprocess",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.85,
+       "text": "computernumericalcontrolsystem.Theprocess"
+      }
+     ]
+    },
+    {
+     "y": 471.12,
+     "x0": 305.52,
+     "x1": 530.08,
+     "size": 10.56,
+     "text": "ferentindifferenttrials.Comparingthreesetsof",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.08,
+       "text": "ferentindifferenttrials.Comparingthreesetsof"
+      }
+     ]
+    },
+    {
+     "y": 482.4,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "executionparameterswereadjustedadaptivelyto",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "executionparameterswereadjustedadaptivelyto"
+      }
+     ]
+    },
+    {
+     "y": 486.72,
+     "x0": 305.52,
+     "x1": 530.09,
+     "size": 10.56,
+     "text": "datafromtrialsS1,S2,andS3,thetolerancechanges",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.09,
+       "text": "datafromtrialsS1,S2,andS3,thetolerancechanges"
+      }
+     ]
+    },
+    {
+     "y": 498.0,
+     "x0": 65.28,
+     "x1": 155.92,
+     "size": 10.56,
+     "text": "reducethevolatility.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 155.92,
+       "text": "reducethevolatility."
+      }
+     ]
+    },
+    {
+     "y": 502.32,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "by0.070,0.035,and0.024,respectively.Thefluc-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "by0.070,0.035,and0.024,respectively.Thefluc-"
+      }
+     ]
+    },
+    {
+     "y": 517.92,
+     "x0": 305.52,
+     "x1": 530.09,
+     "size": 10.56,
+     "text": "tuationrangeisabout0.028.Byanalyzingthetrials",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.09,
+       "text": "tuationrangeisabout0.028.Byanalyzingthetrials"
+      }
+     ]
+    },
+    {
+     "y": 533.52,
+     "x0": 305.52,
+     "x1": 530.09,
+     "size": 10.56,
+     "text": "S2,S4,andS5,thefluctuationrangeisabout0.270.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.09,
+       "text": "S2,S4,andS5,thefluctuationrangeisabout0.270."
+      }
+     ]
+    },
+    {
+     "y": 544.56,
+     "x0": 65.28,
+     "x1": 191.32,
+     "size": 10.56,
+     "text": "4Resultsanddiscussion",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 191.32,
+       "text": "4Resultsanddiscussion"
+      }
+     ]
+    },
+    {
+     "y": 549.36,
+     "x0": 305.52,
+     "x1": 530.09,
+     "size": 10.56,
+     "text": "Theamountofthefluctuationrangeforthisdata",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.09,
+       "text": "Theamountofthefluctuationrangeforthisdata"
+      }
+     ]
+    },
+    {
+     "y": 564.96,
+     "x0": 305.52,
+     "x1": 530.11,
+     "size": 10.56,
+     "text": "setis10timesthatoftheformer.Thefluctuation",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.11,
+       "text": "setis10timesthatoftheformer.Thefluctuation"
+      }
+     ]
+    },
+    {
+     "y": 573.84,
+     "x0": 86.28,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "Aprecisionstampingprocessisusedtocutor",
+     "segments": [
+      {
+       "x0": 86.28,
+       "x1": 289.85,
+       "text": "Aprecisionstampingprocessisusedtocutor"
+      }
+     ]
+    },
+    {
+     "y": 580.56,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "rangeshouldbereducedbyredesigningthepro-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "rangeshouldbereducedbyredesigningthepro-"
+      }
+     ]
+    },
+    {
+     "y": 589.44,
+     "x0": 65.28,
+     "x1": 289.84,
+     "size": 10.56,
+     "text": "moldmaterialsbasedontheplasticsheartheory,",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.84,
+       "text": "moldmaterialsbasedontheplasticsheartheory,"
+      }
+     ]
+    },
+    {
+     "y": 596.16,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "cessparameterswhentheconditionfactors",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "cessparameterswhentheconditionfactors"
+      }
+     ]
+    },
+    {
+     "y": 605.04,
+     "x0": 65.28,
+     "x1": 289.88,
+     "size": 10.56,
+     "text": "anditispressedonadedicatedpieceofpress",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.88,
+       "text": "anditispressedonadedicatedpieceofpress"
+      }
+     ]
+    },
+    {
+     "y": 611.76,
+     "x0": 305.52,
+     "x1": 340.83,
+     "size": 10.56,
+     "text": "change.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 340.83,
+       "text": "change."
+      }
+     ]
+    },
+    {
+     "y": 620.64,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "equipmentusingaprecisiondiewithanon-tradi-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "equipmentusingaprecisiondiewithanon-tradi-"
+      }
+     ]
+    },
+    {
+     "y": 627.6,
+     "x0": 326.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "Processparameterswereadjustedadaptively",
+     "segments": [
+      {
+       "x0": 326.52,
+       "x1": 530.1,
+       "text": "Processparameterswereadjustedadaptively"
+      }
+     ]
+    },
+    {
+     "y": 636.48,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "tionalstructure.Theprecisionstampingprocess",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "tionalstructure.Theprecisionstampingprocess"
+      }
+     ]
+    },
+    {
+     "y": 643.2,
+     "x0": 305.52,
+     "x1": 530.09,
+     "size": 10.56,
+     "text": "undertheadaptivemethodbythemonitoringsys-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.09,
+       "text": "undertheadaptivemethodbythemonitoringsys-"
+      }
+     ]
+    },
+    {
+     "y": 652.08,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "makesthematerialstogeneratetheplasticdevia-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "makesthematerialstogeneratetheplasticdevia-"
+      }
+     ]
+    },
+    {
+     "y": 658.8,
+     "x0": 305.52,
+     "x1": 530.08,
+     "size": 10.56,
+     "text": "temandHMMalgorithminfivedifferenttypesof",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.08,
+       "text": "temandHMMalgorithminfivedifferenttypesof"
+      }
+     ]
+    },
+    {
+     "y": 667.68,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "toricdeformationunderhugepressure.Theadap-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "toricdeformationunderhugepressure.Theadap-"
+      }
+     ]
+    },
+    {
+     "y": 674.4,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "tests.Thesimulationsoftheadaptiveprocesspa-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "tests.Thesimulationsoftheadaptiveprocesspa-"
+      }
+     ]
+    },
+    {
+     "y": 683.28,
+     "x0": 65.28,
+     "x1": 289.89,
+     "size": 10.56,
+     "text": "tivedesignmethodisproposedtocontrolthe",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.89,
+       "text": "tivedesignmethodisproposedtocontrolthe"
+      }
+     ]
+    },
+    {
+     "y": 690.0,
+     "x0": 305.52,
+     "x1": 530.12,
+     "size": 10.56,
+     "text": "rametersareshowninFig.5.Theresultsofthe",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.12,
+       "text": "rametersareshowninFig.5.Theresultsofthe"
+      }
+     ]
+    },
+    {
+     "y": 698.88,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "processparameterswhichwouldreducethetoler-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "processparameterswhichwouldreducethetoler-"
+      }
+     ]
+    },
+    {
+     "y": 705.6,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "adaptivecontrolmethodoftoleranceinthepreci-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "adaptivecontrolmethodoftoleranceinthepreci-"
+      }
+     ]
+    },
+    {
+     "y": 714.72,
+     "x0": 65.28,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "ancefluctuations.Itisaverysignificantapproach",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.85,
+       "text": "ancefluctuations.Itisaverysignificantapproach"
+      }
+     ]
+    },
+    {
+     "y": 721.44,
+     "x0": 305.52,
+     "x1": 504.08,
+     "size": 10.56,
+     "text": "sionstampingprocessareshowninTable2.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 504.08,
+       "text": "sionstampingprocessareshowninTable2."
+      }
+     ]
+    },
+    {
+     "y": 730.32,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "forimprovingtheprocessingqualityandaccuracy",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "forimprovingtheprocessingqualityandaccuracy"
+      }
+     ]
+    },
+    {
+     "y": 737.04,
+     "x0": 326.52,
+     "x1": 530.11,
+     "size": 10.56,
+     "text": "TheXXXXXisgiveninSectionS1and/orTable",
+     "segments": [
+      {
+       "x0": 326.52,
+       "x1": 530.11,
+       "text": "TheXXXXXisgiveninSectionS1and/orTable"
+      }
+     ]
+    },
+    {
+     "y": 745.92,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "intheprecisionstampingprocess.Fig.4isadesign",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "intheprecisionstampingprocess.Fig.4isadesign"
+      }
+     ]
+    },
+    {
+     "y": 752.64,
+     "x0": 305.52,
+     "x1": 530.09,
+     "size": 10.56,
+     "text": "S1oftheelectronicsupplementarymaterials",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.09,
+       "text": "S1oftheelectronicsupplementarymaterials"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 85.92,
+     "x0": 65.29,
+     "x1": 180.83,
+     "size": 6.96,
+     "text": "6|JZhejiangUniv-SciAinpress",
+     "segments": [
+      {
+       "x0": 65.29,
+       "x1": 180.83,
+       "text": "6|JZhejiangUniv-SciAinpress"
+      }
+     ]
+    },
+    {
+     "y": 123.36,
+     "x0": 65.28,
+     "x1": 278.63,
+     "size": 10.56,
+     "text": "(ESM),includingthesolutionstepsoftheXXXX.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 278.63,
+       "text": "(ESM),includingthesolutionstepsoftheXXXX."
+      }
+     ]
+    },
+    {
+     "y": 153.6,
+     "x0": 184.62,
+     "x1": 410.9,
+     "size": 9.12,
+     "text": "Table1Measureddataoftheexperimentsinfivestates",
+     "segments": [
+      {
+       "x0": 184.62,
+       "x1": 410.9,
+       "text": "Table1Measureddataoftheexperimentsinfivestates"
+      }
+     ]
+    },
+    {
+     "y": 170.16,
+     "x0": 112.1,
+     "x1": 325.58,
+     "size": 9.12,
+     "text": "BlankingRadiusofThickness",
+     "segments": [
+      {
+       "x0": 112.1,
+       "x1": 188.93,
+       "text": "BlankingRadiusof"
+      },
+      {
+       "x0": 288.72,
+       "x1": 325.58,
+       "text": "Thickness"
+      }
+     ]
+    },
+    {
+     "y": 176.64,
+     "x0": 196.33,
+     "x1": 512.14,
+     "size": 9.12,
+     "text": "RadiusofFilletradiusVelocityMetalPressureDisplacementAngle",
+     "segments": [
+      {
+       "x0": 196.33,
+       "x1": 283.1,
+       "text": "RadiusofFilletradius"
+      },
+      {
+       "x0": 330.85,
+       "x1": 512.14,
+       "text": "VelocityMetalPressureDisplacementAngle"
+      }
+     ]
+    },
+    {
+     "y": 183.36,
+     "x0": 84.52,
+     "x1": 321.18,
+     "size": 9.12,
+     "text": "Trialclearancepunchofsteel",
+     "segments": [
+      {
+       "x0": 84.52,
+       "x1": 183.13,
+       "text": "Trialclearancepunch"
+      },
+      {
+       "x0": 293.1,
+       "x1": 321.18,
+       "text": "ofsteel"
+      }
+     ]
+    },
+    {
+     "y": 185.52,
+     "x0": 411.97,
+     "x1": 414.37,
+     "size": 4.56,
+     "text": "4",
+     "segments": [
+      {
+       "x0": 411.97,
+       "x1": 414.37,
+       "text": "4"
+      }
+     ]
+    },
+    {
+     "y": 190.08,
+     "x0": 196.88,
+     "x1": 505.21,
+     "size": 9.12,
+     "text": "die(mm)ofdie(mm)(mm/s)type(×10N)(mm)(°)",
+     "segments": [
+      {
+       "x0": 196.88,
+       "x1": 283.77,
+       "text": "die(mm)ofdie(mm)"
+      },
+      {
+       "x0": 332.36,
+       "x1": 426.03,
+       "text": "(mm/s)type(×10N)"
+      },
+      {
+       "x0": 445.87,
+       "x1": 466.3,
+       "text": "(mm)"
+      },
+      {
+       "x0": 496.49,
+       "x1": 505.21,
+       "text": "(°)"
+      }
+     ]
+    },
+    {
+     "y": 196.8,
+     "x0": 118.33,
+     "x1": 317.36,
+     "size": 9.12,
+     "text": "(mm)(mm)(mm)",
+     "segments": [
+      {
+       "x0": 118.33,
+       "x1": 138.76,
+       "text": "(mm)"
+      },
+      {
+       "x0": 160.82,
+       "x1": 181.25,
+       "text": "(mm)"
+      },
+      {
+       "x0": 296.93,
+       "x1": 317.36,
+       "text": "(mm)"
+      }
+     ]
+    },
+    {
+     "y": 210.72,
+     "x0": 89.14,
+     "x1": 509.0,
+     "size": 9.12,
+     "text": "S10.059.95100.11.02035#20.2600.70",
+     "segments": [
+      {
+       "x0": 89.14,
+       "x1": 96.17,
+       "text": "S1"
+      },
+      {
+       "x0": 116.88,
+       "x1": 133.15,
+       "text": "0.05"
+      },
+      {
+       "x0": 159.84,
+       "x1": 176.11,
+       "text": "9.95"
+      },
+      {
+       "x0": 209.47,
+       "x1": 219.02,
+       "text": "10"
+      },
+      {
+       "x0": 255.54,
+       "x1": 267.06,
+       "text": "0.1"
+      },
+      {
+       "x0": 299.88,
+       "x1": 311.4,
+       "text": "1.0"
+      },
+      {
+       "x0": 341.34,
+       "x1": 350.89,
+       "text": "20"
+      },
+      {
+       "x0": 370.63,
+       "x1": 385.55,
+       "text": "35#"
+      },
+      {
+       "x0": 407.55,
+       "x1": 412.36,
+       "text": "2"
+      },
+      {
+       "x0": 445.6,
+       "x1": 466.61,
+       "text": "0.260"
+      },
+      {
+       "x0": 492.74,
+       "x1": 509.0,
+       "text": "0.70"
+      }
+     ]
+    },
+    {
+     "y": 224.16,
+     "x0": 89.14,
+     "x1": 509.0,
+     "size": 9.12,
+     "text": "S20.109.90100.11.02035#20.2920.35",
+     "segments": [
+      {
+       "x0": 89.14,
+       "x1": 96.17,
+       "text": "S2"
+      },
+      {
+       "x0": 116.88,
+       "x1": 133.14,
+       "text": "0.10"
+      },
+      {
+       "x0": 159.84,
+       "x1": 176.1,
+       "text": "9.90"
+      },
+      {
+       "x0": 209.47,
+       "x1": 219.02,
+       "text": "10"
+      },
+      {
+       "x0": 255.54,
+       "x1": 267.06,
+       "text": "0.1"
+      },
+      {
+       "x0": 299.88,
+       "x1": 311.4,
+       "text": "1.0"
+      },
+      {
+       "x0": 341.34,
+       "x1": 350.89,
+       "text": "20"
+      },
+      {
+       "x0": 370.63,
+       "x1": 385.55,
+       "text": "35#"
+      },
+      {
+       "x0": 407.55,
+       "x1": 412.36,
+       "text": "2"
+      },
+      {
+       "x0": 445.6,
+       "x1": 466.61,
+       "text": "0.292"
+      },
+      {
+       "x0": 492.74,
+       "x1": 509.0,
+       "text": "0.35"
+      }
+     ]
+    },
+    {
+     "y": 237.6,
+     "x0": 89.14,
+     "x1": 509.0,
+     "size": 9.12,
+     "text": "S30.159.85100.11.02035#20.3260.24",
+     "segments": [
+      {
+       "x0": 89.14,
+       "x1": 96.17,
+       "text": "S3"
+      },
+      {
+       "x0": 116.88,
+       "x1": 133.15,
+       "text": "0.15"
+      },
+      {
+       "x0": 159.84,
+       "x1": 176.11,
+       "text": "9.85"
+      },
+      {
+       "x0": 209.47,
+       "x1": 219.02,
+       "text": "10"
+      },
+      {
+       "x0": 255.54,
+       "x1": 267.06,
+       "text": "0.1"
+      },
+      {
+       "x0": 299.88,
+       "x1": 311.4,
+       "text": "1.0"
+      },
+      {
+       "x0": 341.34,
+       "x1": 350.89,
+       "text": "20"
+      },
+      {
+       "x0": 370.63,
+       "x1": 385.55,
+       "text": "35#"
+      },
+      {
+       "x0": 407.55,
+       "x1": 412.36,
+       "text": "2"
+      },
+      {
+       "x0": 445.6,
+       "x1": 466.61,
+       "text": "0.326"
+      },
+      {
+       "x0": 492.74,
+       "x1": 509.0,
+       "text": "0.24"
+      }
+     ]
+    },
+    {
+     "y": 251.04,
+     "x0": 89.14,
+     "x1": 509.0,
+     "size": 9.12,
+     "text": "S40.109.90100.11.52035#20.3750.97",
+     "segments": [
+      {
+       "x0": 89.14,
+       "x1": 96.17,
+       "text": "S4"
+      },
+      {
+       "x0": 116.88,
+       "x1": 133.14,
+       "text": "0.10"
+      },
+      {
+       "x0": 159.84,
+       "x1": 176.1,
+       "text": "9.90"
+      },
+      {
+       "x0": 209.47,
+       "x1": 219.02,
+       "text": "10"
+      },
+      {
+       "x0": 255.54,
+       "x1": 267.06,
+       "text": "0.1"
+      },
+      {
+       "x0": 299.88,
+       "x1": 311.41,
+       "text": "1.5"
+      },
+      {
+       "x0": 341.34,
+       "x1": 350.89,
+       "text": "20"
+      },
+      {
+       "x0": 370.63,
+       "x1": 385.55,
+       "text": "35#"
+      },
+      {
+       "x0": 407.55,
+       "x1": 412.36,
+       "text": "2"
+      },
+      {
+       "x0": 445.6,
+       "x1": 466.61,
+       "text": "0.375"
+      },
+      {
+       "x0": 492.74,
+       "x1": 509.0,
+       "text": "0.97"
+      }
+     ]
+    },
+    {
+     "y": 264.48,
+     "x0": 89.14,
+     "x1": 509.0,
+     "size": 9.12,
+     "text": "S50.109.90100.12.02035#20.4983.05",
+     "segments": [
+      {
+       "x0": 89.14,
+       "x1": 96.17,
+       "text": "S5"
+      },
+      {
+       "x0": 116.88,
+       "x1": 133.14,
+       "text": "0.10"
+      },
+      {
+       "x0": 159.84,
+       "x1": 176.1,
+       "text": "9.90"
+      },
+      {
+       "x0": 209.47,
+       "x1": 219.02,
+       "text": "10"
+      },
+      {
+       "x0": 255.54,
+       "x1": 267.06,
+       "text": "0.1"
+      },
+      {
+       "x0": 299.88,
+       "x1": 311.4,
+       "text": "2.0"
+      },
+      {
+       "x0": 341.34,
+       "x1": 350.89,
+       "text": "20"
+      },
+      {
+       "x0": 370.63,
+       "x1": 385.55,
+       "text": "35#"
+      },
+      {
+       "x0": 407.55,
+       "x1": 412.36,
+       "text": "2"
+      },
+      {
+       "x0": 445.6,
+       "x1": 466.61,
+       "text": "0.498"
+      },
+      {
+       "x0": 492.74,
+       "x1": 509.0,
+       "text": "3.05"
+      }
+     ]
+    },
+    {
+     "y": 309.84,
+     "x0": 317.79,
+     "x1": 517.86,
+     "size": 9.12,
+     "text": "Table2Measureddataoftheexperimentsinfive",
+     "segments": [
+      {
+       "x0": 317.79,
+       "x1": 517.86,
+       "text": "Table2Measureddataoftheexperimentsinfive"
+      }
+     ]
+    },
+    {
+     "y": 323.28,
+     "x0": 405.92,
+     "x1": 429.72,
+     "size": 9.12,
+     "text": "states",
+     "segments": [
+      {
+       "x0": 405.92,
+       "x1": 429.72,
+       "text": "states"
+      }
+     ]
+    },
+    {
+     "y": 339.84,
+     "x0": 342.11,
+     "x1": 523.24,
+     "size": 9.12,
+     "text": "Maxpres-Displace-DistanceTolerance",
+     "segments": [
+      {
+       "x0": 342.11,
+       "x1": 523.24,
+       "text": "Maxpres-Displace-DistanceTolerance"
+      }
+     ]
+    },
+    {
+     "y": 348.72,
+     "x0": 379.22,
+     "x1": 381.62,
+     "size": 4.56,
+     "text": "4",
+     "segments": [
+      {
+       "x0": 379.22,
+       "x1": 381.62,
+       "text": "4"
+      }
+     ]
+    },
+    {
+     "y": 353.28,
+     "x0": 315.57,
+     "x1": 519.66,
+     "size": 9.12,
+     "text": "Trialsure(×10mentoffracturefluctua-",
+     "segments": [
+      {
+       "x0": 315.57,
+       "x1": 379.28,
+       "text": "Trialsure(×10"
+      },
+      {
+       "x0": 399.33,
+       "x1": 419.38,
+       "text": "ment"
+      },
+      {
+       "x0": 437.55,
+       "x1": 519.66,
+       "text": "offracturefluctua-"
+      }
+     ]
+    },
+    {
+     "y": 366.72,
+     "x0": 357.38,
+     "x1": 523.29,
+     "size": 9.12,
+     "text": "N)(mm)(mm)tion(mm)",
+     "segments": [
+      {
+       "x0": 357.38,
+       "x1": 366.6,
+       "text": "N)"
+      },
+      {
+       "x0": 399.13,
+       "x1": 419.56,
+       "text": "(mm)"
+      },
+      {
+       "x0": 447.37,
+       "x1": 467.8,
+       "text": "(mm)"
+      },
+      {
+       "x0": 485.41,
+       "x1": 523.29,
+       "text": "tion(mm)"
+      }
+     ]
+    },
+    {
+     "y": 380.64,
+     "x0": 320.2,
+     "x1": 514.87,
+     "size": 9.12,
+     "text": "S12.040.2350.2480.013",
+     "segments": [
+      {
+       "x0": 320.2,
+       "x1": 327.23,
+       "text": "S1"
+      },
+      {
+       "x0": 353.87,
+       "x1": 370.14,
+       "text": "2.04"
+      },
+      {
+       "x0": 398.86,
+       "x1": 419.87,
+       "text": "0.235"
+      },
+      {
+       "x0": 447.1,
+       "x1": 468.11,
+       "text": "0.248"
+      },
+      {
+       "x0": 493.87,
+       "x1": 514.87,
+       "text": "0.013"
+      }
+     ]
+    },
+    {
+     "y": 394.08,
+     "x0": 320.2,
+     "x1": 514.87,
+     "size": 9.12,
+     "text": "S22.010.2620.2810.019",
+     "segments": [
+      {
+       "x0": 320.2,
+       "x1": 327.23,
+       "text": "S2"
+      },
+      {
+       "x0": 353.87,
+       "x1": 370.14,
+       "text": "2.01"
+      },
+      {
+       "x0": 398.86,
+       "x1": 419.87,
+       "text": "0.262"
+      },
+      {
+       "x0": 447.1,
+       "x1": 468.11,
+       "text": "0.281"
+      },
+      {
+       "x0": 493.87,
+       "x1": 514.87,
+       "text": "0.019"
+      }
+     ]
+    },
+    {
+     "y": 407.28,
+     "x0": 320.2,
+     "x1": 514.87,
+     "size": 9.12,
+     "text": "S31.960.2960.3180.022",
+     "segments": [
+      {
+       "x0": 320.2,
+       "x1": 327.23,
+       "text": "S3"
+      },
+      {
+       "x0": 353.87,
+       "x1": 370.14,
+       "text": "1.96"
+      },
+      {
+       "x0": 398.86,
+       "x1": 419.87,
+       "text": "0.296"
+      },
+      {
+       "x0": 447.1,
+       "x1": 468.11,
+       "text": "0.318"
+      },
+      {
+       "x0": 493.87,
+       "x1": 514.87,
+       "text": "0.022"
+      }
+     ]
+    },
+    {
+     "y": 420.72,
+     "x0": 320.2,
+     "x1": 514.87,
+     "size": 9.12,
+     "text": "S42.010.3450.3620.027",
+     "segments": [
+      {
+       "x0": 320.2,
+       "x1": 327.23,
+       "text": "S4"
+      },
+      {
+       "x0": 353.87,
+       "x1": 370.14,
+       "text": "2.01"
+      },
+      {
+       "x0": 398.86,
+       "x1": 419.87,
+       "text": "0.345"
+      },
+      {
+       "x0": 447.1,
+       "x1": 468.11,
+       "text": "0.362"
+      },
+      {
+       "x0": 493.87,
+       "x1": 514.87,
+       "text": "0.027"
+      }
+     ]
+    },
+    {
+     "y": 434.16,
+     "x0": 320.2,
+     "x1": 514.87,
+     "size": 9.12,
+     "text": "S52.930.3980.4340.036",
+     "segments": [
+      {
+       "x0": 320.2,
+       "x1": 327.23,
+       "text": "S5"
+      },
+      {
+       "x0": 353.87,
+       "x1": 370.14,
+       "text": "2.93"
+      },
+      {
+       "x0": 398.86,
+       "x1": 419.87,
+       "text": "0.398"
+      },
+      {
+       "x0": 447.1,
+       "x1": 468.11,
+       "text": "0.434"
+      },
+      {
+       "x0": 493.87,
+       "x1": 514.87,
+       "text": "0.036"
+      }
+     ]
+    },
+    {
+     "y": 435.12,
+     "x0": 172.67,
+     "x1": 182.41,
+     "size": 7.92,
+     "text": "(a)",
+     "segments": [
+      {
+       "x0": 172.67,
+       "x1": 182.41,
+       "text": "(a)"
+      }
+     ]
+    },
+    {
+     "y": 465.36,
+     "x0": 326.52,
+     "x1": 530.09,
+     "size": 10.56,
+     "text": "Therelationshipsamongthestampingpres-",
+     "segments": [
+      {
+       "x0": 326.52,
+       "x1": 530.09,
+       "text": "Therelationshipsamongthestampingpres-"
+      }
+     ]
+    },
+    {
+     "y": 481.2,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "sure,breakpoints,andthedisplacementofthe",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "sure,breakpoints,andthedisplacementofthe"
+      }
+     ]
+    },
+    {
+     "y": 496.8,
+     "x0": 305.52,
+     "x1": 530.08,
+     "size": 10.56,
+     "text": "punchwereobtainedbyfittingcurvesinMatlab.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.08,
+       "text": "punchwereobtainedbyfittingcurvesinMatlab."
+      }
+     ]
+    },
+    {
+     "y": 512.4,
+     "x0": 305.52,
+     "x1": 530.11,
+     "size": 10.56,
+     "text": "TheresultscanbeseeninFigs.5a–5c.Asthe",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.11,
+       "text": "TheresultscanbeseeninFigs.5a–5c.Asthe"
+      }
+     ]
+    },
+    {
+     "y": 528.0,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "blankingclearanceincreased(astrialsS1,S2,and",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "blankingclearanceincreased(astrialsS1,S2,and"
+      }
+     ]
+    },
+    {
+     "y": 543.6,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "S3),thedisplacementofthepunchincreasednon-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "S3),thedisplacementofthepunchincreasednon-"
+      }
+     ]
+    },
+    {
+     "y": 559.2,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "linearly(0.235,0.262,and0.296),andthemaxi-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "linearly(0.235,0.262,and0.296),andthemaxi-"
+      }
+     ]
+    },
+    {
+     "y": 575.04,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "mumstampingpressuredecreased(2.04,2.01,",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "mumstampingpressuredecreased(2.04,2.01,"
+      }
+     ]
+    },
+    {
+     "y": 585.12,
+     "x0": 172.67,
+     "x1": 182.42,
+     "size": 7.92,
+     "text": "(b)",
+     "segments": [
+      {
+       "x0": 172.67,
+       "x1": 182.42,
+       "text": "(b)"
+      }
+     ]
+    },
+    {
+     "y": 590.64,
+     "x0": 305.52,
+     "x1": 530.09,
+     "size": 10.56,
+     "text": "and1.96).Thefluctuationrangeisabout0.009.As",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.09,
+       "text": "and1.96).Thefluctuationrangeisabout0.009.As"
+      }
+     ]
+    },
+    {
+     "y": 606.24,
+     "x0": 305.52,
+     "x1": 530.09,
+     "size": 10.56,
+     "text": "shown,thethicknessofthesteelchanged(astrials",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.09,
+       "text": "shown,thethicknessofthesteelchanged(astrials"
+      }
+     ]
+    },
+    {
+     "y": 621.84,
+     "x0": 305.52,
+     "x1": 530.12,
+     "size": 10.56,
+     "text": "S2,S4,andS5),thedistanceofthefractureincreased",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.12,
+       "text": "S2,S4,andS5),thedistanceofthefractureincreased"
+      }
+     ]
+    },
+    {
+     "y": 637.44,
+     "x0": 305.52,
+     "x1": 530.11,
+     "size": 10.56,
+     "text": "(0.281,0.362,and0.434),andthemaximum",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.11,
+       "text": "(0.281,0.362,and0.434),andthemaximum"
+      }
+     ]
+    },
+    {
+     "y": 653.28,
+     "x0": 305.52,
+     "x1": 530.14,
+     "size": 10.56,
+     "text": "stampingpressureincreased(2.01,2.01,and2.93).",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.14,
+       "text": "stampingpressureincreased(2.01,2.01,and2.93)."
+      }
+     ]
+    },
+    {
+     "y": 668.88,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "Thefluctuationrangeisabout0.017.Compared",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "Thefluctuationrangeisabout0.017.Compared"
+      }
+     ]
+    },
+    {
+     "y": 684.48,
+     "x0": 305.52,
+     "x1": 530.08,
+     "size": 10.56,
+     "text": "withthefluctuationrange0.270,thefluctuation",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.08,
+       "text": "withthefluctuationrange0.270,thefluctuation"
+      }
+     ]
+    },
+    {
+     "y": 700.08,
+     "x0": 305.52,
+     "x1": 530.11,
+     "size": 10.56,
+     "text": "rangewassignificantlyreduced(from0.270to",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.11,
+       "text": "rangewassignificantlyreduced(from0.270to"
+      }
+     ]
+    },
+    {
+     "y": 715.68,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 10.56,
+     "text": "0.017,turnedaround1/16).Theprocessquality",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "0.017,turnedaround1/16).Theprocessquality"
+      }
+     ]
+    },
+    {
+     "y": 731.28,
+     "x0": 305.52,
+     "x1": 530.14,
+     "size": 10.56,
+     "text": "wassignificantlyimprovedbyusingtheadaptive",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.14,
+       "text": "wassignificantlyimprovedbyusingtheadaptive"
+      }
+     ]
+    },
+    {
+     "y": 733.44,
+     "x0": 172.89,
+     "x1": 182.19,
+     "size": 7.92,
+     "text": "(c)",
+     "segments": [
+      {
+       "x0": 172.89,
+       "x1": 182.19,
+       "text": "(c)"
+      }
+     ]
+    },
+    {
+     "y": 744.72,
+     "x0": 65.43,
+     "x1": 289.72,
+     "size": 9.12,
+     "text": "Fig.5Simulationofadaptivecontrol:(a)S1;(b)S2;(c)S3",
+     "segments": [
+      {
+       "x0": 65.43,
+       "x1": 289.72,
+       "text": "Fig.5Simulationofadaptivecontrol:(a)S1;(b)S2;(c)S3"
+      }
+     ]
+    },
+    {
+     "y": 747.12,
+     "x0": 305.52,
+     "x1": 375.94,
+     "size": 10.56,
+     "text": "designmethod.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 375.94,
+       "text": "designmethod."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 85.92,
+     "x0": 414.61,
+     "x1": 529.96,
+     "size": 6.96,
+     "text": "JZhejiangUniv-SciAinpress|7",
+     "segments": [
+      {
+       "x0": 414.61,
+       "x1": 529.96,
+       "text": "JZhejiangUniv-SciAinpress|7"
+      }
+     ]
+    },
+    {
+     "y": 121.92,
+     "x0": 305.52,
+     "x1": 530.08,
+     "size": 9.12,
+     "text": "PowerTransmissionandControl,ZhejiangUniversity,",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.08,
+       "text": "PowerTransmissionandControl,ZhejiangUniversity,"
+      }
+     ]
+    },
+    {
+     "y": 135.36,
+     "x0": 305.52,
+     "x1": 530.09,
+     "size": 9.12,
+     "text": "China.TheauthorsthankDr.XxxxXXX(CollegeofXXXX,",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.09,
+       "text": "China.TheauthorsthankDr.XxxxXXX(CollegeofXXXX,"
+      }
+     ]
+    },
+    {
+     "y": 148.8,
+     "x0": 305.52,
+     "x1": 496.46,
+     "size": 9.12,
+     "text": "XXXUniversity,China)forprovidingXXXXXXXXX.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 496.46,
+       "text": "XXXUniversity,China)forprovidingXXXXXXXXX."
+      }
+     ]
+    },
+    {
+     "y": 154.56,
+     "x0": 65.28,
+     "x1": 137.06,
+     "size": 10.56,
+     "text": "5Conclusions",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 137.06,
+       "text": "5Conclusions"
+      }
+     ]
+    },
+    {
+     "y": 178.56,
+     "x0": 305.52,
+     "x1": 405.35,
+     "size": 10.56,
+     "text": "Authorcontributions",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 405.35,
+       "text": "Authorcontributions"
+      }
+     ]
+    },
+    {
+     "y": 183.6,
+     "x0": 86.28,
+     "x1": 289.88,
+     "size": 10.56,
+     "text": "Anadaptivedesignmethodtothetolerance",
+     "segments": [
+      {
+       "x0": 86.28,
+       "x1": 289.88,
+       "text": "Anadaptivedesignmethodtothetolerance"
+      }
+     ]
+    },
+    {
+     "y": 192.72,
+     "x0": 323.52,
+     "x1": 530.16,
+     "size": 9.12,
+     "text": "XXXdesignedtheresearch.XXXXandXXXprocessed",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 530.16,
+       "text": "XXXdesignedtheresearch.XXXXandXXXprocessed"
+      }
+     ]
+    },
+    {
+     "y": 199.44,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "fluctuationprobleminmachiningofprecision",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "fluctuationprobleminmachiningofprecision"
+      }
+     ]
+    },
+    {
+     "y": 206.16,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 9.12,
+     "text": "thecorrespondingdata.XXXwrotethefirstdraftofthe",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "thecorrespondingdata.XXXwrotethefirstdraftofthe"
+      }
+     ]
+    },
+    {
+     "y": 215.04,
+     "x0": 65.28,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "partshasbeendevelopedandpresented.Status",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.85,
+       "text": "partshasbeendevelopedandpresented.Status"
+      }
+     ]
+    },
+    {
+     "y": 219.6,
+     "x0": 305.52,
+     "x1": 530.13,
+     "size": 9.12,
+     "text": "manuscript.XXXXXhelpedtoorganizethemanuscript.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.13,
+       "text": "manuscript.XXXXXhelpedtoorganizethemanuscript."
+      }
+     ]
+    },
+    {
+     "y": 230.64,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "andtrendsoftolerancefluctuationsofpartsare",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "andtrendsoftolerancefluctuationsofpartsare"
+      }
+     ]
+    },
+    {
+     "y": 233.04,
+     "x0": 305.52,
+     "x1": 465.62,
+     "size": 9.12,
+     "text": "XXXXrevisedandeditedthefinalversion.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 465.62,
+       "text": "XXXXrevisedandeditedthefinalversion."
+      }
+     ]
+    },
+    {
+     "y": 246.24,
+     "x0": 65.28,
+     "x1": 289.92,
+     "size": 10.56,
+     "text": "calculatedbytheHMMbasedonthemonitoring",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.92,
+       "text": "calculatedbytheHMMbasedonthemonitoring"
+      }
+     ]
+    },
+    {
+     "y": 261.84,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "dataofthepressequipment.Therearesome",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "dataofthepressequipment.Therearesome"
+      }
+     ]
+    },
+    {
+     "y": 263.52,
+     "x0": 305.52,
+     "x1": 394.0,
+     "size": 10.56,
+     "text": "Conflictofinterest",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 394.0,
+       "text": "Conflictofinterest"
+      }
+     ]
+    },
+    {
+     "y": 277.44,
+     "x0": 65.28,
+     "x1": 530.13,
+     "size": 10.56,
+     "text": "meaningfulobservationsinthisstudywhichareTheauthorsdeclarethattheyhavenoconflictsofin-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "meaningfulobservationsinthisstudywhichare"
+      },
+      {
+       "x0": 323.52,
+       "x1": 530.13,
+       "text": "Theauthorsdeclarethattheyhavenoconflictsofin-"
+      }
+     ]
+    },
+    {
+     "y": 291.12,
+     "x0": 305.52,
+     "x1": 329.19,
+     "size": 9.12,
+     "text": "terest.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 329.19,
+       "text": "terest."
+      }
+     ]
+    },
+    {
+     "y": 293.28,
+     "x0": 65.28,
+     "x1": 159.48,
+     "size": 10.56,
+     "text": "presentedasfollows:",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 159.48,
+       "text": "presentedasfollows:"
+      }
+     ]
+    },
+    {
+     "y": 308.88,
+     "x0": 86.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "1.Stampingexperimentswereconductedin",
+     "segments": [
+      {
+       "x0": 86.28,
+       "x1": 289.86,
+       "text": "1.Stampingexperimentswereconductedin"
+      }
+     ]
+    },
+    {
+     "y": 321.6,
+     "x0": 305.52,
+     "x1": 518.5,
+     "size": 10.56,
+     "text": "DeclarationontheuseofgenerativeAItools",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 518.5,
+       "text": "DeclarationontheuseofgenerativeAItools"
+      }
+     ]
+    },
+    {
+     "y": 324.48,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "twokindsofsteelmaterials(Q345and35#)to",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "twokindsofsteelmaterials(Q345and35#)to"
+      }
+     ]
+    },
+    {
+     "y": 335.76,
+     "x0": 323.52,
+     "x1": 530.15,
+     "size": 9.12,
+     "text": "Duringthepreparationofthiswork,theauthorsused",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 530.15,
+       "text": "Duringthepreparationofthiswork,theauthorsused"
+      }
+     ]
+    },
+    {
+     "y": 340.08,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "studytheparametersensitivityaroundthedis-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "studytheparametersensitivityaroundthedis-"
+      }
+     ]
+    },
+    {
+     "y": 349.2,
+     "x0": 305.52,
+     "x1": 530.12,
+     "size": 9.12,
+     "text": "XXXX(DeepSeek/ChatGPT/Doubao…)toimprovelan-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.12,
+       "text": "XXXX(DeepSeek/ChatGPT/Doubao…)toimprovelan-"
+      }
+     ]
+    },
+    {
+     "y": 355.68,
+     "x0": 65.28,
+     "x1": 289.91,
+     "size": 10.56,
+     "text": "tanceofthemoldsorthicknessofmaterialsand",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.91,
+       "text": "tanceofthemoldsorthicknessofmaterialsand"
+      }
+     ]
+    },
+    {
+     "y": 362.64,
+     "x0": 305.52,
+     "x1": 530.1,
+     "size": 9.12,
+     "text": "guageandreadability.Afterusingthistool,theauthorsre-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.1,
+       "text": "guageandreadability.Afterusingthistool,theauthorsre-"
+      }
+     ]
+    },
+    {
+     "y": 371.52,
+     "x0": 65.28,
+     "x1": 103.43,
+     "size": 10.56,
+     "text": "stiffness.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 103.43,
+       "text": "stiffness."
+      }
+     ]
+    },
+    {
+     "y": 376.08,
+     "x0": 305.52,
+     "x1": 530.15,
+     "size": 9.12,
+     "text": "viewedandeditedthecontentasneededandtakefullre-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.15,
+       "text": "viewedandeditedthecontentasneededandtakefullre-"
+      }
+     ]
+    },
+    {
+     "y": 387.12,
+     "x0": 86.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "2.Thesequenceofthehiddentolerancefluc-",
+     "segments": [
+      {
+       "x0": 86.28,
+       "x1": 289.87,
+       "text": "2.Thesequenceofthehiddentolerancefluc-"
+      }
+     ]
+    },
+    {
+     "y": 389.52,
+     "x0": 305.52,
+     "x1": 481.09,
+     "size": 9.12,
+     "text": "sponsibilityforthecontentofthepublication.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 481.09,
+       "text": "sponsibilityforthecontentofthepublication."
+      }
+     ]
+    },
+    {
+     "y": 402.72,
+     "x0": 65.28,
+     "x1": 530.19,
+     "size": 10.56,
+     "text": "tuantstatesintheprecisionstampingprocessatNogenerativeAItoolswereusedinthepreparation",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "tuantstatesintheprecisionstampingprocessat"
+      },
+      {
+       "x0": 323.52,
+       "x1": 530.19,
+       "text": "NogenerativeAItoolswereusedinthepreparation"
+      }
+     ]
+    },
+    {
+     "y": 416.4,
+     "x0": 305.52,
+     "x1": 376.54,
+     "size": 9.12,
+     "text": "ofthismanuscript.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 376.54,
+       "text": "ofthismanuscript."
+      }
+     ]
+    },
+    {
+     "y": 418.32,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "eachtimecanbeobtainedbyusingtheHMMal-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "eachtimecanbeobtainedbyusingtheHMMal-"
+      }
+     ]
+    },
+    {
+     "y": 433.92,
+     "x0": 65.28,
+     "x1": 103.5,
+     "size": 10.56,
+     "text": "gorithm.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 103.5,
+       "text": "gorithm."
+      }
+     ]
+    },
+    {
+     "y": 444.48,
+     "x0": 305.52,
+     "x1": 381.69,
+     "size": 10.56,
+     "text": "Dataavailability",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 381.69,
+       "text": "Dataavailability"
+      }
+     ]
+    },
+    {
+     "y": 449.76,
+     "x0": 86.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "3.Theadaptivedesignofthetolerancefluc-",
+     "segments": [
+      {
+       "x0": 86.28,
+       "x1": 289.87,
+       "text": "3.Theadaptivedesignofthetolerancefluc-"
+      }
+     ]
+    },
+    {
+     "y": 458.88,
+     "x0": 323.52,
+     "x1": 530.15,
+     "size": 9.12,
+     "text": "Thedatathatsupportthefindingsofthisstudyare",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 530.15,
+       "text": "Thedatathatsupportthefindingsofthisstudyare"
+      }
+     ]
+    },
+    {
+     "y": 465.36,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 10.56,
+     "text": "tuationsissimulatedandanalyzedbytheprecision",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "tuationsissimulatedandanalyzedbytheprecision"
+      }
+     ]
+    },
+    {
+     "y": 472.08,
+     "x0": 305.52,
+     "x1": 530.13,
+     "size": 9.12,
+     "text": "availablefromthecorrespondingauthoruponreasonable",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.13,
+       "text": "availablefromthecorrespondingauthoruponreasonable"
+      }
+     ]
+    },
+    {
+     "y": 480.96,
+     "x0": 65.28,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "stampingprocessthroughcontrollingtheprocess",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.85,
+       "text": "stampingprocessthroughcontrollingtheprocess"
+      }
+     ]
+    },
+    {
+     "y": 485.52,
+     "x0": 305.52,
+     "x1": 336.43,
+     "size": 9.12,
+     "text": "request.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 336.43,
+       "text": "request."
+      }
+     ]
+    },
+    {
+     "y": 496.56,
+     "x0": 65.28,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "parameters,suchaspressureofthehydraulic",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.85,
+       "text": "parameters,suchaspressureofthehydraulic"
+      }
+     ]
+    },
+    {
+     "y": 512.16,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 10.56,
+     "text": "press,displacementofmolds,distanceofthefrac-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "press,displacementofmolds,distanceofthefrac-"
+      }
+     ]
+    },
+    {
+     "y": 513.84,
+     "x0": 305.52,
+     "x1": 357.49,
+     "size": 10.56,
+     "text": "References",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 357.49,
+       "text": "References"
+      }
+     ]
+    },
+    {
+     "y": 527.76,
+     "x0": 65.28,
+     "x1": 530.12,
+     "size": 10.56,
+     "text": "tureinmaterials,andsoon.CaoYL,2003.StudyontheMethodologyandTechnology",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 190.25,
+       "text": "tureinmaterials,andsoon."
+      },
+      {
+       "x0": 305.52,
+       "x1": 530.12,
+       "text": "CaoYL,2003.StudyontheMethodologyandTechnology"
+      }
+     ]
+    },
+    {
+     "y": 541.44,
+     "x0": 323.52,
+     "x1": 530.16,
+     "size": 9.12,
+     "text": "ofRobustToleranceDesignforManufacture.PhD",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 530.16,
+       "text": "ofRobustToleranceDesignforManufacture.PhD"
+      }
+     ]
+    },
+    {
+     "y": 543.6,
+     "x0": 86.28,
+     "x1": 289.89,
+     "size": 10.56,
+     "text": "Severalotherbenefitsareforeseenusingthis",
+     "segments": [
+      {
+       "x0": 86.28,
+       "x1": 289.89,
+       "text": "Severalotherbenefitsareforeseenusingthis"
+      }
+     ]
+    },
+    {
+     "y": 554.88,
+     "x0": 323.52,
+     "x1": 530.14,
+     "size": 9.12,
+     "text": "Thesis,ZhejiangUniversity,Hangzhou,China(inChi-",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 530.14,
+       "text": "Thesis,ZhejiangUniversity,Hangzhou,China(inChi-"
+      }
+     ]
+    },
+    {
+     "y": 559.2,
+     "x0": 65.28,
+     "x1": 289.89,
+     "size": 10.56,
+     "text": "methodandareactivelybeinginvestigated.These",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.89,
+       "text": "methodandareactivelybeinginvestigated.These"
+      }
+     ]
+    },
+    {
+     "y": 568.32,
+     "x0": 323.52,
+     "x1": 346.0,
+     "size": 9.12,
+     "text": "nese).",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 346.0,
+       "text": "nese)."
+      }
+     ]
+    },
+    {
+     "y": 574.8,
+     "x0": 65.28,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "include:couplingstressofthedisturbancefactors",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.85,
+       "text": "include:couplingstressofthedisturbancefactors"
+      }
+     ]
+    },
+    {
+     "y": 581.76,
+     "x0": 305.52,
+     "x1": 530.15,
+     "size": 9.12,
+     "text": "CavalierT,LehtihetA,2000.Acomparativeevaluationof",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.15,
+       "text": "CavalierT,LehtihetA,2000.Acomparativeevaluationof"
+      }
+     ]
+    },
+    {
+     "y": 590.4,
+     "x0": 65.28,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "whichfluctuatesthetolerance,thegenericmech-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.85,
+       "text": "whichfluctuatesthetolerance,thegenericmech-"
+      }
+     ]
+    },
+    {
+     "y": 595.2,
+     "x0": 323.52,
+     "x1": 530.13,
+     "size": 9.12,
+     "text": "sequentialsetpointadjustmentproceduresfortoler-",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 530.13,
+       "text": "sequentialsetpointadjustmentproceduresfortoler-"
+      }
+     ]
+    },
+    {
+     "y": 606.0,
+     "x0": 65.28,
+     "x1": 289.85,
+     "size": 10.56,
+     "text": "anismwhichcausesthetolerance,thecompre-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.85,
+       "text": "anismwhichcausesthetolerance,thecompre-"
+      }
+     ]
+    },
+    {
+     "y": 608.4,
+     "x0": 323.52,
+     "x1": 532.52,
+     "size": 9.12,
+     "text": "ancecontrol.InternationalJournalofProductionRe-",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 532.52,
+       "text": "ancecontrol.InternationalJournalofProductionRe-"
+      }
+     ]
+    },
+    {
+     "y": 621.84,
+     "x0": 65.28,
+     "x1": 418.71,
+     "size": 10.56,
+     "text": "hensiveprogramwhichrestrictstheformandpo-search,38(8):1769-1777.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.88,
+       "text": "hensiveprogramwhichrestrictstheformandpo-"
+      },
+      {
+       "x0": 322.8,
+       "x1": 418.71,
+       "text": "search,38(8):1769-1777."
+      }
+     ]
+    },
+    {
+     "y": 635.28,
+     "x0": 323.52,
+     "x1": 487.9,
+     "size": 9.12,
+     "text": "https://doi.org/10.1080/002075400188582",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 487.9,
+       "text": "https://doi.org/10.1080/002075400188582"
+      }
+     ]
+    },
+    {
+     "y": 637.44,
+     "x0": 65.28,
+     "x1": 222.91,
+     "size": 10.56,
+     "text": "sitionerrorsinthetolerancerange.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 222.91,
+       "text": "sitionerrorsinthetolerancerange."
+      }
+     ]
+    },
+    {
+     "y": 648.72,
+     "x0": 305.52,
+     "x1": 530.19,
+     "size": 9.12,
+     "text": "EtesamiFA,1993.Amathematicalmodelforgeometrictol-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.19,
+       "text": "EtesamiFA,1993.Amathematicalmodelforgeometrictol-"
+      }
+     ]
+    },
+    {
+     "y": 662.16,
+     "x0": 323.52,
+     "x1": 526.56,
+     "size": 9.12,
+     "text": "erances.JournalofMechanicalDesign,115(1):81-86.",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 526.56,
+       "text": "erances.JournalofMechanicalDesign,115(1):81-86."
+      }
+     ]
+    },
+    {
+     "y": 668.64,
+     "x0": 65.28,
+     "x1": 153.44,
+     "size": 10.56,
+     "text": "Acknowledgments",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 153.44,
+       "text": "Acknowledgments"
+      }
+     ]
+    },
+    {
+     "y": 675.6,
+     "x0": 323.52,
+     "x1": 456.68,
+     "size": 9.12,
+     "text": "https://doi.org/10.1115/1.2919329",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 456.68,
+       "text": "https://doi.org/10.1115/1.2919329"
+      }
+     ]
+    },
+    {
+     "y": 682.8,
+     "x0": 83.28,
+     "x1": 289.94,
+     "size": 9.12,
+     "text": "ThisworkissupportedbytheNationalNaturalScience",
+     "segments": [
+      {
+       "x0": 83.28,
+       "x1": 289.94,
+       "text": "ThisworkissupportedbytheNationalNaturalScience"
+      }
+     ]
+    },
+    {
+     "y": 689.04,
+     "x0": 305.52,
+     "x1": 530.13,
+     "size": 9.12,
+     "text": "GoriniS,QuiriniM,MenciassiA,etal.,2006.AnovelSMA-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.13,
+       "text": "GoriniS,QuiriniM,MenciassiA,etal.,2006.AnovelSMA-"
+      }
+     ]
+    },
+    {
+     "y": 696.24,
+     "x0": 65.28,
+     "x1": 289.9,
+     "size": 9.12,
+     "text": "FoundationofChina(Nos.00000001and00000002),the",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.9,
+       "text": "FoundationofChina(Nos.00000001and00000002),the"
+      }
+     ]
+    },
+    {
+     "y": 702.48,
+     "x0": 323.52,
+     "x1": 530.22,
+     "size": 9.12,
+     "text": "basedactuatorforaleggedendoscopiccapsule.First",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 530.22,
+       "text": "basedactuatorforaleggedendoscopiccapsule.First"
+      }
+     ]
+    },
+    {
+     "y": 709.68,
+     "x0": 65.28,
+     "x1": 289.94,
+     "size": 9.12,
+     "text": "NationalKeyResearchandDevelopmentProgramofChina",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.94,
+       "text": "NationalKeyResearchandDevelopmentProgramofChina"
+      }
+     ]
+    },
+    {
+     "y": 715.68,
+     "x0": 323.52,
+     "x1": 530.12,
+     "size": 9.12,
+     "text": "IEEE/RAS-EMBSInternationalConferenceonBiomed-",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 530.12,
+       "text": "IEEE/RAS-EMBSInternationalConferenceonBiomed-"
+      }
+     ]
+    },
+    {
+     "y": 723.12,
+     "x0": 65.28,
+     "x1": 289.86,
+     "size": 9.12,
+     "text": "(No.2000000001),theZhejiangProvincialNaturalScience",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.86,
+       "text": "(No.2000000001),theZhejiangProvincialNaturalScience"
+      }
+     ]
+    },
+    {
+     "y": 729.12,
+     "x0": 323.52,
+     "x1": 501.65,
+     "size": 9.12,
+     "text": "icalRoboticsandBiomechatronics,p.443-449.",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 501.65,
+       "text": "icalRoboticsandBiomechatronics,p.443-449."
+      }
+     ]
+    },
+    {
+     "y": 736.56,
+     "x0": 65.28,
+     "x1": 289.9,
+     "size": 9.12,
+     "text": "FoundationofChina(No.LR200000000),andthe",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.9,
+       "text": "FoundationofChina(No.LR200000000),andthe"
+      }
+     ]
+    },
+    {
+     "y": 742.56,
+     "x0": 323.52,
+     "x1": 503.97,
+     "size": 9.12,
+     "text": "https://doi.org/10.1109/BIOROB.2006.1639128",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 503.97,
+       "text": "https://doi.org/10.1109/BIOROB.2006.1639128"
+      }
+     ]
+    },
+    {
+     "y": 750.0,
+     "x0": 65.28,
+     "x1": 289.94,
+     "size": 9.12,
+     "text": "InnovationFoundationoftheStateKeyLaboratoryofFluid",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.94,
+       "text": "InnovationFoundationoftheStateKeyLaboratoryofFluid"
+      }
+     ]
+    },
+    {
+     "y": 756.0,
+     "x0": 305.52,
+     "x1": 530.12,
+     "size": 9.12,
+     "text": "ISO(InternationalOrganizationforStandardization),1982.",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.12,
+       "text": "ISO(InternationalOrganizationforStandardization),1982."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 85.92,
+     "x0": 65.29,
+     "x1": 180.83,
+     "size": 6.96,
+     "text": "8|JZhejiangUniv-SciAinpress",
+     "segments": [
+      {
+       "x0": 65.29,
+       "x1": 180.83,
+       "text": "8|JZhejiangUniv-SciAinpress"
+      }
+     ]
+    },
+    {
+     "y": 121.92,
+     "x0": 83.18,
+     "x1": 530.19,
+     "size": 9.12,
+     "text": "Steels-Classification-Part1:ClassificationofSteelsinto⼤的影响（图2和3）；2.通过理论推导，构建环",
+     "segments": [
+      {
+       "x0": 83.18,
+       "x1": 289.93,
+       "text": "Steels-Classification-Part1:ClassificationofSteelsinto"
+      },
+      {
+       "x0": 341.87,
+       "x1": 530.19,
+       "text": "⼤的影响（图2和3）；2.通过理论推导，构建环"
+      }
+     ]
+    },
+    {
+     "y": 135.36,
+     "x0": 83.18,
+     "x1": 530.18,
+     "size": 9.12,
+     "text": "UnalloyedandAlloySteelsBasedonChemicalCom-境变量与加⼯波动公差之间的关系，得到适应性",
+     "segments": [
+      {
+       "x0": 83.18,
+       "x1": 289.91,
+       "text": "UnalloyedandAlloySteelsBasedonChemicalCom-"
+      },
+      {
+       "x0": 341.87,
+       "x1": 530.18,
+       "text": "境变量与加⼯波动公差之间的关系，得到适应性"
+      }
+     ]
+    },
+    {
+     "y": 148.8,
+     "x0": 83.18,
+     "x1": 530.19,
+     "size": 9.12,
+     "text": "position,ISO4948-1:1982.ISO,Geneva,Switzerland.的⼯艺参数调节⽅案（公式(6)）；3.通过仿真模",
+     "segments": [
+      {
+       "x0": 83.18,
+       "x1": 283.53,
+       "text": "position,ISO4948-1:1982.ISO,Geneva,Switzerland."
+      },
+      {
+       "x0": 341.87,
+       "x1": 530.19,
+       "text": "的⼯艺参数调节⽅案（公式(6)）；3.通过仿真模"
+      }
+     ]
+    },
+    {
+     "y": 162.24,
+     "x0": 65.28,
+     "x1": 530.18,
+     "size": 9.12,
+     "text": "SEPA(StateEnvironmentalProtectionAdministration),1997.拟，运⽤适应性设计⽅法在精密冲压过程中对⼯",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 291.75,
+       "text": "SEPA(StateEnvironmentalProtectionAdministration),1997."
+      },
+      {
+       "x0": 341.87,
+       "x1": 530.18,
+       "text": "拟，运⽤适应性设计⽅法在精密冲压过程中对⼯"
+      }
+     ]
+    },
+    {
+     "y": 175.68,
+     "x0": 83.18,
+     "x1": 530.18,
+     "size": 9.12,
+     "text": "IntegratedEmissionStandardofAirPollutants,GB艺参数进⾏适应性调节，验证所提⽅法的可⾏性",
+     "segments": [
+      {
+       "x0": 83.18,
+       "x1": 289.96,
+       "text": "IntegratedEmissionStandardofAirPollutants,GB"
+      },
+      {
+       "x0": 341.87,
+       "x1": 530.18,
+       "text": "艺参数进⾏适应性调节，验证所提⽅法的可⾏性"
+      }
+     ]
+    },
+    {
+     "y": 189.12,
+     "x0": 83.18,
+     "x1": 416.48,
+     "size": 9.12,
+     "text": "16297-1996.NationalStandardsofthePeople’sRe-和有效性（图5）。",
+     "segments": [
+      {
+       "x0": 83.18,
+       "x1": 289.93,
+       "text": "16297-1996.NationalStandardsofthePeople’sRe-"
+      },
+      {
+       "x0": 341.87,
+       "x1": 416.48,
+       "text": "和有效性（图5）。"
+      }
+     ]
+    },
+    {
+     "y": 202.56,
+     "x0": 83.18,
+     "x1": 142.57,
+     "size": 9.12,
+     "text": "publicofChina.",
+     "segments": [
+      {
+       "x0": 83.18,
+       "x1": 142.57,
+       "text": "publicofChina."
+      }
+     ]
+    },
+    {
+     "y": 204.57,
+     "x0": 305.52,
+     "x1": 530.18,
+     "size": 9.12,
+     "text": "结论：1.精密冲压过程中⼯艺参数需要根据不同的环境",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.18,
+       "text": "结论：1.精密冲压过程中⼯艺参数需要根据不同的环境"
+      }
+     ]
+    },
+    {
+     "y": 216.0,
+     "x0": 65.28,
+     "x1": 289.88,
+     "size": 9.12,
+     "text": "SweeneyL,2000.UniquenessofSimpleDemographicsin",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.88,
+       "text": "SweeneyL,2000.UniquenessofSimpleDemographicsin"
+      }
+     ]
+    },
+    {
+     "y": 219.12,
+     "x0": 341.87,
+     "x1": 530.19,
+     "size": 9.12,
+     "text": "变量进⾏调节；2.环境变量与加⼯波动公差之间",
+     "segments": [
+      {
+       "x0": 341.87,
+       "x1": 530.19,
+       "text": "变量进⾏调节；2.环境变量与加⼯波动公差之间"
+      }
+     ]
+    },
+    {
+     "y": 229.2,
+     "x0": 83.28,
+     "x1": 289.85,
+     "size": 9.12,
+     "text": "theU.S.Population.TechnicalReportNo.LIDAP-WP4,",
+     "segments": [
+      {
+       "x0": 83.28,
+       "x1": 289.85,
+       "text": "theU.S.Population.TechnicalReportNo.LIDAP-WP4,"
+      }
+     ]
+    },
+    {
+     "y": 232.56,
+     "x0": 341.87,
+     "x1": 530.19,
+     "size": 9.12,
+     "text": "存在映射关系，运⽤隐⻢尔科夫模型实现关联表",
+     "segments": [
+      {
+       "x0": 341.87,
+       "x1": 530.19,
+       "text": "存在映射关系，运⽤隐⻢尔科夫模型实现关联表"
+      }
+     ]
+    },
+    {
+     "y": 242.64,
+     "x0": 83.28,
+     "x1": 289.89,
+     "size": 9.12,
+     "text": "LaboratoryforInternationalDataPrivacy,Carnegie",
+     "segments": [
+      {
+       "x0": 83.28,
+       "x1": 289.89,
+       "text": "LaboratoryforInternationalDataPrivacy,Carnegie"
+      }
+     ]
+    },
+    {
+     "y": 246.0,
+     "x0": 341.87,
+     "x1": 530.18,
+     "size": 9.12,
+     "text": "征；3.运⽤适应性设计⽅法对精密冲压⼯艺参数",
+     "segments": [
+      {
+       "x0": 341.87,
+       "x1": 530.18,
+       "text": "征；3.运⽤适应性设计⽅法对精密冲压⼯艺参数"
+      }
+     ]
+    },
+    {
+     "y": 256.08,
+     "x0": 83.28,
+     "x1": 216.76,
+     "size": 9.12,
+     "text": "MellonUniversity,Pittsburgh,USA.",
+     "segments": [
+      {
+       "x0": 83.28,
+       "x1": 216.76,
+       "text": "MellonUniversity,Pittsburgh,USA."
+      }
+     ]
+    },
+    {
+     "y": 259.44,
+     "x0": 341.87,
+     "x1": 530.18,
+     "size": 9.12,
+     "text": "进⾏调节，加⼯波动公差明显减⼩，⼯件质量得",
+     "segments": [
+      {
+       "x0": 341.87,
+       "x1": 530.18,
+       "text": "进⾏调节，加⼯波动公差明显减⼩，⼯件质量得"
+      }
+     ]
+    },
+    {
+     "y": 269.52,
+     "x0": 65.28,
+     "x1": 289.87,
+     "size": 9.12,
+     "text": "TannerNA,WaitJR,FarrarCR,etal.,2003.Structuralhealth",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.87,
+       "text": "TannerNA,WaitJR,FarrarCR,etal.,2003.Structuralhealth"
+      }
+     ]
+    },
+    {
+     "y": 272.88,
+     "x0": 341.87,
+     "x1": 377.99,
+     "size": 9.12,
+     "text": "到提⾼。",
+     "segments": [
+      {
+       "x0": 341.87,
+       "x1": 377.99,
+       "text": "到提⾼。"
+      }
+     ]
+    },
+    {
+     "y": 282.96,
+     "x0": 83.28,
+     "x1": 292.24,
+     "size": 9.12,
+     "text": "monitoringusingmodularwirelesssensors.Journalof",
+     "segments": [
+      {
+       "x0": 83.28,
+       "x1": 292.24,
+       "text": "monitoringusingmodularwirelesssensors.Journalof"
+      }
+     ]
+    },
+    {
+     "y": 288.33,
+     "x0": 305.52,
+     "x1": 522.35,
+     "size": 9.12,
+     "text": "关键词：适应性设计；公差；⼯况驱动；精密冲压⼯艺",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 522.35,
+       "text": "关键词：适应性设计；公差；⼯况驱动；精密冲压⼯艺"
+      }
+     ]
+    },
+    {
+     "y": 296.4,
+     "x0": 82.56,
+     "x1": 289.89,
+     "size": 9.12,
+     "text": "IntelligentMaterialSystemsandStructures,14(1):43-",
+     "segments": [
+      {
+       "x0": 82.56,
+       "x1": 289.89,
+       "text": "IntelligentMaterialSystemsandStructures,14(1):43-"
+      }
+     ]
+    },
+    {
+     "y": 309.84,
+     "x0": 83.28,
+     "x1": 94.76,
+     "size": 9.12,
+     "text": "56.",
+     "segments": [
+      {
+       "x0": 83.28,
+       "x1": 94.76,
+       "text": "56."
+      }
+     ]
+    },
+    {
+     "y": 316.32,
+     "x0": 305.52,
+     "x1": 526.97,
+     "size": 9.12,
+     "text": "===================END===============",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 526.97,
+       "text": "===================END==============="
+      }
+     ]
+    },
+    {
+     "y": 323.28,
+     "x0": 83.28,
+     "x1": 267.07,
+     "size": 9.12,
+     "text": "https://doi.org/10.1177/1045389X03014001005",
+     "segments": [
+      {
+       "x0": 83.28,
+       "x1": 267.07,
+       "text": "https://doi.org/10.1177/1045389X03014001005"
+      }
+     ]
+    },
+    {
+     "y": 329.76,
+     "x0": 341.52,
+     "x1": 371.61,
+     "size": 9.12,
+     "text": "=====",
+     "segments": [
+      {
+       "x0": 341.52,
+       "x1": 371.61,
+       "text": "====="
+      }
+     ]
+    },
+    {
+     "y": 336.48,
+     "x0": 65.28,
+     "x1": 289.9,
+     "size": 9.12,
+     "text": "WuZT,YangJX,1999.ComputerAidedToleranceOptimi-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.9,
+       "text": "WuZT,YangJX,1999.ComputerAidedToleranceOptimi-"
+      }
+     ]
+    },
+    {
+     "y": 349.92,
+     "x0": 83.28,
+     "x1": 289.84,
+     "size": 9.12,
+     "text": "zationDesign.ZhejiangUniversityPress,Hangzhou,",
+     "segments": [
+      {
+       "x0": 83.28,
+       "x1": 289.84,
+       "text": "zationDesign.ZhejiangUniversityPress,Hangzhou,"
+      }
+     ]
+    },
+    {
+     "y": 359.52,
+     "x0": 305.52,
+     "x1": 506.85,
+     "size": 12.0,
+     "text": "参考⽂献格式要求(Referenceformat):",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 506.85,
+       "text": "参考⽂献格式要求(Referenceformat):"
+      }
+     ]
+    },
+    {
+     "y": 363.36,
+     "x0": 83.28,
+     "x1": 194.62,
+     "size": 9.12,
+     "text": "China,p.85-124(inChinese).",
+     "segments": [
+      {
+       "x0": 83.28,
+       "x1": 194.62,
+       "text": "China,p.85-124(inChinese)."
+      }
+     ]
+    },
+    {
+     "y": 374.16,
+     "x0": 305.52,
+     "x1": 513.16,
+     "size": 7.92,
+     "text": "（点击可下载本刊Download网站上对应的Endnote模板）",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 513.16,
+       "text": "（点击可下载本刊Download网站上对应的Endnote模板）"
+      }
+     ]
+    },
+    {
+     "y": 391.68,
+     "x0": 65.28,
+     "x1": 232.19,
+     "size": 10.56,
+     "text": "Electronicsupplementarymaterials",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 232.19,
+       "text": "Electronicsupplementarymaterials"
+      }
+     ]
+    },
+    {
+     "y": 404.4,
+     "x0": 323.37,
+     "x1": 433.72,
+     "size": 10.56,
+     "text": "期刊论文(Journalarticle)",
+     "segments": [
+      {
+       "x0": 323.37,
+       "x1": 433.72,
+       "text": "期刊论文(Journalarticle)"
+      }
+     ]
+    },
+    {
+     "y": 405.84,
+     "x0": 65.28,
+     "x1": 283.24,
+     "size": 9.12,
+     "text": "SectionsS1andS2,TableS1,Figs.S1–S4,Eqs.(S1)–(S11)",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 283.24,
+       "text": "SectionsS1andS2,TableS1,Figs.S1–S4,Eqs.(S1)–(S11)"
+      }
+     ]
+    },
+    {
+     "y": 418.56,
+     "x0": 305.52,
+     "x1": 530.11,
+     "size": 9.12,
+     "text": "TannerNA,WaitJR,FarrarCR,etal.,2003.Structuralhealth",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.11,
+       "text": "TannerNA,WaitJR,FarrarCR,etal.,2003.Structuralhealth"
+      }
+     ]
+    },
+    {
+     "y": 432.0,
+     "x0": 323.52,
+     "x1": 532.48,
+     "size": 9.12,
+     "text": "monitoringusingmodularwirelesssensors.Journalof",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 532.48,
+       "text": "monitoringusingmodularwirelesssensors.Journalof"
+      }
+     ]
+    },
+    {
+     "y": 445.44,
+     "x0": 322.8,
+     "x1": 530.13,
+     "size": 9.12,
+     "text": "IntelligentMaterialSystemsandStructures,14(1):43-",
+     "segments": [
+      {
+       "x0": 322.8,
+       "x1": 530.13,
+       "text": "IntelligentMaterialSystemsandStructures,14(1):43-"
+      }
+     ]
+    },
+    {
+     "y": 458.64,
+     "x0": 323.52,
+     "x1": 335.0,
+     "size": 9.12,
+     "text": "56.",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 335.0,
+       "text": "56."
+      }
+     ]
+    },
+    {
+     "y": 461.76,
+     "x0": 65.28,
+     "x1": 197.34,
+     "size": 12.0,
+     "text": "中文概要（需要作者提供）",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 197.34,
+       "text": "中文概要（需要作者提供）"
+      }
+     ]
+    },
+    {
+     "y": 472.08,
+     "x0": 323.52,
+     "x1": 507.31,
+     "size": 9.12,
+     "text": "https://doi.org/10.1177/1045389X03014001005",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 507.31,
+       "text": "https://doi.org/10.1177/1045389X03014001005"
+      }
+     ]
+    },
+    {
+     "y": 476.64,
+     "x0": 65.28,
+     "x1": 289.77,
+     "size": 7.44,
+     "text": "（综述⽂章的⽬的、创新点、⽅法和结论不⽤分开提供，总结为概要）",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.77,
+       "text": "（综述⽂章的⽬的、创新点、⽅法和结论不⽤分开提供，总结为概要）"
+      }
+     ]
+    },
+    {
+     "y": 500.88,
+     "x0": 323.37,
+     "x1": 423.19,
+     "size": 10.56,
+     "text": "会议文章(Conference)",
+     "segments": [
+      {
+       "x0": 323.37,
+       "x1": 423.19,
+       "text": "会议文章(Conference)"
+      }
+     ]
+    },
+    {
+     "y": 506.25,
+     "x0": 65.28,
+     "x1": 281.93,
+     "size": 9.12,
+     "text": "题目：⾯向认知公差的精密冲压⼯艺适应性设计⽅法",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 281.93,
+       "text": "题目：⾯向认知公差的精密冲压⼯艺适应性设计⽅法"
+      }
+     ]
+    },
+    {
+     "y": 515.04,
+     "x0": 305.52,
+     "x1": 530.13,
+     "size": 9.12,
+     "text": "GoriniS,QuiriniM,MenciassiA,etal.,2006.AnovelSMA-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.13,
+       "text": "GoriniS,QuiriniM,MenciassiA,etal.,2006.AnovelSMA-"
+      }
+     ]
+    },
+    {
+     "y": 528.48,
+     "x0": 323.52,
+     "x1": 530.22,
+     "size": 9.12,
+     "text": "basedactuatorforaleggedendoscopiccapsule.First",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 530.22,
+       "text": "basedactuatorforaleggedendoscopiccapsule.First"
+      }
+     ]
+    },
+    {
+     "y": 529.68,
+     "x0": 122.07,
+     "x1": 250.35,
+     "size": 4.56,
+     "text": "1,2321",
+     "segments": [
+      {
+       "x0": 122.07,
+       "x1": 128.85,
+       "text": "1,2"
+      },
+      {
+       "x0": 167.07,
+       "x1": 169.35,
+       "text": "3"
+      },
+      {
+       "x0": 207.57,
+       "x1": 209.85,
+       "text": "2"
+      },
+      {
+       "x0": 248.07,
+       "x1": 250.35,
+       "text": "1"
+      }
+     ]
+    },
+    {
+     "y": 534.09,
+     "x0": 65.28,
+     "x1": 245.94,
+     "size": 9.12,
+     "text": "作者：张三，李四四，王五五，赵六六",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 245.94,
+       "text": "作者：张三，李四四，王五五，赵六六"
+      }
+     ]
+    },
+    {
+     "y": 541.92,
+     "x0": 323.52,
+     "x1": 530.12,
+     "size": 9.12,
+     "text": "IEEE/RAS-EMBSInternationalConferenceonBiomed-",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 530.12,
+       "text": "IEEE/RAS-EMBSInternationalConferenceonBiomed-"
+      }
+     ]
+    },
+    {
+     "y": 546.48,
+     "x0": 99.59,
+     "x1": 101.87,
+     "size": 4.56,
+     "text": "1",
+     "segments": [
+      {
+       "x0": 99.59,
+       "x1": 101.87,
+       "text": "1"
+      }
+     ]
+    },
+    {
+     "y": 550.89,
+     "x0": 65.28,
+     "x1": 289.95,
+     "size": 9.12,
+     "text": "机构：浙江大学，XXXX教育部重点实验室，中国杭州，",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.95,
+       "text": "机构：浙江大学，XXXX教育部重点实验室，中国杭州，"
+      }
+     ]
+    },
+    {
+     "y": 555.36,
+     "x0": 323.52,
+     "x1": 501.65,
+     "size": 9.12,
+     "text": "icalRoboticsandBiomechatronics,p.443-449.",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 501.65,
+       "text": "icalRoboticsandBiomechatronics,p.443-449."
+      }
+     ]
+    },
+    {
+     "y": 561.6,
+     "x0": 137.63,
+     "x1": 139.91,
+     "size": 4.56,
+     "text": "2",
+     "segments": [
+      {
+       "x0": 137.63,
+       "x1": 139.91,
+       "text": "2"
+      }
+     ]
+    },
+    {
+     "y": 566.16,
+     "x0": 101.63,
+     "x1": 289.95,
+     "size": 9.12,
+     "text": "310027；上海XXX有限责任公司，中国上海，",
+     "segments": [
+      {
+       "x0": 101.63,
+       "x1": 289.95,
+       "text": "310027；上海XXX有限责任公司，中国上海，"
+      }
+     ]
+    },
+    {
+     "y": 568.8,
+     "x0": 323.52,
+     "x1": 503.97,
+     "size": 9.12,
+     "text": "https://doi.org/10.1109/BIOROB.2006.1639128",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 503.97,
+       "text": "https://doi.org/10.1109/BIOROB.2006.1639128"
+      }
+     ]
+    },
+    {
+     "y": 574.32,
+     "x0": 135.11,
+     "x1": 137.39,
+     "size": 4.56,
+     "text": "3",
+     "segments": [
+      {
+       "x0": 135.11,
+       "x1": 137.39,
+       "text": "3"
+      }
+     ]
+    },
+    {
+     "y": 578.88,
+     "x0": 101.63,
+     "x1": 289.95,
+     "size": 9.12,
+     "text": "201100；XXX大学，XXXX学院/系，英国利物浦，",
+     "segments": [
+      {
+       "x0": 101.63,
+       "x1": 289.95,
+       "text": "201100；XXX大学，XXXX学院/系，英国利物浦，"
+      }
+     ]
+    },
+    {
+     "y": 591.84,
+     "x0": 101.63,
+     "x1": 133.19,
+     "size": 9.12,
+     "text": "L697ZX",
+     "segments": [
+      {
+       "x0": 101.63,
+       "x1": 133.19,
+       "text": "L697ZX"
+      }
+     ]
+    },
+    {
+     "y": 599.76,
+     "x0": 323.37,
+     "x1": 499.36,
+     "size": 10.56,
+     "text": "专著（整本书或书中某一章节）(Book)",
+     "segments": [
+      {
+       "x0": 323.37,
+       "x1": 499.36,
+       "text": "专著（整本书或书中某一章节）(Book)"
+      }
+     ]
+    },
+    {
+     "y": 613.92,
+     "x0": 305.52,
+     "x1": 530.16,
+     "size": 9.12,
+     "text": "GregersenH,PenzienJ,2006.BiomechanicsoftheGastro-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.16,
+       "text": "GregersenH,PenzienJ,2006.BiomechanicsoftheGastro-"
+      }
+     ]
+    },
+    {
+     "y": 619.05,
+     "x0": 65.28,
+     "x1": 289.95,
+     "size": 9.12,
+     "text": "目的：精密冲压⼯艺过程中环境变量的波动导致⼯件出",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.95,
+       "text": "目的：精密冲压⼯艺过程中环境变量的波动导致⼯件出"
+      }
+     ]
+    },
+    {
+     "y": 627.12,
+     "x0": 323.52,
+     "x1": 530.1,
+     "size": 9.12,
+     "text": "intestinalTract.2ndEdition.People’sMedicalPublish-",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 530.1,
+       "text": "intestinalTract.2ndEdition.People’sMedicalPublish-"
+      }
+     ]
+    },
+    {
+     "y": 633.6,
+     "x0": 101.63,
+     "x1": 289.95,
+     "size": 9.12,
+     "text": "现破裂和皱褶等缺陷。本⽂旨在探讨精密冲压⼯",
+     "segments": [
+      {
+       "x0": 101.63,
+       "x1": 289.95,
+       "text": "现破裂和皱褶等缺陷。本⽂旨在探讨精密冲压⼯"
+      }
+     ]
+    },
+    {
+     "y": 640.56,
+     "x0": 323.52,
+     "x1": 513.51,
+     "size": 9.12,
+     "text": "ingHouse,Beijing,China,p.216-236(inChinese).",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 513.51,
+       "text": "ingHouse,Beijing,China,p.216-236(inChinese)."
+      }
+     ]
+    },
+    {
+     "y": 647.04,
+     "x0": 101.63,
+     "x1": 289.95,
+     "size": 9.12,
+     "text": "艺过程中环境变量（⼯件材质、冲压速度、压⼒",
+     "segments": [
+      {
+       "x0": 101.63,
+       "x1": 289.95,
+       "text": "艺过程中环境变量（⼯件材质、冲压速度、压⼒"
+      }
+     ]
+    },
+    {
+     "y": 654.0,
+     "x0": 305.52,
+     "x1": 530.13,
+     "size": 9.12,
+     "text": "PrigogineI,1976.Orderthroughfluctuation:self-organi-",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.13,
+       "text": "PrigogineI,1976.Orderthroughfluctuation:self-organi-"
+      }
+     ]
+    },
+    {
+     "y": 660.48,
+     "x0": 101.63,
+     "x1": 289.94,
+     "size": 9.12,
+     "text": "和温度变化等）对冲压质量的影响，研究适应性",
+     "segments": [
+      {
+       "x0": 101.63,
+       "x1": 289.94,
+       "text": "和温度变化等）对冲压质量的影响，研究适应性"
+      }
+     ]
+    },
+    {
+     "y": 667.44,
+     "x0": 323.52,
+     "x1": 530.15,
+     "size": 9.12,
+     "text": "zationandsocialsystem.In:JantschE,WaddingtonC",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 530.15,
+       "text": "zationandsocialsystem.In:JantschE,WaddingtonC"
+      }
+     ]
+    },
+    {
+     "y": 673.92,
+     "x0": 101.63,
+     "x1": 281.75,
+     "size": 9.12,
+     "text": "⼯艺设计⽅法，以提⾼精密冲压⼯件的质量。",
+     "segments": [
+      {
+       "x0": 101.63,
+       "x1": 281.75,
+       "text": "⼯艺设计⽅法，以提⾼精密冲压⼯件的质量。"
+      }
+     ]
+    },
+    {
+     "y": 680.88,
+     "x0": 323.52,
+     "x1": 530.09,
+     "size": 9.12,
+     "text": "(Eds.),EvolutionandConsciousness:HumanSystems",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 530.09,
+       "text": "(Eds.),EvolutionandConsciousness:HumanSystems"
+      }
+     ]
+    },
+    {
+     "y": 689.37,
+     "x0": 65.28,
+     "x1": 289.94,
+     "size": 9.12,
+     "text": "创新点：1.通过⻢尔科夫模型⽅程，推导出环境变量与精",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.94,
+       "text": "创新点：1.通过⻢尔科夫模型⽅程，推导出环境变量与精"
+      }
+     ]
+    },
+    {
+     "y": 694.32,
+     "x0": 323.52,
+     "x1": 530.09,
+     "size": 9.12,
+     "text": "inTransition.Addison-Wesley,London,UK,p.93-134.",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 530.09,
+       "text": "inTransition.Addison-Wesley,London,UK,p.93-134."
+      }
+     ]
+    },
+    {
+     "y": 704.16,
+     "x0": 101.98,
+     "x1": 294.45,
+     "size": 9.12,
+     "text": "密加⼯波动公差之间的关系；2.建⽴试验模型，",
+     "segments": [
+      {
+       "x0": 101.98,
+       "x1": 294.45,
+       "text": "密加⼯波动公差之间的关系；2.建⽴试验模型，"
+      }
+     ]
+    },
+    {
+     "y": 717.36,
+     "x0": 101.98,
+     "x1": 228.1,
+     "size": 9.12,
+     "text": "成功模拟适应性冲压⼯艺过程。",
+     "segments": [
+      {
+       "x0": 101.98,
+       "x1": 228.1,
+       "text": "成功模拟适应性冲压⼯艺过程。"
+      }
+     ]
+    },
+    {
+     "y": 723.12,
+     "x0": 323.37,
+     "x1": 395.08,
+     "size": 10.56,
+     "text": "学位论文(Thesis)",
+     "segments": [
+      {
+       "x0": 323.37,
+       "x1": 395.08,
+       "text": "学位论文(Thesis)"
+      }
+     ]
+    },
+    {
+     "y": 732.81,
+     "x0": 65.28,
+     "x1": 289.94,
+     "size": 9.12,
+     "text": "⽅法：1.通过实验分析，推导出冲压过程中的晶粒流动",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.94,
+       "text": "⽅法：1.通过实验分析，推导出冲压过程中的晶粒流动"
+      }
+     ]
+    },
+    {
+     "y": 737.28,
+     "x0": 305.52,
+     "x1": 530.22,
+     "size": 9.12,
+     "text": "RizviUH,2006.CombinedMultipleTransmitAntennasand",
+     "segments": [
+      {
+       "x0": 305.52,
+       "x1": 530.22,
+       "text": "RizviUH,2006.CombinedMultipleTransmitAntennasand"
+      }
+     ]
+    },
+    {
+     "y": 747.6,
+     "x0": 101.63,
+     "x1": 289.94,
+     "size": 9.12,
+     "text": "和强度变化对成型零件的尺⼨公差波动产⽣较",
+     "segments": [
+      {
+       "x0": 101.63,
+       "x1": 289.94,
+       "text": "和强度变化对成型零件的尺⼨公差波动产⽣较"
+      }
+     ]
+    },
+    {
+     "y": 750.48,
+     "x0": 323.52,
+     "x1": 530.1,
+     "size": 9.12,
+     "text": "Multi-levelModulationTechniques.PhDThesis,Royal",
+     "segments": [
+      {
+       "x0": 323.52,
+       "x1": 530.1,
+       "text": "Multi-levelModulationTechniques.PhDThesis,Royal"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 85.92,
+     "x0": 414.61,
+     "x1": 529.96,
+     "size": 6.96,
+     "text": "JZhejiangUniv-SciAinpress|9",
+     "segments": [
+      {
+       "x0": 414.61,
+       "x1": 529.96,
+       "text": "JZhejiangUniv-SciAinpress|9"
+      }
+     ]
+    },
+    {
+     "y": 121.92,
+     "x0": 83.28,
+     "x1": 253.81,
+     "size": 9.12,
+     "text": "InstituteofTechnology,Stockholm,Sweden.",
+     "segments": [
+      {
+       "x0": 83.28,
+       "x1": 253.81,
+       "text": "InstituteofTechnology,Stockholm,Sweden."
+      }
+     ]
+    },
+    {
+     "y": 150.72,
+     "x0": 83.13,
+     "x1": 161.67,
+     "size": 10.56,
+     "text": "科技报告(Report)",
+     "segments": [
+      {
+       "x0": 83.13,
+       "x1": 161.67,
+       "text": "科技报告(Report)"
+      }
+     ]
+    },
+    {
+     "y": 164.88,
+     "x0": 65.28,
+     "x1": 289.88,
+     "size": 9.12,
+     "text": "SweeneyL,2000.UniquenessofSimpleDemographicsin",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.88,
+       "text": "SweeneyL,2000.UniquenessofSimpleDemographicsin"
+      }
+     ]
+    },
+    {
+     "y": 178.32,
+     "x0": 83.28,
+     "x1": 289.85,
+     "size": 9.12,
+     "text": "theU.S.Population.TechnicalReportNo.LIDAP-WP4,",
+     "segments": [
+      {
+       "x0": 83.28,
+       "x1": 289.85,
+       "text": "theU.S.Population.TechnicalReportNo.LIDAP-WP4,"
+      }
+     ]
+    },
+    {
+     "y": 191.76,
+     "x0": 83.28,
+     "x1": 289.89,
+     "size": 9.12,
+     "text": "LaboratoryforInternationalDataPrivacy,Carnegie",
+     "segments": [
+      {
+       "x0": 83.28,
+       "x1": 289.89,
+       "text": "LaboratoryforInternationalDataPrivacy,Carnegie"
+      }
+     ]
+    },
+    {
+     "y": 205.2,
+     "x0": 83.28,
+     "x1": 216.76,
+     "size": 9.12,
+     "text": "MellonUniversity,Pittsburgh,USA.",
+     "segments": [
+      {
+       "x0": 83.28,
+       "x1": 216.76,
+       "text": "MellonUniversity,Pittsburgh,USA."
+      }
+     ]
+    },
+    {
+     "y": 234.0,
+     "x0": 83.13,
+     "x1": 144.72,
+     "size": 10.56,
+     "text": "标准(Standard)",
+     "segments": [
+      {
+       "x0": 83.13,
+       "x1": 144.72,
+       "text": "标准(Standard)"
+      }
+     ]
+    },
+    {
+     "y": 248.16,
+     "x0": 65.28,
+     "x1": 289.88,
+     "size": 9.12,
+     "text": "ISO(InternationalOrganizationforStandardization),1982.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.88,
+       "text": "ISO(InternationalOrganizationforStandardization),1982."
+      }
+     ]
+    },
+    {
+     "y": 261.36,
+     "x0": 83.18,
+     "x1": 289.93,
+     "size": 9.12,
+     "text": "Steels-Classification-Part1:ClassificationofSteelsinto",
+     "segments": [
+      {
+       "x0": 83.18,
+       "x1": 289.93,
+       "text": "Steels-Classification-Part1:ClassificationofSteelsinto"
+      }
+     ]
+    },
+    {
+     "y": 274.8,
+     "x0": 83.18,
+     "x1": 289.91,
+     "size": 9.12,
+     "text": "UnalloyedandAlloySteelsBasedonChemicalCom-",
+     "segments": [
+      {
+       "x0": 83.18,
+       "x1": 289.91,
+       "text": "UnalloyedandAlloySteelsBasedonChemicalCom-"
+      }
+     ]
+    },
+    {
+     "y": 288.24,
+     "x0": 83.18,
+     "x1": 283.53,
+     "size": 9.12,
+     "text": "position,ISO4948-1:1982.ISO,Geneva,Switzerland.",
+     "segments": [
+      {
+       "x0": 83.18,
+       "x1": 283.53,
+       "text": "position,ISO4948-1:1982.ISO,Geneva,Switzerland."
+      }
+     ]
+    },
+    {
+     "y": 301.68,
+     "x0": 65.28,
+     "x1": 291.75,
+     "size": 9.12,
+     "text": "SEPA(StateEnvironmentalProtectionAdministration),1997.",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 291.75,
+       "text": "SEPA(StateEnvironmentalProtectionAdministration),1997."
+      }
+     ]
+    },
+    {
+     "y": 315.12,
+     "x0": 83.18,
+     "x1": 289.96,
+     "size": 9.12,
+     "text": "IntegratedEmissionStandardofAirPollutants,GB",
+     "segments": [
+      {
+       "x0": 83.18,
+       "x1": 289.96,
+       "text": "IntegratedEmissionStandardofAirPollutants,GB"
+      }
+     ]
+    },
+    {
+     "y": 328.56,
+     "x0": 83.18,
+     "x1": 289.93,
+     "size": 9.12,
+     "text": "16297-1996.NationalStandardsofthePeople’sRe-",
+     "segments": [
+      {
+       "x0": 83.18,
+       "x1": 289.93,
+       "text": "16297-1996.NationalStandardsofthePeople’sRe-"
+      }
+     ]
+    },
+    {
+     "y": 342.0,
+     "x0": 83.18,
+     "x1": 142.57,
+     "size": 9.12,
+     "text": "publicofChina.",
+     "segments": [
+      {
+       "x0": 83.18,
+       "x1": 142.57,
+       "text": "publicofChina."
+      }
+     ]
+    },
+    {
+     "y": 370.56,
+     "x0": 83.13,
+     "x1": 134.75,
+     "size": 10.56,
+     "text": "专利(Patent)",
+     "segments": [
+      {
+       "x0": 83.13,
+       "x1": 134.75,
+       "text": "专利(Patent)"
+      }
+     ]
+    },
+    {
+     "y": 384.72,
+     "x0": 65.28,
+     "x1": 289.93,
+     "size": 9.12,
+     "text": "CooksonAH,1985.ParticleTrapforCompressedGasInsu-",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.93,
+       "text": "CooksonAH,1985.ParticleTrapforCompressedGasInsu-"
+      }
+     ]
+    },
+    {
+     "y": 398.16,
+     "x0": 83.18,
+     "x1": 266.05,
+     "size": 9.12,
+     "text": "latedTransmissionSystems.USPatent4554399.",
+     "segments": [
+      {
+       "x0": 83.18,
+       "x1": 266.05,
+       "text": "latedTransmissionSystems.USPatent4554399."
+      }
+     ]
+    },
+    {
+     "y": 426.96,
+     "x0": 83.13,
+     "x1": 154.01,
+     "size": 10.56,
+     "text": "网页(Webpage)",
+     "segments": [
+      {
+       "x0": 83.13,
+       "x1": 154.01,
+       "text": "网页(Webpage)"
+      }
+     ]
+    },
+    {
+     "y": 441.12,
+     "x0": 65.28,
+     "x1": 289.91,
+     "size": 9.12,
+     "text": "UniversityofSheffieldLibrary,2001.CitingElectronic",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 289.91,
+       "text": "UniversityofSheffieldLibrary,2001.CitingElectronic"
+      }
+     ]
+    },
+    {
+     "y": 454.56,
+     "x0": 83.18,
+     "x1": 258.84,
+     "size": 9.12,
+     "text": "SourcesofInformation.UniversityofSheffield.",
+     "segments": [
+      {
+       "x0": 83.18,
+       "x1": 258.84,
+       "text": "SourcesofInformation.UniversityofSheffield."
+      }
+     ]
+    },
+    {
+     "y": 468.0,
+     "x0": 83.28,
+     "x1": 273.65,
+     "size": 9.12,
+     "text": "http://www.shef.ac.uk/library/libdocs/hsl-dvc1.pdf",
+     "segments": [
+      {
+       "x0": 83.28,
+       "x1": 273.65,
+       "text": "http://www.shef.ac.uk/library/libdocs/hsl-dvc1.pdf"
+      }
+     ]
+    },
+    {
+     "y": 516.06,
+     "x0": 65.28,
+     "x1": 229.75,
+     "size": 12.0,
+     "text": "正文引用格式(Citationformat)",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 229.75,
+       "text": "正文引用格式(Citationformat)"
+      }
+     ]
+    },
+    {
+     "y": 531.12,
+     "x0": 65.28,
+     "x1": 197.4,
+     "size": 9.12,
+     "text": "⽂献只有⼀个作者(oneauthor)：",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 197.4,
+       "text": "⽂献只有⼀个作者(oneauthor)："
+      }
+     ]
+    },
+    {
+     "y": 544.56,
+     "x0": 65.28,
+     "x1": 141.66,
+     "size": 9.12,
+     "text": "(Vandermeer,1990)",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 141.66,
+       "text": "(Vandermeer,1990)"
+      }
+     ]
+    },
+    {
+     "y": 557.76,
+     "x0": 65.28,
+     "x1": 139.7,
+     "size": 9.12,
+     "text": "Vandermeer(1990)",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 139.7,
+       "text": "Vandermeer(1990)"
+      }
+     ]
+    },
+    {
+     "y": 584.64,
+     "x0": 65.28,
+     "x1": 192.31,
+     "size": 9.12,
+     "text": "⽂献有两个作者(twoauthors)：",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 192.31,
+       "text": "⽂献有两个作者(twoauthors)："
+      }
+     ]
+    },
+    {
+     "y": 598.08,
+     "x0": 65.28,
+     "x1": 150.92,
+     "size": 9.12,
+     "text": "(SunandWang,2000)",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 150.92,
+       "text": "(SunandWang,2000)"
+      }
+     ]
+    },
+    {
+     "y": 611.52,
+     "x0": 65.28,
+     "x1": 136.95,
+     "size": 9.12,
+     "text": "CaoandXu(2001)",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 136.95,
+       "text": "CaoandXu(2001)"
+      }
+     ]
+    },
+    {
+     "y": 638.4,
+     "x0": 65.28,
+     "x1": 260.37,
+     "size": 9.12,
+     "text": "⽂献有三个或以上作者(threeormoreauthors)：",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 260.37,
+       "text": "⽂献有三个或以上作者(threeormoreauthors)："
+      }
+     ]
+    },
+    {
+     "y": 651.6,
+     "x0": 65.28,
+     "x1": 248.77,
+     "size": 9.12,
+     "text": "(Moonsetal.,1997;Schlagetal.,2001a,2001b)",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 248.77,
+       "text": "(Moonsetal.,1997;Schlagetal.,2001a,2001b)"
+      }
+     ]
+    },
+    {
+     "y": 665.04,
+     "x0": 65.28,
+     "x1": 171.33,
+     "size": 9.12,
+     "text": "Schlagetal.(2001a,2001b)",
+     "segments": [
+      {
+       "x0": 65.28,
+       "x1": 171.33,
+       "text": "Schlagetal.(2001a,2001b)"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

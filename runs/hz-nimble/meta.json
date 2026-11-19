@@ -1,0 +1,17 @@
+{
+ "name": "hz-nimble",
+ "created": "2026-11-14T23:15:46",
+ "engineInfo": {
+  "engine": "betteroffice",
+  "repo": "work/engines/nimble-65549f0e",
+  "commit": "65549f0e05e5edf91bd0edc85de94d55345d93c7",
+  "branch": "",
+  "dirty": false
+ },
+ "word": "16.114.26110224",
+ "select": [
+  "layout/holdout/zh-2026-11"
+ ],
+ "note": "",
+ "wordFontSubstitutions": true
+}

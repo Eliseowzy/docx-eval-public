@@ -1,0 +1,38 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 84.0,
+     "x0": 90.0,
+     "x1": 147.11,
+     "size": 7.92,
+     "text": "<<link:website>>",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 147.11,
+       "text": "<<link:website>>"
+      }
+     ]
+    },
+    {
+     "y": 105.84,
+     "x0": 90.0,
+     "x1": 147.11,
+     "size": 7.92,
+     "text": "<<link:website>>",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 147.11,
+       "text": "<<link:website>>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

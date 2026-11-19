@@ -1,0 +1,99 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 81.84,
+     "x0": 76.56,
+     "x1": 408.6,
+     "size": 11.04,
+     "text": "FOOAAA18ptrowheight+20ptbelowparagraph",
+     "segments": [
+      {
+       "x0": 76.56,
+       "x1": 117.8,
+       "text": "FOOAAA"
+      },
+      {
+       "x0": 225.12,
+       "x1": 408.6,
+       "text": "18ptrowheight+20ptbelowparagraph"
+      }
+     ]
+    },
+    {
+     "y": 98.88,
+     "x0": 225.12,
+     "x1": 408.45,
+     "size": 11.04,
+     "text": "18ptrowheight+20ptaboveparagraph",
+     "segments": [
+      {
+       "x0": 225.12,
+       "x1": 408.45,
+       "text": "18ptrowheight+20ptaboveparagraph"
+      }
+     ]
+    },
+    {
+     "y": 115.92,
+     "x0": 225.12,
+     "x1": 471.94,
+     "size": 11.04,
+     "text": "18ptrowheight+20ptbelowparagraph+20ptabove",
+     "segments": [
+      {
+       "x0": 225.12,
+       "x1": 471.94,
+       "text": "18ptrowheight+20ptbelowparagraph+20ptabove"
+      }
+     ]
+    },
+    {
+     "y": 119.04,
+     "x0": 76.56,
+     "x1": 115.33,
+     "size": 11.04,
+     "text": "BARBBB",
+     "segments": [
+      {
+       "x0": 76.56,
+       "x1": 115.33,
+       "text": "BARBBB"
+      }
+     ]
+    },
+    {
+     "y": 131.28,
+     "x0": 225.12,
+     "x1": 271.13,
+     "size": 11.04,
+     "text": "paragraph",
+     "segments": [
+      {
+       "x0": 225.12,
+       "x1": 271.13,
+       "text": "paragraph"
+      }
+     ]
+    },
+    {
+     "y": 136.08,
+     "x0": 76.56,
+     "x1": 114.15,
+     "size": 11.04,
+     "text": "BAZCCC",
+     "segments": [
+      {
+       "x0": 76.56,
+       "x1": 114.15,
+       "text": "BAZCCC"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 81.36,
+     "x0": 70.8,
+     "x1": 182.4,
+     "size": 11.04,
+     "text": "Thisisintheleftcolumn.",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 182.4,
+       "text": "Thisisintheleftcolumn."
+      }
+     ]
+    },
+    {
+     "y": 106.8,
+     "x0": 70.8,
+     "x1": 264.41,
+     "size": 11.04,
+     "text": "Thisisthesecondline,inthesamecolumn.",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 264.41,
+       "text": "Thisisthesecondline,inthesamecolumn."
+      }
+     ]
+    },
+    {
+     "y": 132.24,
+     "x0": 70.8,
+     "x1": 158.84,
+     "size": 11.04,
+     "text": "Aftersectionbreak.",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 158.84,
+       "text": "Aftersectionbreak."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

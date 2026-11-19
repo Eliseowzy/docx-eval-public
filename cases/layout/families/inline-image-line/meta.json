@@ -1,0 +1,21 @@
+{
+ "origin": "docx-eval; measured on a real thesis template that is not redistributed with this dataset, then rebuilt as synthetic figure paragraphs (style ac, line=300 auto, mark 14pt, run 12pt SimSun)",
+ "license": "CC0-1.0",
+ "redistributable": true,
+ "tags": [
+  "measured-from-corpus",
+  "inline-image",
+  "line-height"
+ ],
+ "groups": {
+  "image-alone-on-line": {
+   "word": [
+    "an inline image alone on its line = image height + effectExtent top + bottom + (multiple-1) x the single line of the RUN font; no descent under it (Latin and SimSun runs alike)",
+    "the paragraph mark's size does not matter: mark 12pt and 14pt give identical Bottom positions",
+    "effectExtent adds fully: t1.5+b0.95 -> +2.4pt, t1.5+b1.25 -> +2.65pt, independent of image height (72/170/227pt)",
+    "SimSun runs measure like Times New Roman here, so the 1.7pt seen in the measured thesis was effectExtent minus the mark-size overshoot, not a font descent"
+   ]
+  }
+ },
+ "cases": {}
+}

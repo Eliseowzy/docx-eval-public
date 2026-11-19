@@ -1,0 +1,178 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 82.32,
+     "x0": 95.55,
+     "x1": 498.11,
+     "size": 11.04,
+     "text": "Loremipsumdolorsitamet,consectetueradipiscingelit.Maecenasporttitorconguemassa.",
+     "segments": [
+      {
+       "x0": 95.55,
+       "x1": 498.11,
+       "text": "Loremipsumdolorsitamet,consectetueradipiscingelit.Maecenasporttitorconguemassa."
+      }
+     ]
+    },
+    {
+     "y": 96.0,
+     "x0": 95.55,
+     "x1": 510.75,
+     "size": 11.04,
+     "text": "Fusceposuere,magnasedpulvinarultricies,puruslectusmalesuadalibero,sitametcommodo",
+     "segments": [
+      {
+       "x0": 95.55,
+       "x1": 510.75,
+       "text": "Fusceposuere,magnasedpulvinarultricies,puruslectusmalesuadalibero,sitametcommodo"
+      }
+     ]
+    },
+    {
+     "y": 109.68,
+     "x0": 72.0,
+     "x1": 196.98,
+     "size": 53.04,
+     "text": "“magnaerosquisurna.”",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 196.98,
+       "text": "“magnaerosquisurna.”"
+      }
+     ]
+    },
+    {
+     "y": 131.28,
+     "x0": 95.55,
+     "x1": 515.64,
+     "size": 11.04,
+     "text": "Nuncviverraimperdietenim.Fusceest.Vivamusatellus.Pellentesquehabitantmorbitristique",
+     "segments": [
+      {
+       "x0": 95.55,
+       "x1": 515.64,
+       "text": "Nuncviverraimperdietenim.Fusceest.Vivamusatellus.Pellentesquehabitantmorbitristique"
+      }
+     ]
+    },
+    {
+     "y": 144.96,
+     "x0": 95.55,
+     "x1": 519.55,
+     "size": 11.04,
+     "text": "senectusetnetusetmalesuadafamesacturpisegestas.Proinpharetranonummypede.Mauriset",
+     "segments": [
+      {
+       "x0": 95.55,
+       "x1": 519.55,
+       "text": "senectusetnetusetmalesuadafamesacturpisegestas.Proinpharetranonummypede.Mauriset"
+      }
+     ]
+    },
+    {
+     "y": 158.64,
+     "x0": 72.0,
+     "x1": 120.3,
+     "size": 53.04,
+     "text": "”orci.”",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 120.3,
+       "text": "”orci.”"
+      }
+     ]
+    },
+    {
+     "y": 180.24,
+     "x0": 89.67,
+     "x1": 472.46,
+     "size": 11.04,
+     "text": "Aeneanneclorem.Inporttitor.Doneclaoreetnonummyaugue.Suspendisseduipurus,",
+     "segments": [
+      {
+       "x0": 89.67,
+       "x1": 472.46,
+       "text": "Aeneanneclorem.Inporttitor.Doneclaoreetnonummyaugue.Suspendisseduipurus,"
+      }
+     ]
+    },
+    {
+     "y": 193.92,
+     "x0": 89.67,
+     "x1": 518.87,
+     "size": 11.04,
+     "text": "scelerisqueat,vulputatevitae,pretiummattis,nunc.Maurisegetnequeatsemvenenatiseleifend.",
+     "segments": [
+      {
+       "x0": 89.67,
+       "x1": 518.87,
+       "text": "scelerisqueat,vulputatevitae,pretiummattis,nunc.Maurisegetnequeatsemvenenatiseleifend."
+      }
+     ]
+    },
+    {
+     "y": 207.6,
+     "x0": 72.0,
+     "x1": 154.46,
+     "size": 53.04,
+     "text": "‘Utnonummy.’",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 154.46,
+       "text": "‘Utnonummy.’"
+      }
+     ]
+    },
+    {
+     "y": 229.2,
+     "x0": 89.67,
+     "x1": 472.46,
+     "size": 11.04,
+     "text": "Aeneanneclorem.Inporttitor.Doneclaoreetnonummyaugue.Suspendisseduipurus,",
+     "segments": [
+      {
+       "x0": 89.67,
+       "x1": 472.46,
+       "text": "Aeneanneclorem.Inporttitor.Doneclaoreetnonummyaugue.Suspendisseduipurus,"
+      }
+     ]
+    },
+    {
+     "y": 242.88,
+     "x0": 89.67,
+     "x1": 518.87,
+     "size": 11.04,
+     "text": "scelerisqueat,vulputatevitae,pretiummattis,nunc.Maurisegetnequeatsemvenenatiseleifend.",
+     "segments": [
+      {
+       "x0": 89.67,
+       "x1": 518.87,
+       "text": "scelerisqueat,vulputatevitae,pretiummattis,nunc.Maurisegetnequeatsemvenenatiseleifend."
+      }
+     ]
+    },
+    {
+     "y": 256.56,
+     "x0": 72.0,
+     "x1": 150.81,
+     "size": 53.04,
+     "text": "’Utnonummy.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 150.81,
+       "text": "’Utnonummy."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

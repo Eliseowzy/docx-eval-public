@@ -1,0 +1,364 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 81.36,
+     "x0": 283.44,
+     "x1": 340.28,
+     "size": 11.04,
+     "text": "BeforeTable",
+     "segments": [
+      {
+       "x0": 283.44,
+       "x1": 340.28,
+       "text": "BeforeTable"
+      }
+     ]
+    },
+    {
+     "y": 107.28,
+     "x0": 113.28,
+     "x1": 284.52,
+     "size": 11.04,
+     "text": "NegativeIndentBC",
+     "segments": [
+      {
+       "x0": 113.28,
+       "x1": 184.73,
+       "text": "NegativeIndent"
+      },
+      {
+       "x0": 225.12,
+       "x1": 231.13,
+       "text": "B"
+      },
+      {
+       "x0": 278.64,
+       "x1": 284.52,
+       "text": "C"
+      }
+     ]
+    },
+    {
+     "y": 121.2,
+     "x0": 113.28,
+     "x1": 283.71,
+     "size": 11.04,
+     "text": "Alignleft,-6cmEF",
+     "segments": [
+      {
+       "x0": 113.28,
+       "x1": 180.82,
+       "text": "Alignleft,-6cm"
+      },
+      {
+       "x0": 225.12,
+       "x1": 230.51,
+       "text": "E"
+      },
+      {
+       "x0": 278.64,
+       "x1": 283.71,
+       "text": "F"
+      }
+     ]
+    },
+    {
+     "y": 135.36,
+     "x0": 113.28,
+     "x1": 281.42,
+     "size": 11.04,
+     "text": "WithouttextwrapHI",
+     "segments": [
+      {
+       "x0": 113.28,
+       "x1": 195.64,
+       "text": "Withouttextwrap"
+      },
+      {
+       "x0": 225.12,
+       "x1": 232.0,
+       "text": "H"
+      },
+      {
+       "x0": 278.64,
+       "x1": 281.42,
+       "text": "I"
+      }
+     ]
+    },
+    {
+     "y": 149.28,
+     "x0": 285.93,
+     "x1": 335.56,
+     "size": 11.04,
+     "text": "AfterTable",
+     "segments": [
+      {
+       "x0": 285.93,
+       "x1": 335.56,
+       "text": "AfterTable"
+      }
+     ]
+    },
+    {
+     "y": 164.64,
+     "x0": 283.44,
+     "x1": 414.04,
+     "size": 11.04,
+     "text": "newLine,notnewparagraph",
+     "segments": [
+      {
+       "x0": 283.44,
+       "x1": 414.04,
+       "text": "newLine,notnewparagraph"
+      }
+     ]
+    },
+    {
+     "y": 180.0,
+     "x0": 283.44,
+     "x1": 414.04,
+     "size": 11.04,
+     "text": "newLine,notnewparagraph",
+     "segments": [
+      {
+       "x0": 283.44,
+       "x1": 414.04,
+       "text": "newLine,notnewparagraph"
+      }
+     ]
+    },
+    {
+     "y": 195.6,
+     "x0": 412.08,
+     "x1": 494.21,
+     "size": 11.04,
+     "text": "newLine,notnew",
+     "segments": [
+      {
+       "x0": 412.08,
+       "x1": 494.21,
+       "text": "newLine,notnew"
+      }
+     ]
+    },
+    {
+     "y": 206.4,
+     "x0": 170.16,
+     "x1": 366.56,
+     "size": 11.04,
+     "text": "PositionsetKL",
+     "segments": [
+      {
+       "x0": 170.16,
+       "x1": 222.23,
+       "text": "Positionset"
+      },
+      {
+       "x0": 334.32,
+       "x1": 340.06,
+       "text": "K"
+      },
+      {
+       "x0": 361.92,
+       "x1": 366.56,
+       "text": "L"
+      }
+     ]
+    },
+    {
+     "y": 210.96,
+     "x0": 412.08,
+     "x1": 458.09,
+     "size": 11.04,
+     "text": "paragraph",
+     "segments": [
+      {
+       "x0": 412.08,
+       "x1": 458.09,
+       "text": "paragraph"
+      }
+     ]
+    },
+    {
+     "y": 220.32,
+     "x0": 170.16,
+     "x1": 369.23,
+     "size": 11.04,
+     "text": "Horizontal6cmfrompageNO",
+     "segments": [
+      {
+       "x0": 170.16,
+       "x1": 286.61,
+       "text": "Horizontal6cmfrompage"
+      },
+      {
+       "x0": 334.32,
+       "x1": 341.45,
+       "text": "N"
+      },
+      {
+       "x0": 361.92,
+       "x1": 369.23,
+       "text": "O"
+      }
+     ]
+    },
+    {
+     "y": 226.32,
+     "x0": 412.08,
+     "x1": 494.21,
+     "size": 11.04,
+     "text": "newLine,notnew",
+     "segments": [
+      {
+       "x0": 412.08,
+       "x1": 494.21,
+       "text": "newLine,notnew"
+      }
+     ]
+    },
+    {
+     "y": 233.76,
+     "x0": 170.16,
+     "x1": 298.62,
+     "size": 11.04,
+     "text": "Vertical2cmfromparagraph",
+     "segments": [
+      {
+       "x0": 170.16,
+       "x1": 298.62,
+       "text": "Vertical2cmfromparagraph"
+      }
+     ]
+    },
+    {
+     "y": 241.92,
+     "x0": 412.08,
+     "x1": 458.09,
+     "size": 11.04,
+     "text": "paragraph",
+     "segments": [
+      {
+       "x0": 412.08,
+       "x1": 458.09,
+       "text": "paragraph"
+      }
+     ]
+    },
+    {
+     "y": 247.68,
+     "x0": 170.16,
+     "x1": 367.91,
+     "size": 11.04,
+     "text": "SurroundtextwrapQR",
+     "segments": [
+      {
+       "x0": 170.16,
+       "x1": 257.18,
+       "text": "Surroundtextwrap"
+      },
+      {
+       "x0": 334.32,
+       "x1": 341.75,
+       "text": "Q"
+      },
+      {
+       "x0": 361.92,
+       "x1": 367.91,
+       "text": "R"
+      }
+     ]
+    },
+    {
+     "y": 257.28,
+     "x0": 412.08,
+     "x1": 494.21,
+     "size": 11.04,
+     "text": "newLine,notnew",
+     "segments": [
+      {
+       "x0": 412.08,
+       "x1": 494.21,
+       "text": "newLine,notnew"
+      }
+     ]
+    },
+    {
+     "y": 272.64,
+     "x0": 283.44,
+     "x1": 329.45,
+     "size": 11.04,
+     "text": "paragraph",
+     "segments": [
+      {
+       "x0": 283.44,
+       "x1": 329.45,
+       "text": "paragraph"
+      }
+     ]
+    },
+    {
+     "y": 288.24,
+     "x0": 283.44,
+     "x1": 414.04,
+     "size": 11.04,
+     "text": "newLine,notnewparagraph",
+     "segments": [
+      {
+       "x0": 283.44,
+       "x1": 414.04,
+       "text": "newLine,notnewparagraph"
+      }
+     ]
+    },
+    {
+     "y": 303.6,
+     "x0": 283.44,
+     "x1": 414.04,
+     "size": 11.04,
+     "text": "newLine,notnewparagraph",
+     "segments": [
+      {
+       "x0": 283.44,
+       "x1": 414.04,
+       "text": "newLine,notnewparagraph"
+      }
+     ]
+    },
+    {
+     "y": 318.96,
+     "x0": 283.44,
+     "x1": 414.04,
+     "size": 11.04,
+     "text": "newLine,notnewparagraph",
+     "segments": [
+      {
+       "x0": 283.44,
+       "x1": 414.04,
+       "text": "newLine,notnewparagraph"
+      }
+     ]
+    },
+    {
+     "y": 334.56,
+     "x0": 283.44,
+     "x1": 414.04,
+     "size": 11.04,
+     "text": "newLine,notnewparagraph",
+     "segments": [
+      {
+       "x0": 283.44,
+       "x1": 414.04,
+       "text": "newLine,notnewparagraph"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

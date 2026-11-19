@@ -1,0 +1,52 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 173.36,
+     "x0": 42.36,
+     "x1": 273.83,
+     "size": 8.02,
+     "text": "Thisisafillersentence.WillthissentencebeduplicatedADDEDSTUFF?",
+     "segments": [
+      {
+       "x0": 42.36,
+       "x1": 273.83,
+       "text": "Thisisafillersentence.WillthissentencebeduplicatedADDEDSTUFF?"
+      }
+     ]
+    },
+    {
+     "y": 174.41,
+     "x0": 418.36,
+     "x1": 542.03,
+     "size": 6.63,
+     "text": "下移了[1]:Willthissentencebeduplicated?",
+     "segments": [
+      {
+       "x0": 418.36,
+       "x1": 542.03,
+       "text": "下移了[1]:Willthissentencebeduplicated?"
+      }
+     ]
+    },
+    {
+     "y": 185.67,
+     "x0": 418.36,
+     "x1": 471.77,
+     "size": 6.41,
+     "text": "移动了(插入)[1]",
+     "segments": [
+      {
+       "x0": 418.36,
+       "x1": 471.77,
+       "text": "移动了(插入)[1]"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

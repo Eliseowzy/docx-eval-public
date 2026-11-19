@@ -1,0 +1,19 @@
+{
+ "origin": "docx-eval",
+ "license": "base/shell.docx and generated .docx: Apache-2.0 (the shell is a copy of a NimbleOffice fixture; generated variants inherit its license); generate.py, read.py and meta.json: CC0-1.0",
+ "redistributable": true,
+ "tags": [
+  "synthetic",
+  "rule-family",
+  "line-breaking",
+  "cjk"
+ ],
+ "generator": "generate.py",
+ "reader": "read.py <run>  (smallest slack per mark count, Word | engine; probes are the K x digits grid in generate.py)",
+ "word": [
+  "Word 16.114, compat 15, compressPunctuation, w:lang eastAsia zh-CN (without zh-CN the marks keep their em): a justified line squeezes its fullwidth marks to keep one more character",
+  "n marks give up n/(n+1) em together, not n halves: smallest slack a (pt) per n marks at 12pt is 6, 4, 3, 2.4, 2 (a >= 12/(n+1)); position of the marks does not matter, shorter lines allow slightly more",
+  "A digit between ideographs lets its two 3pt auto-space gaps give up about 2pt each (a 31-unit line with one digit fits at 10pt of slack); they join the n in n/(n+1)",
+  "Does not squeeze: closing quote and opening quote in this probe"
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 198.72,
+     "x0": 33.12,
+     "x1": 490.67,
+     "size": 11.04,
+     "text": "Helyiségneve:Hibaleírása:Megjegyzés:",
+     "segments": [
+      {
+       "x0": 33.12,
+       "x1": 99.07,
+       "text": "Helyiségneve:"
+      },
+      {
+       "x0": 156.96,
+       "x1": 213.56,
+       "text": "Hibaleírása:"
+      },
+      {
+       "x0": 434.16,
+       "x1": 490.67,
+       "text": "Megjegyzés:"
+      }
+     ]
+    },
+    {
+     "y": 218.64,
+     "x0": 33.12,
+     "x1": 269.56,
+     "size": 11.04,
+     "text": "LivingroomÁltalánosszerkezet,falak",
+     "segments": [
+      {
+       "x0": 33.12,
+       "x1": 85.45,
+       "text": "Livingroom"
+      },
+      {
+       "x0": 156.96,
+       "x1": 269.56,
+       "text": "Általánosszerkezet,falak"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 509.04,
+     "x0": 33.12,
+     "x1": 269.56,
+     "size": 11.04,
+     "text": "RoomÁltalánosszerkezet,falak",
+     "segments": [
+      {
+       "x0": 33.12,
+       "x1": 59.51,
+       "text": "Room"
+      },
+      {
+       "x0": 156.96,
+       "x1": 269.56,
+       "text": "Általánosszerkezet,falak"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": []
+  }
+ ]
+}

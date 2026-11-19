@@ -1,0 +1,62 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 83.04,
+     "x0": 42.24,
+     "x1": 400.76,
+     "size": 11.04,
+     "text": "Innertable,leftInnertable,right",
+     "segments": [
+      {
+       "x0": 42.24,
+       "x1": 111.37,
+       "text": "Innertable,left"
+      },
+      {
+       "x0": 325.68,
+       "x1": 400.76,
+       "text": "Innertable,right"
+      }
+     ]
+    },
+    {
+     "y": 96.96,
+     "x0": 36.96,
+     "x1": 397.94,
+     "size": 11.04,
+     "text": "Outertable,leftOutertable,right",
+     "segments": [
+      {
+       "x0": 36.96,
+       "x1": 108.53,
+       "text": "Outertable,left"
+      },
+      {
+       "x0": 320.4,
+       "x1": 397.94,
+       "text": "Outertable,right"
+      }
+     ]
+    },
+    {
+     "y": 207.12,
+     "x0": 72.0,
+     "x1": 124.25,
+     "size": 11.04,
+     "text": "Aftertables",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 124.25,
+       "text": "Aftertables"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

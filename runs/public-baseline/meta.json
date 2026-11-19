@@ -1,0 +1,20 @@
+{
+ "name": "public-baseline",
+ "created": "2026-11-16T21:02:44",
+ "engineInfo": {
+  "engine": "nimbleoffice",
+  "checkout": "nimbleoffice",
+  "commit": "65549f0e05e5edf91bd0edc85de94d55345d93c7",
+  "dirty": false
+ },
+ "word": "16.114.26110224",
+ "select": [
+  "layout/families",
+  "layout/corpus/core_layout_data",
+  "layout/corpus/core_text_data",
+  "layout/corpus/extras_layout_data",
+  "layout/corpus/extras_ooxmlimport_data"
+ ],
+ "note": "",
+ "wordFontSubstitutions": true
+}

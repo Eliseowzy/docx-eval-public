@@ -1,0 +1,1160 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 82.56,
+     "x0": 57.6,
+     "x1": 444.66,
+     "size": 25.92,
+     "text": "Continuationboundaryclippingtest",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 444.66,
+       "text": "Continuationboundaryclippingtest"
+      }
+     ]
+    },
+    {
+     "y": 119.76,
+     "x0": 57.6,
+     "x1": 521.96,
+     "size": 11.04,
+     "text": "Checkthecontinuationonpage2.Everynumberedlineshouldremainvisible,andthenextrow",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 521.96,
+       "text": "Checkthecontinuationonpage2.Everynumberedlineshouldremainvisible,andthenextrow"
+      }
+     ]
+    },
+    {
+     "y": 134.16,
+     "x0": 57.6,
+     "x1": 159.15,
+     "size": 11.04,
+     "text": "shouldnotoverlapit.",
+     "segments": [
+      {
+       "x0": 57.6,
+       "x1": 159.15,
+       "text": "shouldnotoverlapit."
+      }
+     ]
+    },
+    {
+     "y": 224.4,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline01continuationmarkerBline01continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline01continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline01continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 240.48,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline02continuationmarkerBline02continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline02continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline02continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 256.32,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline03continuationmarkerBline03continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline03continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline03continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 272.4,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline04continuationmarkerBline04continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline04continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline04continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 288.48,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline05continuationmarkerBline05continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline05continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline05continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 304.32,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline06continuationmarkerBline06continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline06continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline06continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 320.4,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline07continuationmarkerBline07continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline07continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline07continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 336.48,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline08continuationmarkerBline08continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline08continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline08continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 352.32,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline09continuationmarkerBline09continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline09continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline09continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 368.4,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline10continuationmarkerBline10continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline10continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline10continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 384.48,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline11continuationmarkerBline11continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline11continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline11continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 400.32,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline12continuationmarkerBline12continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline12continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline12continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 416.4,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline13continuationmarkerBline13continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline13continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline13continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 432.48,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline14continuationmarkerBline14continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline14continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline14continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 448.32,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline15continuationmarkerBline15continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline15continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline15continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 464.4,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline16continuationmarkerBline16continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline16continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline16continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 480.48,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline17continuationmarkerBline17continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline17continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline17continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 496.32,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline18continuationmarkerBline18continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline18continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline18continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 512.4,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline19continuationmarkerBline19continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline19continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline19continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 528.48,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline20continuationmarkerBline20continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline20continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline20continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 544.32,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline21continuationmarkerBline21continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline21continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline21continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 560.4,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline22continuationmarkerBline22continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline22continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline22continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 576.48,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline23continuationmarkerBline23continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline23continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline23continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 592.32,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline24continuationmarkerBline24continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline24continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline24continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 608.4,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline25continuationmarkerBline25continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline25continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline25continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 624.48,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline26continuationmarkerBline26continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline26continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline26continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 640.32,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline27continuationmarkerBline27continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline27continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline27continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 656.4,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline28continuationmarkerBline28continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline28continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline28continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 672.48,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline29continuationmarkerBline29continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline29continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline29continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 688.32,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline30continuationmarkerBline30continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline30continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline30continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 704.4,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline31continuationmarkerBline31continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline31continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline31continuationmarker"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 74.88,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline32continuationmarkerBline32continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline32continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline32continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 90.96,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline33continuationmarkerBline33continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline33continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline33continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 107.04,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline34continuationmarkerBline34continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline34continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline34continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 122.88,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline35continuationmarkerBline35continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline35continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline35continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 138.96,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline36continuationmarkerBline36continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline36continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline36continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 155.04,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline37continuationmarkerBline37continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline37continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline37continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 170.88,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline38continuationmarkerBline38continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline38continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline38continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 186.96,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline39continuationmarkerBline39continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline39continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline39continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 203.04,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline40continuationmarkerBline40continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline40continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline40continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 218.88,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline41continuationmarkerBline41continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline41continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline41continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 234.96,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline42continuationmarkerBline42continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline42continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline42continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 251.04,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline43continuationmarkerBline43continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline43continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline43continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 266.88,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline44continuationmarkerBline44continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline44continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline44continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 282.96,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline45continuationmarkerBline45continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline45continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline45continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 299.04,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline46continuationmarkerBline46continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline46continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline46continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 314.88,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline47continuationmarkerBline47continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline47continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline47continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 330.96,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline48continuationmarkerBline48continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline48continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline48continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 347.04,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline49continuationmarkerBline49continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline49continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline49continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 362.88,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline50continuationmarkerBline50continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline50continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline50continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 378.96,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline51continuationmarkerBline51continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline51continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline51continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 395.04,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline52continuationmarkerBline52continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline52continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline52continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 410.88,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline53continuationmarkerBline53continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline53continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline53continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 426.96,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline54continuationmarkerBline54continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline54continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline54continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 443.04,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline55continuationmarkerBline55continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline55continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline55continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 458.88,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline56continuationmarkerBline56continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline56continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline56continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 474.96,
+     "x0": 67.68,
+     "x1": 414.88,
+     "size": 11.04,
+     "text": "Aline57continuationmarkerBline57continuationmarker",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 213.28,
+       "text": "Aline57continuationmarker"
+      },
+      {
+       "x0": 269.28,
+       "x1": 414.88,
+       "text": "Bline57continuationmarker"
+      }
+     ]
+    },
+    {
+     "y": 495.6,
+     "x0": 67.68,
+     "x1": 442.97,
+     "size": 11.04,
+     "text": "NEXTROWAshouldfollowcleanlyNEXTROWBshouldfollowcleanly",
+     "segments": [
+      {
+       "x0": 67.68,
+       "x1": 241.37,
+       "text": "NEXTROWAshouldfollowcleanly"
+      },
+      {
+       "x0": 269.28,
+       "x1": 442.97,
+       "text": "NEXTROWBshouldfollowcleanly"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

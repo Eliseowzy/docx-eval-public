@@ -1,0 +1,854 @@
+{
+ "pages": [
+  {
+   "width": 792.0,
+   "height": 612.0,
+   "lines": [
+    {
+     "y": 41.04,
+     "x0": 36.0,
+     "x1": 80.88,
+     "size": 11.04,
+     "text": "Table1:A1",
+     "segments": [
+      {
+       "x0": 36.0,
+       "x1": 80.88,
+       "text": "Table1:A1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 792.0,
+   "height": 612.0,
+   "lines": [
+    {
+     "y": 32.64,
+     "x0": 537.36,
+     "x1": 581.74,
+     "size": 11.04,
+     "text": "Table2:C1",
+     "segments": [
+      {
+       "x0": 537.36,
+       "x1": 581.74,
+       "text": "Table2:C1"
+      }
+     ]
+    },
+    {
+     "y": 70.56,
+     "x0": 36.0,
+     "x1": 693.28,
+     "size": 11.04,
+     "text": "Table2:A1Table2:B1Table2:D1",
+     "segments": [
+      {
+       "x0": 36.0,
+       "x1": 80.88,
+       "text": "Table2:A1"
+      },
+      {
+       "x0": 175.2,
+       "x1": 219.69,
+       "text": "Table2:B1"
+      },
+      {
+       "x0": 648.0,
+       "x1": 693.28,
+       "text": "Table2:D1"
+      }
+     ]
+    },
+    {
+     "y": 133.44,
+     "x0": 175.2,
+     "x1": 238.16,
+     "size": 10.08,
+     "text": "Table2:B2start",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 238.16,
+       "text": "Table2:B2start"
+      }
+     ]
+    },
+    {
+     "y": 134.4,
+     "x0": 537.36,
+     "x1": 693.28,
+     "size": 11.04,
+     "text": "Table2:C2Table2:D2",
+     "segments": [
+      {
+       "x0": 537.36,
+       "x1": 581.74,
+       "text": "Table2:C2"
+      },
+      {
+       "x0": 648.0,
+       "x1": 693.28,
+       "text": "Table2:D2"
+      }
+     ]
+    },
+    {
+     "y": 135.36,
+     "x0": 36.0,
+     "x1": 84.95,
+     "size": 12.0,
+     "text": "Table2:A2",
+     "segments": [
+      {
+       "x0": 36.0,
+       "x1": 84.95,
+       "text": "Table2:A2"
+      }
+     ]
+    },
+    {
+     "y": 157.68,
+     "x0": 175.2,
+     "x1": 521.5,
+     "size": 10.08,
+     "text": "Asyoudevelopfractionsuseothershapes(circles,squares)toshowpartsofawhole.",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 521.5,
+       "text": "Asyoudevelopfractionsuseothershapes(circles,squares)toshowpartsofawhole."
+      }
+     ]
+    },
+    {
+     "y": 182.16,
+     "x0": 175.2,
+     "x1": 235.13,
+     "size": 10.08,
+     "text": "GeorgiaUnit5",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 235.13,
+       "text": "GeorgiaUnit5"
+      }
+     ]
+    },
+    {
+     "y": 194.4,
+     "x0": 175.2,
+     "x1": 311.82,
+     "size": 10.08,
+     "text": "PatternBlockFractions(page65)",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 311.82,
+       "text": "PatternBlockFractions(page65)"
+      }
+     ]
+    },
+    {
+     "y": 206.64,
+     "x0": 175.2,
+     "x1": 384.8,
+     "size": 10.08,
+     "text": "HowManyDifferentWaysCanYouFind?(page70)",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 384.8,
+       "text": "HowManyDifferentWaysCanYouFind?(page70)"
+      }
+     ]
+    },
+    {
+     "y": 218.88,
+     "x0": 175.2,
+     "x1": 259.13,
+     "size": 10.08,
+     "text": "PicturePie(page73)",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 259.13,
+       "text": "PicturePie(page73)"
+      }
+     ]
+    },
+    {
+     "y": 231.12,
+     "x0": 175.2,
+     "x1": 286.96,
+     "size": 10.08,
+     "text": "IHave,WhoHas?(page83)",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 286.96,
+       "text": "IHave,WhoHas?(page83)"
+      }
+     ]
+    },
+    {
+     "y": 243.12,
+     "x0": 175.2,
+     "x1": 323.84,
+     "size": 10.08,
+     "text": "CreatingAGeometryBook(page91)",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 323.84,
+       "text": "CreatingAGeometryBook(page91)"
+      }
+     ]
+    },
+    {
+     "y": 255.36,
+     "x0": 175.2,
+     "x1": 269.54,
+     "size": 10.08,
+     "text": "ChoiceBoard(page95)",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 269.54,
+       "text": "ChoiceBoard(page95)"
+      }
+     ]
+    },
+    {
+     "y": 279.84,
+     "x0": 175.2,
+     "x1": 235.13,
+     "size": 10.08,
+     "text": "GeorgiaUnit6",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 235.13,
+       "text": "GeorgiaUnit6"
+      }
+     ]
+    },
+    {
+     "y": 292.08,
+     "x0": 175.2,
+     "x1": 292.91,
+     "size": 10.08,
+     "text": "ExploringFractions(page10)",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 292.91,
+       "text": "ExploringFractions(page10)"
+      }
+     ]
+    },
+    {
+     "y": 304.32,
+     "x0": 175.2,
+     "x1": 348.83,
+     "size": 10.08,
+     "text": "PatternBlockFractionsRevisited(page27)",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 348.83,
+       "text": "PatternBlockFractionsRevisited(page27)"
+      }
+     ]
+    },
+    {
+     "y": 316.56,
+     "x0": 175.2,
+     "x1": 283.41,
+     "size": 10.08,
+     "text": "MakeaHexagon(page31)",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 283.41,
+       "text": "MakeaHexagon(page31)"
+      }
+     ]
+    },
+    {
+     "y": 328.56,
+     "x0": 175.2,
+     "x1": 413.13,
+     "size": 10.08,
+     "text": "UsingFractionStripstoExploretheNumberLine(page23)",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 413.13,
+       "text": "UsingFractionStripstoExploretheNumberLine(page23)"
+      }
+     ]
+    },
+    {
+     "y": 353.04,
+     "x0": 175.2,
+     "x1": 323.38,
+     "size": 10.08,
+     "text": "K-5MathTeachingResourceCenter",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 323.38,
+       "text": "K-5MathTeachingResourceCenter"
+      }
+     ]
+    },
+    {
+     "y": 365.28,
+     "x0": 175.2,
+     "x1": 510.59,
+     "size": 10.08,
+     "text": "**ScrollDowntostandardcodes3.G.2,3.NF.1,2aforGREATactivitiesthatsupport",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 510.59,
+       "text": "**ScrollDowntostandardcodes3.G.2,3.NF.1,2aforGREATactivitiesthatsupport"
+      }
+     ]
+    },
+    {
+     "y": 377.52,
+     "x0": 175.2,
+     "x1": 209.61,
+     "size": 10.08,
+     "text": "thisUnit",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 209.61,
+       "text": "thisUnit"
+      }
+     ]
+    },
+    {
+     "y": 414.24,
+     "x0": 175.2,
+     "x1": 247.88,
+     "size": 10.08,
+     "text": "Fractionsw/area",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 247.88,
+       "text": "Fractionsw/area"
+      }
+     ]
+    },
+    {
+     "y": 428.16,
+     "x0": 175.2,
+     "x1": 414.35,
+     "size": 10.08,
+     "text": "http://www.illustrativemathematics.org/illustrations/1502",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 414.35,
+       "text": "http://www.illustrativemathematics.org/illustrations/1502"
+      }
+     ]
+    },
+    {
+     "y": 456.24,
+     "x0": 175.2,
+     "x1": 409.28,
+     "size": 10.08,
+     "text": "http://www.illustrativemathematics.org/illustrations/833",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 409.28,
+       "text": "http://www.illustrativemathematics.org/illustrations/833"
+      }
+     ]
+    },
+    {
+     "y": 484.32,
+     "x0": 175.2,
+     "x1": 409.28,
+     "size": 10.08,
+     "text": "http://www.illustrativemathematics.org/illustrations/171",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 409.28,
+       "text": "http://www.illustrativemathematics.org/illustrations/171"
+      }
+     ]
+    },
+    {
+     "y": 498.48,
+     "x0": 175.2,
+     "x1": 230.58,
+     "size": 10.08,
+     "text": "(numberline)",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 230.58,
+       "text": "(numberline)"
+      }
+     ]
+    },
+    {
+     "y": 526.56,
+     "x0": 175.2,
+     "x1": 469.09,
+     "size": 10.08,
+     "text": "http://www.illustrativemathematics.org/illustrations/169(numberline)",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 469.09,
+       "text": "http://www.illustrativemathematics.org/illustrations/169(numberline)"
+      }
+     ]
+    },
+    {
+     "y": 554.64,
+     "x0": 175.2,
+     "x1": 474.15,
+     "size": 10.08,
+     "text": "http://www.illustrativemathematics.org/illustrations/1129(numberline)",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 474.15,
+       "text": "http://www.illustrativemathematics.org/illustrations/1129(numberline)"
+      }
+     ]
+    },
+    {
+     "y": 568.56,
+     "x0": 177.46,
+     "x1": 275.59,
+     "size": 10.08,
+     "text": "Table2:B2endofpage2",
+     "segments": [
+      {
+       "x0": 177.46,
+       "x1": 275.59,
+       "text": "Table2:B2endofpage2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 792.0,
+   "height": 612.0,
+   "lines": [
+    {
+     "y": 46.08,
+     "x0": 175.2,
+     "x1": 276.74,
+     "size": 10.08,
+     "text": "Table2:B2startofpage3",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 276.74,
+       "text": "Table2:B2startofpage3"
+      }
+     ]
+    },
+    {
+     "y": 60.24,
+     "x0": 175.2,
+     "x1": 474.15,
+     "size": 10.08,
+     "text": "http://www.illustrativemathematics.org/illustrations/1350(numberline)",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 474.15,
+       "text": "http://www.illustrativemathematics.org/illustrations/1350(numberline)"
+      }
+     ]
+    },
+    {
+     "y": 74.16,
+     "x0": 175.2,
+     "x1": 469.09,
+     "size": 10.08,
+     "text": "http://www.illustrativemathematics.org/illustrations/170(numberline)",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 469.09,
+       "text": "http://www.illustrativemathematics.org/illustrations/170(numberline)"
+      }
+     ]
+    },
+    {
+     "y": 102.24,
+     "x0": 175.2,
+     "x1": 474.15,
+     "size": 10.08,
+     "text": "http://www.illustrativemathematics.org/illustrations/1352(numberline)",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 474.15,
+       "text": "http://www.illustrativemathematics.org/illustrations/1352(numberline)"
+      }
+     ]
+    },
+    {
+     "y": 130.32,
+     "x0": 175.2,
+     "x1": 469.09,
+     "size": 10.08,
+     "text": "http://www.illustrativemathematics.org/illustrations/168(numberline)",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 469.09,
+       "text": "http://www.illustrativemathematics.org/illustrations/168(numberline)"
+      }
+     ]
+    },
+    {
+     "y": 158.4,
+     "x0": 175.2,
+     "x1": 409.28,
+     "size": 10.08,
+     "text": "http://www.illustrativemathematics.org/illustrations/172",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 409.28,
+       "text": "http://www.illustrativemathematics.org/illustrations/172"
+      }
+     ]
+    },
+    {
+     "y": 184.56,
+     "x0": 175.2,
+     "x1": 196.74,
+     "size": 10.08,
+     "text": "3.G.2",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 196.74,
+       "text": "3.G.2"
+      }
+     ]
+    },
+    {
+     "y": 196.8,
+     "x0": 175.2,
+     "x1": 462.9,
+     "size": 10.08,
+     "text": "http://www.k-5mathteachingresources.com/3rd-grade-geometry.html",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 462.9,
+       "text": "http://www.k-5mathteachingresources.com/3rd-grade-geometry.html"
+      }
+     ]
+    },
+    {
+     "y": 209.04,
+     "x0": 175.2,
+     "x1": 247.66,
+     "size": 10.08,
+     "text": "Geoboardfourths",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 247.66,
+       "text": "Geoboardfourths"
+      }
+     ]
+    },
+    {
+     "y": 221.28,
+     "x0": 175.2,
+     "x1": 250.11,
+     "size": 10.08,
+     "text": "Congruenteighths",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 250.11,
+       "text": "Congruenteighths"
+      }
+     ]
+    },
+    {
+     "y": 233.52,
+     "x0": 175.2,
+     "x1": 274.64,
+     "size": 10.08,
+     "text": "Fractionswithcolortiles",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 274.64,
+       "text": "Fractionswithcolortiles"
+      }
+     ]
+    },
+    {
+     "y": 257.76,
+     "x0": 175.2,
+     "x1": 255.09,
+     "size": 10.08,
+     "text": "OTHERRESOURCES",
+     "segments": [
+      {
+       "x0": 175.2,
+       "x1": 255.09,
+       "text": "OTHERRESOURCES"
+      }
+     ]
+    },
+    {
+     "y": 270.0,
+     "x0": 211.2,
+     "x1": 310.97,
+     "size": 10.08,
+     "text": "CommonCoreFlipBook",
+     "segments": [
+      {
+       "x0": 211.2,
+       "x1": 310.97,
+       "text": "CommonCoreFlipBook"
+      }
+     ]
+    },
+    {
+     "y": 284.16,
+     "x0": 211.2,
+     "x1": 480.91,
+     "size": 10.08,
+     "text": "http://www.azed.gov/azcommoncore/mathstandards/3-5math/",
+     "segments": [
+      {
+       "x0": 211.2,
+       "x1": 480.91,
+       "text": "http://www.azed.gov/azcommoncore/mathstandards/3-5math/"
+      }
+     ]
+    },
+    {
+     "y": 312.24,
+     "x0": 211.2,
+     "x1": 515.55,
+     "size": 10.08,
+     "text": "Theseareverylargeunitsandnotrecommendedtoprintinentirety.Pick",
+     "segments": [
+      {
+       "x0": 211.2,
+       "x1": 515.55,
+       "text": "Theseareverylargeunitsandnotrecommendedtoprintinentirety.Pick"
+      }
+     ]
+    },
+    {
+     "y": 326.16,
+     "x0": 211.2,
+     "x1": 432.3,
+     "size": 10.08,
+     "text": "andchoosetasksthataligntowhatyouareteaching.",
+     "segments": [
+      {
+       "x0": 211.2,
+       "x1": 432.3,
+       "text": "andchoosetasksthataligntowhatyouareteaching."
+      }
+     ]
+    },
+    {
+     "y": 354.24,
+     "x0": 211.2,
+     "x1": 483.56,
+     "size": 10.08,
+     "text": "AunitwithCommonCorealignedtasks(thisoneisOAstandards)",
+     "segments": [
+      {
+       "x0": 211.2,
+       "x1": 483.56,
+       "text": "AunitwithCommonCorealignedtasks(thisoneisOAstandards)"
+      }
+     ]
+    },
+    {
+     "y": 368.4,
+     "x0": 215.72,
+     "x1": 492.91,
+     "size": 10.08,
+     "text": "http://schools.nyc.gov/NR/rdonlyres/0ACC1E30-0BB7-42AC-93D7-",
+     "segments": [
+      {
+       "x0": 215.72,
+       "x1": 492.91,
+       "text": "http://schools.nyc.gov/NR/rdonlyres/0ACC1E30-0BB7-42AC-93D7-"
+      }
+     ]
+    },
+    {
+     "y": 382.32,
+     "x0": 211.2,
+     "x1": 451.92,
+     "size": 10.08,
+     "text": "7CE7B83E0136/0/NYCDOEG3MathCookieDough_Final.pdf",
+     "segments": [
+      {
+       "x0": 211.2,
+       "x1": 451.92,
+       "text": "7CE7B83E0136/0/NYCDOEG3MathCookieDough_Final.pdf"
+      }
+     ]
+    },
+    {
+     "y": 410.4,
+     "x0": 211.2,
+     "x1": 335.62,
+     "size": 10.08,
+     "text": "MathCommonCoreResource",
+     "segments": [
+      {
+       "x0": 211.2,
+       "x1": 335.62,
+       "text": "MathCommonCoreResource"
+      }
+     ]
+    },
+    {
+     "y": 424.56,
+     "x0": 211.2,
+     "x1": 492.07,
+     "size": 10.08,
+     "text": "https://sites.google.com/a/bryantschools.org/math-common-core-",
+     "segments": [
+      {
+       "x0": 211.2,
+       "x1": 492.07,
+       "text": "https://sites.google.com/a/bryantschools.org/math-common-core-"
+      }
+     ]
+    },
+    {
+     "y": 438.48,
+     "x0": 211.2,
+     "x1": 346.65,
+     "size": 10.08,
+     "text": "resource-site/home-1/3rd-grade",
+     "segments": [
+      {
+       "x0": 211.2,
+       "x1": 346.65,
+       "text": "resource-site/home-1/3rd-grade"
+      }
+     ]
+    },
+    {
+     "y": 466.56,
+     "x0": 211.2,
+     "x1": 326.68,
+     "size": 10.08,
+     "text": "EngageNewYork-Fractions",
+     "segments": [
+      {
+       "x0": 211.2,
+       "x1": 326.68,
+       "text": "EngageNewYork-Fractions"
+      }
+     ]
+    },
+    {
+     "y": 480.72,
+     "x0": 211.2,
+     "x1": 514.48,
+     "size": 10.08,
+     "text": "http://www.engageny.org/sites/default/files/resource/attachments/g3-",
+     "segments": [
+      {
+       "x0": 211.2,
+       "x1": 514.48,
+       "text": "http://www.engageny.org/sites/default/files/resource/attachments/g3-"
+      }
+     ]
+    },
+    {
+     "y": 494.64,
+     "x0": 211.2,
+     "x1": 292.27,
+     "size": 10.08,
+     "text": "m5-full-module.pdf",
+     "segments": [
+      {
+       "x0": 211.2,
+       "x1": 292.27,
+       "text": "m5-full-module.pdf"
+      }
+     ]
+    },
+    {
+     "y": 522.72,
+     "x0": 211.2,
+     "x1": 347.36,
+     "size": 10.08,
+     "text": "EngageNewYork-Multiplication",
+     "segments": [
+      {
+       "x0": 211.2,
+       "x1": 347.36,
+       "text": "EngageNewYork-Multiplication"
+      }
+     ]
+    },
+    {
+     "y": 536.88,
+     "x0": 211.2,
+     "x1": 526.58,
+     "size": 10.08,
+     "text": "http://www.engageny.org/sites/default/files/resource/attachments/math-",
+     "segments": [
+      {
+       "x0": 211.2,
+       "x1": 526.58,
+       "text": "http://www.engageny.org/sites/default/files/resource/attachments/math-"
+      }
+     ]
+    },
+    {
+     "y": 551.76,
+     "x0": 211.2,
+     "x1": 372.62,
+     "size": 11.04,
+     "text": "g3-m1-full-module.pdfTable2:B2end",
+     "segments": [
+      {
+       "x0": 211.2,
+       "x1": 372.62,
+       "text": "g3-m1-full-module.pdfTable2:B2end"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 792.0,
+   "height": 612.0,
+   "lines": []
+  }
+ ]
+}

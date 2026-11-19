@@ -1,0 +1,80 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 81.36,
+     "x0": 70.8,
+     "x1": 317.45,
+     "size": 11.04,
+     "text": "ThistestdocxfilehaveaBorderwiththestyleofNone.",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 317.45,
+       "text": "ThistestdocxfilehaveaBorderwiththestyleofNone."
+      }
+     ]
+    },
+    {
+     "y": 103.92,
+     "x0": 70.8,
+     "x1": 219.65,
+     "size": 11.04,
+     "text": "ItmeansthereisnoBorderatall.",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 219.65,
+       "text": "ItmeansthereisnoBorderatall."
+      }
+     ]
+    },
+    {
+     "y": 126.48,
+     "x0": 70.8,
+     "x1": 261.03,
+     "size": 11.04,
+     "text": "LOshouldnotimportborderfromthisfile.",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 261.03,
+       "text": "LOshouldnotimportborderfromthisfile."
+      }
+     ]
+    },
+    {
+     "y": 149.04,
+     "x0": 70.8,
+     "x1": 357.4,
+     "size": 11.04,
+     "text": "Checkthatmarginsarenotzero,informat->pagestyle->page,",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 357.4,
+       "text": "Checkthatmarginsarenotzero,informat->pagestyle->page,"
+      }
+     ]
+    },
+    {
+     "y": 171.36,
+     "x0": 70.8,
+     "x1": 358.88,
+     "size": 11.04,
+     "text": "andborderspaddingsarezero,informat->pagestyle->Borders",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 358.88,
+       "text": "andborderspaddingsarezero,informat->pagestyle->Borders"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

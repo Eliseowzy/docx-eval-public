@@ -1,0 +1,21 @@
+{
+ "name": "hz-qw",
+ "created": "2026-11-14T23:12:53",
+ "engineInfo": {
+  "engine": "qwen",
+  "repo": "work/qw-probe/qwoffice",
+  "version": "qwoffice 1.261107.1147",
+  "sha256_16": "7153ad73d018f48b",
+  "appVersion": "2.0.0",
+  "archiveSha256": "285772e38996f4607d74ac5e996e809d5385ddf17a561a43ecbe2ddd0a662ef9",
+  "branch": "",
+  "dirty": false,
+  "mode": "continuous-flow (no pagination in the shipped SDK build)"
+ },
+ "word": "16.114.26110224",
+ "select": [
+  "layout/holdout/zh-2026-11"
+ ],
+ "note": "",
+ "wordFontSubstitutions": true
+}

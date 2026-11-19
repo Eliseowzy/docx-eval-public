@@ -1,0 +1,500 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 82.32,
+     "x0": 72.0,
+     "x1": 407.12,
+     "size": 11.04,
+     "text": "Paragraphoneintroducesthesampledocumentwithasingleshortsentence.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 407.12,
+       "text": "Paragraphoneintroducesthesampledocumentwithasingleshortsentence."
+      }
+     ]
+    },
+    {
+     "y": 103.92,
+     "x0": 72.0,
+     "x1": 415.68,
+     "size": 11.04,
+     "text": "Paragraphtwocontinuesbeforetheequationthatfollowsonitsownlinehere.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 415.68,
+       "text": "Paragraphtwocontinuesbeforetheequationthatfollowsonitsownlinehere."
+      }
+     ]
+    },
+    {
+     "y": 120.24,
+     "x0": 120.37,
+     "x1": 124.75,
+     "size": 6.48,
+     "text": "!",
+     "segments": [
+      {
+       "x0": 120.37,
+       "x1": 124.75,
+       "text": "!"
+      }
+     ]
+    },
+    {
+     "y": 128.88,
+     "x0": 120.48,
+     "x1": 124.64,
+     "size": 6.48,
+     "text": "\"",
+     "segments": [
+      {
+       "x0": 120.48,
+       "x1": 124.64,
+       "text": "\""
+      }
+     ]
+    },
+    {
+     "y": 133.2,
+     "x0": 72.0,
+     "x1": 116.23,
+     "size": 11.04,
+     "text": "Ratio𝑦=",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 116.23,
+       "text": "Ratio𝑦="
+      }
+     ]
+    },
+    {
+     "y": 134.4,
+     "x0": 120.82,
+     "x1": 124.3,
+     "size": 6.48,
+     "text": "#",
+     "segments": [
+      {
+       "x0": 120.82,
+       "x1": 124.3,
+       "text": "#"
+      }
+     ]
+    },
+    {
+     "y": 143.28,
+     "x0": 120.35,
+     "x1": 124.77,
+     "size": 6.48,
+     "text": "$",
+     "segments": [
+      {
+       "x0": 120.35,
+       "x1": 124.77,
+       "text": "$"
+      }
+     ]
+    },
+    {
+     "y": 162.72,
+     "x0": 72.0,
+     "x1": 390.64,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber1keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 390.64,
+       "text": "Fillerparagraphnumber1keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 184.32,
+     "x0": 72.0,
+     "x1": 390.64,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber2keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 390.64,
+       "text": "Fillerparagraphnumber2keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 205.92,
+     "x0": 72.0,
+     "x1": 390.64,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber3keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 390.64,
+       "text": "Fillerparagraphnumber3keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 227.52,
+     "x0": 72.0,
+     "x1": 390.64,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber4keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 390.64,
+       "text": "Fillerparagraphnumber4keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 249.12,
+     "x0": 72.0,
+     "x1": 390.64,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber5keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 390.64,
+       "text": "Fillerparagraphnumber5keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 270.96,
+     "x0": 72.0,
+     "x1": 390.64,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber6keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 390.64,
+       "text": "Fillerparagraphnumber6keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 292.56,
+     "x0": 72.0,
+     "x1": 390.64,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber7keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 390.64,
+       "text": "Fillerparagraphnumber7keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 314.16,
+     "x0": 72.0,
+     "x1": 390.64,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber8keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 390.64,
+       "text": "Fillerparagraphnumber8keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 335.76,
+     "x0": 72.0,
+     "x1": 390.64,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber9keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 390.64,
+       "text": "Fillerparagraphnumber9keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 357.6,
+     "x0": 72.0,
+     "x1": 396.14,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber10keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 396.14,
+       "text": "Fillerparagraphnumber10keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 379.2,
+     "x0": 72.0,
+     "x1": 396.14,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber11keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 396.14,
+       "text": "Fillerparagraphnumber11keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 400.8,
+     "x0": 72.0,
+     "x1": 396.14,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber12keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 396.14,
+       "text": "Fillerparagraphnumber12keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 422.4,
+     "x0": 72.0,
+     "x1": 396.14,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber13keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 396.14,
+       "text": "Fillerparagraphnumber13keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 444.0,
+     "x0": 72.0,
+     "x1": 396.14,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber14keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 396.14,
+       "text": "Fillerparagraphnumber14keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 465.84,
+     "x0": 72.0,
+     "x1": 396.14,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber15keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 396.14,
+       "text": "Fillerparagraphnumber15keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 487.44,
+     "x0": 72.0,
+     "x1": 396.14,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber16keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 396.14,
+       "text": "Fillerparagraphnumber16keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 509.04,
+     "x0": 72.0,
+     "x1": 396.14,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber17keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 396.14,
+       "text": "Fillerparagraphnumber17keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 530.64,
+     "x0": 72.0,
+     "x1": 396.14,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber18keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 396.14,
+       "text": "Fillerparagraphnumber18keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 552.24,
+     "x0": 72.0,
+     "x1": 396.14,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber19keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 396.14,
+       "text": "Fillerparagraphnumber19keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 574.08,
+     "x0": 72.0,
+     "x1": 396.14,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber20keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 396.14,
+       "text": "Fillerparagraphnumber20keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 595.68,
+     "x0": 72.0,
+     "x1": 396.14,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber21keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 396.14,
+       "text": "Fillerparagraphnumber21keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 617.28,
+     "x0": 72.0,
+     "x1": 396.14,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber22keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 396.14,
+       "text": "Fillerparagraphnumber22keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 638.88,
+     "x0": 72.0,
+     "x1": 396.14,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber23keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 396.14,
+       "text": "Fillerparagraphnumber23keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 660.48,
+     "x0": 72.0,
+     "x1": 396.14,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber24keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 396.14,
+       "text": "Fillerparagraphnumber24keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 682.32,
+     "x0": 72.0,
+     "x1": 396.14,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber25keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 396.14,
+       "text": "Fillerparagraphnumber25keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 703.92,
+     "x0": 72.0,
+     "x1": 396.14,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber26keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 396.14,
+       "text": "Fillerparagraphnumber26keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 725.52,
+     "x0": 72.0,
+     "x1": 396.14,
+     "size": 11.04,
+     "text": "Fillerparagraphnumber27keepsthepagebusywithoneplainshortline.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 396.14,
+       "text": "Fillerparagraphnumber27keepsthepagebusywithoneplainshortline."
+      }
+     ]
+    },
+    {
+     "y": 747.12,
+     "x0": 72.0,
+     "x1": 336.96,
+     "size": 11.04,
+     "text": "Endmarkerparagraph,whichmustremainonthefirstpage.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 336.96,
+       "text": "Endmarkerparagraph,whichmustremainonthefirstpage."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 82.56,
+     "x0": 72.0,
+     "x1": 193.22,
+     "size": 11.04,
+     "text": "titlenew-LowerCase",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 111.53,
+       "text": "titlenew"
+      },
+      {
+       "x0": 138.85,
+       "x1": 193.22,
+       "text": "-LowerCase"
+      }
+     ]
+    },
+    {
+     "y": 108.0,
+     "x0": 72.0,
+     "x1": 185.71,
+     "size": 11.04,
+     "text": "TitleNew-TitleCase",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 114.52,
+       "text": "TitleNew"
+      },
+      {
+       "x0": 139.36,
+       "x1": 185.71,
+       "text": "-TitleCase"
+      }
+     ]
+    },
+    {
+     "y": 133.44,
+     "x0": 72.0,
+     "x1": 311.08,
+     "size": 11.04,
+     "text": "MYPATNAISBESTINTHEWORLD-UpperCase",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 224.07,
+       "text": "MYPATNAISBESTINTHEWORLD"
+      },
+      {
+       "x0": 256.37,
+       "x1": 311.08,
+       "text": "-UpperCase"
+      }
+     ]
+    },
+    {
+     "y": 158.88,
+     "x0": 72.0,
+     "x1": 256.24,
+     "size": 11.04,
+     "text": "MoMissupreme-FirstCapital",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 147.89,
+       "text": "MoMissupreme"
+      },
+      {
+       "x0": 197.58,
+       "x1": 256.24,
+       "text": "-FirstCapital"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

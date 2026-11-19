@@ -1,0 +1,24 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 84.24,
+     "x0": 90.0,
+     "x1": 145.35,
+     "size": 11.04,
+     "text": "Sampletext",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 145.35,
+       "text": "Sampletext"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

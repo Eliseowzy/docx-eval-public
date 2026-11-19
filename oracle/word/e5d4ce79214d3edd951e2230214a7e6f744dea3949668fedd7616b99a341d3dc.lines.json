@@ -1,0 +1,84 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 81.6,
+     "x0": 72.0,
+     "x1": 112.68,
+     "size": 12.0,
+     "text": "FILLER",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 112.68,
+       "text": "FILLER"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 105.6,
+     "x0": 72.0,
+     "x1": 158.01,
+     "size": 12.0,
+     "text": "HARDTARGET",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 158.01,
+       "text": "HARDTARGET"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 105.6,
+     "x0": 72.0,
+     "x1": 190.02,
+     "size": 12.0,
+     "text": "PROPERTYTARGET",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 190.02,
+       "text": "PROPERTYTARGET"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 81.6,
+     "x0": 72.0,
+     "x1": 205.36,
+     "size": 12.0,
+     "text": "STANDALONETARGET",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 205.36,
+       "text": "STANDALONETARGET"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

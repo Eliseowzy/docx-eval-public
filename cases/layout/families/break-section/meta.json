@@ -1,0 +1,421 @@
+{
+ "origin": "docx-eval; base is section-geometry's shell package, bodies are generated",
+ "license": "base/shell.docx and generated .docx: Apache-2.0 (the shell is a copy of a NimbleOffice fixture; generated variants inherit its license); generate.py, read.py and meta.json: CC0-1.0",
+ "redistributable": true,
+ "tags": [
+  "synthetic",
+  "rule-family",
+  "sections",
+  "page-break",
+  "pagination"
+ ],
+ "generator": "generate.py",
+ "groups": {
+  "break-next-to-section": {
+   "varies": "page break paragraph (B), empty next-page sectPr paragraph (S), break+sectPr in one paragraph (BS), text variants, empty paragraph between; next section's first paragraph with space-before 0 or 480; compat 14 and 15 (header variant not covered)",
+   "word": [
+    "compat 14 and 15 behave identically in every case",
+    "an authored page break leaves the paragraph mark on its own page; B then NEXT: 2 pages, NEXT at the top with space-before dropped (82.32 for before=480)",
+    "an empty sectPr paragraph that sits alone on a fresh page (after B, or carrying its own break) is absorbed: B+S 2 pages, BS 2 pages, E+BS 2 pages",
+    "a sectPr paragraph with its own break on a page that already holds a break paragraph still turns the page: B+BS 3 pages, B+E+B+BS 4 pages; B+E+S 3 pages (the empty paragraph occupies the page)",
+    "a sectPr paragraph with text, or one that follows B with text, is never absorbed: B+St 3 pages",
+    "after any next-page section break the first paragraph keeps its space-before (106.32 for before=480), including B+S, BS, B+BS; only a page break authored after the section break (BS then B) drops it",
+    "a real thesis template (not redistributed here): appendix B,BS gives a blank page then the heading (41); acknowledgements B,E x4,B,S one blank page; the table of contents B,S keeps the 24pt space-before"
+   ]
+  }
+ },
+ "cases": {
+  "c14-b0-b-b-s": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 82.32
+   }
+  },
+  "c14-b0-b-bs": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 82.32
+   }
+  },
+  "c14-b0-b-e-b-bs": {
+   "pages": 4,
+   "next": {
+    "page": 4,
+    "y": 82.32
+   }
+  },
+  "c14-b0-b-e-b-s": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 82.32
+   }
+  },
+  "c14-b0-b-e-bs": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 82.32
+   }
+  },
+  "c14-b0-b-e-s": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 82.32
+   }
+  },
+  "c14-b0-b-s": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 82.32
+   }
+  },
+  "c14-b0-b-st": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 82.32
+   }
+  },
+  "c14-b0-b": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 82.32
+   }
+  },
+  "c14-b0-bs-b": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 82.32
+   }
+  },
+  "c14-b0-bs": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 82.32
+   }
+  },
+  "c14-b0-bst": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 82.32
+   }
+  },
+  "c14-b0-e-bs": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 82.32
+   }
+  },
+  "c14-b0-s": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 82.32
+   }
+  },
+  "c14-b480-b-b-s": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 106.32
+   }
+  },
+  "c14-b480-b-bs": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 106.32
+   }
+  },
+  "c14-b480-b-e-b-bs": {
+   "pages": 4,
+   "next": {
+    "page": 4,
+    "y": 106.32
+   }
+  },
+  "c14-b480-b-e-b-s": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 106.32
+   }
+  },
+  "c14-b480-b-e-bs": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 106.32
+   }
+  },
+  "c14-b480-b-e-s": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 106.32
+   }
+  },
+  "c14-b480-b-s": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 106.32
+   }
+  },
+  "c14-b480-b-st": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 106.32
+   }
+  },
+  "c14-b480-b": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 82.32
+   }
+  },
+  "c14-b480-bs-b": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 82.32
+   }
+  },
+  "c14-b480-bs": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 106.32
+   }
+  },
+  "c14-b480-bst": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 106.32
+   }
+  },
+  "c14-b480-e-bs": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 106.32
+   }
+  },
+  "c14-b480-s": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 106.32
+   }
+  },
+  "c15-b0-b-b-s": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 82.32
+   }
+  },
+  "c15-b0-b-bs": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 82.32
+   }
+  },
+  "c15-b0-b-e-b-bs": {
+   "pages": 4,
+   "next": {
+    "page": 4,
+    "y": 82.32
+   }
+  },
+  "c15-b0-b-e-b-s": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 82.32
+   }
+  },
+  "c15-b0-b-e-bs": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 82.32
+   }
+  },
+  "c15-b0-b-e-s": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 82.32
+   }
+  },
+  "c15-b0-b-s": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 82.32
+   }
+  },
+  "c15-b0-b-st": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 82.32
+   }
+  },
+  "c15-b0-b": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 82.32
+   }
+  },
+  "c15-b0-bs-b": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 82.32
+   }
+  },
+  "c15-b0-bs": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 82.32
+   }
+  },
+  "c15-b0-bst": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 82.32
+   }
+  },
+  "c15-b0-e-bs": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 82.32
+   }
+  },
+  "c15-b0-s": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 82.32
+   }
+  },
+  "c15-b480-b-b-s": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 106.32
+   }
+  },
+  "c15-b480-b-bs": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 106.32
+   }
+  },
+  "c15-b480-b-e-b-bs": {
+   "pages": 4,
+   "next": {
+    "page": 4,
+    "y": 106.32
+   }
+  },
+  "c15-b480-b-e-b-s": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 106.32
+   }
+  },
+  "c15-b480-b-e-bs": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 106.32
+   }
+  },
+  "c15-b480-b-e-s": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 106.32
+   }
+  },
+  "c15-b480-b-s": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 106.32
+   }
+  },
+  "c15-b480-b-st": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 106.32
+   }
+  },
+  "c15-b480-b": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 82.32
+   }
+  },
+  "c15-b480-bs-b": {
+   "pages": 3,
+   "next": {
+    "page": 3,
+    "y": 82.32
+   }
+  },
+  "c15-b480-bs": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 106.32
+   }
+  },
+  "c15-b480-bst": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 106.32
+   }
+  },
+  "c15-b480-e-bs": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 106.32
+   }
+  },
+  "c15-b480-s": {
+   "pages": 2,
+   "next": {
+    "page": 2,
+    "y": 106.32
+   }
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {"y": 72.0, "x0": 72.0, "x1": 180.0, "size": 12.0, "text": "Hello world",
+     "segments": [{"x0": 72.0, "x1": 180.0, "text": "Hello world"}]},
+    {"y": 90.0, "x0": 72.0, "x1": 160.0, "size": 12.0, "text": "Second line",
+     "segments": [{"x0": 72.0, "x1": 160.0, "text": "Second line"}]}
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {"y": 72.0, "x0": 72.0, "x1": 150.0, "size": 12.0, "text": "Third line",
+     "segments": [{"x0": 72.0, "x1": 150.0, "text": "Third line"}]}
+   ]
+  }
+ ]
+}

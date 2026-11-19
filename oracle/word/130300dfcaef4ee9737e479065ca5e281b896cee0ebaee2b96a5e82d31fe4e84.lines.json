@@ -1,0 +1,155 @@
+{
+ "pages": [
+  {
+   "width": 841.92,
+   "height": 595.2,
+   "lines": [
+    {
+     "y": 19.2,
+     "x0": 681.23,
+     "x1": 815.11,
+     "size": 11.04,
+     "text": "Bulletin219811/07/11",
+     "segments": [
+      {
+       "x0": 681.23,
+       "x1": 754.28,
+       "text": "Bulletin2198"
+      },
+      {
+       "x0": 779.51,
+       "x1": 815.11,
+       "text": "11/07/11"
+      }
+     ]
+    },
+    {
+     "y": 43.44,
+     "x0": 114.38,
+     "x1": 339.29,
+     "size": 19.92,
+     "text": "RotaryClubofClare",
+     "segments": [
+      {
+       "x0": 114.38,
+       "x1": 339.29,
+       "text": "RotaryClubofClare"
+      }
+     ]
+    },
+    {
+     "y": 57.6,
+     "x0": 179.42,
+     "x1": 252.4,
+     "size": 10.08,
+     "text": "District9500",
+     "segments": [
+      {
+       "x0": 179.42,
+       "x1": 252.4,
+       "text": "District9500"
+      }
+     ]
+    },
+    {
+     "y": 82.8,
+     "x0": 203.51,
+     "x1": 250.17,
+     "size": 12.0,
+     "text": "President",
+     "segments": [
+      {
+       "x0": 203.51,
+       "x1": 250.17,
+       "text": "President"
+      }
+     ]
+    },
+    {
+     "y": 100.56,
+     "x0": 189.2,
+     "x1": 270.53,
+     "size": 16.08,
+     "text": "IanHowlett",
+     "segments": [
+      {
+       "x0": 189.2,
+       "x1": 270.53,
+       "text": "IanHowlett"
+      }
+     ]
+    },
+    {
+     "y": 124.32,
+     "x0": 189.34,
+     "x1": 276.34,
+     "size": 12.0,
+     "text": "DistrictGovernor",
+     "segments": [
+      {
+       "x0": 189.34,
+       "x1": 276.34,
+       "text": "DistrictGovernor"
+      }
+     ]
+    },
+    {
+     "y": 142.08,
+     "x0": 192.76,
+     "x1": 275.0,
+     "size": 16.08,
+     "text": "EricRussell",
+     "segments": [
+      {
+       "x0": 192.76,
+       "x1": 275.0,
+       "text": "EricRussell"
+      }
+     ]
+    },
+    {
+     "y": 165.6,
+     "x0": 198.2,
+     "x1": 263.54,
+     "size": 12.0,
+     "text": "RIPresident",
+     "segments": [
+      {
+       "x0": 198.2,
+       "x1": 263.54,
+       "text": "RIPresident"
+      }
+     ]
+    },
+    {
+     "y": 183.36,
+     "x0": 208.97,
+     "x1": 258.83,
+     "size": 16.08,
+     "text": "Kaylan",
+     "segments": [
+      {
+       "x0": 208.97,
+       "x1": 258.83,
+       "text": "Kaylan"
+      }
+     ]
+    },
+    {
+     "y": 201.84,
+     "x0": 203.21,
+     "x1": 264.57,
+     "size": 16.08,
+     "text": "Banerjee",
+     "segments": [
+      {
+       "x0": 203.21,
+       "x1": 264.57,
+       "text": "Banerjee"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

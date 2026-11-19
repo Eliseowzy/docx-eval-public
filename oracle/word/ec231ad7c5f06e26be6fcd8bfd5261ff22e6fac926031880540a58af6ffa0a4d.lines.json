@@ -1,0 +1,374 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 168.96,
+     "x0": 54.48,
+     "x1": 130.96,
+     "size": 7.49,
+     "text": "1hidden,delete-merge",
+     "segments": [
+      {
+       "x0": 54.48,
+       "x1": 130.96,
+       "text": "1hidden,delete-merge"
+      }
+     ]
+    },
+    {
+     "y": 185.01,
+     "x0": 416.28,
+     "x1": 452.68,
+     "size": 6.78,
+     "text": "删除了:def",
+     "segments": [
+      {
+       "x0": 416.28,
+       "x1": 452.68,
+       "text": "删除了:def"
+      }
+     ]
+    },
+    {
+     "y": 192.86,
+     "x0": 416.28,
+     "x1": 425.22,
+     "size": 6.78,
+     "text": "ghi",
+     "segments": [
+      {
+       "x0": 416.28,
+       "x1": 425.22,
+       "text": "ghi"
+      }
+     ]
+    },
+    {
+     "y": 199.29,
+     "x0": 54.48,
+     "x1": 129.29,
+     "size": 7.49,
+     "text": "2visible,delete-merge",
+     "segments": [
+      {
+       "x0": 54.48,
+       "x1": 129.29,
+       "text": "2visible,delete-merge"
+      }
+     ]
+    },
+    {
+     "y": 214.45,
+     "x0": 54.48,
+     "x1": 66.49,
+     "size": 7.49,
+     "text": "abc",
+     "segments": [
+      {
+       "x0": 54.48,
+       "x1": 66.49,
+       "text": "abc"
+      }
+     ]
+    },
+    {
+     "y": 215.34,
+     "x0": 416.28,
+     "x1": 452.33,
+     "size": 6.78,
+     "text": "删除了:ghi",
+     "segments": [
+      {
+       "x0": 416.28,
+       "x1": 452.33,
+       "text": "删除了:ghi"
+      }
+     ]
+    },
+    {
+     "y": 223.19,
+     "x0": 416.28,
+     "x1": 425.6,
+     "size": 6.78,
+     "text": "def",
+     "segments": [
+      {
+       "x0": 416.28,
+       "x1": 425.6,
+       "text": "def"
+      }
+     ]
+    },
+    {
+     "y": 229.61,
+     "x0": 54.48,
+     "x1": 104.5,
+     "size": 7.49,
+     "text": "3delete-merge",
+     "segments": [
+      {
+       "x0": 54.48,
+       "x1": 104.5,
+       "text": "3delete-merge"
+      }
+     ]
+    },
+    {
+     "y": 246.74,
+     "x0": 416.28,
+     "x1": 452.68,
+     "size": 6.78,
+     "text": "删除了:def",
+     "segments": [
+      {
+       "x0": 416.28,
+       "x1": 452.68,
+       "text": "删除了:def"
+      }
+     ]
+    },
+    {
+     "y": 254.41,
+     "x0": 416.28,
+     "x1": 425.22,
+     "size": 6.78,
+     "text": "ghi",
+     "segments": [
+      {
+       "x0": 416.28,
+       "x1": 425.22,
+       "text": "ghi"
+      }
+     ]
+    },
+    {
+     "y": 259.94,
+     "x0": 54.48,
+     "x1": 152.43,
+     "size": 7.49,
+     "text": "4delete-merge,delete-merge",
+     "segments": [
+      {
+       "x0": 54.48,
+       "x1": 152.43,
+       "text": "4delete-merge,delete-merge"
+      }
+     ]
+    },
+    {
+     "y": 277.07,
+     "x0": 416.28,
+     "x1": 454.11,
+     "size": 6.78,
+     "text": "删除了:abc",
+     "segments": [
+      {
+       "x0": 416.28,
+       "x1": 454.11,
+       "text": "删除了:abc"
+      }
+     ]
+    },
+    {
+     "y": 284.74,
+     "x0": 416.28,
+     "x1": 429.31,
+     "size": 6.78,
+     "text": "def",
+     "segments": [
+      {
+       "x0": 416.28,
+       "x1": 429.31,
+       "text": "def"
+      }
+     ]
+    },
+    {
+     "y": 290.27,
+     "x0": 54.48,
+     "x1": 156.14,
+     "size": 7.49,
+     "text": "5visible,hidden-merge,visible",
+     "segments": [
+      {
+       "x0": 54.48,
+       "x1": 156.14,
+       "text": "5visible,hidden-merge,visible"
+      }
+     ]
+    },
+    {
+     "y": 305.43,
+     "x0": 211.05,
+     "x1": 233.39,
+     "size": 7.49,
+     "text": "abcdef",
+     "segments": [
+      {
+       "x0": 211.05,
+       "x1": 233.39,
+       "text": "abcdef"
+      }
+     ]
+    },
+    {
+     "y": 320.6,
+     "x0": 54.48,
+     "x1": 131.36,
+     "size": 7.49,
+     "text": "6hidden-merge,visible",
+     "segments": [
+      {
+       "x0": 54.48,
+       "x1": 131.36,
+       "text": "6hidden-merge,visible"
+      }
+     ]
+    },
+    {
+     "y": 335.76,
+     "x0": 54.48,
+     "x1": 64.83,
+     "size": 7.49,
+     "text": "def",
+     "segments": [
+      {
+       "x0": 54.48,
+       "x1": 64.83,
+       "text": "def"
+      }
+     ]
+    },
+    {
+     "y": 350.93,
+     "x0": 54.48,
+     "x1": 131.36,
+     "size": 7.49,
+     "text": "7visible,hidden-merge",
+     "segments": [
+      {
+       "x0": 54.48,
+       "x1": 131.36,
+       "text": "7visible,hidden-merge"
+      }
+     ]
+    },
+    {
+     "y": 366.27,
+     "x0": 216.22,
+     "x1": 228.23,
+     "size": 7.49,
+     "text": "abc",
+     "segments": [
+      {
+       "x0": 216.22,
+       "x1": 228.23,
+       "text": "abc"
+      }
+     ]
+    },
+    {
+     "y": 381.43,
+     "x0": 54.48,
+     "x1": 228.86,
+     "size": 7.49,
+     "text": "8visible,delete-merge,visible,hidden-merge,visible",
+     "segments": [
+      {
+       "x0": 54.48,
+       "x1": 228.86,
+       "text": "8visible,delete-merge,visible,hidden-merge,visible"
+      }
+     ]
+    },
+    {
+     "y": 396.6,
+     "x0": 206.09,
+     "x1": 238.34,
+     "size": 7.49,
+     "text": "abcdefghi",
+     "segments": [
+      {
+       "x0": 206.09,
+       "x1": 238.34,
+       "text": "abcdefghi"
+      }
+     ]
+    },
+    {
+     "y": 397.49,
+     "x0": 416.28,
+     "x1": 443.41,
+     "size": 6.78,
+     "text": "删除了:",
+     "segments": [
+      {
+       "x0": 416.28,
+       "x1": 443.41,
+       "text": "删除了:"
+      }
+     ]
+    },
+    {
+     "y": 411.76,
+     "x0": 54.48,
+     "x1": 106.57,
+     "size": 7.49,
+     "text": "9hidden-merge",
+     "segments": [
+      {
+       "x0": 54.48,
+       "x1": 106.57,
+       "text": "9hidden-merge"
+      }
+     ]
+    },
+    {
+     "y": 442.09,
+     "x0": 54.48,
+     "x1": 232.99,
+     "size": 7.49,
+     "text": "10visible,hidden-merge,visible,delete-merge,visible",
+     "segments": [
+      {
+       "x0": 54.48,
+       "x1": 232.99,
+       "text": "10visible,hidden-merge,visible,delete-merge,visible"
+      }
+     ]
+    },
+    {
+     "y": 457.25,
+     "x0": 357.71,
+     "x1": 389.96,
+     "size": 7.49,
+     "text": "abcdefghi",
+     "segments": [
+      {
+       "x0": 357.71,
+       "x1": 389.96,
+       "text": "abcdefghi"
+      }
+     ]
+    },
+    {
+     "y": 458.14,
+     "x0": 416.28,
+     "x1": 443.41,
+     "size": 6.78,
+     "text": "删除了:",
+     "segments": [
+      {
+       "x0": 416.28,
+       "x1": 443.41,
+       "text": "删除了:"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

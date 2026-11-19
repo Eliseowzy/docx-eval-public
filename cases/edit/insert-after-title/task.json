@@ -1,0 +1,28 @@
+{
+ "input": "case:layout/families/table-split/base/02-page-bottom-boundary.docx",
+ "instruction": "在标题下面插入一段：“本测试用于检查页底边框。”",
+ "checks": [
+  {
+   "type": "package"
+  },
+  {
+   "type": "text",
+   "present": [
+    "本测试用于检查页底边框。"
+   ]
+  },
+  {
+   "type": "paragraphs",
+   "delta": 1
+  },
+  {
+   "type": "preserved",
+   "except": [
+    "^本测试用于检查页底边框。$"
+   ],
+   "parts": [
+    "word/styles.xml"
+   ]
+  }
+ ]
+}

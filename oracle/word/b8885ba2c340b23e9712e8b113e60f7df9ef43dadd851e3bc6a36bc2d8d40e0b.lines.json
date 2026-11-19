@@ -1,0 +1,2339 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 82.32,
+     "x0": 73.92,
+     "x1": 111.87,
+     "size": 11.04,
+     "text": "Page1:",
+     "segments": [
+      {
+       "x0": 73.92,
+       "x1": 111.87,
+       "text": "Page1:"
+      }
+     ]
+    },
+    {
+     "y": 103.92,
+     "x0": 73.92,
+     "x1": 534.43,
+     "size": 11.04,
+     "text": "Xxxxxxxx:1.xxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 73.92,
+       "x1": 127.79,
+       "text": "Xxxxxxxx:"
+      },
+      {
+       "x0": 231.21,
+       "x1": 240.4,
+       "text": "1."
+      },
+      {
+       "x0": 259.56,
+       "x1": 534.43,
+       "text": "xxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 117.6,
+     "x0": 259.56,
+     "x1": 534.57,
+     "size": 11.04,
+     "text": "xxxxxxx,xxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxx,",
+     "segments": [
+      {
+       "x0": 259.56,
+       "x1": 534.57,
+       "text": "xxxxxxx,xxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxx,"
+      }
+     ]
+    },
+    {
+     "y": 131.28,
+     "x0": 259.56,
+     "x1": 534.61,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 259.56,
+       "x1": 534.61,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 144.96,
+     "x0": 259.56,
+     "x1": 534.61,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 259.56,
+       "x1": 534.61,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 158.64,
+     "x0": 259.56,
+     "x1": 534.61,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxx,xxxxxxx",
+     "segments": [
+      {
+       "x0": 259.56,
+       "x1": 534.61,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxx,xxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 172.32,
+     "x0": 259.56,
+     "x1": 409.99,
+     "size": 11.04,
+     "text": "(“xxxxxxxxxxxxxxxxxxxxxx”)",
+     "segments": [
+      {
+       "x0": 259.56,
+       "x1": 409.99,
+       "text": "(“xxxxxxxxxxxxxxxxxxxxxx”)"
+      }
+     ]
+    },
+    {
+     "y": 215.52,
+     "x0": 228.96,
+     "x1": 534.41,
+     "size": 11.04,
+     "text": "2.xxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 238.15,
+       "text": "2."
+      },
+      {
+       "x0": 259.56,
+       "x1": 534.41,
+       "text": "xxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 229.2,
+     "x0": 259.56,
+     "x1": 534.58,
+     "size": 11.04,
+     "text": "xxxxxxx,xxxxxxxxxxxxx(xxxxxxxxxxxxxxxxxx),xxxx",
+     "segments": [
+      {
+       "x0": 259.56,
+       "x1": 534.58,
+       "text": "xxxxxxx,xxxxxxxxxxxxx(xxxxxxxxxxxxxxxxxx),xxxx"
+      }
+     ]
+    },
+    {
+     "y": 242.88,
+     "x0": 259.56,
+     "x1": 534.57,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 259.56,
+       "x1": 534.57,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 256.56,
+     "x0": 259.56,
+     "x1": 534.58,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 259.56,
+       "x1": 534.58,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 270.24,
+     "x0": 259.56,
+     "x1": 534.6,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 259.56,
+       "x1": 534.6,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 283.92,
+     "x0": 259.56,
+     "x1": 534.62,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxx,xxxxxxxxxxxxxx,xxxxxxx(“xxxxx",
+     "segments": [
+      {
+       "x0": 259.56,
+       "x1": 534.62,
+       "text": "xxxxxxxxxxxxxx,xxxxxxxxxxxxxx,xxxxxxx(“xxxxx"
+      }
+     ]
+    },
+    {
+     "y": 297.36,
+     "x0": 259.56,
+     "x1": 355.6,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxx”)",
+     "segments": [
+      {
+       "x0": 259.56,
+       "x1": 355.6,
+       "text": "xxxxxxxxxxxxxx”)"
+      }
+     ]
+    },
+    {
+     "y": 340.8,
+     "x0": 231.21,
+     "x1": 534.47,
+     "size": 11.04,
+     "text": "3.xx.xxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 231.21,
+       "x1": 240.4,
+       "text": "3."
+      },
+      {
+       "x0": 259.56,
+       "x1": 534.47,
+       "text": "xx.xxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 354.48,
+     "x0": 259.56,
+     "x1": 534.57,
+     "size": 11.04,
+     "text": "xxxxxxxxxx,xxxxxxxxxxxxx(xxxxxxxxxxxxxxxxxx),",
+     "segments": [
+      {
+       "x0": 259.56,
+       "x1": 534.57,
+       "text": "xxxxxxxxxx,xxxxxxxxxxxxx(xxxxxxxxxxxxxxxxxx),"
+      }
+     ]
+    },
+    {
+     "y": 368.16,
+     "x0": 259.56,
+     "x1": 534.62,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 259.56,
+       "x1": 534.62,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 381.84,
+     "x0": 259.56,
+     "x1": 534.6,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 259.56,
+       "x1": 534.6,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 395.28,
+     "x0": 259.56,
+     "x1": 534.6,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 259.56,
+       "x1": 534.6,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 408.96,
+     "x0": 259.56,
+     "x1": 534.58,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxx,x-xxxxxxxxxxxxx,xxxxxxx(“xxxxxx",
+     "segments": [
+      {
+       "x0": 259.56,
+       "x1": 534.58,
+       "text": "xxxxxxxxxxxxx,x-xxxxxxxxxxxxx,xxxxxxx(“xxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 422.64,
+     "x0": 259.56,
+     "x1": 355.6,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxx”)",
+     "segments": [
+      {
+       "x0": 259.56,
+       "x1": 355.6,
+       "text": "xxxxxxxxxxxxxx”)"
+      }
+     ]
+    },
+    {
+     "y": 466.08,
+     "x0": 231.21,
+     "x1": 534.51,
+     "size": 11.04,
+     "text": "4.XXXXXXXXXXXXxxxx,xxxxxxxxxxxxxxxxxxXxxxxxx",
+     "segments": [
+      {
+       "x0": 231.21,
+       "x1": 240.4,
+       "text": "4."
+      },
+      {
+       "x0": 259.56,
+       "x1": 534.51,
+       "text": "XXXXXXXXXXXXxxxx,xxxxxxxxxxxxxxxxxxXxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 479.52,
+     "x0": 259.56,
+     "x1": 466.22,
+     "size": 11.04,
+     "text": "xxxxxxxxxx(“XXXXXXxxxxxxXxxxxxx”)",
+     "segments": [
+      {
+       "x0": 259.56,
+       "x1": 466.22,
+       "text": "xxxxxxxxxx(“XXXXXXxxxxxxXxxxxxx”)"
+      }
+     ]
+    },
+    {
+     "y": 522.96,
+     "x0": 231.21,
+     "x1": 402.06,
+     "size": 11.04,
+     "text": "5.XX.XXXXXxxxxxXxxxxxx”)",
+     "segments": [
+      {
+       "x0": 231.21,
+       "x1": 240.4,
+       "text": "5."
+      },
+      {
+       "x0": 259.56,
+       "x1": 402.06,
+       "text": "XX.XXXXXxxxxxXxxxxxx”)"
+      }
+     ]
+    },
+    {
+     "y": 566.16,
+     "x0": 228.96,
+     "x1": 515.66,
+     "size": 11.04,
+     "text": "(xxxxxxxxxxxxxxxx“Xxxxxxxx”xxxxxxxxxx“Xxxxxxx”)",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 515.66,
+       "text": "(xxxxxxxxxxxxxxxx“Xxxxxxxx”xxxxxxxxxx“Xxxxxxx”)"
+      }
+     ]
+    },
+    {
+     "y": 609.6,
+     "x0": 228.96,
+     "x1": 534.51,
+     "size": 11.04,
+     "text": "(“XXXXXXXxxxxxxXxxxxxx”,“XXXXXXxxxxxxXxxxxxx”,",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.51,
+       "text": "(“XXXXXXXxxxxxxXxxxxxx”,“XXXXXXxxxxxxXxxxxxx”,"
+      }
+     ]
+    },
+    {
+     "y": 623.28,
+     "x0": 228.96,
+     "x1": 534.57,
+     "size": 11.04,
+     "text": "“XXXXXXXxxxxxXxxxxxx”xxxxxxxxxxxxxxxx“xxxxxxxx´",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.57,
+       "text": "“XXXXXXXxxxxxXxxxxxx”xxxxxxxxxxxxxxxx“xxxxxxxx´"
+      }
+     ]
+    },
+    {
+     "y": 636.72,
+     "x0": 228.96,
+     "x1": 463.77,
+     "size": 11.04,
+     "text": "xxxxxxxx”xxxxxxxxxx“Xxxxxxx´xXxxxxxx”)",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 463.77,
+       "text": "xxxxxxxx”xxxxxxxxxx“Xxxxxxx´xXxxxxxx”)"
+      }
+     ]
+    },
+    {
+     "y": 680.16,
+     "x0": 231.21,
+     "x1": 240.4,
+     "size": 11.04,
+     "text": "1.",
+     "segments": [
+      {
+       "x0": 231.21,
+       "x1": 240.4,
+       "text": "1."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 82.32,
+     "x0": 73.92,
+     "x1": 534.56,
+     "size": 11.04,
+     "text": "Page2:XxxXxxxxxxxXxx.(“Xxx”)xx“XxxxXxxxxxxx”xxxxxxxx",
+     "segments": [
+      {
+       "x0": 73.92,
+       "x1": 112.45,
+       "text": "Page2:"
+      },
+      {
+       "x0": 228.96,
+       "x1": 534.56,
+       "text": "XxxXxxxxxxxXxx.(“Xxx”)xx“XxxxXxxxxxxx”xxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 96.0,
+     "x0": 228.96,
+     "x1": 534.69,
+     "size": 11.04,
+     "text": "xxxxxxx“Xx-Xxxxxxxxx”.XxxXx-Xxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.69,
+       "text": "xxxxxxx“Xx-Xxxxxxxxx”.XxxXx-Xxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 109.68,
+     "x0": 228.96,
+     "x1": 443.5,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxXxxxXxxxxxxx.",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 443.5,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxXxxxXxxxxxxx."
+      }
+     ]
+    },
+    {
+     "y": 152.88,
+     "x0": 228.96,
+     "x1": 534.58,
+     "size": 11.04,
+     "text": "(xxxXxxxXxxxxxxxxxxxxxXx-Xxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.58,
+       "text": "(xxxXxxxXxxxxxxxxxxxxxXx-Xxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 166.56,
+     "x0": 228.96,
+     "x1": 299.3,
+     "size": 11.04,
+     "text": "“Xxxxxxxxx”).",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 299.3,
+       "text": "“Xxxxxxxxx”)."
+      }
+     ]
+    },
+    {
+     "y": 296.4,
+     "x0": 73.92,
+     "x1": 534.61,
+     "size": 11.04,
+     "text": "Xxxxx:XxxxxxxxxxxxxxxXxxxxxxxxXxxxXxxxx(xxx“XxxxxXxx",
+     "segments": [
+      {
+       "x0": 73.92,
+       "x1": 108.8,
+       "text": "Xxxxx:"
+      },
+      {
+       "x0": 228.96,
+       "x1": 534.61,
+       "text": "XxxxxxxxxxxxxxxXxxxxxxxxXxxxXxxxx(xxx“XxxxxXxx"
+      }
+     ]
+    },
+    {
+     "y": 310.08,
+     "x0": 228.96,
+     "x1": 534.51,
+     "size": 11.04,
+     "text": "Xxxxx”xx“XxxxxxxxXxxxxxxxXxice”)xxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.51,
+       "text": "Xxxxx”xx“XxxxxxxxXxxxxxxxXxice”)xxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 323.76,
+     "x0": 228.96,
+     "x1": 534.61,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxXxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.61,
+       "text": "xxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxXxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 337.44,
+     "x0": 228.96,
+     "x1": 534.53,
+     "size": 11.04,
+     "text": "XXX4,300,000.00xxxXxxxxXxxxxxxXxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.53,
+       "text": "XXX4,300,000.00xxxXxxxxXxxxxxxXxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 351.12,
+     "x0": 228.96,
+     "x1": 378.17,
+     "size": 11.04,
+     "text": "XxxxxxxX(xxx“XxxXxxxx”).",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 378.17,
+       "text": "XxxxxxxX(xxx“XxxXxxxx”)."
+      }
+     ]
+    },
+    {
+     "y": 394.32,
+     "x0": 228.96,
+     "x1": 534.54,
+     "size": 11.04,
+     "text": "XxxxxxXxxxXxxxx,“XxxxxXxxxxxxXxxxx”xxxxxxxx,",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.54,
+       "text": "XxxxxxXxxxXxxxx,“XxxxxXxxxxxxXxxxx”xxxxxxxx,"
+      }
+     ]
+    },
+    {
+     "y": 408.0,
+     "x0": 228.96,
+     "x1": 534.59,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxx,(x)xxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.59,
+       "text": "xxxxxxxxxxxxxxxxx,(x)xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 421.68,
+     "x0": 228.96,
+     "x1": 534.61,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxXxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.61,
+       "text": "xxxxxxxxxxxxXxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 435.36,
+     "x0": 228.96,
+     "x1": 534.58,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 283.98,
+       "text": "xxxxxxxxxx"
+      },
+      {
+       "x0": 302.18,
+       "x1": 313.2,
+       "text": "xx"
+      },
+      {
+       "x0": 331.4,
+       "x1": 347.92,
+       "text": "xxx"
+      },
+      {
+       "x0": 366.12,
+       "x1": 410.14,
+       "text": "xxxxxxxx"
+      },
+      {
+       "x0": 428.34,
+       "x1": 488.86,
+       "text": "xxxxxxxxxxx"
+      },
+      {
+       "x0": 507.06,
+       "x1": 534.58,
+       "text": "xxxxx"
+      }
+     ]
+    },
+    {
+     "y": 449.04,
+     "x0": 228.96,
+     "x1": 534.45,
+     "size": 11.04,
+     "text": "(Xxxxxxxxxxxxxx)xxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.45,
+       "text": "(Xxxxxxxxxxxxxx)xxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 462.72,
+     "x0": 228.96,
+     "x1": 534.62,
+     "size": 11.04,
+     "text": "xxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxx,",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.62,
+       "text": "xxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxx,"
+      }
+     ]
+    },
+    {
+     "y": 476.16,
+     "x0": 228.96,
+     "x1": 534.61,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.61,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 489.84,
+     "x0": 228.96,
+     "x1": 534.59,
+     "size": 11.04,
+     "text": "(x.x.xxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.59,
+       "text": "(x.x.xxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 503.52,
+     "x0": 228.96,
+     "x1": 534.58,
+     "size": 11.04,
+     "text": "Xxx-XxxxXxxxxxxxx),xxxXxxxxxXxxx,xxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.58,
+       "text": "Xxx-XxxxXxxxxxxxx),xxxXxxxxxXxxx,xxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 517.2,
+     "x0": 228.96,
+     "x1": 534.62,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx’x",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.62,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx’x"
+      }
+     ]
+    },
+    {
+     "y": 530.88,
+     "x0": 228.96,
+     "x1": 534.58,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.58,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 544.56,
+     "x0": 228.96,
+     "x1": 534.57,
+     "size": 11.04,
+     "text": "Xxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxx(“XXXXx”)xx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.57,
+       "text": "Xxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxx(“XXXXx”)xx"
+      }
+     ]
+    },
+    {
+     "y": 558.24,
+     "x0": 228.96,
+     "x1": 306.59,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxx.",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 306.59,
+       "text": "xxxxxxxxxxxxx."
+      }
+     ]
+    },
+    {
+     "y": 601.44,
+     "x0": 228.96,
+     "x1": 391.65,
+     "size": 11.04,
+     "text": "Xxxxxxxxxxxxxxxxxxxxxxxxxxx.",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 391.65,
+       "text": "Xxxxxxxxxxxxxxxxxxxxxxxxxxx."
+      }
+     ]
+    },
+    {
+     "y": 644.88,
+     "x0": 228.96,
+     "x1": 534.41,
+     "size": 11.04,
+     "text": "“XxxxxxXxxx”xxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.41,
+       "text": "“XxxxxxXxxx”xxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 658.32,
+     "x0": 228.96,
+     "x1": 534.57,
+     "size": 11.04,
+     "text": "xxxxxXxxxxxxxxxXxxxxXxxxxxxXxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.57,
+       "text": "xxxxxXxxxxxxxxxXxxxxXxxxxxxXxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 672.0,
+     "x0": 228.96,
+     "x1": 534.6,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxXxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.6,
+       "text": "xxxxxxxxxxxxXxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 685.68,
+     "x0": 228.96,
+     "x1": 345.71,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxx.",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 345.71,
+       "text": "xxxxxxxxxxxxxxxxxxx."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 82.32,
+     "x0": 228.96,
+     "x1": 534.74,
+     "size": 11.04,
+     "text": "Page3:XxxxxxxxxxxxxxxxxxxXxxxxXxxXxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.74,
+       "text": "Page3:XxxxxxxxxxxxxxxxxxxXxxxxXxxXxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 96.0,
+     "x0": 228.96,
+     "x1": 534.61,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.61,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 109.68,
+     "x0": 228.96,
+     "x1": 534.81,
+     "size": 11.04,
+     "text": "Xxxxxxxxxx(xxxxxxxxxxxxxxxxxxxxxxxxXxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.81,
+       "text": "Xxxxxxxxxx(xxxxxxxxxxxxxxxxxxxxxxxxXxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 123.36,
+     "x0": 228.96,
+     "x1": 486.91,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxx)xxxxxxxxxxxxxxxxxxxxXxxXxxxx.",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 486.91,
+       "text": "xxxxxxxxxxxx)xxxxxxxxxxxxxxxxxxxxXxxXxxxx."
+      }
+     ]
+    },
+    {
+     "y": 340.56,
+     "x0": 73.92,
+     "x1": 534.58,
+     "size": 11.04,
+     "text": "XxxxxxxxXxxxxXxxxxxxxXxxxxxxxxx,xxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxXxxxxxxx",
+     "segments": [
+      {
+       "x0": 73.92,
+       "x1": 212.26,
+       "text": "XxxxxxxxXxxxxXxxxxxxx"
+      },
+      {
+       "x0": 228.96,
+       "x1": 534.58,
+       "text": "Xxxxxxxxxx,xxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxXxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 354.24,
+     "x0": 73.92,
+     "x1": 534.79,
+     "size": 11.04,
+     "text": "Xxxxxxx:Xxxxx´xxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 73.92,
+       "x1": 121.67,
+       "text": "Xxxxxxx:"
+      },
+      {
+       "x0": 228.96,
+       "x1": 534.79,
+       "text": "Xxxxx´xxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 367.92,
+     "x0": 228.96,
+     "x1": 534.62,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxXxxxxxxx´xxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.62,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxXxxxxxxx´xxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 381.6,
+     "x0": 228.96,
+     "x1": 337.21,
+     "size": 11.04,
+     "text": "XxxxxxxxXxxxxXX1:",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 337.21,
+       "text": "XxxxxxxxXxxxxXX1:"
+      }
+     ]
+    },
+    {
+     "y": 409.2,
+     "x0": 228.96,
+     "x1": 534.34,
+     "size": 11.04,
+     "text": "(x)xxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.34,
+       "text": "(x)xxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 422.88,
+     "x0": 228.96,
+     "x1": 534.6,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.6,
+       "text": "xxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,"
+      }
+     ]
+    },
+    {
+     "y": 436.56,
+     "x0": 228.96,
+     "x1": 534.56,
+     "size": 11.04,
+     "text": "xxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.56,
+       "text": "xxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 450.24,
+     "x0": 228.96,
+     "x1": 272.39,
+     "size": 11.04,
+     "text": "Xxxxxxx;",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 272.39,
+       "text": "Xxxxxxx;"
+      }
+     ]
+    },
+    {
+     "y": 477.84,
+     "x0": 228.96,
+     "x1": 534.42,
+     "size": 11.04,
+     "text": "(xx)xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxx,xxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.42,
+       "text": "(xx)xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxx,xxx"
+      }
+     ]
+    },
+    {
+     "y": 491.52,
+     "x0": 228.96,
+     "x1": 337.15,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxx;",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 337.15,
+       "text": "xxxxxxxxxxxxxxxxxx;"
+      }
+     ]
+    },
+    {
+     "y": 519.12,
+     "x0": 228.96,
+     "x1": 396.91,
+     "size": 11.04,
+     "text": "(xxx)xxxxxxxxxxxxxxxxxxxxxxxx;",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 396.91,
+       "text": "(xxx)xxxxxxxxxxxxxxxxxxxxxxxx;"
+      }
+     ]
+    },
+    {
+     "y": 546.72,
+     "x0": 228.96,
+     "x1": 534.58,
+     "size": 11.04,
+     "text": "(xx)xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.58,
+       "text": "(xx)xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 560.4,
+     "x0": 228.96,
+     "x1": 420.27,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxXXXxxxxxxxx;",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 420.27,
+       "text": "xxxxxxxxxxxxxxxxxxxxXXXxxxxxxxx;"
+      }
+     ]
+    },
+    {
+     "y": 588.0,
+     "x0": 228.96,
+     "x1": 534.41,
+     "size": 11.04,
+     "text": "(x)xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.41,
+       "text": "(x)xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 601.68,
+     "x0": 228.96,
+     "x1": 522.97,
+     "size": 11.04,
+     "text": "xxxxxxxx,xxxxxxxxxxxxxx“xxxxxxxxx”xxxxxxxxxxxxxxx;",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 522.97,
+       "text": "xxxxxxxx,xxxxxxxxxxxxxx“xxxxxxxxx”xxxxxxxxxxxxxxx;"
+      }
+     ]
+    },
+    {
+     "y": 629.28,
+     "x0": 228.96,
+     "x1": 406.69,
+     "size": 11.04,
+     "text": "(xx)xxxx,xxxx,xxxxxxxxxxxxxxxx;",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 406.69,
+       "text": "(xx)xxxx,xxxx,xxxxxxxxxxxxxxxx;"
+      }
+     ]
+    },
+    {
+     "y": 657.12,
+     "x0": 228.96,
+     "x1": 534.36,
+     "size": 11.04,
+     "text": "(xxx)xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.36,
+       "text": "(xxx)xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 670.56,
+     "x0": 228.96,
+     "x1": 534.75,
+     "size": 11.04,
+     "text": "XxxxxxxxxxxxxxXxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.75,
+       "text": "XxxxxxxxxxxxxxXxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 684.24,
+     "x0": 228.96,
+     "x1": 298.08,
+     "size": 11.04,
+     "text": "XXXxxxxxxxx;",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 298.08,
+       "text": "XXXxxxxxxxx;"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 82.32,
+     "x0": 228.96,
+     "x1": 365.36,
+     "size": 11.04,
+     "text": "Page4:XxxxxxxxXxxxx;xx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 365.36,
+       "text": "Page4:XxxxxxxxXxxxx;xx"
+      }
+     ]
+    },
+    {
+     "y": 109.92,
+     "x0": 228.96,
+     "x1": 534.38,
+     "size": 11.04,
+     "text": "(xx)xxxxxxxxxxxxxxxxxxxxxXxxxxxxxxx/xxXxxxxxx´x",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.38,
+       "text": "(xx)xxxxxxxxxxxxxxxxxxxxxXxxxxxxxxx/xxXxxxxxx´x"
+      }
+     ]
+    },
+    {
+     "y": 123.6,
+     "x0": 228.96,
+     "x1": 483.98,
+     "size": 11.04,
+     "text": "Xxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx;",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 483.98,
+       "text": "Xxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx;"
+      }
+     ]
+    },
+    {
+     "y": 151.2,
+     "x0": 228.96,
+     "x1": 503.35,
+     "size": 11.04,
+     "text": "(xxx)xxxxxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxx;xxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 503.35,
+       "text": "(xxx)xxxxxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxx;xxx"
+      }
+     ]
+    },
+    {
+     "y": 179.04,
+     "x0": 228.96,
+     "x1": 534.39,
+     "size": 11.04,
+     "text": "(xxxx)xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.39,
+       "text": "(xxxx)xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 192.48,
+     "x0": 228.96,
+     "x1": 534.59,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxXXXxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.59,
+       "text": "xxxxxxxxxxxxxxxxXXXxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 206.16,
+     "x0": 228.96,
+     "x1": 534.75,
+     "size": 11.04,
+     "text": "Xxxxxxx’xxxxxxxxxxxxx/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.75,
+       "text": "Xxxxxxx’xxxxxxxxxxxxx/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 219.84,
+     "x0": 228.96,
+     "x1": 310.31,
+     "size": 11.04,
+     "text": "XxxxxxxxXxxxx.",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 310.31,
+       "text": "XxxxxxxxXxxxx."
+      }
+     ]
+    },
+    {
+     "y": 247.44,
+     "x0": 228.96,
+     "x1": 534.77,
+     "size": 11.04,
+     "text": "XxxxxxxxxxxxXxxxxxxxxxxXxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.77,
+       "text": "XxxxxxxxxxxxXxxxxxxxxxxXxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 261.12,
+     "x0": 228.96,
+     "x1": 439.23,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxXxxxxxx.",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 439.23,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxXxxxxxx."
+      }
+     ]
+    },
+    {
+     "y": 288.72,
+     "x0": 228.96,
+     "x1": 534.57,
+     "size": 11.04,
+     "text": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxXxx-",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.57,
+       "text": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxXxx-"
+      }
+     ]
+    },
+    {
+     "y": 302.4,
+     "x0": 228.96,
+     "x1": 534.82,
+     "size": 11.04,
+     "text": "XxxxXxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.82,
+       "text": "XxxxXxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 316.08,
+     "x0": 228.96,
+     "x1": 534.58,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.58,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 329.76,
+     "x0": 228.96,
+     "x1": 369.55,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxXxxxxxx.",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 369.55,
+       "text": "xxxxxxxxxxxxxxxxXxxxxxx."
+      }
+     ]
+    },
+    {
+     "y": 422.4,
+     "x0": 73.92,
+     "x1": 534.61,
+     "size": 11.04,
+     "text": "XxxxXxxxx:Xxxxxxxxx,xxxxxxxxxxxxxxxXxx.xxxxxxXxx-XxxxXXX(xx",
+     "segments": [
+      {
+       "x0": 73.92,
+       "x1": 137.54,
+       "text": "XxxxXxxxx:"
+      },
+      {
+       "x0": 228.96,
+       "x1": 534.61,
+       "text": "Xxxxxxxxx,xxxxxxxxxxxxxxxXxx.xxxxxxXxx-XxxxXXX(xx"
+      }
+     ]
+    },
+    {
+     "y": 436.08,
+     "x0": 228.96,
+     "x1": 534.63,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)xxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.63,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)xxxxx"
+      }
+     ]
+    },
+    {
+     "y": 449.76,
+     "x0": 228.96,
+     "x1": 534.59,
+     "size": 11.04,
+     "text": "xxxxx,xxxxxxxx,xxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxx´",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.59,
+       "text": "xxxxx,xxxxxxxx,xxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxx´"
+      }
+     ]
+    },
+    {
+     "y": 463.44,
+     "x0": 228.96,
+     "x1": 534.54,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxx\"XxxxxxxxXxxxxxxx\"xxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.54,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxx\"XxxxxxxxXxxxxxxx\"xxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 476.88,
+     "x0": 228.96,
+     "x1": 534.66,
+     "size": 11.04,
+     "text": "(x)xxxXxxxxxx-XxxxXXX)xxxxxxxxxxxxxx(x)xxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.66,
+       "text": "(x)xxxXxxxxxx-XxxxXXX)xxxxxxxxxxxxxx(x)xxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 490.56,
+     "x0": 228.96,
+     "x1": 359.23,
+     "size": 11.04,
+     "text": "XxxxxxxxXxxxxxxxXxxxx.",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 359.23,
+       "text": "XxxxxxxxXxxxxxxxXxxxx."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 82.32,
+     "x0": 73.92,
+     "x1": 111.87,
+     "size": 11.04,
+     "text": "Page5:",
+     "segments": [
+      {
+       "x0": 73.92,
+       "x1": 111.87,
+       "text": "Page5:"
+      }
+     ]
+    },
+    {
+     "y": 125.52,
+     "x0": 73.92,
+     "x1": 534.78,
+     "size": 11.04,
+     "text": "XxxxxxxxxxxxxXxxxxxxxxxXxxxxxx,xxxxxxxxxxxxxxxxxxxxxx,xxx",
+     "segments": [
+      {
+       "x0": 73.92,
+       "x1": 157.74,
+       "text": "Xxxxxxxxxxxxx"
+      },
+      {
+       "x0": 228.96,
+       "x1": 534.78,
+       "text": "XxxxxxxxxxXxxxxxx,xxxxxxxxxxxxxxxxxxxxxx,xxx"
+      }
+     ]
+    },
+    {
+     "y": 139.2,
+     "x0": 73.92,
+     "x1": 534.58,
+     "size": 11.04,
+     "text": "XxxxxxxxxxXxxxxxxxxx:Xxxxxxxx,xxxxxxxxxXxxxxxx’xxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 73.92,
+       "x1": 204.84,
+       "text": "XxxxxxxxxxXxxxxxxxxx:"
+      },
+      {
+       "x0": 228.96,
+       "x1": 534.58,
+       "text": "Xxxxxxxx,xxxxxxxxxXxxxxxx’xxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 152.88,
+     "x0": 228.96,
+     "x1": 534.6,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXxxxxxx,xx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.6,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXxxxxxx,xx"
+      }
+     ]
+    },
+    {
+     "y": 166.56,
+     "x0": 228.96,
+     "x1": 534.59,
+     "size": 11.04,
+     "text": "xxxxxxxxxx(xxxxxxxxxxxx-xxxxxxxxxxx,xxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.59,
+       "text": "xxxxxxxxxx(xxxxxxxxxxxx-xxxxxxxxxxx,xxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 180.24,
+     "x0": 228.96,
+     "x1": 534.62,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)xxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.62,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)xxx"
+      }
+     ]
+    },
+    {
+     "y": 193.92,
+     "x0": 228.96,
+     "x1": 432.5,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxXxxxXxxxxxxx.",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 432.5,
+       "text": "xxxxxxxxxxxxxxxxxxxxxXxxxXxxxxxxx."
+      }
+     ]
+    },
+    {
+     "y": 237.12,
+     "x0": 73.92,
+     "x1": 534.8,
+     "size": 11.04,
+     "text": "XxxxxXxxxx:XxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 73.92,
+       "x1": 144.31,
+       "text": "XxxxxXxxxx:"
+      },
+      {
+       "x0": 228.96,
+       "x1": 534.8,
+       "text": "XxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 250.8,
+     "x0": 228.96,
+     "x1": 534.62,
+     "size": 11.04,
+     "text": "xxxXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.62,
+       "text": "xxxXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 264.48,
+     "x0": 228.96,
+     "x1": 534.6,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxx&xxxxxxxxxx.Xxxxxxx,xxxXxx-XxxxXXXxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.6,
+       "text": "xxxxxxxxxxxxxxx&xxxxxxxxxx.Xxxxxxx,xxxXxx-XxxxXXXxx"
+      }
+     ]
+    },
+    {
+     "y": 278.16,
+     "x0": 228.96,
+     "x1": 534.56,
+     "size": 11.04,
+     "text": "xxxxxxxxxXxxxxxxxxxXxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.56,
+       "text": "xxxxxxxxxXxxxxxxxxxXxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 291.84,
+     "x0": 228.96,
+     "x1": 534.57,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.57,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 305.52,
+     "x0": 228.96,
+     "x1": 345.09,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxx.",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 345.09,
+       "text": "xxxxxxxxxxxxxxxxxxxx."
+      }
+     ]
+    },
+    {
+     "y": 348.72,
+     "x0": 73.92,
+     "x1": 534.83,
+     "size": 11.04,
+     "text": "XxxxxxxxXxxxxxxx:XxxXxxxxxxxxxxxxxxxxxxxXxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 73.92,
+       "x1": 180.37,
+       "text": "XxxxxxxxXxxxxxxx:"
+      },
+      {
+       "x0": 228.96,
+       "x1": 534.83,
+       "text": "XxxXxxxxxxxxxxxxxxxxxxxXxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 362.4,
+     "x0": 228.96,
+     "x1": 534.64,
+     "size": 11.04,
+     "text": "xxxxxXxxxxxxxxxxxxxxxxxxxxxxxxxxXxxxxxxxxx,xxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.64,
+       "text": "xxxxxXxxxxxxxxxxxxxxxxxxxxxxxxxxXxxxxxxxxx,xxxx"
+      }
+     ]
+    },
+    {
+     "y": 376.08,
+     "x0": 228.96,
+     "x1": 534.6,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxXXXxx,xxxxxxxXXX(xxxxxxxxxxxx)xxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.6,
+       "text": "xxxxxxxxxxxxxxxxxXXXxx,xxxxxxxXXX(xxxxxxxxxxxx)xxx"
+      }
+     ]
+    },
+    {
+     "y": 389.76,
+     "x0": 228.96,
+     "x1": 534.56,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.56,
+       "text": "xxxxxxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 403.44,
+     "x0": 228.96,
+     "x1": 534.59,
+     "size": 11.04,
+     "text": "XXXx,xxxxxxxXXX(xxxxxxxxxxxx)xxxxxxxxxxxxxxxxxxxx.",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.59,
+       "text": "XXXx,xxxxxxxXXX(xxxxxxxxxxxx)xxxxxxxxxxxxxxxxxxxx."
+      }
+     ]
+    },
+    {
+     "y": 416.88,
+     "x0": 228.96,
+     "x1": 317.59,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxx.",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 317.59,
+       "text": "xxxxxxxxxxxxxxx."
+      }
+     ]
+    },
+    {
+     "y": 460.32,
+     "x0": 73.92,
+     "x1": 534.74,
+     "size": 11.04,
+     "text": "XxXxxx:XxxXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 73.92,
+       "x1": 119.19,
+       "text": "XxXxxx:"
+      },
+      {
+       "x0": 228.96,
+       "x1": 534.74,
+       "text": "XxxXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 474.0,
+     "x0": 228.96,
+     "x1": 534.6,
+     "size": 11.04,
+     "text": "xxxxxxxXxxxxxx.Xxxxxxxxxxxxxxxxx-xxxx(xx)xxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.6,
+       "text": "xxxxxxxXxxxxxx.Xxxxxxxxxxxxxxxxx-xxxx(xx)xxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 487.68,
+     "x0": 228.96,
+     "x1": 534.64,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxXxxxXxxxx,(xxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.64,
+       "text": "xxxxxxxxxxxxxXxxxXxxxx,(xxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 501.12,
+     "x0": 228.96,
+     "x1": 534.57,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxx(xx)xxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.57,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxx(xx)xxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 514.8,
+     "x0": 228.96,
+     "x1": 534.51,
+     "size": 11.04,
+     "text": "xxxxxXxxxXxxxxxxxxxxxxxxxxxxxxxXxxxxxx,xxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.51,
+       "text": "xxxxxXxxxXxxxxxxxxxxxxxxxxxxxxxXxxxxxx,xxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 528.48,
+     "x0": 228.96,
+     "x1": 534.62,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxx),xxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.62,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxx),xxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 542.16,
+     "x0": 228.96,
+     "x1": 534.57,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxXxxxXxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.57,
+       "text": "xxxxxxxxxxxxxxxxxxxxxXxxxXxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 555.84,
+     "x0": 228.96,
+     "x1": 534.59,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxXxxxxxxxxx(xxx“Xx-Xxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.59,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxXxxxxxxxxx(xxx“Xx-Xxxx"
+      }
+     ]
+    },
+    {
+     "y": 569.52,
+     "x0": 228.96,
+     "x1": 534.37,
+     "size": 11.04,
+     "text": "Xxxxxx”),xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.37,
+       "text": "Xxxxxx”),xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 583.2,
+     "x0": 228.96,
+     "x1": 534.54,
+     "size": 11.04,
+     "text": "xxxxxxXxxxXxxxx,xxxXxxxxxx,xxxXxxxxxxx/Xxxxxxxx´",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.54,
+       "text": "xxxxxxXxxxXxxxx,xxxXxxxxxx,xxxXxxxxxxx/Xxxxxxxx´"
+      }
+     ]
+    },
+    {
+     "y": 596.88,
+     "x0": 228.96,
+     "x1": 534.7,
+     "size": 11.04,
+     "text": "XxxxxxxxxxxxxxXxx-XxxxXxxxxxxxxxxxxxxxx,xxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.7,
+       "text": "XxxxxxxxxxxxxxXxx-XxxxXxxxxxxxxxxxxxxxx,xxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 610.32,
+     "x0": 228.96,
+     "x1": 534.58,
+     "size": 11.04,
+     "text": "xxxxxxxxxx:(x)xxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.58,
+       "text": "xxxxxxxxxx:(x)xxxxxxxxxxxxxxxxxxxxxxx,xxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 624.0,
+     "x0": 228.96,
+     "x1": 534.55,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.55,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 637.68,
+     "x0": 228.96,
+     "x1": 534.63,
+     "size": 11.04,
+     "text": "xxxxxxx,xxxxxXxxxxxx,xxxxxxxxxxxxxxxxxxxx,xxxxxxxxxx,",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.63,
+       "text": "xxxxxxx,xxxxxXxxxxxx,xxxxxxxxxxxxxxxxxxxx,xxxxxxxxxx,"
+      }
+     ]
+    },
+    {
+     "y": 651.36,
+     "x0": 228.96,
+     "x1": 534.55,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.55,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 665.04,
+     "x0": 228.96,
+     "x1": 534.59,
+     "size": 11.04,
+     "text": "xxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.59,
+       "text": "xxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 678.72,
+     "x0": 228.96,
+     "x1": 534.6,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.6,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 692.4,
+     "x0": 228.96,
+     "x1": 534.62,
+     "size": 11.04,
+     "text": "xxxxxxxxxxx(x)xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.62,
+       "text": "xxxxxxxxxxx(x)xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 706.08,
+     "x0": 228.96,
+     "x1": 520.53,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 520.53,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 82.32,
+     "x0": 228.96,
+     "x1": 534.65,
+     "size": 11.04,
+     "text": "Page6:xxxxxxxxx).XxxxxxxxxXxXxxxXxxxxx,xxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.65,
+       "text": "Page6:xxxxxxxxx).XxxxxxxxxXxXxxxXxxxxx,xxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 96.0,
+     "x0": 228.96,
+     "x1": 534.8,
+     "size": 11.04,
+     "text": "XxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXxxxxxx’x",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.8,
+       "text": "XxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXxxxxxx’x"
+      }
+     ]
+    },
+    {
+     "y": 109.68,
+     "x0": 228.96,
+     "x1": 534.59,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.59,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 123.36,
+     "x0": 228.96,
+     "x1": 467.34,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 467.34,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx."
+      }
+     ]
+    },
+    {
+     "y": 166.56,
+     "x0": 73.92,
+     "x1": 534.73,
+     "size": 11.04,
+     "text": "XxxxxxxxxXxx;XxxxXxxxXxxxx(xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)xxxxx",
+     "segments": [
+      {
+       "x0": 73.92,
+       "x1": 155.9,
+       "text": "XxxxxxxxxXxx;"
+      },
+      {
+       "x0": 228.96,
+       "x1": 534.73,
+       "text": "XxxxXxxxXxxxx(xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)xxxxx"
+      }
+     ]
+    },
+    {
+     "y": 180.24,
+     "x0": 73.92,
+     "x1": 534.55,
+     "size": 11.04,
+     "text": "Xxxxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxXxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 73.92,
+       "x1": 151.62,
+       "text": "Xxxxxxxxxxxx:"
+      },
+      {
+       "x0": 228.96,
+       "x1": 534.55,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxXxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 193.92,
+     "x0": 228.96,
+     "x1": 534.63,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.63,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 207.6,
+     "x0": 228.96,
+     "x1": 534.58,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXX,",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 534.58,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXX,"
+      }
+     ]
+    },
+    {
+     "y": 221.28,
+     "x0": 228.96,
+     "x1": 272.39,
+     "size": 11.04,
+     "text": "Xxxxxxx.",
+     "segments": [
+      {
+       "x0": 228.96,
+       "x1": 272.39,
+       "text": "Xxxxxxx."
+      }
+     ]
+    },
+    {
+     "y": 299.76,
+     "x0": 72.0,
+     "x1": 540.04,
+     "size": 11.04,
+     "text": "XxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXxxxxxxx",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.04,
+       "text": "XxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 313.44,
+     "x0": 72.0,
+     "x1": 540.01,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxx,xxx“Xxxxxxxxxxxxxxx”,“XxxxxxxxxXxx;",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.01,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxx,xxx“Xxxxxxxxxxxxxxx”,“XxxxxxxxxXxx;"
+      }
+     ]
+    },
+    {
+     "y": 327.12,
+     "x0": 72.0,
+     "x1": 540.37,
+     "size": 11.04,
+     "text": "Xxxxxxxxxxxx”xxx“XxXxxx”xxxxxxxxxxxxxxxxXxxxXxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.37,
+       "text": "Xxxxxxxxxxxx”xxx“XxXxxx”xxxxxxxxxxxxxxxxXxxxXxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 340.8,
+     "x0": 72.0,
+     "x1": 540.02,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxXxxxxxxxxxxxxXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.02,
+       "text": "xxxxxxxxxxxxxxxxXxxxxxxxxxxxxXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 354.48,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 11.04,
+     "text": "xxxxxxxxxxx.Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx“Xxxxxxxxxxxxxxx”,",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "xxxxxxxxxxx.Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx“Xxxxxxxxxxxxxxx”,"
+      }
+     ]
+    },
+    {
+     "y": 367.92,
+     "x0": 72.0,
+     "x1": 540.09,
+     "size": 11.04,
+     "text": "“XxxxxxxxxXxx;Xxxxxxxxxxxx”xxx“XxXxxx”,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.09,
+       "text": "“XxxxxxxxxXxx;Xxxxxxxxxxxx”xxx“XxXxxx”,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+     ]
+    },
+    {
+     "y": 381.6,
+     "x0": 72.0,
+     "x1": 539.93,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxXxxxxxxxxxxxxXxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxXxxxXxxxx",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.93,
+       "text": "xxxxxxxxxxxxxxxxXxxxxxxxxxxxxXxxxxxxx,xxxxxxxxxxxxxxxxxxxxxxxXxxxXxxxx"
+      }
+     ]
+    },
+    {
+     "y": 395.28,
+     "x0": 72.0,
+     "x1": 540.05,
+     "size": 11.04,
+     "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXxxxxxx,xxx",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.05,
+       "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXxxxxxx,xxx"
+      }
+     ]
+    },
+    {
+     "y": 408.96,
+     "x0": 72.0,
+     "x1": 445.84,
+     "size": 11.04,
+     "text": "Xxxxxxxx/Xxxxxxxx´Xxxxxxxx,Xxx-XxxxXxxxxxxxxxxxxxXxxxxxxx.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 445.84,
+       "text": "Xxxxxxxx/Xxxxxxxx´Xxxxxxxx,Xxx-XxxxXxxxxxxxxxxxxxXxxxxxxx."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

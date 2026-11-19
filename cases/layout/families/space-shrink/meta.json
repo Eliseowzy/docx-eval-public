@@ -1,0 +1,18 @@
+{
+ "origin": "docx-eval",
+ "license": "base/shell.docx and generated .docx: Apache-2.0 (the shell is a copy of a NimbleOffice fixture; generated variants inherit its license); generate.py, read.py and meta.json: CC0-1.0",
+ "redistributable": true,
+ "tags": [
+  "synthetic",
+  "rule-family",
+  "line-breaking",
+  "latin",
+  "cjk"
+ ],
+ "generator": "generate.py",
+ "reader": "read.py <run>  (words kept on line 1 per overflow, Word | engine)",
+ "word": [
+  "Word 16.114 compat 15: a justified Latin line squeezes its spaces by up to a quarter each (4.0 of 4.5 for 3 spaces, 8.5 of 9, 12.5 of 13.5 at 6pt spaces); compat 14 squeezes nothing",
+  "Between ideograph-only words the spaces squeeze about 2.5pt in total whatever their count, so spaces beside East Asian text are not squeezed per space"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "origin": "docx-eval",
+ "license": "base/shell.docx and generated .docx: Apache-2.0 (the shell is a copy of a NimbleOffice fixture; generated variants inherit its license); generate.py, read.py and meta.json: CC0-1.0",
+ "redistributable": true,
+ "tags": [
+  "synthetic",
+  "rule-family",
+  "line-breaking",
+  "cjk"
+ ],
+ "generator": "generate.py",
+ "reader": "read.py  (smallest slack with all 31 units on line 1)",
+ "word": [
+  "Word 16.114 compat 15: ASCII brackets and parentheses next to ideographs get no auto-space; the fit threshold equals the nominal width with 0, 3 or 6 groups"
+ ]
+}

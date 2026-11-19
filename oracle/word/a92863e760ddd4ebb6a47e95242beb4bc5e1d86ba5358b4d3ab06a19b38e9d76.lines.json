@@ -1,0 +1,114 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 446.64,
+     "x0": 36.0,
+     "x1": 80.83,
+     "size": 11.04,
+     "text": "Firstpara.",
+     "segments": [
+      {
+       "x0": 36.0,
+       "x1": 80.83,
+       "text": "Firstpara."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 50.4,
+     "x0": 43.44,
+     "x1": 127.69,
+     "size": 11.04,
+     "text": "LeftTextBox,start.",
+     "segments": [
+      {
+       "x0": 43.44,
+       "x1": 127.69,
+       "text": "LeftTextBox,start."
+      }
+     ]
+    },
+    {
+     "y": 72.96,
+     "x0": 43.44,
+     "x1": 127.69,
+     "size": 11.04,
+     "text": "LeftTextBox,start.",
+     "segments": [
+      {
+       "x0": 43.44,
+       "x1": 127.69,
+       "text": "LeftTextBox,start."
+      }
+     ]
+    },
+    {
+     "y": 73.68,
+     "x0": 319.92,
+     "x1": 410.19,
+     "size": 11.04,
+     "text": "RightTextBox,start.",
+     "segments": [
+      {
+       "x0": 319.92,
+       "x1": 410.19,
+       "text": "RightTextBox,start."
+      }
+     ]
+    },
+    {
+     "y": 96.24,
+     "x0": 319.92,
+     "x1": 406.46,
+     "size": 11.04,
+     "text": "RightTextBox,end.",
+     "segments": [
+      {
+       "x0": 319.92,
+       "x1": 406.46,
+       "text": "RightTextBox,end."
+      }
+     ]
+    },
+    {
+     "y": 365.04,
+     "x0": 43.44,
+     "x1": 123.96,
+     "size": 11.04,
+     "text": "LeftTextBox,end.",
+     "segments": [
+      {
+       "x0": 43.44,
+       "x1": 123.96,
+       "text": "LeftTextBox,end."
+      }
+     ]
+    },
+    {
+     "y": 387.6,
+     "x0": 43.44,
+     "x1": 123.96,
+     "size": 11.04,
+     "text": "LeftTextBox,end.",
+     "segments": [
+      {
+       "x0": 43.44,
+       "x1": 123.96,
+       "text": "LeftTextBox,end."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

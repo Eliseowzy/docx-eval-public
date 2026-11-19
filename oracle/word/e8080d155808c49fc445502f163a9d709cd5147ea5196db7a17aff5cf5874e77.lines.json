@@ -1,0 +1,94 @@
+{
+ "pages": [
+  {
+   "width": 792.0,
+   "height": 612.0,
+   "lines": [
+    {
+     "y": 178.32,
+     "x0": 228.86,
+     "x1": 563.15,
+     "size": 55.92,
+     "text": "CERTIFICATE",
+     "segments": [
+      {
+       "x0": 228.86,
+       "x1": 563.15,
+       "text": "CERTIFICATE"
+      }
+     ]
+    },
+    {
+     "y": 229.44,
+     "x0": 373.76,
+     "x1": 418.26,
+     "size": 42.0,
+     "text": "Of",
+     "segments": [
+      {
+       "x0": 373.76,
+       "x1": 418.26,
+       "text": "Of"
+      }
+     ]
+    },
+    {
+     "y": 306.24,
+     "x0": 264.18,
+     "x1": 527.82,
+     "size": 79.92,
+     "text": "AWARD",
+     "segments": [
+      {
+       "x0": 264.18,
+       "x1": 527.82,
+       "text": "AWARD"
+      }
+     ]
+    },
+    {
+     "y": 361.92,
+     "x0": 316.08,
+     "x1": 475.93,
+     "size": 36.0,
+     "text": "[Amount]",
+     "segments": [
+      {
+       "x0": 316.08,
+       "x1": 475.93,
+       "text": "[Amount]"
+      }
+     ]
+    },
+    {
+     "y": 410.88,
+     "x0": 211.27,
+     "x1": 580.74,
+     "size": 24.0,
+     "text": "[Addyourpersonalmessagehere]",
+     "segments": [
+      {
+       "x0": 211.27,
+       "x1": 580.74,
+       "text": "[Addyourpersonalmessagehere]"
+      }
+     ]
+    },
+    {
+     "y": 432.48,
+     "x0": 325.41,
+     "x1": 466.61,
+     "size": 11.04,
+     "text": "[CONTINUEMESSAGEHERE]",
+     "segments": [
+      {
+       "x0": 325.41,
+       "x1": 466.61,
+       "text": "[CONTINUEMESSAGEHERE]"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

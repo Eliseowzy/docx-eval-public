@@ -1,0 +1,71 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 339.36,
+     "x0": 71.28,
+     "x1": 428.84,
+     "size": 54.0,
+     "text": "[Documenttitle]",
+     "segments": [
+      {
+       "x0": 71.28,
+       "x1": 428.84,
+       "text": "[Documenttitle]"
+      }
+     ]
+    },
+    {
+     "y": 387.84,
+     "x0": 71.28,
+     "x1": 243.41,
+     "size": 18.0,
+     "text": "[DOCUMENTSUBTITLE]",
+     "segments": [
+      {
+       "x0": 71.28,
+       "x1": 243.41,
+       "text": "[DOCUMENTSUBTITLE]"
+      }
+     ]
+    },
+    {
+     "y": 749.28,
+     "x0": 71.76,
+     "x1": 120.07,
+     "size": 16.08,
+     "text": "JUMBO",
+     "segments": [
+      {
+       "x0": 71.76,
+       "x1": 120.07,
+       "text": "JUMBO"
+      }
+     ]
+    },
+    {
+     "y": 764.4,
+     "x0": 71.76,
+     "x1": 264.25,
+     "size": 11.04,
+     "text": "[COMPANYNAME]|[COMPANYADDRESS]",
+     "segments": [
+      {
+       "x0": 71.76,
+       "x1": 264.25,
+       "text": "[COMPANYNAME]|[COMPANYADDRESS]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": []
+  }
+ ]
+}

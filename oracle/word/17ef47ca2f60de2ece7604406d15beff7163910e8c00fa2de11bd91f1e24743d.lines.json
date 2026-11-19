@@ -1,0 +1,38 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 155.28,
+     "x0": 166.98,
+     "x1": 195.37,
+     "size": 6.0,
+     "text": "Zufahrtfür",
+     "segments": [
+      {
+       "x0": 166.98,
+       "x1": 195.37,
+       "text": "Zufahrtfür"
+      }
+     ]
+    },
+    {
+     "y": 163.44,
+     "x0": 166.98,
+     "x1": 206.02,
+     "size": 6.0,
+     "text": "Rollstuhlfahrer",
+     "segments": [
+      {
+       "x0": 166.98,
+       "x1": 206.02,
+       "text": "Rollstuhlfahrer"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

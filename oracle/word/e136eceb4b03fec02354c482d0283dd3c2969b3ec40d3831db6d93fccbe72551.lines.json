@@ -1,0 +1,178 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 58.08,
+     "x0": 36.0,
+     "x1": 97.08,
+     "size": 10.08,
+     "text": "Beforetable",
+     "segments": [
+      {
+       "x0": 36.0,
+       "x1": 97.08,
+       "text": "Beforetable"
+      }
+     ]
+    },
+    {
+     "y": 72.48,
+     "x0": 36.0,
+     "x1": 130.91,
+     "size": 10.08,
+     "text": "Thesearegoodfor",
+     "segments": [
+      {
+       "x0": 36.0,
+       "x1": 130.91,
+       "text": "Thesearegoodfor"
+      }
+     ]
+    },
+    {
+     "y": 86.64,
+     "x0": 36.0,
+     "x1": 148.13,
+     "size": 10.08,
+     "text": "showingdifferencesin",
+     "segments": [
+      {
+       "x0": 36.0,
+       "x1": 148.13,
+       "text": "showingdifferencesin"
+      }
+     ]
+    },
+    {
+     "y": 100.56,
+     "x0": 36.0,
+     "x1": 145.05,
+     "size": 10.08,
+     "text": "proportion(especially",
+     "segments": [
+      {
+       "x0": 36.0,
+       "x1": 145.05,
+       "text": "proportion(especially"
+      }
+     ]
+    },
+    {
+     "y": 114.48,
+     "x0": 36.0,
+     "x1": 146.39,
+     "size": 10.08,
+     "text": "percentages).Ideally",
+     "segments": [
+      {
+       "x0": 36.0,
+       "x1": 146.39,
+       "text": "percentages).Ideally"
+      }
+     ]
+    },
+    {
+     "y": 128.4,
+     "x0": 36.0,
+     "x1": 162.8,
+     "size": 10.08,
+     "text": "thedifferencesshouldbe",
+     "segments": [
+      {
+       "x0": 36.0,
+       "x1": 162.8,
+       "text": "thedifferencesshouldbe"
+      }
+     ]
+    },
+    {
+     "y": 142.32,
+     "x0": 36.0,
+     "x1": 164.39,
+     "size": 10.08,
+     "text": "largeassmalldifferences",
+     "segments": [
+      {
+       "x0": 36.0,
+       "x1": 164.39,
+       "text": "largeassmalldifferences"
+      }
+     ]
+    },
+    {
+     "y": 156.48,
+     "x0": 36.0,
+     "x1": 147.83,
+     "size": 10.08,
+     "text": "arehardtosee.They",
+     "segments": [
+      {
+       "x0": 36.0,
+       "x1": 147.83,
+       "text": "arehardtosee.They"
+      }
+     ]
+    },
+    {
+     "y": 170.4,
+     "x0": 36.0,
+     "x1": 162.04,
+     "size": 10.08,
+     "text": "enableyoutoshowallof",
+     "segments": [
+      {
+       "x0": 36.0,
+       "x1": 162.04,
+       "text": "enableyoutoshowallof"
+      }
+     ]
+    },
+    {
+     "y": 184.32,
+     "x0": 36.0,
+     "x1": 140.79,
+     "size": 10.08,
+     "text": "thepercentagesthat",
+     "segments": [
+      {
+       "x0": 36.0,
+       "x1": 140.79,
+       "text": "thepercentagesthat"
+      }
+     ]
+    },
+    {
+     "y": 198.24,
+     "x0": 36.0,
+     "x1": 125.67,
+     "size": 10.08,
+     "text": "makeupawhole.",
+     "segments": [
+      {
+       "x0": 36.0,
+       "x1": 125.67,
+       "text": "makeupawhole."
+      }
+     ]
+    },
+    {
+     "y": 224.88,
+     "x0": 36.0,
+     "x1": 92.6,
+     "size": 10.08,
+     "text": "Aftertable.",
+     "segments": [
+      {
+       "x0": 36.0,
+       "x1": 92.6,
+       "text": "Aftertable."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

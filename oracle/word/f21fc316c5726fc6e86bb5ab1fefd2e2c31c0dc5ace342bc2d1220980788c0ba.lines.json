@@ -1,0 +1,133 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 118.32,
+     "x0": 52.48,
+     "x1": 102.03,
+     "size": 11.04,
+     "text": "TableCell",
+     "segments": [
+      {
+       "x0": 52.48,
+       "x1": 102.03,
+       "text": "TableCell"
+      }
+     ]
+    },
+    {
+     "y": 145.92,
+     "x0": 55.23,
+     "x1": 99.29,
+     "size": 11.04,
+     "text": "Followed",
+     "segments": [
+      {
+       "x0": 55.23,
+       "x1": 99.29,
+       "text": "Followed"
+      }
+     ]
+    },
+    {
+     "y": 158.4,
+     "x0": 66.84,
+     "x1": 87.66,
+     "size": 11.04,
+     "text": "bya",
+     "segments": [
+      {
+       "x0": 66.84,
+       "x1": 87.66,
+       "text": "bya"
+      }
+     ]
+    },
+    {
+     "y": 171.12,
+     "x0": 59.81,
+     "x1": 94.69,
+     "size": 11.04,
+     "text": "section",
+     "segments": [
+      {
+       "x0": 59.81,
+       "x1": 94.69,
+       "text": "section"
+      }
+     ]
+    },
+    {
+     "y": 183.84,
+     "x0": 65.0,
+     "x1": 89.49,
+     "size": 11.04,
+     "text": "page",
+     "segments": [
+      {
+       "x0": 65.0,
+       "x1": 89.49,
+       "text": "page"
+      }
+     ]
+    },
+    {
+     "y": 196.56,
+     "x0": 63.48,
+     "x1": 91.02,
+     "size": 11.04,
+     "text": "break",
+     "segments": [
+      {
+       "x0": 63.48,
+       "x1": 91.02,
+       "text": "break"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 85.44,
+     "x0": 70.8,
+     "x1": 185.36,
+     "size": 6.48,
+     "text": "1.Documenttakenfrombug97417",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 185.36,
+       "text": "1.Documenttakenfrombug97417"
+      }
+     ]
+    },
+    {
+     "y": 94.08,
+     "x0": 70.8,
+     "x1": 146.68,
+     "size": 6.48,
+     "text": "SchindlerExcellence.docx",
+     "segments": [
+      {
+       "x0": 70.8,
+       "x1": 146.68,
+       "text": "SchindlerExcellence.docx"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": []
+  }
+ ]
+}

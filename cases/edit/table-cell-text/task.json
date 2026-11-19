@@ -1,0 +1,41 @@
+{
+ "input": "case:layout/families/table-split/base/02-page-bottom-boundary.docx",
+ "instruction": "把表格第 5 行左列的第一行文字“Row 05 first line”改成“Row 05 revised line”，其他内容和格式都不要动。",
+ "checks": [
+  {
+   "type": "package"
+  },
+  {
+   "type": "text",
+   "present": [
+    "Row 05 revised line"
+   ],
+   "absent": [
+    "Row 05 first line"
+   ]
+  },
+  {
+   "type": "paragraphs",
+   "delta": 0
+  },
+  {
+   "type": "preserved",
+   "except": [
+    "^Row 05 (first|revised) line"
+   ],
+   "parts": [
+    "word/styles.xml",
+    "word/settings.xml"
+   ]
+  },
+  {
+   "type": "xml",
+   "part": "word/document.xml",
+   "contains": [
+    "w:vertAnchor=\"page\"",
+    "w:tblpY=\"1700\"",
+    "w:sz=\"36\""
+   ]
+  }
+ ]
+}

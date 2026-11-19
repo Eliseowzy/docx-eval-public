@@ -1,0 +1,52 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 72.48,
+     "x0": 229.62,
+     "x1": 365.74,
+     "size": 12.0,
+     "text": "FIRSTNAME,LASTNAME",
+     "segments": [
+      {
+       "x0": 229.62,
+       "x1": 365.74,
+       "text": "FIRSTNAME,LASTNAME"
+      }
+     ]
+    },
+    {
+     "y": 87.36,
+     "x0": 233.52,
+     "x1": 361.85,
+     "size": 12.0,
+     "text": "Address,City,Country",
+     "segments": [
+      {
+       "x0": 233.52,
+       "x1": 361.85,
+       "text": "Address,City,Country"
+      }
+     ]
+    },
+    {
+     "y": 102.0,
+     "x0": 267.84,
+     "x1": 327.53,
+     "size": 12.0,
+     "text": "Tel.,Skype",
+     "segments": [
+      {
+       "x0": 267.84,
+       "x1": 327.53,
+       "text": "Tel.,Skype"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

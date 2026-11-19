@@ -1,0 +1,856 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 82.32,
+     "x0": 90.0,
+     "x1": 507.17,
+     "size": 11.04,
+     "text": "S1:LoremipsumdolorLoremipsumdolorsitLoremipsumdolorsit",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 200.71,
+       "text": "S1:Loremipsumdolor"
+      },
+      {
+       "x0": 246.0,
+       "x1": 351.17,
+       "text": "Loremipsumdolorsit"
+      },
+      {
+       "x0": 402.0,
+       "x1": 507.17,
+       "text": "Loremipsumdolorsit"
+      }
+     ]
+    },
+    {
+     "y": 96.96,
+     "x0": 90.0,
+     "x1": 486.39,
+     "size": 11.04,
+     "text": "sitametconsecteturametconsecteturametconsectetur",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 188.47,
+       "text": "sitametconsectetur"
+      },
+      {
+       "x0": 246.0,
+       "x1": 330.4,
+       "text": "ametconsectetur"
+      },
+      {
+       "x0": 402.0,
+       "x1": 486.39,
+       "text": "ametconsectetur"
+      }
+     ]
+    },
+    {
+     "y": 111.36,
+     "x0": 90.0,
+     "x1": 504.13,
+     "size": 11.04,
+     "text": "adipiscingelitseddoadipiscingelitseddoadipiscingelitseddo",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 192.13,
+       "text": "adipiscingelitseddo"
+      },
+      {
+       "x0": 246.0,
+       "x1": 348.13,
+       "text": "adipiscingelitseddo"
+      },
+      {
+       "x0": 402.0,
+       "x1": 504.13,
+       "text": "adipiscingelitseddo"
+      }
+     ]
+    },
+    {
+     "y": 126.0,
+     "x0": 90.0,
+     "x1": 480.88,
+     "size": 11.04,
+     "text": "eiusmodtemporeiusmodtemporeiusmodtempor",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 168.88,
+       "text": "eiusmodtempor"
+      },
+      {
+       "x0": 246.0,
+       "x1": 324.88,
+       "text": "eiusmodtempor"
+      },
+      {
+       "x0": 402.0,
+       "x1": 480.88,
+       "text": "eiusmodtempor"
+      }
+     ]
+    },
+    {
+     "y": 140.4,
+     "x0": 90.0,
+     "x1": 506.59,
+     "size": 11.04,
+     "text": "incididuntutlaboreetincididuntutlaboreetincididuntutlaboreet",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 194.59,
+       "text": "incididuntutlaboreet"
+      },
+      {
+       "x0": 246.0,
+       "x1": 350.59,
+       "text": "incididuntutlaboreet"
+      },
+      {
+       "x0": 402.0,
+       "x1": 506.59,
+       "text": "incididuntutlaboreet"
+      }
+     ]
+    },
+    {
+     "y": 155.04,
+     "x0": 90.0,
+     "x1": 501.7,
+     "size": 11.04,
+     "text": "doloremagnaaliquadoloremagnaaliquadoloremagnaaliqua",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 189.7,
+       "text": "doloremagnaaliqua"
+      },
+      {
+       "x0": 246.0,
+       "x1": 345.7,
+       "text": "doloremagnaaliqua"
+      },
+      {
+       "x0": 402.0,
+       "x1": 501.7,
+       "text": "doloremagnaaliqua"
+      }
+     ]
+    },
+    {
+     "y": 169.68,
+     "x0": 90.0,
+     "x1": 507.17,
+     "size": 11.04,
+     "text": "LoremipsumdolorsitLoremipsumdolorsitLoremipsumdolorsit",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 195.17,
+       "text": "Loremipsumdolorsit"
+      },
+      {
+       "x0": 246.0,
+       "x1": 351.17,
+       "text": "Loremipsumdolorsit"
+      },
+      {
+       "x0": 402.0,
+       "x1": 507.17,
+       "text": "Loremipsumdolorsit"
+      }
+     ]
+    },
+    {
+     "y": 184.08,
+     "x0": 90.0,
+     "x1": 486.4,
+     "size": 11.04,
+     "text": "ametconsecteturametconsecteturametconsectetur",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 174.4,
+       "text": "ametconsectetur"
+      },
+      {
+       "x0": 246.0,
+       "x1": 330.4,
+       "text": "ametconsectetur"
+      },
+      {
+       "x0": 402.0,
+       "x1": 486.4,
+       "text": "ametconsectetur"
+      }
+     ]
+    },
+    {
+     "y": 198.72,
+     "x0": 90.0,
+     "x1": 504.13,
+     "size": 11.04,
+     "text": "adipiscingelitseddoadipiscingelitseddoadipiscingelitseddo",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 192.13,
+       "text": "adipiscingelitseddo"
+      },
+      {
+       "x0": 246.0,
+       "x1": 348.13,
+       "text": "adipiscingelitseddo"
+      },
+      {
+       "x0": 402.0,
+       "x1": 504.13,
+       "text": "adipiscingelitseddo"
+      }
+     ]
+    },
+    {
+     "y": 213.12,
+     "x0": 90.0,
+     "x1": 480.88,
+     "size": 11.04,
+     "text": "eiusmodtemporeiusmodtemporeiusmodtempor",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 168.88,
+       "text": "eiusmodtempor"
+      },
+      {
+       "x0": 246.0,
+       "x1": 324.88,
+       "text": "eiusmodtempor"
+      },
+      {
+       "x0": 402.0,
+       "x1": 480.88,
+       "text": "eiusmodtempor"
+      }
+     ]
+    },
+    {
+     "y": 227.76,
+     "x0": 90.0,
+     "x1": 506.59,
+     "size": 11.04,
+     "text": "incididuntutlaboreetincididuntutlaboreetincididuntutlaboreet",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 194.59,
+       "text": "incididuntutlaboreet"
+      },
+      {
+       "x0": 246.0,
+       "x1": 350.59,
+       "text": "incididuntutlaboreet"
+      },
+      {
+       "x0": 402.0,
+       "x1": 506.59,
+       "text": "incididuntutlaboreet"
+      }
+     ]
+    },
+    {
+     "y": 242.4,
+     "x0": 90.0,
+     "x1": 501.7,
+     "size": 11.04,
+     "text": "doloremagnaaliquadoloremagnaaliquadoloremagnaaliqua",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 189.7,
+       "text": "doloremagnaaliqua"
+      },
+      {
+       "x0": 246.0,
+       "x1": 345.7,
+       "text": "doloremagnaaliqua"
+      },
+      {
+       "x0": 402.0,
+       "x1": 501.7,
+       "text": "doloremagnaaliqua"
+      }
+     ]
+    },
+    {
+     "y": 256.8,
+     "x0": 90.0,
+     "x1": 348.13,
+     "size": 11.04,
+     "text": "S2:Loremipsumdoloradipiscingelitseddo",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 200.71,
+       "text": "S2:Loremipsumdolor"
+      },
+      {
+       "x0": 246.0,
+       "x1": 348.13,
+       "text": "adipiscingelitseddo"
+      }
+     ]
+    },
+    {
+     "y": 271.44,
+     "x0": 90.0,
+     "x1": 324.88,
+     "size": 11.04,
+     "text": "sitametconsectetureiusmodtempor",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 188.47,
+       "text": "sitametconsectetur"
+      },
+      {
+       "x0": 246.0,
+       "x1": 324.88,
+       "text": "eiusmodtempor"
+      }
+     ]
+    },
+    {
+     "y": 286.08,
+     "x0": 90.0,
+     "x1": 350.59,
+     "size": 11.04,
+     "text": "adipiscingelitseddoincididuntutlaboreet",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 192.13,
+       "text": "adipiscingelitseddo"
+      },
+      {
+       "x0": 246.0,
+       "x1": 350.59,
+       "text": "incididuntutlaboreet"
+      }
+     ]
+    },
+    {
+     "y": 300.48,
+     "x0": 90.0,
+     "x1": 345.7,
+     "size": 11.04,
+     "text": "eiusmodtempordoloremagnaaliqua",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 168.88,
+       "text": "eiusmodtempor"
+      },
+      {
+       "x0": 246.0,
+       "x1": 345.7,
+       "text": "doloremagnaaliqua"
+      }
+     ]
+    },
+    {
+     "y": 315.12,
+     "x0": 90.0,
+     "x1": 194.59,
+     "size": 11.04,
+     "text": "incididuntutlaboreet",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 194.59,
+       "text": "incididuntutlaboreet"
+      }
+     ]
+    },
+    {
+     "y": 329.52,
+     "x0": 90.0,
+     "x1": 189.7,
+     "size": 11.04,
+     "text": "doloremagnaaliqua",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 189.7,
+       "text": "doloremagnaaliqua"
+      }
+     ]
+    },
+    {
+     "y": 344.16,
+     "x0": 90.0,
+     "x1": 195.17,
+     "size": 11.04,
+     "text": "Loremipsumdolorsit",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 195.17,
+       "text": "Loremipsumdolorsit"
+      }
+     ]
+    },
+    {
+     "y": 358.8,
+     "x0": 90.0,
+     "x1": 174.4,
+     "size": 11.04,
+     "text": "ametconsectetur",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 174.4,
+       "text": "ametconsectetur"
+      }
+     ]
+    },
+    {
+     "y": 373.2,
+     "x0": 90.0,
+     "x1": 192.13,
+     "size": 11.04,
+     "text": "adipiscingelitseddo",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 192.13,
+       "text": "adipiscingelitseddo"
+      }
+     ]
+    },
+    {
+     "y": 387.84,
+     "x0": 90.0,
+     "x1": 168.88,
+     "size": 11.04,
+     "text": "eiusmodtempor",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 168.88,
+       "text": "eiusmodtempor"
+      }
+     ]
+    },
+    {
+     "y": 402.24,
+     "x0": 90.0,
+     "x1": 194.59,
+     "size": 11.04,
+     "text": "incididuntutlaboreet",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 194.59,
+       "text": "incididuntutlaboreet"
+      }
+     ]
+    },
+    {
+     "y": 416.88,
+     "x0": 90.0,
+     "x1": 189.7,
+     "size": 11.04,
+     "text": "doloremagnaaliqua",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 189.7,
+       "text": "doloremagnaaliqua"
+      }
+     ]
+    },
+    {
+     "y": 431.52,
+     "x0": 90.0,
+     "x1": 195.17,
+     "size": 11.04,
+     "text": "Loremipsumdolorsit",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 195.17,
+       "text": "Loremipsumdolorsit"
+      }
+     ]
+    },
+    {
+     "y": 445.92,
+     "x0": 90.0,
+     "x1": 174.4,
+     "size": 11.04,
+     "text": "ametconsectetur",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 174.4,
+       "text": "ametconsectetur"
+      }
+     ]
+    },
+    {
+     "y": 460.56,
+     "x0": 90.0,
+     "x1": 192.13,
+     "size": 11.04,
+     "text": "adipiscingelitseddo",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 192.13,
+       "text": "adipiscingelitseddo"
+      }
+     ]
+    },
+    {
+     "y": 474.96,
+     "x0": 90.0,
+     "x1": 168.88,
+     "size": 11.04,
+     "text": "eiusmodtempor",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 168.88,
+       "text": "eiusmodtempor"
+      }
+     ]
+    },
+    {
+     "y": 489.6,
+     "x0": 90.0,
+     "x1": 194.59,
+     "size": 11.04,
+     "text": "incididuntutlaboreet",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 194.59,
+       "text": "incididuntutlaboreet"
+      }
+     ]
+    },
+    {
+     "y": 504.24,
+     "x0": 90.0,
+     "x1": 189.7,
+     "size": 11.04,
+     "text": "doloremagnaaliqua",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 189.7,
+       "text": "doloremagnaaliqua"
+      }
+     ]
+    },
+    {
+     "y": 518.64,
+     "x0": 90.0,
+     "x1": 195.17,
+     "size": 11.04,
+     "text": "Loremipsumdolorsit",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 195.17,
+       "text": "Loremipsumdolorsit"
+      }
+     ]
+    },
+    {
+     "y": 533.28,
+     "x0": 90.0,
+     "x1": 174.4,
+     "size": 11.04,
+     "text": "ametconsectetur",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 174.4,
+       "text": "ametconsectetur"
+      }
+     ]
+    },
+    {
+     "y": 547.92,
+     "x0": 90.0,
+     "x1": 192.13,
+     "size": 11.04,
+     "text": "adipiscingelitseddo",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 192.13,
+       "text": "adipiscingelitseddo"
+      }
+     ]
+    },
+    {
+     "y": 562.32,
+     "x0": 90.0,
+     "x1": 168.88,
+     "size": 11.04,
+     "text": "eiusmodtempor",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 168.88,
+       "text": "eiusmodtempor"
+      }
+     ]
+    },
+    {
+     "y": 576.96,
+     "x0": 90.0,
+     "x1": 194.59,
+     "size": 11.04,
+     "text": "incididuntutlaboreet",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 194.59,
+       "text": "incididuntutlaboreet"
+      }
+     ]
+    },
+    {
+     "y": 591.36,
+     "x0": 90.0,
+     "x1": 189.7,
+     "size": 11.04,
+     "text": "doloremagnaaliqua",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 189.7,
+       "text": "doloremagnaaliqua"
+      }
+     ]
+    },
+    {
+     "y": 606.0,
+     "x0": 90.0,
+     "x1": 195.17,
+     "size": 11.04,
+     "text": "Loremipsumdolorsit",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 195.17,
+       "text": "Loremipsumdolorsit"
+      }
+     ]
+    },
+    {
+     "y": 620.64,
+     "x0": 90.0,
+     "x1": 174.39,
+     "size": 11.04,
+     "text": "ametconsectetur",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 174.39,
+       "text": "ametconsectetur"
+      }
+     ]
+    },
+    {
+     "y": 635.04,
+     "x0": 90.0,
+     "x1": 192.13,
+     "size": 11.04,
+     "text": "adipiscingelitseddo",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 192.13,
+       "text": "adipiscingelitseddo"
+      }
+     ]
+    },
+    {
+     "y": 649.68,
+     "x0": 90.0,
+     "x1": 168.88,
+     "size": 11.04,
+     "text": "eiusmodtempor",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 168.88,
+       "text": "eiusmodtempor"
+      }
+     ]
+    },
+    {
+     "y": 664.08,
+     "x0": 90.0,
+     "x1": 194.59,
+     "size": 11.04,
+     "text": "incididuntutlaboreet",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 194.59,
+       "text": "incididuntutlaboreet"
+      }
+     ]
+    },
+    {
+     "y": 678.72,
+     "x0": 90.0,
+     "x1": 189.7,
+     "size": 11.04,
+     "text": "doloremagnaaliqua",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 189.7,
+       "text": "doloremagnaaliqua"
+      }
+     ]
+    },
+    {
+     "y": 693.36,
+     "x0": 90.0,
+     "x1": 195.17,
+     "size": 11.04,
+     "text": "Loremipsumdolorsit",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 195.17,
+       "text": "Loremipsumdolorsit"
+      }
+     ]
+    },
+    {
+     "y": 707.76,
+     "x0": 90.0,
+     "x1": 174.4,
+     "size": 11.04,
+     "text": "ametconsectetur",
+     "segments": [
+      {
+       "x0": 90.0,
+       "x1": 174.4,
+       "text": "ametconsectetur"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 792.0,
+   "height": 612.0,
+   "lines": [
+    {
+     "y": 66.96,
+     "x0": 56.64,
+     "x1": 718.25,
+     "size": 11.04,
+     "text": "FINAL:LoremipsumdolorsitametconsecteturadipiscingelitseddoeiusmodtemporincididuntutlaboreetdoloremagnaaliquaLorem",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 718.25,
+       "text": "FINAL:LoremipsumdolorsitametconsecteturadipiscingelitseddoeiusmodtemporincididuntutlaboreetdoloremagnaaliquaLorem"
+      }
+     ]
+    },
+    {
+     "y": 81.6,
+     "x0": 56.64,
+     "x1": 720.66,
+     "size": 11.04,
+     "text": "ipsumdolorsitametconsecteturadipiscingelitseddoeiusmodtemporincididuntutlaboreetdoloremagnaaliquaLoremipsumdolorsit",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 720.66,
+       "text": "ipsumdolorsitametconsecteturadipiscingelitseddoeiusmodtemporincididuntutlaboreetdoloremagnaaliquaLoremipsumdolorsit"
+      }
+     ]
+    },
+    {
+     "y": 96.0,
+     "x0": 56.64,
+     "x1": 734.14,
+     "size": 11.04,
+     "text": "ametconsecteturadipiscingelitseddoeiusmodtemporincididuntutlaboreetdoloremagnaaliquaLoremipsumdolorsitametconsectetur",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 734.14,
+       "text": "ametconsecteturadipiscingelitseddoeiusmodtemporincididuntutlaboreetdoloremagnaaliquaLoremipsumdolorsitametconsectetur"
+      }
+     ]
+    },
+    {
+     "y": 110.64,
+     "x0": 56.64,
+     "x1": 715.79,
+     "size": 11.04,
+     "text": "adipiscingelitseddoeiusmodtemporincididuntutlaboreetdoloremagnaaliquaLoremipsumdolorsitametconsecteturadipiscingelit",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 715.79,
+       "text": "adipiscingelitseddoeiusmodtemporincididuntutlaboreetdoloremagnaaliquaLoremipsumdolorsitametconsecteturadipiscingelit"
+      }
+     ]
+    },
+    {
+     "y": 125.28,
+     "x0": 56.64,
+     "x1": 727.42,
+     "size": 11.04,
+     "text": "seddoeiusmodtemporincididuntutlaboreetdoloremagnaaliquaLoremipsumdolorsitametconsecteturadipiscingelitseddoeiusmod",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 727.42,
+       "text": "seddoeiusmodtemporincididuntutlaboreetdoloremagnaaliquaLoremipsumdolorsitametconsecteturadipiscingelitseddoeiusmod"
+      }
+     ]
+    },
+    {
+     "y": 139.68,
+     "x0": 56.64,
+     "x1": 301.19,
+     "size": 11.04,
+     "text": "temporincididuntutlaboreetdoloremagnaaliqua",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 301.19,
+       "text": "temporincididuntutlaboreetdoloremagnaaliqua"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

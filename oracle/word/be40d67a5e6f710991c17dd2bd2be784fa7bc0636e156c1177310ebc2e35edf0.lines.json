@@ -1,0 +1,94 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 169.85,
+     "x0": 67.86,
+     "x1": 149.43,
+     "size": 8.21,
+     "text": "1.Item1isasentence.",
+     "segments": [
+      {
+       "x0": 67.86,
+       "x1": 149.43,
+       "text": "1.Item1isasentence."
+      }
+     ]
+    },
+    {
+     "y": 180.55,
+     "x0": 67.86,
+     "x1": 149.43,
+     "size": 8.21,
+     "text": "2.Item3isasentence.",
+     "segments": [
+      {
+       "x0": 67.86,
+       "x1": 149.43,
+       "text": "2.Item3isasentence."
+      }
+     ]
+    },
+    {
+     "y": 181.62,
+     "x0": 422.97,
+     "x1": 525.29,
+     "size": 6.78,
+     "text": "下移了[1]:<#>Item2isasentence.",
+     "segments": [
+      {
+       "x0": 422.97,
+       "x1": 525.29,
+       "text": "下移了[1]:<#>Item2isasentence."
+      }
+     ]
+    },
+    {
+     "y": 191.44,
+     "x0": 67.86,
+     "x1": 149.43,
+     "size": 8.21,
+     "text": "3.Item2isasentence.",
+     "segments": [
+      {
+       "x0": 67.86,
+       "x1": 149.43,
+       "text": "3.Item2isasentence."
+      }
+     ]
+    },
+    {
+     "y": 192.96,
+     "x0": 416.28,
+     "x1": 464.26,
+     "size": 6.69,
+     "text": "移动了(插⼊)[1]",
+     "segments": [
+      {
+       "x0": 416.28,
+       "x1": 464.26,
+       "text": "移动了(插⼊)[1]"
+      }
+     ]
+    },
+    {
+     "y": 202.14,
+     "x0": 67.86,
+     "x1": 149.43,
+     "size": 8.21,
+     "text": "4.Item4isasentence.",
+     "segments": [
+      {
+       "x0": 67.86,
+       "x1": 149.43,
+       "text": "4.Item4isasentence."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

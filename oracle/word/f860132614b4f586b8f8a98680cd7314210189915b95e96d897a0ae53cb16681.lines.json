@@ -1,0 +1,66 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 280.32,
+     "x0": 228.48,
+     "x1": 356.06,
+     "size": 11.04,
+     "text": "Aaaaaaaaaaaaaaaaaaaaaaaa",
+     "segments": [
+      {
+       "x0": 228.48,
+       "x1": 356.06,
+       "text": "Aaaaaaaaaaaaaaaaaaaaaaaa"
+      }
+     ]
+    },
+    {
+     "y": 294.48,
+     "x0": 228.48,
+     "x1": 354.96,
+     "size": 11.04,
+     "text": "aaaaaaaaaaaaaaaaaaaaaaaa",
+     "segments": [
+      {
+       "x0": 228.48,
+       "x1": 354.96,
+       "text": "aaaaaaaaaaaaaaaaaaaaaaaa"
+      }
+     ]
+    },
+    {
+     "y": 309.12,
+     "x0": 228.48,
+     "x1": 354.96,
+     "size": 11.04,
+     "text": "aaaaaaaaaaaaaaaaaaaaaaaa",
+     "segments": [
+      {
+       "x0": 228.48,
+       "x1": 354.96,
+       "text": "aaaaaaaaaaaaaaaaaaaaaaaa"
+      }
+     ]
+    },
+    {
+     "y": 323.52,
+     "x0": 228.48,
+     "x1": 244.31,
+     "size": 11.04,
+     "text": "aaa",
+     "segments": [
+      {
+       "x0": 228.48,
+       "x1": 244.31,
+       "text": "aaa"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

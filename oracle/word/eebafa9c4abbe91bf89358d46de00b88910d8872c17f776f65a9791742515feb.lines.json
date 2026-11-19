@@ -1,0 +1,652 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 110.88,
+     "x0": 54.0,
+     "x1": 138.33,
+     "size": 12.0,
+     "text": "It’sAllWorthIt",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 138.33,
+       "text": "It’sAllWorthIt"
+      }
+     ]
+    },
+    {
+     "y": 138.48,
+     "x0": 54.0,
+     "x1": 532.87,
+     "size": 12.0,
+     "text": "It’salotofworkandmoney,butmostparentsandstudentsIknowfeelthatacollegedegreeiswell",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 532.87,
+       "text": "It’salotofworkandmoney,butmostparentsandstudentsIknowfeelthatacollegedegreeiswell"
+      }
+     ]
+    },
+    {
+     "y": 166.08,
+     "x0": 54.0,
+     "x1": 538.52,
+     "size": 12.0,
+     "text": "worththeeffort.AccordingtotheNationalCenterforEducationStatistics,youngadultsbetweenthe",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 538.52,
+       "text": "worththeeffort.AccordingtotheNationalCenterforEducationStatistics,youngadultsbetweenthe"
+      }
+     ]
+    },
+    {
+     "y": 193.68,
+     "x0": 54.0,
+     "x1": 540.8,
+     "size": 12.0,
+     "text": "agesof25and34withabachelor’sdegreehadaverageearningsofmorethantwiceasmuchasthose",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 540.8,
+       "text": "agesof25and34withabachelor’sdegreehadaverageearningsofmorethantwiceasmuchasthose"
+      }
+     ]
+    },
+    {
+     "y": 221.28,
+     "x0": 54.0,
+     "x1": 526.91,
+     "size": 12.0,
+     "text": "whodidn’thaveahighschooldiploma($48,500vs.$23,900)and62percentmorethanthosewho",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 526.91,
+       "text": "whodidn’thaveahighschooldiploma($48,500vs.$23,900)and62percentmorethanthosewho"
+      }
+     ]
+    },
+    {
+     "y": 244.8,
+     "x0": 274.32,
+     "x1": 276.52,
+     "size": 7.92,
+     "text": "i",
+     "segments": [
+      {
+       "x0": 274.32,
+       "x1": 276.52,
+       "text": "i"
+      }
+     ]
+    },
+    {
+     "y": 248.88,
+     "x0": 54.0,
+     "x1": 533.4,
+     "size": 12.0,
+     "text": "completedhighschool($48,500vs.$30,000).Inaddition,studentsoftenfindthatattendingcollege",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 533.4,
+       "text": "completedhighschool($48,500vs.$30,000).Inaddition,studentsoftenfindthatattendingcollege"
+      }
+     ]
+    },
+    {
+     "y": 276.48,
+     "x0": 54.0,
+     "x1": 556.19,
+     "size": 12.0,
+     "text": "helpsthemlearnimportantcriticalthinkingandlife-managementskillsthatarejustasimportantaswhat",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 556.19,
+       "text": "helpsthemlearnimportantcriticalthinkingandlife-managementskillsthatarejustasimportantaswhat"
+      }
+     ]
+    },
+    {
+     "y": 304.08,
+     "x0": 54.0,
+     "x1": 524.86,
+     "size": 12.0,
+     "text": "theytakeawayfromclassroominstruction.Parentscanfeelcomfortableknowingthattheirsonor",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 524.86,
+       "text": "theytakeawayfromclassroominstruction.Parentscanfeelcomfortableknowingthattheirsonor"
+      }
+     ]
+    },
+    {
+     "y": 331.68,
+     "x0": 54.0,
+     "x1": 430.21,
+     "size": 12.0,
+     "text": "daughterhastheinformationandskillsnecessarytomakewisechoicesinlife.",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 430.21,
+       "text": "daughterhastheinformationandskillsnecessarytomakewisechoicesinlife."
+      }
+     ]
+    },
+    {
+     "y": 386.88,
+     "x0": 54.0,
+     "x1": 545.23,
+     "size": 12.0,
+     "text": "Iencourageyoutospendsometimediscussingthefinancialaidprocesswithyourhighschoolstudent",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 545.23,
+       "text": "Iencourageyoutospendsometimediscussingthefinancialaidprocesswithyourhighschoolstudent"
+      }
+     ]
+    },
+    {
+     "y": 414.48,
+     "x0": 54.0,
+     "x1": 552.87,
+     "size": 12.0,
+     "text": "andtalkingaboutalltheaspectsofattendingcollege,includingthefinancialcomponents.Youmightbe",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 552.87,
+       "text": "andtalkingaboutalltheaspectsofattendingcollege,includingthefinancialcomponents.Youmightbe"
+      }
+     ]
+    },
+    {
+     "y": 442.08,
+     "x0": 54.0,
+     "x1": 536.88,
+     "size": 12.0,
+     "text": "surprisedattheinsightsyourchildhas,andit’sentirelypossiblethatyoumaylearnfromeachother.",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 536.88,
+       "text": "surprisedattheinsightsyourchildhas,andit’sentirelypossiblethatyoumaylearnfromeachother."
+      }
+     ]
+    },
+    {
+     "y": 497.28,
+     "x0": 54.0,
+     "x1": 551.51,
+     "size": 12.0,
+     "text": "Keepcalm,anddon’tletfeargetthebestofyou.Millionsofpeoplehavebeenthroughthisprocessand",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 551.51,
+       "text": "Keepcalm,anddon’tletfeargetthebestofyou.Millionsofpeoplehavebeenthroughthisprocessand"
+      }
+     ]
+    },
+    {
+     "y": 524.88,
+     "x0": 54.0,
+     "x1": 542.87,
+     "size": 12.0,
+     "text": "survived!Knowledgeandinformationareyourfriends.That’swhyyou’veturnedtome.I’mgoingto",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 542.87,
+       "text": "survived!Knowledgeandinformationareyourfriends.That’swhyyou’veturnedtome.I’mgoingto"
+      }
+     ]
+    },
+    {
+     "y": 552.48,
+     "x0": 54.0,
+     "x1": 556.19,
+     "size": 12.0,
+     "text": "helpyoutakeonestepatatime,andkeepaskingquestionsuntilyouhavetheanswersyouneedtomake",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 556.19,
+       "text": "helpyoutakeonestepatatime,andkeepaskingquestionsuntilyouhavetheanswersyouneedtomake"
+      }
+     ]
+    },
+    {
+     "y": 580.08,
+     "x0": 54.0,
+     "x1": 209.6,
+     "size": 12.0,
+     "text": "thechoicesthatarebestforyou.",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 209.6,
+       "text": "thechoicesthatarebestforyou."
+      }
+     ]
+    },
+    {
+     "y": 635.28,
+     "x0": 54.0,
+     "x1": 534.95,
+     "size": 12.0,
+     "text": "Ialsoinviteyoutovisitmywebsite—CollegeFinancialAidAdvisors.com—joinourmailinglist,and",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 534.95,
+       "text": "Ialsoinviteyoutovisitmywebsite—CollegeFinancialAidAdvisors.com—joinourmailinglist,and"
+      }
+     ]
+    },
+    {
+     "y": 662.88,
+     "x0": 54.0,
+     "x1": 542.17,
+     "size": 12.0,
+     "text": "keepintouchwithmethere.Asfinancialaidprogramsandpolicieschange,I’llcontinuetobringyou",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 542.17,
+       "text": "keepintouchwithmethere.Asfinancialaidprogramsandpolicieschange,I’llcontinuetobringyou"
+      }
+     ]
+    },
+    {
+     "y": 690.48,
+     "x0": 54.0,
+     "x1": 328.93,
+     "size": 12.0,
+     "text": "thelatestinformationtomaketheprocesslessconfusing.",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 328.93,
+       "text": "thelatestinformationtomaketheprocesslessconfusing."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 110.88,
+     "x0": 54.0,
+     "x1": 274.92,
+     "size": 12.0,
+     "text": "Now,let’sdemystifyafewofthose“secrets.”",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 274.92,
+       "text": "Now,let’sdemystifyafewofthose“secrets.”"
+      }
+     ]
+    },
+    {
+     "y": 146.64,
+     "x0": 72.0,
+     "x1": 76.36,
+     "size": 6.48,
+     "text": "iii",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 76.36,
+       "text": "iii"
+      }
+     ]
+    },
+    {
+     "y": 150.24,
+     "x0": 78.58,
+     "x1": 291.28,
+     "size": 10.08,
+     "text": "http://nces.ed.gov/programs/coe/indicator_cba.asp",
+     "segments": [
+      {
+       "x0": 78.58,
+       "x1": 291.28,
+       "text": "http://nces.ed.gov/programs/coe/indicator_cba.asp"
+      }
+     ]
+    },
+    {
+     "y": 212.88,
+     "x0": 54.0,
+     "x1": 105.66,
+     "size": 12.0,
+     "text": "Chapter1",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 105.66,
+       "text": "Chapter1"
+      }
+     ]
+    },
+    {
+     "y": 240.48,
+     "x0": 54.0,
+     "x1": 210.68,
+     "size": 12.0,
+     "text": "Yes,ItStartsinMiddleSchool",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 210.68,
+       "text": "Yes,ItStartsinMiddleSchool"
+      }
+     ]
+    },
+    {
+     "y": 295.68,
+     "x0": 54.0,
+     "x1": 528.54,
+     "size": 12.0,
+     "text": "Myfriend,Jim,soundedexasperated.Hehadjustgottenthetuitionnumbersfortheprivatemiddle",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 528.54,
+       "text": "Myfriend,Jim,soundedexasperated.Hehadjustgottenthetuitionnumbersfortheprivatemiddle"
+      }
+     ]
+    },
+    {
+     "y": 323.28,
+     "x0": 54.0,
+     "x1": 552.17,
+     "size": 12.0,
+     "text": "schoolhissonwantedtoattend.Hewasalongtimefriendandcalledmeforsomeadviceaboutwhether",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 552.17,
+       "text": "schoolhissonwantedtoattend.Hewasalongtimefriendandcalledmeforsomeadviceaboutwhether"
+      }
+     ]
+    },
+    {
+     "y": 350.88,
+     "x0": 54.0,
+     "x1": 136.65,
+     "size": 12.0,
+     "text": "itwas“worthit.”",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 136.65,
+       "text": "itwas“worthit.”"
+      }
+     ]
+    },
+    {
+     "y": 406.08,
+     "x0": 54.0,
+     "x1": 533.88,
+     "size": 12.0,
+     "text": "Hisson,Jeremy,wasanaveragestudentandwashavingsomedifficultyfittinginathisschool.The",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 533.88,
+       "text": "Hisson,Jeremy,wasanaveragestudentandwashavingsomedifficultyfittinginathisschool.The"
+      }
+     ]
+    },
+    {
+     "y": 433.68,
+     "x0": 54.0,
+     "x1": 552.18,
+     "size": 12.0,
+     "text": "combinationledJimandhiswife,Sarah,towonderwhetherJeremywouldbebetteroffattheThornton",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 552.18,
+       "text": "combinationledJimandhiswife,Sarah,towonderwhetherJeremywouldbebetteroffattheThornton"
+      }
+     ]
+    },
+    {
+     "y": 461.28,
+     "x0": 54.0,
+     "x1": 538.22,
+     "size": 12.0,
+     "text": "School,aprivatemiddleschoolinanearbytown.Thorntonwouldgivehimthesupportheneededto",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 538.22,
+       "text": "School,aprivatemiddleschoolinanearbytown.Thorntonwouldgivehimthesupportheneededto"
+      }
+     ]
+    },
+    {
+     "y": 488.88,
+     "x0": 54.0,
+     "x1": 552.82,
+     "size": 12.0,
+     "text": "achievemoreacademically—anditwouldgethimawayfromsomeofthesocialissueshewasfacingat",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 552.82,
+       "text": "achievemoreacademically—anditwouldgethimawayfromsomeofthesocialissueshewasfacingat"
+      }
+     ]
+    },
+    {
+     "y": 516.48,
+     "x0": 54.0,
+     "x1": 366.62,
+     "size": 12.0,
+     "text": "thepublicschool.ButthenJimsaidwhatwasreallyonhismind.",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 366.62,
+       "text": "thepublicschool.ButthenJimsaidwhatwasreallyonhismind."
+      }
+     ]
+    },
+    {
+     "y": 571.68,
+     "x0": 54.0,
+     "x1": 547.21,
+     "size": 12.0,
+     "text": "“IneverthoughtI’dbepayingthiskindoftuitionformiddleschool.Then,he’llprobablygotoprivate",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 547.21,
+       "text": "“IneverthoughtI’dbepayingthiskindoftuitionformiddleschool.Then,he’llprobablygotoprivate"
+      }
+     ]
+    },
+    {
+     "y": 599.28,
+     "x0": 54.0,
+     "x1": 357.91,
+     "size": 12.0,
+     "text": "highschool.HowamIsupposedtoaffordtosaveforcollege?”",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 357.91,
+       "text": "highschool.HowamIsupposedtoaffordtosaveforcollege?”"
+      }
+     ]
+    },
+    {
+     "y": 654.48,
+     "x0": 54.0,
+     "x1": 512.83,
+     "size": 12.0,
+     "text": "WhatJimdidn’trealizeisthatwhereverthereisatuitionpayment,thereisusuallyfinancialaid",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 512.83,
+       "text": "WhatJimdidn’trealizeisthatwhereverthereisatuitionpayment,thereisusuallyfinancialaid"
+      }
+     ]
+    },
+    {
+     "y": 682.08,
+     "x0": 54.0,
+     "x1": 557.14,
+     "size": 12.0,
+     "text": "available.Aswechattedonthephone,hefoundaflyerintheinformationpackagethatexplainedhowto",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 557.14,
+       "text": "available.Aswechattedonthephone,hefoundaflyerintheinformationpackagethatexplainedhowto"
+      }
+     ]
+    },
+    {
+     "y": 709.68,
+     "x0": 54.0,
+     "x1": 556.82,
+     "size": 12.0,
+     "text": "applyforfinancialaidattheschool.Hehadbeentooupsettonoticeitbefore.Ashereadit,hehadmore",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 556.82,
+       "text": "applyforfinancialaidattheschool.Hehadbeentooupsettonoticeitbefore.Ashereadit,hehadmore"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 96.72,
+     "x0": 54.0,
+     "x1": 551.21,
+     "size": 12.0,
+     "text": "questions.Lastyear,bothheandSarahworkedfulltime.Butafewmonthsago,Sarahlostherjob.The",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 551.21,
+       "text": "questions.Lastyear,bothheandSarahworkedfulltime.Butafewmonthsago,Sarahlostherjob.The"
+      }
+     ]
+    },
+    {
+     "y": 124.32,
+     "x0": 54.0,
+     "x1": 522.79,
+     "size": 12.0,
+     "text": "financialaidformrequiredlastyear’staxreturns,whichwouldn’tbeaccurateforevaluatingtheir",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 522.79,
+       "text": "financialaidformrequiredlastyear’staxreturns,whichwouldn’tbeaccurateforevaluatingtheir"
+      }
+     ]
+    },
+    {
+     "y": 151.92,
+     "x0": 54.0,
+     "x1": 180.28,
+     "size": 12.0,
+     "text": "currentfinancialsituation.",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 180.28,
+       "text": "currentfinancialsituation."
+      }
+     ]
+    },
+    {
+     "y": 234.72,
+     "x0": 54.0,
+     "x1": 514.84,
+     "size": 12.0,
+     "text": "Jim’sconcernswererealandalltoocommonamongparentswhoarethinkingaheadabouttheir",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 514.84,
+       "text": "Jim’sconcernswererealandalltoocommonamongparentswhoarethinkingaheadabouttheir"
+      }
+     ]
+    },
+    {
+     "y": 262.32,
+     "x0": 54.0,
+     "x1": 547.16,
+     "size": 12.0,
+     "text": "children’seducation.WhileIdon’tliketoseeanxiousparents,it’sasignthatthesearepeoplewhoare",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 547.16,
+       "text": "children’seducation.WhileIdon’tliketoseeanxiousparents,it’sasignthatthesearepeoplewhoare"
+      }
+     ]
+    },
+    {
+     "y": 289.92,
+     "x0": 54.0,
+     "x1": 552.51,
+     "size": 12.0,
+     "text": "thinkingaheadandtryingtomakethebestfinancialdecisionsfortheirfamilies.Thereisnoanswerthat",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 552.51,
+       "text": "thinkingaheadandtryingtomakethebestfinancialdecisionsfortheirfamilies.Thereisnoanswerthat"
+      }
+     ]
+    },
+    {
+     "y": 317.52,
+     "x0": 54.0,
+     "x1": 360.91,
+     "size": 12.0,
+     "text": "isrightforeveryone,butthereisananswerthatisrightforyou.",
+     "segments": [
+      {
+       "x0": 54.0,
+       "x1": 360.91,
+       "text": "isrightforeveryone,butthereisananswerthatisrightforyou."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

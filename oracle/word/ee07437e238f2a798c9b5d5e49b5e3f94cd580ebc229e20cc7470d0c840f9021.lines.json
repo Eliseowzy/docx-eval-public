@@ -1,0 +1,57 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 156.32,
+     "x0": 83.4,
+     "x1": 461.06,
+     "size": 9.16,
+     "text": "1.NoSurprises–Sure,you.删除了:r",
+     "segments": [
+      {
+       "x0": 83.4,
+       "x1": 199.64,
+       "text": "1.NoSurprises–Sure,you."
+      },
+      {
+       "x0": 433.22,
+       "x1": 461.06,
+       "text": "删除了:r"
+      }
+     ]
+    },
+    {
+     "y": 167.5,
+     "x0": 83.4,
+     "x1": 222.31,
+     "size": 9.16,
+     "text": "2.RealChoices–Inthebeginning",
+     "segments": [
+      {
+       "x0": 83.4,
+       "x1": 222.31,
+       "text": "2.RealChoices–Inthebeginning"
+      }
+     ]
+    },
+    {
+     "y": 178.31,
+     "x0": 83.4,
+     "x1": 218.84,
+     "size": 9.16,
+     "text": "3.SensibleSettings–Someofus",
+     "segments": [
+      {
+       "x0": 83.4,
+       "x1": 218.84,
+       "text": "3.SensibleSettings–Someofus"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

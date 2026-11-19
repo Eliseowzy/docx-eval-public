@@ -1,0 +1,24 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 83.28,
+     "x0": 108.0,
+     "x1": 234.95,
+     "size": 12.0,
+     "text": "they“kickthebucket.”It",
+     "segments": [
+      {
+       "x0": 108.0,
+       "x1": 234.95,
+       "text": "they“kickthebucket.”It"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

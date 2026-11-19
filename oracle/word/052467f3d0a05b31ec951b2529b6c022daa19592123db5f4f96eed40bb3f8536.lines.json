@@ -1,0 +1,1255 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 96.72,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 110.64,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 124.32,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument."
+      }
+     ]
+    },
+    {
+     "y": 138.24,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 151.92,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 165.84,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument."
+      }
+     ]
+    },
+    {
+     "y": 179.52,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 193.44,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 207.12,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument."
+      }
+     ]
+    },
+    {
+     "y": 221.04,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 234.72,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 248.64,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument."
+      }
+     ]
+    },
+    {
+     "y": 258.24,
+     "x0": 475.68,
+     "x1": 479.64,
+     "size": 7.92,
+     "text": "1",
+     "segments": [
+      {
+       "x0": 475.68,
+       "x1": 479.64,
+       "text": "1"
+      }
+     ]
+    },
+    {
+     "y": 262.32,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestentrepreneur,whichTroy",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestentrepreneur,whichTroy"
+      }
+     ]
+    },
+    {
+     "y": 276.24,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "WilliamstheownerofImpactMartialArtandFitnessinAustin,MNoptedfor.He’sbeen",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "WilliamstheownerofImpactMartialArtandFitnessinAustin,MNoptedfor.He’sbeen"
+      }
+     ]
+    },
+    {
+     "y": 289.92,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "passionateforMartialArtssincehewasinhighschool.Helearnedandtaughttheartindifferent",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "passionateforMartialArtssincehewasinhighschool.Helearnedandtaughttheartindifferent"
+      }
+     ]
+    },
+    {
+     "y": 303.84,
+     "x0": 72.0,
+     "x1": 453.58,
+     "size": 12.0,
+     "text": "places,untilhedecidedonstartinguphisownwhenhewasabout30yearsold.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 453.58,
+       "text": "places,untilhedecidedonstartinguphisownwhenhewasabout30yearsold."
+      }
+     ]
+    },
+    {
+     "y": 331.44,
+     "x0": 72.0,
+     "x1": 533.58,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 533.58,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 345.12,
+     "x0": 72.0,
+     "x1": 537.92,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 537.92,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 359.04,
+     "x0": 72.0,
+     "x1": 491.27,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytest",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 491.27,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytest"
+      }
+     ]
+    },
+    {
+     "y": 372.72,
+     "x0": 72.0,
+     "x1": 524.91,
+     "size": 12.0,
+     "text": "document.CitationandBibliographytestdocument.CitationandBibliographytestdocument.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 524.91,
+       "text": "document.CitationandBibliographytestdocument.CitationandBibliographytestdocument."
+      }
+     ]
+    },
+    {
+     "y": 386.64,
+     "x0": 72.0,
+     "x1": 533.58,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 533.58,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 400.32,
+     "x0": 72.0,
+     "x1": 537.93,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 537.93,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 414.24,
+     "x0": 72.0,
+     "x1": 491.26,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytest",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 491.26,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytest"
+      }
+     ]
+    },
+    {
+     "y": 427.92,
+     "x0": 72.0,
+     "x1": 527.92,
+     "size": 12.0,
+     "text": "document.CitationandBibliographytestdocument.CitationandBibliographytestdocument.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 527.92,
+       "text": "document.CitationandBibliographytestdocument.CitationandBibliographytestdocument."
+      }
+     ]
+    },
+    {
+     "y": 441.84,
+     "x0": 72.0,
+     "x1": 533.58,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 533.58,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 455.52,
+     "x0": 72.0,
+     "x1": 537.94,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 537.94,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 469.44,
+     "x0": 72.0,
+     "x1": 491.26,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytest",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 491.26,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytest"
+      }
+     ]
+    },
+    {
+     "y": 483.12,
+     "x0": 72.0,
+     "x1": 524.91,
+     "size": 12.0,
+     "text": "document.CitationandBibliographytestdocument.CitationandBibliographytestdocument.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 524.91,
+       "text": "document.CitationandBibliographytestdocument.CitationandBibliographytestdocument."
+      }
+     ]
+    },
+    {
+     "y": 497.04,
+     "x0": 72.0,
+     "x1": 533.6,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 533.6,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 510.72,
+     "x0": 72.0,
+     "x1": 154.99,
+     "size": 12.0,
+     "text": "Bibliographytest",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 154.99,
+       "text": "Bibliographytest"
+      }
+     ]
+    },
+    {
+     "y": 538.32,
+     "x0": 72.0,
+     "x1": 533.58,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 533.58,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 552.24,
+     "x0": 72.0,
+     "x1": 537.92,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 537.92,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 565.92,
+     "x0": 72.0,
+     "x1": 491.27,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytest",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 491.27,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytest"
+      }
+     ]
+    },
+    {
+     "y": 579.84,
+     "x0": 72.0,
+     "x1": 524.91,
+     "size": 12.0,
+     "text": "document.CitationandBibliographytestdocument.CitationandBibliographytestdocument.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 524.91,
+       "text": "document.CitationandBibliographytestdocument.CitationandBibliographytestdocument."
+      }
+     ]
+    },
+    {
+     "y": 593.52,
+     "x0": 72.0,
+     "x1": 533.58,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 533.58,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 607.44,
+     "x0": 72.0,
+     "x1": 537.93,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 537.93,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 621.12,
+     "x0": 72.0,
+     "x1": 526.93,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestimpact",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 526.93,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestimpact"
+      }
+     ]
+    },
+    {
+     "y": 630.96,
+     "x0": 131.76,
+     "x1": 135.72,
+     "size": 7.92,
+     "text": "2",
+     "segments": [
+      {
+       "x0": 131.76,
+       "x1": 135.72,
+       "text": "2"
+      }
+     ]
+    },
+    {
+     "y": 635.04,
+     "x0": 72.0,
+     "x1": 139.09,
+     "size": 12.0,
+     "text": "thisindustry:",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 139.09,
+       "text": "thisindustry:"
+      }
+     ]
+    },
+    {
+     "y": 648.72,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "Impactpracticessocialresponsibilitythroughcorporatephilanthropyandsocialinitiatives.They",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "Impactpracticessocialresponsibilitythroughcorporatephilanthropyandsocialinitiatives.They"
+      }
+     ]
+    },
+    {
+     "y": 662.64,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "exhibitthisbyteachingtheyouthmartialarts,self-defense,disciplineandrespect.Thisismaking",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "exhibitthisbyteachingtheyouthmartialarts,self-defense,disciplineandrespect.Thisismaking"
+      }
+     ]
+    },
+    {
+     "y": 691.2,
+     "x0": 72.0,
+     "x1": 75.0,
+     "size": 6.0,
+     "text": "1",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 75.0,
+       "text": "1"
+      }
+     ]
+    },
+    {
+     "y": 694.32,
+     "x0": 77.37,
+     "x1": 501.39,
+     "size": 12.0,
+     "text": "Nickels,McHugh,McHugh1,T.A.(2017).TestTitle.InT.Test,TestTitle(pp.8-9).Toronto:",
+     "segments": [
+      {
+       "x0": 77.37,
+       "x1": 501.39,
+       "text": "Nickels,McHugh,McHugh1,T.A.(2017).TestTitle.InT.Test,TestTitle(pp.8-9).Toronto:"
+      }
+     ]
+    },
+    {
+     "y": 714.24,
+     "x0": 72.0,
+     "x1": 75.24,
+     "size": 6.48,
+     "text": "2",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 75.24,
+       "text": "2"
+      }
+     ]
+    },
+    {
+     "y": 717.84,
+     "x0": 77.86,
+     "x1": 245.7,
+     "size": 10.08,
+     "text": "(Test,https://test123.com/test2.html,n.d.)",
+     "segments": [
+      {
+       "x0": 77.86,
+       "x1": 245.7,
+       "text": "(Test,https://test123.com/test2.html,n.d.)"
+      }
+     ]
+    },
+    {
+     "y": 753.36,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "IntrotoBusinessPage1",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 153.33,
+       "text": "IntrotoBusiness"
+      },
+      {
+       "x0": 507.67,
+       "x1": 540.0,
+       "text": "Page1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 83.04,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 96.72,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 110.64,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument."
+      }
+     ]
+    },
+    {
+     "y": 124.32,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 138.24,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 151.92,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument."
+      }
+     ]
+    },
+    {
+     "y": 165.84,
+     "x0": 72.0,
+     "x1": 418.28,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytest",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 418.28,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytest"
+      }
+     ]
+    },
+    {
+     "y": 193.44,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 207.12,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 221.04,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument."
+      }
+     ]
+    },
+    {
+     "y": 234.72,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 248.64,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 262.32,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument."
+      }
+     ]
+    },
+    {
+     "y": 276.24,
+     "x0": 72.0,
+     "x1": 418.28,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytest",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 418.28,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytest"
+      }
+     ]
+    },
+    {
+     "y": 303.84,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 317.52,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 331.44,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument."
+      }
+     ]
+    },
+    {
+     "y": 345.12,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 359.04,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 372.72,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument."
+      }
+     ]
+    },
+    {
+     "y": 386.64,
+     "x0": 72.0,
+     "x1": 418.28,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytest",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 418.28,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytest"
+      }
+     ]
+    },
+    {
+     "y": 414.24,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 427.92,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 441.84,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument."
+      }
+     ]
+    },
+    {
+     "y": 455.52,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 469.44,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 483.12,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument."
+      }
+     ]
+    },
+    {
+     "y": 497.04,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestCitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 540.0,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestCitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 510.72,
+     "x0": 72.0,
+     "x1": 539.98,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.98,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument."
+      }
+     ]
+    },
+    {
+     "y": 524.64,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 538.32,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 552.24,
+     "x0": 72.0,
+     "x1": 539.98,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.98,
+       "text": "testdocument.CitationandBibliographytestdocument.CitationandBibliographytestdocument."
+      }
+     ]
+    },
+    {
+     "y": 565.92,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "CitationandBibliographytestdocument.CitationandBibliographytestdocument.Citationand"
+      }
+     ]
+    },
+    {
+     "y": 579.84,
+     "x0": 72.0,
+     "x1": 539.99,
+     "size": 12.0,
+     "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 539.99,
+       "text": "Bibliographytestdocument.CitationandBibliographytestdocument.CitationandBibliography"
+      }
+     ]
+    },
+    {
+     "y": 593.52,
+     "x0": 72.0,
+     "x1": 289.96,
+     "size": 12.0,
+     "text": "testdocument.CitationandBibliographytest",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 289.96,
+       "text": "testdocument.CitationandBibliographytest"
+      }
+     ]
+    },
+    {
+     "y": 753.36,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "IntrotoBusinessPage2",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 153.33,
+       "text": "IntrotoBusiness"
+      },
+      {
+       "x0": 507.67,
+       "x1": 540.0,
+       "text": "Page2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 102.72,
+     "x0": 72.0,
+     "x1": 516.24,
+     "size": 12.0,
+     "text": "1,T.A.(2017).TestTitle.InT.Test,TestTitle(pp.8-9).Toronto:McGraw-HillEducation.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 516.24,
+       "text": "1,T.A.(2017).TestTitle.InT.Test,TestTitle(pp.8-9).Toronto:McGraw-HillEducation."
+      }
+     ]
+    },
+    {
+     "y": 116.4,
+     "x0": 72.0,
+     "x1": 430.21,
+     "size": 12.0,
+     "text": "Test,T.(2018,December31).BusinessInterview.(T.Test1,Interviewer)",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 430.21,
+       "text": "Test,T.(2018,December31).BusinessInterview.(T.Test1,Interviewer)"
+      }
+     ]
+    },
+    {
+     "y": 130.32,
+     "x0": 72.0,
+     "x1": 435.92,
+     "size": 12.0,
+     "text": "Test,T.(n.d.).https://test123.com/test2.html.RetrievedDecember16,2018",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 435.92,
+       "text": "Test,T.(n.d.).https://test123.com/test2.html.RetrievedDecember16,2018"
+      }
+     ]
+    },
+    {
+     "y": 753.36,
+     "x0": 72.0,
+     "x1": 540.0,
+     "size": 12.0,
+     "text": "IntrotoBusinessPage3",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 153.33,
+       "text": "IntrotoBusiness"
+      },
+      {
+       "x0": 507.67,
+       "x1": 540.0,
+       "text": "Page3"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3450 @@
+{
+ "totals": {
+  "cases": 120,
+  "errors": 2,
+  "scored": 118,
+  "pageParity": 0.4915,
+  "lineParity": 0.2835,
+  "localParity": 0.5726,
+  "defects": 7084,
+  "invariantViolations": 0,
+  "casesWithViolations": 0
+ },
+ "groups": {
+  "layout/holdout/zh-2026-11": {
+   "cases": 120,
+   "errors": 2,
+   "scored": 118,
+   "pageParity": 0.4915,
+   "lineParity": 0.2835,
+   "localParity": 0.5726,
+   "defects": 7084,
+   "invariantViolations": 0,
+   "casesWithViolations": 0
+  }
+ },
+ "cases": [
+  {
+   "case": "layout/holdout/zh-2026-11/contract/001-dac4c47d-ef07-4721-8b0b-6abaf24b678d.docx",
+   "sha": "25e5a60c85574fd79e8cc3d0a3511a77a2f2f8215a460f16fa6561d3675fbf51",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 6,
+   "pages": {
+    "word": 6,
+    "engine": 6
+   },
+   "pageParity": true,
+   "lineParity": 0.4532,
+   "localParity": 0.8345,
+   "defects": 9,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 765.12,
+    "text": "①提供2023年至2025年（任意一年度）经审计的审计报告及",
+    "wordLines": 7,
+    "engineLines": 7
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "①提供2023年至2025年（任意一年度）经审计的审计报告及",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/004-cf9692b4ccfd44a3ac63f5ec4c90d81f.docx",
+   "sha": "99122aa6d0baf61a8fb36a2e428bd7bdc37411dfcaedc7601b3df0e9a65208c7",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 10,
+   "pages": {
+    "word": 13,
+    "engine": 10
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.3438,
+   "defects": 55,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 129.6,
+    "text": "人力资源社会保障部劳动合同示范文本（2022）",
+    "delta": -5.48
+   },
+   "category": "offset3-10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "人力资源社会保障部劳动合同示范文本（2022）",
+    "dy": -5.48
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/005-劳动合同示范文本.docx",
+   "sha": "c572423c5714d76788f66a3e4ef1653e1e033640bc2a7631a54fd29cdd059527",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 5,
+   "pages": {
+    "word": 5,
+    "engine": 5
+   },
+   "pageParity": true,
+   "lineParity": 0.0069,
+   "localParity": 0.8889,
+   "defects": 8,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 166.97,
+    "text": "全日制劳动合同书",
+    "delta": -15.48
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "全日制劳动合同书",
+    "dy": -15.43
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/006-P020260807494775957593.docx",
+   "sha": "0b140a22b58d066946334cece5dfdce89477e2b9b989ac5ed600c4b8c0b6b8c1",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 7,
+   "pages": {
+    "word": 7,
+    "engine": 7
+   },
+   "pageParity": true,
+   "lineParity": 0.0577,
+   "localParity": 0.5385,
+   "defects": 18,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 306.0,
+    "text": "1、甲方的情况:甲方(用人单位)名称填写企业营业执照",
+    "wordLines": 16,
+    "engineLines": 16
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "1、甲方的情况:甲方(用人单位)名称填写企业营业执照",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/007-P020260807494776058126.doc.docx",
+   "sha": "1e7c9c96b65c3db9ec23353e7bd7bc07926d9337e5954d5bea8783e027f0aa31",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 12,
+   "pages": {
+    "word": 16,
+    "engine": 12
+   },
+   "pageParity": false,
+   "lineParity": 0.0045,
+   "localParity": 0.3571,
+   "defects": 134,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 296.88,
+    "text": "快递从业人员",
+    "delta": -7.74
+   },
+   "category": "offset3-10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "快递从业人员",
+    "dy": -7.74
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/010-P020260807494776218860.docx",
+   "sha": "183c241485d4f56df3e616f75caf8278fdbf154b422ca8f6da96dacda6016532",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 13,
+   "pages": {
+    "word": 15,
+    "engine": 13
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.3915,
+   "defects": 159,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 179.76,
+    "text": "新就业形态劳动者劳动合同",
+    "delta": -3.85
+   },
+   "category": "offset3-10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "新就业形态劳动者劳动合同",
+    "dy": -3.85
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/011-P020260807494776266141.docx",
+   "sha": "9d67f5e08903e945d687beeec9428a4d0e971a0f2db391aa6bb2ff6ce4a23a65",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 9,
+   "pages": {
+    "word": 10,
+    "engine": 9
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.4306,
+   "defects": 104,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 159.84,
+    "text": "新就业形态劳动者书面协议",
+    "delta": -8.14
+   },
+   "category": "offset3-10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "新就业形态劳动者书面协议",
+    "dy": -8.14
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/012-P020260807494776309920.docx",
+   "sha": "bfee8625096527b14b1f893b333158228a79ee01bcf0c7d7d1d7322be9edb067",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 12,
+   "pages": {
+    "word": 13,
+    "engine": 12
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.4023,
+   "defects": 141,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 152.64,
+    "text": "新就业形态劳动者书面协议",
+    "delta": -8.14
+   },
+   "category": "offset3-10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "新就业形态劳动者书面协议",
+    "dy": -8.14
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/113-20261172273550786.docx",
+   "sha": "035b16d27e3d0f923b5cf19cf224ce59bcf2b0b4bda7ca603c64b2bb2281566c",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 17,
+   "pages": {
+    "word": 17,
+    "engine": 17
+   },
+   "pageParity": true,
+   "lineParity": 0.4189,
+   "localParity": 0.7213,
+   "defects": 77,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 498.96,
+    "text": "签订时间：",
+    "delta": 10.77
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "签订时间：",
+    "dy": 10.76
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/118-P020240724601816270777.docx",
+   "sha": "04f963d33bdbcdb6c85f660bcf51ee19dbbfc8b8f5d0ccd2d3660dad2a03680b",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 8,
+   "pages": {
+    "word": 10,
+    "engine": 8
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.3117,
+   "defects": 100,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 197.04,
+    "text": "海南省婚纱摄影服务合同",
+    "delta": -16.12
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "海南省婚纱摄影服务合同",
+    "dy": -16.12
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/119-P020250910645157906666.docx",
+   "sha": "074241d667e12697031d05c9c6fbcff65a32c5dde1c937258364bacb42dab5e4",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 16,
+   "pages": {
+    "word": 15,
+    "engine": 16
+   },
+   "pageParity": false,
+   "lineParity": 0.1361,
+   "localParity": 0.3197,
+   "defects": 83,
+   "firstDefect": {
+    "kind": "break",
+    "page": 2,
+    "y": 210.96,
+    "text": "《中华人民共和国个人信息保护法》《中华人民共和国网络安全",
+    "wordLines": 19,
+    "engineLines": 25
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 2,
+    "text": "《中华人民共和国个人信息保护法》《中华人民共和国网络安全",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/120-P020250910645158718420.docx",
+   "sha": "c3ba2e8365e03566143d0f2926f8cfef2e34e0828318a0e8fde05b0d723442c8",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 16,
+   "pages": {
+    "word": 15,
+    "engine": 16
+   },
+   "pageParity": false,
+   "lineParity": 0.1562,
+   "localParity": 0.375,
+   "defects": 51,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 328.56,
+    "text": "数据(cid:0)(cid:0)(cid:0)(cid:0)",
+    "wordLines": 1,
+    "engineLines": 1
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "数据(cid:0)(cid:0)(cid:0)(cid:0)",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/121-P020250910645159644753.docx",
+   "sha": "403ff3d365a01bc572bd8ea37bf2b0fd75c17c7ba20c01284a5ddb0492bb90fe",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 19,
+   "pages": {
+    "word": 17,
+    "engine": 19
+   },
+   "pageParity": false,
+   "lineParity": 0.099,
+   "localParity": 0.2077,
+   "defects": 62,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 328.56,
+    "text": "数据(cid:0)(cid:0)(cid:0)(cid:0)",
+    "wordLines": 1,
+    "engineLines": 1
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "数据(cid:0)(cid:0)(cid:0)(cid:0)",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/122-P020250910645160743137.docx",
+   "sha": "7bff8e981b318a59c487971a8b58948f5ad7583df10d088ae4fa82bd8d9a082c",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 20,
+   "pages": {
+    "word": 19,
+    "engine": 20
+   },
+   "pageParity": false,
+   "lineParity": 0.0618,
+   "localParity": 0.2043,
+   "defects": 115,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 328.56,
+    "text": "数据提(cid:0)合同（示范文本）",
+    "wordLines": 1,
+    "engineLines": 1
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "数据提(cid:0)合同（示范文本）",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/297-3207996.docx",
+   "sha": "d5120b30d55c2be8a4257f3867a46a5a5ad2038ce0d244fab4d5f4e0df13cab4",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 15,
+   "pages": {
+    "word": 19,
+    "engine": 15
+   },
+   "pageParity": false,
+   "lineParity": 0.0028,
+   "localParity": 0.3419,
+   "defects": 212,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 180.0,
+    "text": "合同编号：",
+    "delta": -37.45
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "合同编号：",
+    "dy": -37.47
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/298-3207996.docx",
+   "sha": "21e227a52c0db5c737c69f08d48605265e67132389befd04070967f79a895aca",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 16,
+   "pages": {
+    "word": 17,
+    "engine": 16
+   },
+   "pageParity": false,
+   "lineParity": 0.0163,
+   "localParity": 0.622,
+   "defects": 75,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 799.2,
+    "text": "1",
+    "wordLines": 1,
+    "engineLines": 0
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "1",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/299-3207996.docx",
+   "sha": "82af152195f79c334c737109a1835fdf1316d813c3ebe7f6d898af99d15b5fbf",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 9,
+   "pages": {
+    "word": 9,
+    "engine": 9
+   },
+   "pageParity": true,
+   "lineParity": 0.9222,
+   "localParity": 0.9222,
+   "defects": 9,
+   "firstDefect": {
+    "kind": "break",
+    "page": 2,
+    "y": 765.6,
+    "text": "1",
+    "wordLines": 1,
+    "engineLines": 0
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 2,
+    "text": "1",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/300-3207996.docx",
+   "sha": "cc8d7a9e37bf367584bff32d797cde74ed758c6f0252ece6fe4f12329cf7b721",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 17,
+   "pages": {
+    "word": 13,
+    "engine": 17
+   },
+   "pageParity": false,
+   "lineParity": 0.0078,
+   "localParity": 0.7266,
+   "defects": 59,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 267.6,
+    "text": "（示范文本）",
+    "delta": 5.58
+   },
+   "category": "offset3-10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "（示范文本）",
+    "dy": 5.51
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/302-3207996.docx",
+   "sha": "0b0e8e2a4601b55fa602df155d13f17a9bbcc9dc8b7199b0646500369166ec4b",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 18,
+   "pages": {
+    "word": 18,
+    "engine": 18
+   },
+   "pageParity": true,
+   "lineParity": 0.1947,
+   "localParity": 0.8289,
+   "defects": 55,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 573.6,
+    "text": "教育部",
+    "delta": -14.06
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "教育部",
+    "dy": -14.08
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/303-3207996.docx",
+   "sha": "9b4c4ae053a7ff8284055bed6d16d96343e37c5eb1a32693226c7be6935f7077",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 29,
+   "pages": {
+    "word": 32,
+    "engine": 29
+   },
+   "pageParity": false,
+   "lineParity": 0.0615,
+   "localParity": 0.6242,
+   "defects": 114,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 768.48,
+    "text": "国家旅游局",
+    "delta": 6.56
+   },
+   "category": "offset3-10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "国家旅游局",
+    "dy": 6.77
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/306-3207996.docx",
+   "sha": "873660504689ae49f250d52077a2c6caf5039d981c3fbe650da2beea5abc2c26",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 10,
+   "pages": {
+    "word": 10,
+    "engine": 10
+   },
+   "pageParity": true,
+   "lineParity": 0.3227,
+   "localParity": 0.8227,
+   "defects": 30,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 317.52,
+    "text": "（示范文本）",
+    "delta": 3.08
+   },
+   "category": "offset3-10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "（示范文本）",
+    "dy": 2.98
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/307-3207996.docx",
+   "sha": "5dde1e2bdc9f9a8d43c3393fd4cd71a1cfb7a190aa397132e06e52f769c838de",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 13,
+   "pages": {
+    "word": 11,
+    "engine": 13
+   },
+   "pageParity": false,
+   "lineParity": 0.0139,
+   "localParity": 0.7824,
+   "defects": 33,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 359.76,
+    "text": "（示范文本）",
+    "delta": 3.08
+   },
+   "category": "offset3-10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "（示范文本）",
+    "dy": 2.89
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/314-3207996.docx",
+   "sha": "7321d6ca364689d0f047a7c1dbd593aa41856d40430b947856f2b5f0ab4d8bba",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 8,
+   "pages": {
+    "word": 8,
+    "engine": 8
+   },
+   "pageParity": true,
+   "lineParity": 0.9448,
+   "localParity": 0.9387,
+   "defects": 4,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 589.68,
+    "text": "监制",
+    "delta": -3.59
+   },
+   "category": "offset3-10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "监制",
+    "dy": -3.59
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/322-3207996.docx",
+   "sha": "a1d0d57df58bf339ee85c5655a7b6b1addfad133d46db9ee365b8f7f361ecfeb",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 8,
+   "pages": {
+    "word": 8,
+    "engine": 8
+   },
+   "pageParity": true,
+   "lineParity": 0.9161,
+   "localParity": 0.9161,
+   "defects": 8,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 788.16,
+    "text": "-1-",
+    "wordLines": 1,
+    "engineLines": 0
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "-1-",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/323-3207996.docx",
+   "sha": "62b5bedf9cbf72549184fe7b9476711f6db8461e4923aa87ffc1e9800a092f5c",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 10,
+   "pages": {
+    "word": 12,
+    "engine": 10
+   },
+   "pageParity": false,
+   "lineParity": 0.0053,
+   "localParity": 0.4439,
+   "defects": 101,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 206.88,
+    "text": "东莞市农贸市场档铺租赁合同",
+    "delta": -16.17
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "东莞市农贸市场档铺租赁合同",
+    "dy": -16.16
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/324-3207996.docx",
+   "sha": "cc49eed1ce0228f08664b03cc43664f164c5b9b97fbbc48521f7b2cff6d512f5",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 7,
+   "pages": {
+    "word": 7,
+    "engine": 7
+   },
+   "pageParity": true,
+   "lineParity": 0.0,
+   "localParity": 0.304,
+   "defects": 62,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 124.32,
+    "text": "合同编号：",
+    "delta": 2.06
+   },
+   "category": "offset1-3pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "合同编号：",
+    "dy": 2.06
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/327-3207996.docx",
+   "sha": "0cded56a601699fc045af708ac021c5597abbfd8dcc32338333b840d148f1e2c",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 21,
+   "pages": {
+    "word": 21,
+    "engine": 21
+   },
+   "pageParity": true,
+   "lineParity": 0.3502,
+   "localParity": 0.7974,
+   "defects": 69,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 132.96,
+    "text": "合同编号：",
+    "delta": -11.18
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "合同编号：",
+    "dy": -11.18
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/363-P020251106391508317237.docx",
+   "sha": "cf72515396cb9ad0bb33b6de138401b683d9eb4c504ca773a96e28744bf79f91",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 1,
+   "pages": {
+    "word": 1,
+    "engine": 1
+   },
+   "pageParity": true,
+   "lineParity": 0.0312,
+   "localParity": 0.8125,
+   "defects": 3,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 120.72,
+    "text": "（适用预算金额<80万元）",
+    "delta": -2.68
+   },
+   "category": "offset1-3pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "（适用预算金额<80万元）",
+    "dy": -2.23
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/364-P020251106391508569535.docx",
+   "sha": "780082263a1e57af0c67ce35d526de9490cf01e05623cc69daf1af8a0a0ac500",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 2,
+   "pages": {
+    "word": 2,
+    "engine": 2
+   },
+   "pageParity": true,
+   "lineParity": 0.0,
+   "localParity": 0.5397,
+   "defects": 12,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 93.6,
+    "text": "湖南农业大学非政府采购需求书（(cid:0)(cid:0)类",
+    "wordLines": 2,
+    "engineLines": 2
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "湖南农业大学非政府采购需求书（(cid:0)(cid:0)类",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/365-P020251106391508813997.docx",
+   "sha": "f048034f6d3b6c66b3ea1891d3d5d406873bf03177b9bd28a7bb6adb07f2ba9b",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 2,
+   "pages": {
+    "word": 2,
+    "engine": 2
+   },
+   "pageParity": true,
+   "lineParity": 0.0889,
+   "localParity": 0.6889,
+   "defects": 7,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 120.72,
+    "text": "（适用预算金额(cid:0)80万元）",
+    "wordLines": 1,
+    "engineLines": 1
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "（适用预算金额(cid:0)80万元）",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/contract/366-P020251106391509068273.docx",
+   "sha": "b24ad59bf96da9f54c41e8e9b3f239c5b34b01d62eab48d4298ce133bf8cf6a2",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 11,
+   "pages": {
+    "word": 6,
+    "engine": 11
+   },
+   "pageParity": false,
+   "lineParity": 0.0256,
+   "localParity": 0.2265,
+   "defects": 39,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 93.6,
+    "text": "湖南农业大学政府采购需求书（(cid:0)(cid:0)类）",
+    "wordLines": 2,
+    "engineLines": 2
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "湖南农业大学政府采购需求书（(cid:0)(cid:0)类）",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/corp/020-annual-report-template.docx",
+   "sha": "df045f6d3d8c3f045e8c886744a96c6b0c8d9d7174a4ede01872edbd0325e02a",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 2,
+   "pages": {
+    "word": 2,
+    "engine": 2
+   },
+   "pageParity": true,
+   "lineParity": 0.0,
+   "localParity": 0.4483,
+   "defects": 15,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 74.16,
+    "text": "AnnualReport",
+    "delta": -0.91
+   },
+   "category": "offset<1pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "AnnualReport",
+    "dy": -0.91
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/corp/141-2026101504192795790.docx",
+   "sha": "12e8d99689c892c16ae09e28f75a611a42b9150a80073c8765d46dedc641be0f",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 1,
+   "pages": {
+    "word": 1,
+    "engine": 1
+   },
+   "pageParity": true,
+   "lineParity": 0.7576,
+   "localParity": 0.9394,
+   "defects": 2,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 590.88,
+    "text": "项目经历",
+    "delta": 0.65
+   },
+   "category": "offset<1pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "l客户按揭资料的收集，协助客户办理贷款；",
+    "dy": -0.51
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/corp/142-2026101504192746251.docx",
+   "sha": "6cfed27eadd1ce0f918649327da9c6782ab488d3263a18afb5cf3bb3a1788912",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 1,
+   "pages": {
+    "word": 1,
+    "engine": 1
+   },
+   "pageParity": true,
+   "lineParity": 0.8667,
+   "localParity": 0.9333,
+   "defects": 3,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 123.77,
+    "text": "州",
+    "wordLines": 0,
+    "engineLines": 1
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "州",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/corp/369-P020251106590976351622.docx",
+   "sha": "f637b735ed34ca14eb38dcf21d88be6ad18a5d5c70d9eecad034bb3626b3bf01",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 55,
+   "pages": {
+    "word": 51,
+    "engine": 55
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.6267,
+   "defects": 240,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 135.12,
+    "text": "(cid:0)(cid:0)(cid:0)(cid:0)(c",
+    "wordLines": 2,
+    "engineLines": 1
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "(cid:0)(cid:0)(cid:0)(cid:0)(c",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/corp/371-安徽省进出口商会入会申请表.docx",
+   "sha": "c829665576b7e182098f05e0223b34bb1209e19fa0a3ae8d40552742aa3a303c",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 1,
+   "pages": {
+    "word": 1,
+    "engine": 1
+   },
+   "pageParity": true,
+   "lineParity": 0.8571,
+   "localParity": 0.8571,
+   "defects": 4,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 97.44,
+    "text": "安徽省进出口商会入会申请表",
+    "delta": -2.09
+   },
+   "category": "offset1-3pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "安徽省进出口商会入会申请表",
+    "dy": -2.09
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/corp/373-9905294.docx",
+   "sha": "2f508bae8e0f3ce48ba4ee3fd4e365b2c2b80085abab4dc67d144d2bf9faf2eb",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 27,
+   "pages": {
+    "word": 30,
+    "engine": 27
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.4446,
+   "defects": 304,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 93.84,
+    "text": "公司章程范本",
+    "delta": 11.76
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "公司章程范本",
+    "dy": 11.76
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/corp/374-9905101.docx",
+   "sha": "2f971b7e6b4ab6681a163da901e8ffc3b6600e83c665c074fcce0090ddb5d3e3",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 23,
+   "pages": {
+    "word": 26,
+    "engine": 23
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.4342,
+   "defects": 271,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 93.84,
+    "text": "公司章程范本",
+    "delta": 11.76
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "公司章程范本",
+    "dy": 11.76
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/corp/375-b9e1c9d1-36e6-4ba0-a7dc-da62bcd45f4c.docx",
+   "sha": "ccbc84a40d77b0ed45175894cd5934e9437c93e6b663c59a876af357fdf6ddf0",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 2,
+   "pages": {
+    "word": 2,
+    "engine": 2
+   },
+   "pageParity": true,
+   "lineParity": 1.0,
+   "localParity": 1.0,
+   "defects": 0,
+   "firstDefect": null,
+   "category": null,
+   "first": null,
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/corp/378-d15e3c93aded46318eb5d22568c5ca04.docx",
+   "sha": "d9ec7ec5090e08d6aea898ae0374cb6babd1f49a9aae744e658dad76ccaa2784",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 3,
+   "pages": {
+    "word": 3,
+    "engine": 3
+   },
+   "pageParity": true,
+   "lineParity": 0.8519,
+   "localParity": 0.8519,
+   "defects": 8,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 297.96,
+    "text": "企业营业",
+    "wordLines": 0,
+    "engineLines": 1
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "企业营业",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/032-P020201009469706452962.docx",
+   "sha": "68e632ba196122575e3e9b04db8641092e657bea8b965c3137bf30431a998f0b",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 2,
+   "pages": {
+    "word": 2,
+    "engine": 2
+   },
+   "pageParity": true,
+   "lineParity": 0.625,
+   "localParity": 0.65,
+   "defects": 4,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 243.84,
+    "text": "玉米收获气象适宜等级预报Z_AGME_C_BABJ_YYYY",
+    "wordLines": 6,
+    "engineLines": 12
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "玉米收获气象适宜等级预报Z_AGME_C_BABJ_YYYY",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/033-P020201009469706607207.docx",
+   "sha": "fa1a44f8bb2ce2e4f04bbae80a433711766d799cf9b9c35ae5d302b1646d7b7a",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 2,
+   "pages": {
+    "word": 2,
+    "engine": 2
+   },
+   "pageParity": true,
+   "lineParity": 0.1644,
+   "localParity": 0.6986,
+   "defects": 11,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 287.52,
+    "text": "玉米、棉花、大豆、杂",
+    "wordLines": 3,
+    "engineLines": 3
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "玉米、棉花、大豆、杂",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/034-P020201009469706776428.docx",
+   "sha": "ed9bc713ea9abfc710666104d420e828b437e8c2d2d542a0a46803ecb80cb3d9",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 3,
+   "pages": {
+    "word": 3,
+    "engine": 3
+   },
+   "pageParity": true,
+   "lineParity": 0.7867,
+   "localParity": 0.7867,
+   "defects": 3,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 268.32,
+    "text": "气象部门订正后正式发布的08时次格点预报产品，具体选",
+    "wordLines": 6,
+    "engineLines": 6
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "气象部门订正后正式发布的08时次格点预报产品，具体选",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/035-P020201009469706950178.docx",
+   "sha": "c2864e1e62c7c9d478572d5a47e3503663df546199d4b851e15455ac6a40ab10",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 1,
+   "pages": {
+    "word": 1,
+    "engine": 1
+   },
+   "pageParity": true,
+   "lineParity": 0.9167,
+   "localParity": 0.9167,
+   "defects": 1,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 159.12,
+    "text": "起始经度起始纬度终止经度终止纬度",
+    "wordLines": 3,
+    "engineLines": 3
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "起始经度起始纬度终止经度终止纬度",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/036-2026070210375024077.docx",
+   "sha": "801b768a15e18fec6246decf6467c65754365884f39d1b7a58175f76c7b40660",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 3,
+   "pages": {
+    "word": 3,
+    "engine": 3
+   },
+   "pageParity": true,
+   "lineParity": 0.5,
+   "localParity": 0.5,
+   "defects": 7,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 301.92,
+    "text": "项目姓名职务联系电话",
+    "delta": 2.43
+   },
+   "category": "offset1-3pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "项目姓名职务联系电话",
+    "dy": 2.44
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/043-P020260911563044135757.docx",
+   "sha": "b8f955f0b8dec21ef9988cc32680c4de0b6c657795539a65fee70b43d1923548",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 20,
+   "pages": {
+    "word": 20,
+    "engine": 20
+   },
+   "pageParity": true,
+   "lineParity": 0.8776,
+   "localParity": 0.8776,
+   "defects": 20,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 770.16,
+    "text": "-1-",
+    "wordLines": 1,
+    "engineLines": 0
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "-1-",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/044-P020260523662203963142.docx",
+   "sha": "e1530597499e059325934db6fe05149ed276aa531cad4e0222f10e79921aa48f",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 7,
+   "pages": {
+    "word": 7,
+    "engine": 7
+   },
+   "pageParity": true,
+   "lineParity": 0.0121,
+   "localParity": 0.0727,
+   "defects": 24,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 209.76,
+    "text": "2025年中央财政继续通过农业经营主体能力提升资金",
+    "wordLines": 8,
+    "engineLines": 7
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "2025年中央财政继续通过农业经营主体能力提升资金",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/045-670D53D531C564628FA7C3E9A4B9EF60.docx",
+   "sha": "14fef00274cebb6cfec19ec57db89a8c8fa5b83535f234d8e60e092a509b7335",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 9,
+   "pages": {
+    "word": 9,
+    "engine": 9
+   },
+   "pageParity": true,
+   "lineParity": 0.4857,
+   "localParity": 0.6057,
+   "defects": 69,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 774.96,
+    "text": "——",
+    "delta": 1.63
+   },
+   "category": "offset1-3pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "——",
+    "dy": 1.58
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/046-2025_E5_B9_B4_E8_A2_81_E5_BA_84_E4_B9_A1_E6_96_B9_E6_B2_9F_E.docx",
+   "sha": "55eebf7a7fe8c82a5bc76ebde25664e985de7ed661cb0e703dc43a0f44ba59f4",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 7,
+   "pages": {
+    "word": 8,
+    "engine": 7
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.3619,
+   "defects": 48,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 497.04,
+    "text": "袁政文〔2025〕00号签发人：李海东",
+    "delta": -72.14
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "袁政文〔2025〕00号签发人：李海东",
+    "dy": -72.14
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/047-2025_E5_B9_B4_E8_A2_81_E5_BA_84_E4_B9_A1_E6_96_B9_E6_B2_9F_E.docx",
+   "sha": "80d61aefd7f73c326e212948c3f6462d524f7af0c05bd60b04d47c51f61a98c0",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 8,
+   "pages": {
+    "word": 9,
+    "engine": 8
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.2796,
+   "defects": 42,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 476.88,
+    "text": "袁政文〔2025〕00号签发人：李海东",
+    "delta": -63.98
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "袁政文〔2025〕00号签发人：李海东",
+    "dy": -63.98
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/048-2025_E5_B9_B4_E8_A2_81_E5_BA_84_E9_95_87_E9_83_91_E5_86_B2_E.docx",
+   "sha": "b15ddd0fdadb1e0022a80bab4f565d6c27a291d8304abce8e8a25beb10e63bf4",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 6,
+   "pages": {
+    "word": 7,
+    "engine": 6
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.1647,
+   "defects": 36,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 538.08,
+    "text": "袁政文〔2025〕00号签发人：李海东",
+    "delta": -80.18
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "袁政文〔2025〕00号签发人：李海东",
+    "dy": -80.18
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/049-2025_E5_B9_B4_E8_A2_81_E5_BA_84_E9_95_87_E9_99_88_E5_9E_B4_E.docx",
+   "sha": "1eff6afb14d982d0ac575ffcddd65ab051e8fa10df20c624e9e4936501c4b30b",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 7,
+   "pages": {
+    "word": 8,
+    "engine": 7
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.1562,
+   "defects": 53,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 538.08,
+    "text": "袁政文〔2025〕00号签发人：李海东",
+    "delta": -80.18
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "袁政文〔2025〕00号签发人：李海东",
+    "dy": -80.18
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/050-2025_E5_B9_B4_E6_96_B0_E5_AF_86_E5_B8_82_E8_A2_81_E5_BA_84_E.docx",
+   "sha": "065f55595e3a107beb40724317358a007358d4ea2ded6356e9f6f45d375d29f0",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 6,
+   "pages": {
+    "word": 7,
+    "engine": 6
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.0326,
+   "defects": 37,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 538.08,
+    "text": "袁政文〔2025〕00号签发人：李海东",
+    "delta": -80.18
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "袁政文〔2025〕00号签发人：李海东",
+    "dy": -80.18
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/051-2025_E5_B9_B4_E6_96_B0_E5_AF_86_E5_B8_82_E8_A2_81_E5_BA_84_E.docx",
+   "sha": "e3fccb10e3dba39e134f3763ef3b9795fe2c07c4901d0802de8d66353f64fbb9",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 6,
+   "pages": {
+    "word": 8,
+    "engine": 6
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.4706,
+   "defects": 37,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 505.2,
+    "text": "袁政文〔2025〕00号签发人：李海东",
+    "delta": -80.2
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "袁政文〔2025〕00号签发人：李海东",
+    "dy": -80.2
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/052-2025_E5_B9_B4_E6_96_B0_E5_AF_86_E5_B8_82_E8_A2_81_E5_BA_84_E.docx",
+   "sha": "c3a9d046af5b6828c18b070b09a56e000fd19a25efeeedc557ec69d75c968f80",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 7,
+   "pages": {
+    "word": 7,
+    "engine": 7
+   },
+   "pageParity": true,
+   "lineParity": 0.0,
+   "localParity": 0.5114,
+   "defects": 36,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 505.2,
+    "text": "袁政文〔2025〕00号签发人：李海东",
+    "delta": -80.2
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "袁政文〔2025〕00号签发人：李海东",
+    "dy": -80.2
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/053-2025_E5_B9_B4_E8_A2_81_E5_BA_84_E4_B9_A1_E7_9F_B3_E8_B4_AF_E.docx",
+   "sha": "f20f014590e84a460ad3f6ae9c659cc487b4ee32d77e3fb6b6339f006a4d5274",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 7,
+   "pages": {
+    "word": 9,
+    "engine": 7
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.1124,
+   "defects": 37,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 538.08,
+    "text": "袁政文〔2025〕00号签发人：李海东",
+    "delta": -80.18
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "袁政文〔2025〕00号签发人：李海东",
+    "dy": -80.18
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/054-2025_E5_B9_B4_E8_A2_81_E5_BA_84_E4_B9_A1_E5_BC_A0_E5_8D_8E_E.docx",
+   "sha": "8619f7825020be40f771ac63813c51d8ee974c97b5fd32ecb111d757fe08df61",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 6,
+   "pages": {
+    "word": 6,
+    "engine": 6
+   },
+   "pageParity": true,
+   "lineParity": 0.0319,
+   "localParity": 0.3936,
+   "defects": 27,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 558.72,
+    "text": "袁庄镇人民政府",
+    "delta": -2.05
+   },
+   "category": "offset1-3pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "袁庄镇人民政府",
+    "dy": -2.07
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/055-P020260709397515988185.docx",
+   "sha": "bb9d7da500d6894baa6709aa5eb869a5f59895ed708ec67ff5bcd67884205288",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 9,
+   "pages": {
+    "word": 9,
+    "engine": 9
+   },
+   "pageParity": true,
+   "lineParity": 0.9045,
+   "localParity": 0.9045,
+   "defects": 11,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 531.12,
+    "text": "的改革方向和政策规定过渡，切实增强失能人员及其家庭的获得",
+    "wordLines": 3,
+    "engineLines": 3
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "的改革方向和政策规定过渡，切实增强失能人员及其家庭的获得",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/056-P020260709397516118751.docx",
+   "sha": "6919adf49eb6ed8bb0b2db9d59b7aba53937dc42d198a8e262e55ea185caf966",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 4,
+   "pages": {
+    "word": 4,
+    "engine": 4
+   },
+   "pageParity": true,
+   "lineParity": 0.8421,
+   "localParity": 0.8421,
+   "defects": 5,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 502.32,
+    "text": "明确的改革方向和政策规定过渡。为了贯彻落实《意见》和省《实",
+    "wordLines": 3,
+    "engineLines": 3
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "明确的改革方向和政策规定过渡。为了贯彻落实《意见》和省《实",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/057-P020240104392327543579.docx",
+   "sha": "53e0b64fe43039903e819a1e0dd6f0cd7a7bfd556b65e2601816e7b66231e6d5",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 39,
+   "pages": {
+    "word": 48,
+    "engine": 39
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.1885,
+   "defects": 331,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 126.96,
+    "text": "武功县贯彻《全民科学素质行动规划纲要",
+    "wordLines": 1,
+    "engineLines": 0
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "武功县贯彻《全民科学素质行动规划纲要",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/059-文化和旅游标准化工作管理办法_.docx",
+   "sha": "2ffbca0392de8e796485ffd6c52131fd95cb8fa22fe8a2b0e543b15caf6cbd7b",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 9,
+   "pages": {
+    "word": 9,
+    "engine": 9
+   },
+   "pageParity": true,
+   "lineParity": 0.9744,
+   "localParity": 0.9744,
+   "defects": 1,
+   "firstDefect": {
+    "kind": "break",
+    "page": 9,
+    "y": 92.64,
+    "text": "第二十七条各级文化和旅游行政部门对在标准化工作中做出显著成",
+    "wordLines": 4,
+    "engineLines": 4
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 9,
+    "text": "第二十七条各级文化和旅游行政部门对在标准化工作中做出显著成",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/060-_E6_B0_B4_E5_88_A9_E9_83_A853_E5_8F_B7_E4_BB_A4_E3_80_8A_E7_.docx",
+   "sha": "d60d55e46407e9c3d0b3ba913ec23c71a3d1d25db8072a67d0b6ccb1fa77250e",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 5,
+   "pages": {
+    "word": 5,
+    "engine": 5
+   },
+   "pageParity": true,
+   "lineParity": 0.0,
+   "localParity": 0.9299,
+   "defects": 11,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 94.8,
+    "text": "水利部令第53号发布《生产建设项目水土保持",
+    "delta": -1.68
+   },
+   "category": "offset1-3pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "水利部令第53号发布《生产建设项目水土保持",
+    "dy": -1.68
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/061-_E7_94_9F_E6_B4_BB_E9_A5_AE_E7_94_A8_E6_B0_B4_E5_8D_AB_E7_94.docx",
+   "sha": "44fc713191898749e4954f939f2c1c052348351d1ef94d2c326f8e9506b441aa",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 12,
+   "pages": {
+    "word": 12,
+    "engine": 12
+   },
+   "pageParity": true,
+   "lineParity": 0.0,
+   "localParity": 0.9647,
+   "defects": 5,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 126.24,
+    "text": "【行政法规】",
+    "delta": 2.38
+   },
+   "category": "offset1-3pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "【行政法规】",
+    "dy": 2.38
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/063-ff49404ab98e17af78cecb772254dc2c.docx",
+   "sha": "cd7d8c9b336b9beb7e020e71e1e5fd7aa61a5baa751f84448f7ac320af6eb2df",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 3,
+   "pages": {
+    "word": 3,
+    "engine": 3
+   },
+   "pageParity": true,
+   "lineParity": 0.6102,
+   "localParity": 0.6102,
+   "defects": 2,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 412.8,
+    "text": "深化改革若干重大问题的决定》提出“要完善规范性文件合",
+    "wordLines": 19,
+    "engineLines": 19
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "深化改革若干重大问题的决定》提出“要完善规范性文件合",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-doc/064-cf7d4f1e295e43d0991d8132f94d8451.docx",
+   "sha": "a309b8c43969f9570cd5de67c9619daa4f334b462ce718f5540e41bddd47ef7f",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 23,
+   "pages": {
+    "word": 23,
+    "engine": 23
+   },
+   "pageParity": true,
+   "lineParity": 0.3687,
+   "localParity": 0.7355,
+   "defects": 96,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 99.6,
+    "text": "实物地质资料管理办法",
+    "delta": -3.8
+   },
+   "category": "offset3-10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "实物地质资料管理办法",
+    "dy": -3.8
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/068-P020230609277050319832.docx",
+   "sha": "d762668d4b599bf11aee6809037768b2f389d6e56f4b51fb8b84414de40ebe32",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 1,
+   "pages": {
+    "word": 2,
+    "engine": 1
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.0,
+   "defects": 24,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 102.56,
+    "text": "附件2",
+    "delta": -0.99
+   },
+   "category": "offset<1pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "附件2",
+    "dy": -0.99
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/069-P020260817356379356498.docx",
+   "sha": "b85c62e739e7a341761906e8723d18ee547cd78c0cd9983f631f360003ae2a0d",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 2,
+   "pages": {
+    "word": 2,
+    "engine": 2
+   },
+   "pageParity": true,
+   "lineParity": 1.0,
+   "localParity": 1.0,
+   "defects": 0,
+   "firstDefect": null,
+   "category": null,
+   "first": null,
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/070-P020260609366188735472.docx",
+   "sha": "2cef345da31a4e25879cd3f71139d7c186d7fe1e925284f7c0b51a67973cf8ed",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 12,
+   "pages": {
+    "word": 3,
+    "engine": 12
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.0,
+   "defects": 4,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 93.12,
+    "text": "附件1",
+    "delta": 2.04
+   },
+   "category": "offset1-3pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "附件1",
+    "dy": 2.04
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/072-2025111109293887610.docx",
+   "sha": "7dd25f57ed98641bf59167fb126185928ac5d2a1326d5c105246829319a4a4d0",
+   "group": "layout/holdout/zh-2026-11",
+   "error": "engine: tencent adapter: render timed out after 120s"
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/073-2025111109293813035.docx",
+   "sha": "154e4437b984d991aad79da8235deeb3ee834d297eee4d1ff83b834010b695ef",
+   "group": "layout/holdout/zh-2026-11",
+   "error": "engine: tencent adapter: render timed out after 120s"
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/076-202505211044060842.docx",
+   "sha": "61c501d1ebfb7e88d357a09cf2de069efbfda30acb20febadafc3e2b66df3ebf",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 3,
+   "pages": {
+    "word": 2,
+    "engine": 3
+   },
+   "pageParity": false,
+   "lineParity": 0.0238,
+   "localParity": 0.4048,
+   "defects": 24,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 123.84,
+    "text": "填表时间：年月日",
+    "wordLines": 1,
+    "engineLines": 3
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "填表时间：年月日",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/077-P020250625341802478871.docx",
+   "sha": "2e99fcb9070984ae8b4e13076743cd46064160dd9e1524a2909fa787048f6ef6",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 13,
+   "pages": {
+    "word": 11,
+    "engine": 13
+   },
+   "pageParity": false,
+   "lineParity": 0.3952,
+   "localParity": 0.503,
+   "defects": 74,
+   "firstDefect": {
+    "kind": "position",
+    "page": 4,
+    "y": 131.52,
+    "text": "姓名性别",
+    "delta": -0.57
+   },
+   "category": "offset<1pt",
+   "first": {
+    "kind": "position",
+    "page": 5,
+    "text": "仲裁员任职条件",
+    "dy": -0.56
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/079-1788836961567786.docx",
+   "sha": "10560632fd36cce964b24640cd21e3181b42adf6a1b5350179e800b8927e9779",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 5,
+   "pages": {
+    "word": 5,
+    "engine": 5
+   },
+   "pageParity": true,
+   "lineParity": 0.5596,
+   "localParity": 0.844,
+   "defects": 18,
+   "firstDefect": {
+    "kind": "break",
+    "page": 2,
+    "y": 471.12,
+    "text": "简介中要包括如下内容：第一段：成立时间+性质（基金会？社团？",
+    "wordLines": 1,
+    "engineLines": 2
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 2,
+    "text": "简介中要包括如下内容：第一段：成立时间+性质（基金会？社团？",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/080-1788836975312288.docx",
+   "sha": "e13ce1e2c3af7f3ecce25f33c93795fc5fe183f60a05cb8740a30f6921536132",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 4,
+   "pages": {
+    "word": 4,
+    "engine": 4
+   },
+   "pageParity": true,
+   "lineParity": 0.9604,
+   "localParity": 0.9604,
+   "defects": 4,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 778.8,
+    "text": "1",
+    "wordLines": 1,
+    "engineLines": 0
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "1",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/081-1788836983183777.docx",
+   "sha": "f91c71e1ad93985361ba0cdf144ed3f87fa708bab1a3bffbbcc0b3ceb987158d",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 3,
+   "pages": {
+    "word": 3,
+    "engine": 3
+   },
+   "pageParity": true,
+   "lineParity": 1.0,
+   "localParity": 1.0,
+   "defects": 0,
+   "firstDefect": null,
+   "category": null,
+   "first": null,
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/104-P020260127592685666724.docx",
+   "sha": "9bcab877ad6ac5471cc7f2e6baf32bb7fa2d57274bbb6159739d68ebdf2fb33f",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 2,
+   "pages": {
+    "word": 2,
+    "engine": 2
+   },
+   "pageParity": true,
+   "lineParity": 0.32,
+   "localParity": 0.64,
+   "defects": 9,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 111.73,
+    "text": "2025年度行政执法数据统计表",
+    "wordLines": 0,
+    "engineLines": 1
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "2025年度行政执法数据统计表",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/107-5902626905bc4561823e2fe5586279b1.docx",
+   "sha": "968f98951b9c33d4ad709d99474daca77432e3eec7b19d30297fc4a851f8ab57",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 38,
+   "pages": {
+    "word": 36,
+    "engine": 38
+   },
+   "pageParity": false,
+   "lineParity": 0.0616,
+   "localParity": 0.847,
+   "defects": 133,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 192.24,
+    "text": "劳动工资统计报表",
+    "wordLines": 6,
+    "engineLines": 0
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "劳动工资统计报表",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/109-P020220107613508860326.docx",
+   "sha": "657ba46a871a31d9b25349e7434c8f2b4cf17be7f5e647dc8faf99976b49a20b",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 4,
+   "pages": {
+    "word": 4,
+    "engine": 4
+   },
+   "pageParity": true,
+   "lineParity": 0.2,
+   "localParity": 0.4316,
+   "defects": 32,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 404.4,
+    "text": "2.“受理数量”、“许可的数量”、“不予许可的数量”、“撤销",
+    "wordLines": 2,
+    "engineLines": 2
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "2.“受理数量”、“许可的数量”、“不予许可的数量”、“撤销",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/110-9d16130d93024acbbbcfa79f699ce03e.docx",
+   "sha": "efd771a9c86b276f90f5789cfef7da8822bb2e92184d4d4f3af23c056f59ffb3",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 2,
+   "pages": {
+    "word": 2,
+    "engine": 2
+   },
+   "pageParity": true,
+   "lineParity": 0.0476,
+   "localParity": 0.0714,
+   "defects": 37,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 154.96,
+    "text": "（2024年1月-2024年3月）",
+    "delta": -32.7
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "（2024年1月-2024年3月）",
+    "dy": -32.7
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/112-W020220228509636523695.docx",
+   "sha": "d80611f774faa2355e8fd37a7fb0d135cf46dd54407ac68efe20d6825294d4b8",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 1,
+   "pages": {
+    "word": 1,
+    "engine": 1
+   },
+   "pageParity": true,
+   "lineParity": 1.0,
+   "localParity": 1.0,
+   "defects": 0,
+   "firstDefect": null,
+   "category": null,
+   "first": null,
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/380-77718594-227b-4f1d-8081-d2ecf8eb30aa.docx",
+   "sha": "769ea0b7084cfa7d8a8de332056615c7188db01489a5cd8241122670607f49f7",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 1,
+   "pages": {
+    "word": 1,
+    "engine": 1
+   },
+   "pageParity": true,
+   "lineParity": 0.5333,
+   "localParity": 0.7333,
+   "defects": 3,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 181.68,
+    "text": "公⺠⾝份号码",
+    "wordLines": 2,
+    "engineLines": 3
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "公⺠⾝份号码",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/382-隆昌市慈善总会2026年度蜀善有你_情暖万家新年关爱慰问活动拟慰问对象花名册.docx",
+   "sha": "37d34c3956b4ad67d65560c1763bb3c8e270847502f9aa2d3cf78f5c0f81d457",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 4,
+   "pages": {
+    "word": 5,
+    "engine": 4
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.0635,
+   "defects": 8,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 221.28,
+    "text": "隆昌市慈善总会2026年度“蜀善有你·情暖万家”",
+    "delta": 2.74
+   },
+   "category": "offset1-3pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "隆昌市慈善总会2026年度“蜀善有你·情暖万家”",
+    "dy": 2.74
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/383-P020201211624783478760.docx",
+   "sha": "d4d7934a1287309a2d0c30705052762caee1f81e81a059cb6b2a845dc6cd4bd0",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 7,
+   "pages": {
+    "word": 7,
+    "engine": 7
+   },
+   "pageParity": true,
+   "lineParity": 0.7987,
+   "localParity": 0.7987,
+   "defects": 3,
+   "firstDefect": {
+    "kind": "break",
+    "page": 4,
+    "y": 626.88,
+    "text": "1、基本工资:病假累计在2个月以内的,发给原基本工资。病",
+    "wordLines": 14,
+    "engineLines": 14
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 4,
+    "text": "1、基本工资:病假累计在2个月以内的,发给原基本工资。病",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/384-P020201211624784546072.docx",
+   "sha": "522b679cf5b1300170a74d089e0694e6151992c29513aa966dee25d7e9207d92",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 1,
+   "pages": {
+    "word": 1,
+    "engine": 1
+   },
+   "pageParity": true,
+   "lineParity": 0.0,
+   "localParity": 0.875,
+   "defects": 2,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 107.04,
+    "text": "考勤签到表",
+    "delta": -3.84
+   },
+   "category": "offset3-10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "考勤签到表",
+    "dy": -3.84
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/gov-table/385-860736.docx",
+   "sha": "27ac02c02077693ea04764ec9274b98d7dd2056274a779bb0c3fa63b529ebdde",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 7,
+   "pages": {
+    "word": 7,
+    "engine": 7
+   },
+   "pageParity": true,
+   "lineParity": 0.4486,
+   "localParity": 0.729,
+   "defects": 17,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 135.36,
+    "text": "B204-1表台账使用说明",
+    "delta": -2.01
+   },
+   "category": "offset1-3pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "B204-1表台账使用说明",
+    "dy": -2.01
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/journal/460-投稿模板_20260926_.docx",
+   "sha": "562dc7c9ae0c0443499b96720365de677c24e6a0ed3eb2b620fb928eff931d6b",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 4,
+   "pages": {
+    "word": 5,
+    "engine": 4
+   },
+   "pageParity": false,
+   "lineParity": 0.0092,
+   "localParity": 0.2423,
+   "defects": 79,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 86.88,
+    "text": "《智能科学与工程学报》",
+    "delta": -7.32
+   },
+   "category": "offset3-10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "《智能科学与工程学报》",
+    "dy": -7.32
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/journal/462-JZUS-A_sample_2026__after_acceptance.docx",
+   "sha": "7d5688d00c02e3237576159a8a0e5515533441a02a6751958b89a345117182b6",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 8,
+   "pages": {
+    "word": 9,
+    "engine": 8
+   },
+   "pageParity": false,
+   "lineParity": 0.0052,
+   "localParity": 0.012,
+   "defects": 146,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 126.96,
+    "text": "ResearchArticle",
+    "delta": 1.52
+   },
+   "category": "offset1-3pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "ResearchArticle",
+    "dy": 1.3
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/journal/465-EITEE_Word_Sample.docx",
+   "sha": "aa6bc6ccac541d10cf88323291b2aebe1e1204a8483006f92e92430363b10a34",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 4,
+   "pages": {
+    "word": 4,
+    "engine": 4
+   },
+   "pageParity": true,
+   "lineParity": 0.0062,
+   "localParity": 0.3447,
+   "defects": 110,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 62.88,
+    "text": "ENGINEERINGInformationTechnolo",
+    "delta": 0.74
+   },
+   "category": "offset<1pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "ENGINEERINGInformationTechnolo",
+    "dy": 0.83
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/journal/466-EITEE_Word_ESM_template.docx",
+   "sha": "be00dd56be73cc6f0243760e6ed3faad252ae0186dd29a67ddabb090636eee45",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 7,
+   "pages": {
+    "word": 6,
+    "engine": 7
+   },
+   "pageParity": false,
+   "lineParity": 0.0213,
+   "localParity": 0.3489,
+   "defects": 54,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 91.68,
+    "text": "1",
+    "wordLines": 1,
+    "engineLines": 0
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "1",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/journal/467-Questionnaires_Form.docx",
+   "sha": "a6a824b5a4ed44cc4a0c2fd45c85503f383fc70712d3f7159d92347f6cf92783",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 1,
+   "pages": {
+    "word": 1,
+    "engine": 1
+   },
+   "pageParity": true,
+   "lineParity": 0.3673,
+   "localParity": 0.7143,
+   "defects": 8,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 321.84,
+    "text": "Availabilityoforiginaldatasupp",
+    "wordLines": 2,
+    "engineLines": 2
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "Availabilityoforiginaldatasupp",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/journal/471-20260623103704691.docx",
+   "sha": "de8b80441adc022c11d390c074df9b913fbc2252cb11b97ba3ce05c183df5bc8",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 19,
+   "pages": {
+    "word": 19,
+    "engine": 19
+   },
+   "pageParity": true,
+   "lineParity": 0.1996,
+   "localParity": 0.7135,
+   "defects": 113,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 39.84,
+    "text": "IC8S65.160",
+    "wordLines": 1,
+    "engineLines": 2
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "IC8S65.160",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/journal/472-20260623103713428.docx",
+   "sha": "f6f53b7d291dbeacbcf803a194b7565aabe7df3258fea051cc3977aaabf4e440",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 13,
+   "pages": {
+    "word": 13,
+    "engine": 13
+   },
+   "pageParity": true,
+   "lineParity": 0.0664,
+   "localParity": 0.6678,
+   "defects": 39,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 94.8,
+    "text": "《打叶复烤参数化控制技术指南》编制说明",
+    "delta": -1.68
+   },
+   "category": "offset1-3pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "《打叶复烤参数化控制技术指南》编制说明",
+    "dy": -1.68
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/journal/475-20250702105828397.docx",
+   "sha": "5811fab3d331564c12df564b57ee2bd5b3fbd7d269ba4bf54661ec70e25395d1",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 15,
+   "pages": {
+    "word": 15,
+    "engine": 15
+   },
+   "pageParity": true,
+   "lineParity": 0.2551,
+   "localParity": 0.6263,
+   "defects": 63,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 39.84,
+    "text": "ICS165.60",
+    "delta": 1.29
+   },
+   "category": "offset1-3pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "ICS165.60",
+    "dy": 1.29
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/journal/480-20250425145600939.docx",
+   "sha": "3b7f459784f17deae3304d65d7455ba922bbba4fcd69c2b043dc75907c323d27",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 22,
+   "pages": {
+    "word": 20,
+    "engine": 22
+   },
+   "pageParity": false,
+   "lineParity": 0.0562,
+   "localParity": 0.6138,
+   "defects": 121,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 144.74,
+    "text": "1概述",
+    "wordLines": 2,
+    "engineLines": 2
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "1概述",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/journal/482-202511915365739103.docx",
+   "sha": "5c420f9641cc8f8402b52b2b36761835d8304abec1c91447d0012efb9acaf0dd",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 10,
+   "pages": {
+    "word": 11,
+    "engine": 10
+   },
+   "pageParity": false,
+   "lineParity": 0.015,
+   "localParity": 0.57,
+   "defects": 53,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 38.16,
+    "text": "ICS",
+    "delta": 91.83
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "ICS",
+    "dy": 91.83
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/journal/483-202511915365700894.docx",
+   "sha": "d31d99d855ab08af5d26cf6c2f6d9f85bb96e58ad43f7359841b4d0a1030c135",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 8,
+   "pages": {
+    "word": 9,
+    "engine": 8
+   },
+   "pageParity": false,
+   "lineParity": 0.0152,
+   "localParity": 0.3655,
+   "defects": 62,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 38.16,
+    "text": "ICS",
+    "delta": 91.83
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "ICS",
+    "dy": 91.83
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/journal/484-202511915365775403.docx",
+   "sha": "73ae8cb15b52d7d7777d8717a21532e371399c04c53e588a61d50026fbf23024",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 17,
+   "pages": {
+    "word": 15,
+    "engine": 17
+   },
+   "pageParity": false,
+   "lineParity": 0.0098,
+   "localParity": 0.3537,
+   "defects": 129,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 38.16,
+    "text": "ICS",
+    "delta": 91.83
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "ICS",
+    "dy": 91.83
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/journal/486-P020240923548991853217.docx",
+   "sha": "17477d8383e74509097f769b20dffc01226f6755c45fc885eabc70acae9a2585",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 12,
+   "pages": {
+    "word": 14,
+    "engine": 12
+   },
+   "pageParity": false,
+   "lineParity": 0.0082,
+   "localParity": 0.2932,
+   "defects": 131,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 38.16,
+    "text": "ICS",
+    "delta": 91.83
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "ICS",
+    "dy": 91.83
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/journal/487-P020240923548992403449.docx",
+   "sha": "2c6421d7a298d0bb56c45549d6fd74674cde9f5c3bdb37d73b7cb6c0c7c7cfed",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 24,
+   "pages": {
+    "word": 24,
+    "engine": 24
+   },
+   "pageParity": true,
+   "lineParity": 0.0375,
+   "localParity": 0.5332,
+   "defects": 67,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 778.8,
+    "text": "1",
+    "wordLines": 1,
+    "engineLines": 0
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "1",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/journal/489-43dfd6426a54287426ff0e9ce9b4f08b.docx",
+   "sha": "4a7d37057997e9e21f2e9fc726491a4c50e788f807b6ca827845d3ac1b8334c5",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 8,
+   "pages": {
+    "word": 10,
+    "engine": 8
+   },
+   "pageParity": false,
+   "lineParity": 0.0227,
+   "localParity": 0.0227,
+   "defects": 121,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 38.4,
+    "text": "ICS65.020.01",
+    "wordLines": 2,
+    "engineLines": 0
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "ICS65.020.01",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/144-44f4a937-34f0-44e6-9642-092b23320dec.doc.docx",
+   "sha": "844a60ff1301a2e7bf6f8ce5c492037899e2962fa67d2b92d6736e3196294c17",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 1,
+   "pages": {
+    "word": 1,
+    "engine": 1
+   },
+   "pageParity": true,
+   "lineParity": 1.0,
+   "localParity": 1.0,
+   "defects": 0,
+   "firstDefect": null,
+   "category": null,
+   "first": null,
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/149-f4ad7a70-88bd-4654-9384-6ed9f42bd5d2.doc.docx",
+   "sha": "b6a4c0d6be8ece25067bf2fda3602ba35ccf8ea4f12663666ac651db8642a509",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 28,
+   "pages": {
+    "word": 27,
+    "engine": 28
+   },
+   "pageParity": false,
+   "lineParity": 0.0024,
+   "localParity": 0.5346,
+   "defects": 69,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 237.6,
+    "text": "专业学位硕士论文",
+    "delta": 11.37
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "专业学位硕士论文",
+    "dy": 11.3
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/150-6272c9c0-8f2a-4c42-a752-d6de4dc1c39c.doc.docx",
+   "sha": "ecee2eb0140f98ec8a66b2fb843ad7a2f158334c601c0ed2ecff3f677c0dae86",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 22,
+   "pages": {
+    "word": 21,
+    "engine": 22
+   },
+   "pageParity": false,
+   "lineParity": 0.0039,
+   "localParity": 0.6055,
+   "defects": 40,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 237.6,
+    "text": "专业学位硕士论文",
+    "delta": 11.37
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "专业学位硕士论文",
+    "dy": 11.3
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/151-20230105142822.docx",
+   "sha": "967b0f49454b7de2ab67620b81d5f4b1755d25aa585c6f754ff380eeddfcd7b0",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 17,
+   "pages": {
+    "word": 16,
+    "engine": 17
+   },
+   "pageParity": false,
+   "lineParity": 0.0,
+   "localParity": 0.0034,
+   "defects": 198,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 252.12,
+    "text": "批注[h1]:该页为中文扉页。无需页眉页脚，纸质论文应",
+    "wordLines": 1,
+    "engineLines": 0
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "批注[h1]:该页为中文扉页。无需页眉页脚，纸质论文应",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/153-2f999a31-1cf8-474b-a965-7af17fe27d17.docx",
+   "sha": "e2d6da764f1a7d01810c2a0c3324e27ce997620fd85a2fec80b76974330a0e4d",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 23,
+   "pages": {
+    "word": 23,
+    "engine": 23
+   },
+   "pageParity": true,
+   "lineParity": 0.6494,
+   "localParity": 0.684,
+   "defects": 98,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 217.93,
+    "text": "毕业设计(论文)附本",
+    "delta": -41.66
+   },
+   "category": "offset>10pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "毕业设计(论文)附本",
+    "dy": -41.66
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/154-00e18503-e728-4eef-ba13-2fd5e4951606.docx",
+   "sha": "fe89f561dcdc3a990de5b853aea55036c363a06ab3b61202f94733a75df9b495",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 27,
+   "pages": {
+    "word": 25,
+    "engine": 27
+   },
+   "pageParity": false,
+   "lineParity": 0.4168,
+   "localParity": 0.6415,
+   "defects": 111,
+   "firstDefect": {
+    "kind": "position",
+    "page": 1,
+    "y": 217.93,
+    "text": "毕业设计(论文)附本",
+    "delta": 0.66
+   },
+   "category": "offset<1pt",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "毕业设计(论文)附本",
+    "dy": 0.66
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/156-0c72e5a7d4be47c8b89369be4e4ff00e.docx",
+   "sha": "d05b7cad641abba614f560b84bb11cf4448ed8171de6eb0258e7e09e1b9f19d9",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 28,
+   "pages": {
+    "word": 26,
+    "engine": 28
+   },
+   "pageParity": false,
+   "lineParity": 0.4442,
+   "localParity": 0.5735,
+   "defects": 109,
+   "firstDefect": {
+    "kind": "break",
+    "page": 3,
+    "y": 591.6,
+    "text": "□限制(≤2年)□秘密(≤10年)□机密(≤20年)",
+    "wordLines": 2,
+    "engineLines": 1
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 3,
+    "text": "□限制(≤2年)□秘密(≤10年)□机密(≤20年)",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/159-f626f658f3214fce9dcb5bb2ad11fe9b.docx",
+   "sha": "e9acaaee3db3398df6072b307a80d7b334cca3128eb48efc12dc1f6a173418c7",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 16,
+   "pages": {
+    "word": 15,
+    "engine": 16
+   },
+   "pageParity": false,
+   "lineParity": 0.629,
+   "localParity": 0.6561,
+   "defects": 30,
+   "firstDefect": {
+    "kind": "break",
+    "page": 3,
+    "y": 591.6,
+    "text": "□限制(≤2年)□秘密(≤10年)□机密(≤20年)",
+    "wordLines": 2,
+    "engineLines": 1
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 3,
+    "text": "□限制(≤2年)□秘密(≤10年)□机密(≤20年)",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/160-2615702ae47d43febc5030fa1867c866.docx",
+   "sha": "7b97ea3f13c98325899803c4ab089f7c092cacfc060e85f126c97cd6c0bef0ca",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 30,
+   "pages": {
+    "word": 28,
+    "engine": 30
+   },
+   "pageParity": false,
+   "lineParity": 0.3884,
+   "localParity": 0.5263,
+   "defects": 116,
+   "firstDefect": {
+    "kind": "break",
+    "page": 3,
+    "y": 591.6,
+    "text": "□限制(≤2年)□秘密(≤10年)□机密(≤20年)",
+    "wordLines": 2,
+    "engineLines": 1
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 3,
+    "text": "□限制(≤2年)□秘密(≤10年)□机密(≤20年)",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/162-40ed3b5a121a4d27a8a98e26b0c864fa.docx",
+   "sha": "b5db479588b76fbe65a6b8eea380e1cade9a36255da80c93e8dab95b85038317",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 28,
+   "pages": {
+    "word": 25,
+    "engine": 28
+   },
+   "pageParity": false,
+   "lineParity": 0.0275,
+   "localParity": 0.5629,
+   "defects": 95,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 127.92,
+    "text": "本⻚为教育学院论⽂模版说明⻚，正式撰写论⽂时删除此⻚。",
+    "wordLines": 1,
+    "engineLines": 2
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "本⻚为教育学院论⽂模版说明⻚，正式撰写论⽂时删除此⻚。",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/163-5e1ea023540b4679aa93afa6164c79a1.docx",
+   "sha": "e9c62ad3ef97e8a4e96d6c079e5f87e8b57f8ed951252c42874199f1789abe0e",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 23,
+   "pages": {
+    "word": 21,
+    "engine": 23
+   },
+   "pageParity": false,
+   "lineParity": 0.2366,
+   "localParity": 0.6317,
+   "defects": 49,
+   "firstDefect": {
+    "kind": "break",
+    "page": 3,
+    "y": 591.6,
+    "text": "□限制(≤2年)□秘密(≤10年)□机密(≤20年)",
+    "wordLines": 2,
+    "engineLines": 1
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 3,
+    "text": "□限制(≤2年)□秘密(≤10年)□机密(≤20年)",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/164-db544ac2025f4b7e889f33f79c7fb9dc.docx",
+   "sha": "e9e062fa3cfe8e6f3fb48d3632da7b9e3b0449c2bb61dabbf44454baefd650de",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 32,
+   "pages": {
+    "word": 31,
+    "engine": 32
+   },
+   "pageParity": false,
+   "lineParity": 0.4593,
+   "localParity": 0.6949,
+   "defects": 61,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 755.04,
+    "text": "1",
+    "wordLines": 2,
+    "engineLines": 0
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "1",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/165-4fce7be601fa43c1b4f006d7a3ce140d.docx",
+   "sha": "0ed3232760d93f295ed58a865a3541118c2e72e306d61892f134cf292806a028",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 33,
+   "pages": {
+    "word": 32,
+    "engine": 33
+   },
+   "pageParity": false,
+   "lineParity": 0.2335,
+   "localParity": 0.616,
+   "defects": 102,
+   "firstDefect": {
+    "kind": "break",
+    "page": 2,
+    "y": 159.6,
+    "text": "UDC分类号：密级：",
+    "wordLines": 1,
+    "engineLines": 3
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 2,
+    "text": "UDC分类号：密级：",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/166-8d75b8f15f964ab7816653d307ad9336.docx",
+   "sha": "5456321cfffb13477a510cde28fa9da0a3f3b5d8fd349981bc36ae2dac60f3bd",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 26,
+   "pages": {
+    "word": 24,
+    "engine": 26
+   },
+   "pageParity": false,
+   "lineParity": 0.3723,
+   "localParity": 0.5127,
+   "defects": 106,
+   "firstDefect": {
+    "kind": "break",
+    "page": 3,
+    "y": 591.6,
+    "text": "□限制(≤2年)□秘密(≤10年)□机密(≤20年)",
+    "wordLines": 2,
+    "engineLines": 1
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 3,
+    "text": "□限制(≤2年)□秘密(≤10年)□机密(≤20年)",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/167-96538b31e7514a498a94ab715c2f5002.docx",
+   "sha": "80e19b36e77ef5366a2e15b9af2378975299eca687a3b3e0e8f10027941f0391",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 30,
+   "pages": {
+    "word": 28,
+    "engine": 30
+   },
+   "pageParity": false,
+   "lineParity": 0.4413,
+   "localParity": 0.573,
+   "defects": 115,
+   "firstDefect": {
+    "kind": "break",
+    "page": 3,
+    "y": 591.6,
+    "text": "□限制(≤2年)□秘密(≤10年)□机密(≤20年)",
+    "wordLines": 2,
+    "engineLines": 1
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 3,
+    "text": "□限制(≤2年)□秘密(≤10年)□机密(≤20年)",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/168-4f38d79143ec40799c0232a989f91343.docx",
+   "sha": "50d87633453d2efdfba6380c0b30f6907b175f49290b9872eb6db12f1085799c",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 29,
+   "pages": {
+    "word": 27,
+    "engine": 29
+   },
+   "pageParity": false,
+   "lineParity": 0.0217,
+   "localParity": 0.5236,
+   "defects": 111,
+   "firstDefect": {
+    "kind": "break",
+    "page": 2,
+    "y": 159.6,
+    "text": "UDC分类号：密级：",
+    "wordLines": 1,
+    "engineLines": 3
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 2,
+    "text": "UDC分类号：密级：",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/169-f47a22e6ba0941d2ba5f8afdcb81ad06.docx",
+   "sha": "01fc13a9f4d04288b0010b91b711565c96053cd691fabe1cb37f61c89e10e501",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 29,
+   "pages": {
+    "word": 27,
+    "engine": 29
+   },
+   "pageParity": false,
+   "lineParity": 0.4539,
+   "localParity": 0.5793,
+   "defects": 112,
+   "firstDefect": {
+    "kind": "break",
+    "page": 3,
+    "y": 591.6,
+    "text": "□限制(≤2年)□秘密(≤10年)□机密(≤20年)",
+    "wordLines": 2,
+    "engineLines": 1
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 3,
+    "text": "□限制(≤2年)□秘密(≤10年)□机密(≤20年)",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/170-4d48703df5754b9398667370853ccfe0.docx",
+   "sha": "b872e11d5ca2546fdfdeff28e396e448ada2c22f07f3fc23ac9abc755a88df51",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 30,
+   "pages": {
+    "word": 29,
+    "engine": 30
+   },
+   "pageParity": false,
+   "lineParity": 0.4642,
+   "localParity": 0.698,
+   "defects": 58,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 755.04,
+    "text": "1",
+    "wordLines": 1,
+    "engineLines": 0
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "break",
+    "page": 1,
+    "text": "1",
+    "dy": null
+   },
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/187-58ee844e-dc07-47ba-80ad-ad48a761eb71.docx",
+   "sha": "4d2edd0b66185f81b5357049b433e34fed7a7b8966c7804de511c7b4105dc6ff",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 2,
+   "pages": {
+    "word": 2,
+    "engine": 2
+   },
+   "pageParity": true,
+   "lineParity": 1.0,
+   "localParity": 1.0,
+   "defects": 0,
+   "firstDefect": null,
+   "category": null,
+   "first": null,
+   "fontFallbacks": {}
+  },
+  {
+   "case": "layout/holdout/zh-2026-11/thesis/205-5b9d6bf7-49dc-4e00-87d6-62f120bd8c4a.docx",
+   "sha": "ca6a140239cca364c0446e5515703223f555da8c37b37951e652a08ad178e7eb",
+   "group": "layout/holdout/zh-2026-11",
+   "enginePages": 2,
+   "pages": {
+    "word": 1,
+    "engine": 2
+   },
+   "pageParity": false,
+   "lineParity": 0.0357,
+   "localParity": 0.6786,
+   "defects": 7,
+   "firstDefect": {
+    "kind": "break",
+    "page": 1,
+    "y": 525.84,
+    "text": "年月日",
+    "wordLines": 3,
+    "engineLines": 4
+   },
+   "category": "line-break",
+   "first": {
+    "kind": "position",
+    "page": 1,
+    "text": "姓名学号",
+    "dy": -0.77
+   },
+   "fontFallbacks": {}
+  }
+ ]
+}

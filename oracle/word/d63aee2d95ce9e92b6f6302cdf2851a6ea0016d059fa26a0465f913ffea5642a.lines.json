@@ -1,0 +1,579 @@
+{
+ "pages": [
+  {
+   "width": 419.52,
+   "height": 297.6,
+   "lines": [
+    {
+     "y": 41.28,
+     "x0": 14.16,
+     "x1": 137.15,
+     "size": 16.08,
+     "text": "Testfloatingtable",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 137.15,
+       "text": "Testfloatingtable"
+      }
+     ]
+    },
+    {
+     "y": 58.56,
+     "x0": 21.12,
+     "x1": 66.56,
+     "size": 11.04,
+     "text": "1One",
+     "segments": [
+      {
+       "x0": 21.12,
+       "x1": 26.72,
+       "text": "1"
+      },
+      {
+       "x0": 48.0,
+       "x1": 66.56,
+       "text": "One"
+      }
+     ]
+    },
+    {
+     "y": 72.0,
+     "x0": 48.0,
+     "x1": 65.99,
+     "size": 11.04,
+     "text": "Eins",
+     "segments": [
+      {
+       "x0": 48.0,
+       "x1": 65.99,
+       "text": "Eins"
+      }
+     ]
+    },
+    {
+     "y": 112.32,
+     "x0": 21.12,
+     "x1": 67.04,
+     "size": 11.04,
+     "text": "2Two",
+     "segments": [
+      {
+       "x0": 21.12,
+       "x1": 26.72,
+       "text": "2"
+      },
+      {
+       "x0": 48.0,
+       "x1": 67.04,
+       "text": "Two"
+      }
+     ]
+    },
+    {
+     "y": 125.76,
+     "x0": 48.0,
+     "x1": 69.02,
+     "size": 11.04,
+     "text": "Zwei",
+     "segments": [
+      {
+       "x0": 48.0,
+       "x1": 69.02,
+       "text": "Zwei"
+      }
+     ]
+    },
+    {
+     "y": 139.2,
+     "x0": 21.12,
+     "x1": 73.94,
+     "size": 11.04,
+     "text": "3Three",
+     "segments": [
+      {
+       "x0": 21.12,
+       "x1": 26.72,
+       "text": "3"
+      },
+      {
+       "x0": 48.0,
+       "x1": 73.94,
+       "text": "Three"
+      }
+     ]
+    },
+    {
+     "y": 152.64,
+     "x0": 48.0,
+     "x1": 66.6,
+     "size": 11.04,
+     "text": "Drei",
+     "segments": [
+      {
+       "x0": 48.0,
+       "x1": 66.6,
+       "text": "Drei"
+      }
+     ]
+    },
+    {
+     "y": 166.08,
+     "x0": 21.12,
+     "x1": 68.49,
+     "size": 11.04,
+     "text": "4Four",
+     "segments": [
+      {
+       "x0": 21.12,
+       "x1": 26.72,
+       "text": "4"
+      },
+      {
+       "x0": 48.0,
+       "x1": 68.49,
+       "text": "Four"
+      }
+     ]
+    },
+    {
+     "y": 179.52,
+     "x0": 48.0,
+     "x1": 66.08,
+     "size": 11.04,
+     "text": "Vier",
+     "segments": [
+      {
+       "x0": 48.0,
+       "x1": 66.08,
+       "text": "Vier"
+      }
+     ]
+    },
+    {
+     "y": 192.72,
+     "x0": 21.12,
+     "x1": 66.04,
+     "size": 11.04,
+     "text": "5Five",
+     "segments": [
+      {
+       "x0": 21.12,
+       "x1": 26.72,
+       "text": "5"
+      },
+      {
+       "x0": 48.0,
+       "x1": 66.04,
+       "text": "Five"
+      }
+     ]
+    },
+    {
+     "y": 206.16,
+     "x0": 48.0,
+     "x1": 67.99,
+     "size": 11.04,
+     "text": "Fünf",
+     "segments": [
+      {
+       "x0": 48.0,
+       "x1": 67.99,
+       "text": "Fünf"
+      }
+     ]
+    },
+    {
+     "y": 219.6,
+     "x0": 21.12,
+     "x1": 60.36,
+     "size": 11.04,
+     "text": "6Six",
+     "segments": [
+      {
+       "x0": 21.12,
+       "x1": 26.72,
+       "text": "6"
+      },
+      {
+       "x0": 48.0,
+       "x1": 60.36,
+       "text": "Six"
+      }
+     ]
+    },
+    {
+     "y": 233.04,
+     "x0": 48.0,
+     "x1": 73.27,
+     "size": 11.04,
+     "text": "Sechs",
+     "segments": [
+      {
+       "x0": 48.0,
+       "x1": 73.27,
+       "text": "Sechs"
+      }
+     ]
+    },
+    {
+     "y": 246.48,
+     "x0": 21.12,
+     "x1": 74.76,
+     "size": 11.04,
+     "text": "7Seven",
+     "segments": [
+      {
+       "x0": 21.12,
+       "x1": 26.72,
+       "text": "7"
+      },
+      {
+       "x0": 48.0,
+       "x1": 74.76,
+       "text": "Seven"
+      }
+     ]
+    },
+    {
+     "y": 259.92,
+     "x0": 48.0,
+     "x1": 78.11,
+     "size": 11.04,
+     "text": "Sieben",
+     "segments": [
+      {
+       "x0": 48.0,
+       "x1": 78.11,
+       "text": "Sieben"
+      }
+     ]
+    },
+    {
+     "y": 273.36,
+     "x0": 21.12,
+     "x1": 70.54,
+     "size": 11.04,
+     "text": "8Eight",
+     "segments": [
+      {
+       "x0": 21.12,
+       "x1": 26.72,
+       "text": "8"
+      },
+      {
+       "x0": 48.0,
+       "x1": 70.54,
+       "text": "Eight"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 419.52,
+   "height": 297.6,
+   "lines": [
+    {
+     "y": 24.72,
+     "x0": 181.46,
+     "x1": 381.3,
+     "size": 11.04,
+     "text": "Heheardquietstepsbehindhim.Thatdidn't",
+     "segments": [
+      {
+       "x0": 181.46,
+       "x1": 381.3,
+       "text": "Heheardquietstepsbehindhim.Thatdidn't"
+      }
+     ]
+    },
+    {
+     "y": 27.84,
+     "x0": 48.0,
+     "x1": 68.5,
+     "size": 11.04,
+     "text": "Acht",
+     "segments": [
+      {
+       "x0": 48.0,
+       "x1": 68.5,
+       "text": "Acht"
+      }
+     ]
+    },
+    {
+     "y": 38.16,
+     "x0": 181.46,
+     "x1": 394.21,
+     "size": 11.04,
+     "text": "bodewell.Whocouldbefollowinghimthislate",
+     "segments": [
+      {
+       "x0": 181.46,
+       "x1": 394.21,
+       "text": "bodewell.Whocouldbefollowinghimthislate"
+      }
+     ]
+    },
+    {
+     "y": 51.6,
+     "x0": 14.16,
+     "x1": 402.25,
+     "size": 11.04,
+     "text": "atnightandinthisdeadbeatpartoftown?Andatthisparticularmoment,justafterhe",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 402.25,
+       "text": "atnightandinthisdeadbeatpartoftown?Andatthisparticularmoment,justafterhe"
+      }
+     ]
+    },
+    {
+     "y": 65.04,
+     "x0": 14.16,
+     "x1": 298.4,
+     "size": 11.04,
+     "text": "pulledoffthebigtimeandwasmakingoffwiththegreenbacks.",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 298.4,
+       "text": "pulledoffthebigtimeandwasmakingoffwiththegreenbacks."
+      }
+     ]
+    },
+    {
+     "y": 78.48,
+     "x0": 14.16,
+     "x1": 386.69,
+     "size": 11.04,
+     "text": "Wasthereanothercrookwho'dhadthesameidea,andwasnowwatchinghimand",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 386.69,
+       "text": "Wasthereanothercrookwho'dhadthesameidea,andwasnowwatchinghimand"
+      }
+     ]
+    },
+    {
+     "y": 91.92,
+     "x0": 14.16,
+     "x1": 390.01,
+     "size": 11.04,
+     "text": "waitingforachancetograbthefruitofhislabor?Ordidthestepsbehindhimmean",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 390.01,
+       "text": "waitingforachancetograbthefruitofhislabor?Ordidthestepsbehindhimmean"
+      }
+     ]
+    },
+    {
+     "y": 105.36,
+     "x0": 14.16,
+     "x1": 387.68,
+     "size": 11.04,
+     "text": "thatoneofmanylawofficersintownwasontohimandjustwaitingtopounceand",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 387.68,
+       "text": "thatoneofmanylawofficersintownwasontohimandjustwaitingtopounceand"
+      }
+     ]
+    },
+    {
+     "y": 118.8,
+     "x0": 14.16,
+     "x1": 150.07,
+     "size": 11.04,
+     "text": "snapthosecuffsonhiswrists?",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 150.07,
+       "text": "snapthosecuffsonhiswrists?"
+      }
+     ]
+    },
+    {
+     "y": 132.24,
+     "x0": 14.16,
+     "x1": 399.17,
+     "size": 11.04,
+     "text": "Henervouslylookedallaround.Suddenlyhesawthealley.Likelightninghedartedoff",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 399.17,
+       "text": "Henervouslylookedallaround.Suddenlyhesawthealley.Likelightninghedartedoff"
+      }
+     ]
+    },
+    {
+     "y": 145.68,
+     "x0": 14.16,
+     "x1": 399.3,
+     "size": 11.04,
+     "text": "totheleftanddisappearedbetweenthetwowarehousesalmostfallingoverthetrash",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 399.3,
+       "text": "totheleftanddisappearedbetweenthetwowarehousesalmostfallingoverthetrash"
+      }
+     ]
+    },
+    {
+     "y": 159.12,
+     "x0": 14.16,
+     "x1": 395.26,
+     "size": 11.04,
+     "text": "canlyinginthemiddleofthesidewalk.Hetriedtonervouslytaphiswayalonginthe",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 395.26,
+       "text": "canlyinginthemiddleofthesidewalk.Hetriedtonervouslytaphiswayalonginthe"
+      }
+     ]
+    },
+    {
+     "y": 172.56,
+     "x0": 14.16,
+     "x1": 400.45,
+     "size": 11.04,
+     "text": "inkydarknessandsuddenlystiffened:itwasadead-end,hewouldhavetogobackthe",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 400.45,
+       "text": "inkydarknessandsuddenlystiffened:itwasadead-end,hewouldhavetogobackthe"
+      }
+     ]
+    },
+    {
+     "y": 186.0,
+     "x0": 14.16,
+     "x1": 401.91,
+     "size": 11.04,
+     "text": "wayhehadcome.Thestepsgotlouderandlouder,hesawtheblackoutlineofafigure",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 401.91,
+       "text": "wayhehadcome.Thestepsgotlouderandlouder,hesawtheblackoutlineofafigure"
+      }
+     ]
+    },
+    {
+     "y": 199.2,
+     "x0": 14.16,
+     "x1": 401.77,
+     "size": 11.04,
+     "text": "comingaroundthecorner.Isthistheendoftheline?hethoughtpressinghimselfback",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 401.77,
+       "text": "comingaroundthecorner.Isthistheendoftheline?hethoughtpressinghimselfback"
+      }
+     ]
+    },
+    {
+     "y": 212.64,
+     "x0": 14.16,
+     "x1": 393.1,
+     "size": 11.04,
+     "text": "againstthewalltryingtomakehimselfinvisibleinthedark,wasallthatplanningand",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 393.1,
+       "text": "againstthewalltryingtomakehimselfinvisibleinthedark,wasallthatplanningand"
+      }
+     ]
+    },
+    {
+     "y": 226.08,
+     "x0": 14.16,
+     "x1": 402.87,
+     "size": 11.04,
+     "text": "energywasted?Hewasdrippingwithsweatnow,coldandwet,hecouldsmellthefear",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 402.87,
+       "text": "energywasted?Hewasdrippingwithsweatnow,coldandwet,hecouldsmellthefear"
+      }
+     ]
+    },
+    {
+     "y": 239.52,
+     "x0": 14.16,
+     "x1": 392.65,
+     "size": 11.04,
+     "text": "comingoffhisclothes.Suddenlynexttohim,withabarelynoticeablesqueak,adoor",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 392.65,
+       "text": "comingoffhisclothes.Suddenlynexttohim,withabarelynoticeablesqueak,adoor"
+      }
+     ]
+    },
+    {
+     "y": 252.96,
+     "x0": 14.16,
+     "x1": 403.25,
+     "size": 11.04,
+     "text": "swungquietlytoandfrointhenight'sbreeze.Couldthisbethehavenhe'dprayedfor?",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 403.25,
+       "text": "swungquietlytoandfrointhenight'sbreeze.Couldthisbethehavenhe'dprayedfor?"
+      }
+     ]
+    },
+    {
+     "y": 266.4,
+     "x0": 14.16,
+     "x1": 398.85,
+     "size": 11.04,
+     "text": "Slowlyheslidtowardthedoor,pressinghimselfmoreandmoreintothewall,intothe",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 398.85,
+       "text": "Slowlyheslidtowardthedoor,pressinghimselfmoreandmoreintothewall,intothe"
+      }
+     ]
+    },
+    {
+     "y": 279.84,
+     "x0": 14.16,
+     "x1": 277.14,
+     "size": 11.04,
+     "text": "dark,awayfromhisenemy.Wouldthisdoorsavehishide?",
+     "segments": [
+      {
+       "x0": 14.16,
+       "x1": 277.14,
+       "text": "dark,awayfromhisenemy.Wouldthisdoorsavehishide?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 419.52,
+   "height": 297.6,
+   "lines": []
+  }
+ ]
+}

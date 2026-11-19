@@ -1,0 +1,18 @@
+# scratch space for experiments, engine checkouts and Word staging
+/work/
+# per-case engine output of a run; summary.json and meta.json are kept
+/runs/*/cases/
+# Word oracle PDFs are not distributed; regenerate with ./deval oracle
+/oracle/word/*.pdf
+/dist/
+__pycache__/
+*.pyc
+.DS_Store
+~$*
+
+# Claude Code local config
+/.claude/
+
+# internal evaluation reports (not for public release)
+reports/nimbleoffice-vs-workbuddy-vs-qwen-2026-11-14.md
+reports/qwen-findings.md

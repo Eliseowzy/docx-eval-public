@@ -1,0 +1,624 @@
+{
+ "pages": [
+  {
+   "width": 792.0,
+   "height": 612.0,
+   "lines": [
+    {
+     "y": 154.32,
+     "x0": 235.92,
+     "x1": 311.11,
+     "size": 11.04,
+     "text": "TalkingPoints",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 311.11,
+       "text": "TalkingPoints"
+      }
+     ]
+    },
+    {
+     "y": 192.96,
+     "x0": 235.92,
+     "x1": 358.77,
+     "size": 12.96,
+     "text": "PeertoPeerCalling",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 358.77,
+       "text": "PeertoPeerCalling"
+      }
+     ]
+    },
+    {
+     "y": 219.84,
+     "x0": 235.92,
+     "x1": 367.46,
+     "size": 12.96,
+     "text": "Peopleinmycompany",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 367.46,
+       "text": "Peopleinmycompany"
+      }
+     ]
+    },
+    {
+     "y": 235.92,
+     "x0": 235.92,
+     "x1": 536.25,
+     "size": 11.04,
+     "text": "Fromthecontactlist,Icaneasilyselectsomeone’snameand",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 536.25,
+       "text": "Fromthecontactlist,Icaneasilyselectsomeone’snameand"
+      }
+     ]
+    },
+    {
+     "y": 250.32,
+     "x0": 235.92,
+     "x1": 459.7,
+     "size": 11.04,
+     "text": "havetheabilitytocallthemwithasingleclick.",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 459.7,
+       "text": "havetheabilitytocallthemwithasingleclick."
+      }
+     ]
+    },
+    {
+     "y": 294.0,
+     "x0": 235.92,
+     "x1": 542.97,
+     "size": 11.04,
+     "text": "Bydefault,Lyncwillrememberthelastcontactusedtocallthat",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 542.97,
+       "text": "Bydefault,Lyncwillrememberthelastcontactusedtocallthat"
+      }
+     ]
+    },
+    {
+     "y": 308.64,
+     "x0": 235.92,
+     "x1": 528.19,
+     "size": 11.04,
+     "text": "individual.Thiswillbethedefaultcallingactionforthatuser.",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 528.19,
+       "text": "individual.Thiswillbethedefaultcallingactionforthatuser."
+      }
+     ]
+    },
+    {
+     "y": 336.96,
+     "x0": 235.92,
+     "x1": 352.93,
+     "size": 12.96,
+     "text": "FederatedNetworks",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 352.93,
+       "text": "FederatedNetworks"
+      }
+     ]
+    },
+    {
+     "y": 353.04,
+     "x0": 235.92,
+     "x1": 540.51,
+     "size": 11.04,
+     "text": "JustasIcancallsomeoneinsidemycompany,Ialsohavethe",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 540.51,
+       "text": "JustasIcancallsomeoneinsidemycompany,Ialsohavethe"
+      }
+     ]
+    },
+    {
+     "y": 367.68,
+     "x0": 235.92,
+     "x1": 509.26,
+     "size": 11.04,
+     "text": "abilitytocallindividualswhoareusingLyncinfederated",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 509.26,
+       "text": "abilitytocallindividualswhoareusingLyncinfederated"
+      }
+     ]
+    },
+    {
+     "y": 382.08,
+     "x0": 235.92,
+     "x1": 292.19,
+     "size": 11.04,
+     "text": "companies.",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 292.19,
+       "text": "companies."
+      }
+     ]
+    },
+    {
+     "y": 408.72,
+     "x0": 235.92,
+     "x1": 514.04,
+     "size": 11.04,
+     "text": "Inthecontactlist,Icanseethatthatthecontactisfroma",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 514.04,
+       "text": "Inthecontactlist,Icanseethatthatthecontactisfroma"
+      }
+     ]
+    },
+    {
+     "y": 423.36,
+     "x0": 235.92,
+     "x1": 546.44,
+     "size": 11.04,
+     "text": "federatedcompanybecausethecompanynameisappendedto",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 546.44,
+       "text": "federatedcompanybecausethecompanynameisappendedto"
+      }
+     ]
+    },
+    {
+     "y": 437.76,
+     "x0": 235.92,
+     "x1": 553.16,
+     "size": 11.04,
+     "text": "thecontactname,orbecauseitisstatedthatthecontactisonan",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 553.16,
+       "text": "thecontactname,orbecauseitisstatedthatthecontactisonan"
+      }
+     ]
+    },
+    {
+     "y": 452.4,
+     "x0": 235.92,
+     "x1": 330.05,
+     "size": 11.04,
+     "text": "“ExternalNetwork.”",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 330.05,
+       "text": "“ExternalNetwork.”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 792.0,
+   "height": 612.0,
+   "lines": [
+    {
+     "y": 96.24,
+     "x0": 235.92,
+     "x1": 538.57,
+     "size": 12.96,
+     "text": "PublicNetworks–WindowsLiveMessenger/Skype",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 538.57,
+       "text": "PublicNetworks–WindowsLiveMessenger/Skype"
+      }
+     ]
+    },
+    {
+     "y": 112.32,
+     "x0": 235.92,
+     "x1": 300.11,
+     "size": 11.04,
+     "text": "(placeholder)",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 300.11,
+       "text": "(placeholder)"
+      }
+     ]
+    },
+    {
+     "y": 136.8,
+     "x0": 235.92,
+     "x1": 540.57,
+     "size": 11.04,
+     "text": "Thisgreatcallingcapabilityextendstopublicnetworksaswell.",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 540.57,
+       "text": "Thisgreatcallingcapabilityextendstopublicnetworksaswell."
+      }
+     ]
+    },
+    {
+     "y": 163.2,
+     "x0": 235.92,
+     "x1": 537.95,
+     "size": 11.04,
+     "text": "WithMicrosoftWindowsLiveMessengercontacts,Icanmake",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 537.95,
+       "text": "WithMicrosoftWindowsLiveMessengercontacts,Icanmake"
+      }
+     ]
+    },
+    {
+     "y": 177.84,
+     "x0": 235.92,
+     "x1": 536.78,
+     "size": 11.04,
+     "text": "audioandvideocallsdirectlyfromthecontactlistjustasIcan",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 536.78,
+       "text": "audioandvideocallsdirectlyfromthecontactlistjustasIcan"
+      }
+     ]
+    },
+    {
+     "y": 192.48,
+     "x0": 235.92,
+     "x1": 394.36,
+     "size": 11.04,
+     "text": "withalocalorfederatedcontact.",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 394.36,
+       "text": "withalocalorfederatedcontact."
+      }
+     ]
+    },
+    {
+     "y": 233.04,
+     "x0": 235.92,
+     "x1": 350.07,
+     "size": 12.96,
+     "text": "ExtensionCamp-on",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 350.07,
+       "text": "ExtensionCamp-on"
+      }
+     ]
+    },
+    {
+     "y": 248.88,
+     "x0": 235.92,
+     "x1": 506.09,
+     "size": 11.04,
+     "text": "IfIneedtocommunicatewithacontactwhoiscurrently",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 506.09,
+       "text": "IfIneedtocommunicatewithacontactwhoiscurrently"
+      }
+     ]
+    },
+    {
+     "y": 263.52,
+     "x0": 235.92,
+     "x1": 551.51,
+     "size": 11.04,
+     "text": "unavailable,Icanright-clicktheusernameand“tag”thatcontact",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 551.51,
+       "text": "unavailable,Icanright-clicktheusernameand“tag”thatcontact"
+      }
+     ]
+    },
+    {
+     "y": 278.16,
+     "x0": 235.92,
+     "x1": 320.91,
+     "size": 11.04,
+     "text": "inthecontactlist.",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 320.91,
+       "text": "inthecontactlist."
+      }
+     ]
+    },
+    {
+     "y": 302.64,
+     "x0": 235.92,
+     "x1": 536.3,
+     "size": 11.04,
+     "text": "Thisallowsforanotificationofanypresencestatuschangeof",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 536.3,
+       "text": "Thisallowsforanotificationofanypresencestatuschangeof"
+      }
+     ]
+    },
+    {
+     "y": 317.04,
+     "x0": 235.92,
+     "x1": 549.57,
+     "size": 11.04,
+     "text": "thatuser–suchas“away”to“available,”or“inacall”to“busy”–",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 549.57,
+       "text": "thatuser–suchas“away”to“available,”or“inacall”to“busy”–"
+      }
+     ]
+    },
+    {
+     "y": 331.68,
+     "x0": 235.92,
+     "x1": 509.15,
+     "size": 11.04,
+     "text": "tobesenttomydesktopalertingmetothenewchange.",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 509.15,
+       "text": "tobesenttomydesktopalertingmetothenewchange."
+      }
+     ]
+    },
+    {
+     "y": 356.16,
+     "x0": 235.92,
+     "x1": 542.28,
+     "size": 11.04,
+     "text": "This“camp-on”typefeaturecanbeperformedwithanycontact",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 542.28,
+       "text": "This“camp-on”typefeaturecanbeperformedwithanycontact"
+      }
+     ]
+    },
+    {
+     "y": 370.8,
+     "x0": 235.92,
+     "x1": 555.29,
+     "size": 11.04,
+     "text": "whosepresenceisdisplayedinthecontactlist,includingcontacts",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 555.29,
+       "text": "whosepresenceisdisplayedinthecontactlist,includingcontacts"
+      }
+     ]
+    },
+    {
+     "y": 385.44,
+     "x0": 235.92,
+     "x1": 471.36,
+     "size": 11.04,
+     "text": "inside,outside,andfederatedwithmycompany.",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 471.36,
+       "text": "inside,outside,andfederatedwithmycompany."
+      }
+     ]
+    },
+    {
+     "y": 411.84,
+     "x0": 235.92,
+     "x1": 317.54,
+     "size": 12.96,
+     "text": "PSTNCalling",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 317.54,
+       "text": "PSTNCalling"
+      }
+     ]
+    },
+    {
+     "y": 438.72,
+     "x0": 235.92,
+     "x1": 449.64,
+     "size": 12.96,
+     "text": "Clicktodialanynumberfromcontact",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 449.64,
+       "text": "Clicktodialanynumberfromcontact"
+      }
+     ]
+    },
+    {
+     "y": 454.8,
+     "x0": 235.92,
+     "x1": 553.88,
+     "size": 11.04,
+     "text": "Icanalsoclickthedrop-downlisttoaccessallthecontactpathsI",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 553.88,
+       "text": "Icanalsoclickthedrop-downlisttoaccessallthecontactpathsI"
+      }
+     ]
+    },
+    {
+     "y": 469.2,
+     "x0": 235.92,
+     "x1": 552.08,
+     "size": 11.04,
+     "text": "havestoredforthisperson,soifIhavealternatework,mobile,or",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 552.08,
+       "text": "havestoredforthisperson,soifIhavealternatework,mobile,or"
+      }
+     ]
+    },
+    {
+     "y": 483.84,
+     "x0": 235.92,
+     "x1": 536.75,
+     "size": 11.04,
+     "text": "homenumbershere,Icancallthemdirectlyaswell.Allofthis",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 536.75,
+       "text": "homenumbershere,Icancallthemdirectlyaswell.Allofthis"
+      }
+     ]
+    },
+    {
+     "y": 498.48,
+     "x0": 235.92,
+     "x1": 527.68,
+     "size": 11.04,
+     "text": "comesfromtheintegrateddirectoryforLync,alongwithany",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 527.68,
+       "text": "comesfromtheintegrateddirectoryforLync,alongwithany"
+      }
+     ]
+    },
+    {
+     "y": 512.88,
+     "x0": 235.92,
+     "x1": 466.48,
+     "size": 11.04,
+     "text": "personalcontactinformationIaddintoOutlook.",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 466.48,
+       "text": "personalcontactinformationIaddintoOutlook."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 792.0,
+   "height": 612.0,
+   "lines": [
+    {
+     "y": 82.32,
+     "x0": 72.0,
+     "x1": 110.54,
+     "size": 11.04,
+     "text": "Demo4",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 110.54,
+       "text": "Demo4"
+      }
+     ]
+    },
+    {
+     "y": 86.16,
+     "x0": 235.92,
+     "x1": 392.6,
+     "size": 12.96,
+     "text": "ContactlistPSTNnumbers",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 392.6,
+       "text": "ContactlistPSTNnumbers"
+      }
+     ]
+    },
+    {
+     "y": 102.24,
+     "x0": 235.92,
+     "x1": 540.01,
+     "size": 11.04,
+     "text": "Phonenumbersthatyoudialfrequentlycanbeaddedeitherto",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 540.01,
+       "text": "Phonenumbersthatyoudialfrequentlycanbeaddedeitherto"
+      }
+     ]
+    },
+    {
+     "y": 116.88,
+     "x0": 235.92,
+     "x1": 529.51,
+     "size": 11.04,
+     "text": "yourOutlookandExchangecontactsordirectlytoyourLync",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 529.51,
+       "text": "yourOutlookandExchangecontactsordirectlytoyourLync"
+      }
+     ]
+    },
+    {
+     "y": 131.28,
+     "x0": 235.92,
+     "x1": 369.86,
+     "size": 11.04,
+     "text": "contactlistforquickcalling.",
+     "segments": [
+      {
+       "x0": 235.92,
+       "x1": 369.86,
+       "text": "contactlistforquickcalling."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

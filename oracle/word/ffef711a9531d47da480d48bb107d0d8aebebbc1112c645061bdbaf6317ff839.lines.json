@@ -1,0 +1,38 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 68.16,
+     "x0": 359.08,
+     "x1": 431.87,
+     "size": 12.0,
+     "text": "TALLBOXTEXT",
+     "segments": [
+      {
+       "x0": 359.08,
+       "x1": 431.87,
+       "text": "TALLBOXTEXT"
+      }
+     ]
+    },
+    {
+     "y": 194.16,
+     "x0": 131.24,
+     "x1": 214.44,
+     "size": 12.0,
+     "text": "SHORTBOXTEXT",
+     "segments": [
+      {
+       "x0": 131.24,
+       "x1": 214.44,
+       "text": "SHORTBOXTEXT"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

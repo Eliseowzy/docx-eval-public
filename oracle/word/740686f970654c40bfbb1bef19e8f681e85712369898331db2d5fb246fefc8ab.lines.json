@@ -1,0 +1,44 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 46.08,
+     "x0": 76.56,
+     "x1": 118.01,
+     "size": 11.04,
+     "text": "ﬁrstpage",
+     "segments": [
+      {
+       "x0": 76.56,
+       "x1": 118.01,
+       "text": "ﬁrstpage"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 46.08,
+     "x0": 76.56,
+     "x1": 132.39,
+     "size": 11.04,
+     "text": "secondpage",
+     "segments": [
+      {
+       "x0": 76.56,
+       "x1": 132.39,
+       "text": "secondpage"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

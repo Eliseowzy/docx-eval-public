@@ -1,0 +1,731 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 508.56,
+   "lines": []
+  },
+  {
+   "width": 612.0,
+   "height": 508.56,
+   "lines": [
+    {
+     "y": 52.8,
+     "x0": 76.32,
+     "x1": 250.05,
+     "size": 7.92,
+     "text": "SPØRSMÅLFORALLETYPEREIENDOMMER",
+     "segments": [
+      {
+       "x0": 76.32,
+       "x1": 250.05,
+       "text": "SPØRSMÅLFORALLETYPEREIENDOMMER"
+      }
+     ]
+    },
+    {
+     "y": 70.56,
+     "x0": 82.18,
+     "x1": 243.52,
+     "size": 6.96,
+     "text": "1.Kjennerdutilomdeter/harværtfeiltilknyttet",
+     "segments": [
+      {
+       "x0": 82.18,
+       "x1": 88.0,
+       "text": "1."
+      },
+      {
+       "x0": 104.64,
+       "x1": 243.52,
+       "text": "Kjennerdutilomdeter/harværtfeiltilknyttet"
+      }
+     ]
+    },
+    {
+     "y": 78.48,
+     "x0": 104.64,
+     "x1": 253.9,
+     "size": 6.96,
+     "text": "våtrommene,f.eks.sprekkifliser,lekkasje,råte,",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 253.9,
+       "text": "våtrommene,f.eks.sprekkifliser,lekkasje,råte,"
+      }
+     ]
+    },
+    {
+     "y": 86.64,
+     "x0": 104.64,
+     "x1": 172.72,
+     "size": 6.96,
+     "text": "luktellersoppskader?",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 172.72,
+       "text": "luktellersoppskader?"
+      }
+     ]
+    },
+    {
+     "y": 95.04,
+     "x0": 82.18,
+     "x1": 226.38,
+     "size": 6.96,
+     "text": "2.Kjennerdutilomdeterutførtarbeidpå",
+     "segments": [
+      {
+       "x0": 82.18,
+       "x1": 88.0,
+       "text": "2."
+      },
+      {
+       "x0": 104.64,
+       "x1": 226.38,
+       "text": "Kjennerdutilomdeterutførtarbeidpå"
+      }
+     ]
+    },
+    {
+     "y": 103.2,
+     "x0": 104.64,
+     "x1": 175.83,
+     "size": 6.96,
+     "text": "bad/våtrom,siste5år?",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 175.83,
+       "text": "bad/våtrom,siste5år?"
+      }
+     ]
+    },
+    {
+     "y": 113.52,
+     "x0": 80.23,
+     "x1": 222.9,
+     "size": 6.96,
+     "text": "2.1Hvisja,redegjørforhvasomblegjort.",
+     "segments": [
+      {
+       "x0": 80.23,
+       "x1": 89.94,
+       "text": "2.1"
+      },
+      {
+       "x0": 104.64,
+       "x1": 222.9,
+       "text": "Hvisja,redegjørforhvasomblegjort."
+      }
+     ]
+    },
+    {
+     "y": 127.2,
+     "x0": 80.23,
+     "x1": 251.26,
+     "size": 6.96,
+     "text": "2.2Bletettesjikt/membran/slukoppgradert/fornyet?",
+     "segments": [
+      {
+       "x0": 80.23,
+       "x1": 89.94,
+       "text": "2.2"
+      },
+      {
+       "x0": 104.64,
+       "x1": 251.26,
+       "text": "Bletettesjikt/membran/slukoppgradert/fornyet?"
+      }
+     ]
+    },
+    {
+     "y": 141.84,
+     "x0": 80.23,
+     "x1": 239.23,
+     "size": 6.96,
+     "text": "2.3Erarbeidetutførtavfaglærtskalfirmanavn,",
+     "segments": [
+      {
+       "x0": 80.23,
+       "x1": 89.94,
+       "text": "2.3"
+      },
+      {
+       "x0": 104.64,
+       "x1": 239.23,
+       "text": "Erarbeidetutførtavfaglærtskalfirmanavn,"
+      }
+     ]
+    },
+    {
+     "y": 150.0,
+     "x0": 104.64,
+     "x1": 247.46,
+     "size": 6.96,
+     "text": "eventueltogsånavnpåhåndverker,opplyses.",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 247.46,
+       "text": "eventueltogsånavnpåhåndverker,opplyses."
+      }
+     ]
+    },
+    {
+     "y": 158.4,
+     "x0": 80.23,
+     "x1": 166.47,
+     "size": 6.96,
+     "text": "2.4Erarbeidetutførtav",
+     "segments": [
+      {
+       "x0": 80.23,
+       "x1": 89.94,
+       "text": "2.4"
+      },
+      {
+       "x0": 104.64,
+       "x1": 166.47,
+       "text": "Erarbeidetutførtav"
+      }
+     ]
+    },
+    {
+     "y": 166.56,
+     "x0": 104.64,
+     "x1": 199.19,
+     "size": 6.96,
+     "text": "ufaglært/egeninnsats/dugnad?",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 199.19,
+       "text": "ufaglært/egeninnsats/dugnad?"
+      }
+     ]
+    },
+    {
+     "y": 175.2,
+     "x0": 80.23,
+     "x1": 182.8,
+     "size": 6.96,
+     "text": "2.5Erforholdetbyggemeldt?",
+     "segments": [
+      {
+       "x0": 80.23,
+       "x1": 89.94,
+       "text": "2.5"
+      },
+      {
+       "x0": 104.64,
+       "x1": 182.8,
+       "text": "Erforholdetbyggemeldt?"
+      }
+     ]
+    },
+    {
+     "y": 189.6,
+     "x0": 82.18,
+     "x1": 253.99,
+     "size": 6.96,
+     "text": "3.Kjennerdutilomdeter/harværtproblemermed",
+     "segments": [
+      {
+       "x0": 82.18,
+       "x1": 88.0,
+       "text": "3."
+      },
+      {
+       "x0": 104.64,
+       "x1": 253.99,
+       "text": "Kjennerdutilomdeter/harværtproblemermed"
+      }
+     ]
+    },
+    {
+     "y": 197.76,
+     "x0": 104.64,
+     "x1": 257.58,
+     "size": 6.96,
+     "text": "ildsted/skorstein/pipe,f.eks.dårligtrekk,sprekker",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 257.58,
+       "text": "ildsted/skorstein/pipe,f.eks.dårligtrekk,sprekker"
+      }
+     ]
+    },
+    {
+     "y": 205.68,
+     "x0": 104.64,
+     "x1": 150.15,
+     "size": 6.96,
+     "text": "ellerlignende?",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 150.15,
+       "text": "ellerlignende?"
+      }
+     ]
+    },
+    {
+     "y": 214.32,
+     "x0": 82.18,
+     "x1": 256.74,
+     "size": 6.96,
+     "text": "4.Kjennerdutilomdeterfeilved/utførtarbeid/vært",
+     "segments": [
+      {
+       "x0": 82.18,
+       "x1": 88.0,
+       "text": "4."
+      },
+      {
+       "x0": 104.64,
+       "x1": 256.74,
+       "text": "Kjennerdutilomdeterfeilved/utførtarbeid/vært"
+      }
+     ]
+    },
+    {
+     "y": 222.24,
+     "x0": 104.64,
+     "x1": 176.99,
+     "size": 6.96,
+     "text": "kontrollpåvann/avløp?",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 176.99,
+       "text": "kontrollpåvann/avløp?"
+      }
+     ]
+    },
+    {
+     "y": 230.88,
+     "x0": 80.23,
+     "x1": 166.47,
+     "size": 6.96,
+     "text": "4.1Erarbeidetutførtav",
+     "segments": [
+      {
+       "x0": 80.23,
+       "x1": 89.94,
+       "text": "4.1"
+      },
+      {
+       "x0": 104.64,
+       "x1": 166.47,
+       "text": "Erarbeidetutførtav"
+      }
+     ]
+    },
+    {
+     "y": 239.04,
+     "x0": 104.64,
+     "x1": 199.19,
+     "size": 6.96,
+     "text": "ufaglært/egeninnsats/dugnad?",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 199.19,
+       "text": "ufaglært/egeninnsats/dugnad?"
+      }
+     ]
+    },
+    {
+     "y": 247.44,
+     "x0": 80.23,
+     "x1": 239.23,
+     "size": 6.96,
+     "text": "4.2Erarbeidetutførtavfaglærtskalfirmanavn,",
+     "segments": [
+      {
+       "x0": 80.23,
+       "x1": 89.94,
+       "text": "4.2"
+      },
+      {
+       "x0": 104.64,
+       "x1": 239.23,
+       "text": "Erarbeidetutførtavfaglærtskalfirmanavn,"
+      }
+     ]
+    },
+    {
+     "y": 255.6,
+     "x0": 104.64,
+     "x1": 247.46,
+     "size": 6.96,
+     "text": "eventueltogsånavnpåhåndverker,opplyses.",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 247.46,
+       "text": "eventueltogsånavnpåhåndverker,opplyses."
+      }
+     ]
+    },
+    {
+     "y": 264.0,
+     "x0": 82.18,
+     "x1": 253.99,
+     "size": 6.96,
+     "text": "5.Kjennerdutilomdeter/harværtproblemermed",
+     "segments": [
+      {
+       "x0": 82.18,
+       "x1": 88.0,
+       "text": "5."
+      },
+      {
+       "x0": 104.64,
+       "x1": 253.99,
+       "text": "Kjennerdutilomdeter/harværtproblemermed"
+      }
+     ]
+    },
+    {
+     "y": 272.16,
+     "x0": 104.64,
+     "x1": 254.03,
+     "size": 6.96,
+     "text": "drenering,fuktinnsig,øvrigfuktellerfuktmerkeri",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 254.03,
+       "text": "drenering,fuktinnsig,øvrigfuktellerfuktmerkeri"
+      }
+     ]
+    },
+    {
+     "y": 280.08,
+     "x0": 104.64,
+     "x1": 210.45,
+     "size": 6.96,
+     "text": "underetasjen/kjelleren/krypkjeller?",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 210.45,
+       "text": "underetasjen/kjelleren/krypkjeller?"
+      }
+     ]
+    },
+    {
+     "y": 288.72,
+     "x0": 82.18,
+     "x1": 249.36,
+     "size": 6.96,
+     "text": "6.Kjennerdutilomdeter/harværttilbakeslagav",
+     "segments": [
+      {
+       "x0": 82.18,
+       "x1": 88.0,
+       "text": "6."
+      },
+      {
+       "x0": 104.64,
+       "x1": 249.36,
+       "text": "Kjennerdutilomdeter/harværttilbakeslagav"
+      }
+     ]
+    },
+    {
+     "y": 296.88,
+     "x0": 104.64,
+     "x1": 205.79,
+     "size": 6.96,
+     "text": "avløpsvannislukellerlignende?",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 205.79,
+       "text": "avløpsvannislukellerlignende?"
+      }
+     ]
+    },
+    {
+     "y": 305.76,
+     "x0": 82.18,
+     "x1": 236.53,
+     "size": 6.96,
+     "text": "7.Kjennerdutilomdeter/harværtf.eksriss,",
+     "segments": [
+      {
+       "x0": 82.18,
+       "x1": 88.0,
+       "text": "7."
+      },
+      {
+       "x0": 104.64,
+       "x1": 236.53,
+       "text": "Kjennerdutilomdeter/harværtf.eksriss,"
+      }
+     ]
+    },
+    {
+     "y": 313.68,
+     "x0": 104.64,
+     "x1": 234.88,
+     "size": 6.96,
+     "text": "sprekkerimur,skjevegulvellerlignende?",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 234.88,
+       "text": "sprekkerimur,skjevegulvellerlignende?"
+      }
+     ]
+    },
+    {
+     "y": 322.32,
+     "x0": 82.18,
+     "x1": 259.06,
+     "size": 6.96,
+     "text": "8.Kjennerdutilomdeter/harværtsopp,råteskader",
+     "segments": [
+      {
+       "x0": 82.18,
+       "x1": 88.0,
+       "text": "8."
+      },
+      {
+       "x0": 104.64,
+       "x1": 259.06,
+       "text": "Kjennerdutilomdeter/harværtsopp,råteskader"
+      }
+     ]
+    },
+    {
+     "y": 330.24,
+     "x0": 104.64,
+     "x1": 255.56,
+     "size": 6.96,
+     "text": "ellerskadedyriboligenforeksempelrotter,mus,",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 255.56,
+       "text": "ellerskadedyriboligenforeksempelrotter,mus,"
+      }
+     ]
+    },
+    {
+     "y": 338.4,
+     "x0": 104.64,
+     "x1": 168.05,
+     "size": 6.96,
+     "text": "maurellerlignende?",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 168.05,
+       "text": "maurellerlignende?"
+      }
+     ]
+    },
+    {
+     "y": 347.76,
+     "x0": 82.18,
+     "x1": 240.01,
+     "size": 6.96,
+     "text": "9.Kjennerdutilomdeter/harværtutettheteri",
+     "segments": [
+      {
+       "x0": 82.18,
+       "x1": 88.0,
+       "text": "9."
+      },
+      {
+       "x0": 104.64,
+       "x1": 240.01,
+       "text": "Kjennerdutilomdeter/harværtutettheteri"
+      }
+     ]
+    },
+    {
+     "y": 355.68,
+     "x0": 104.64,
+     "x1": 192.97,
+     "size": 6.96,
+     "text": "terrasse/garasje/tak/fasade?",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 192.97,
+       "text": "terrasse/garasje/tak/fasade?"
+      }
+     ]
+    },
+    {
+     "y": 364.32,
+     "x0": 80.23,
+     "x1": 192.93,
+     "size": 6.96,
+     "text": "9.1Hardetværtutførtarbeidpå",
+     "segments": [
+      {
+       "x0": 80.23,
+       "x1": 89.94,
+       "text": "9.1"
+      },
+      {
+       "x0": 104.64,
+       "x1": 192.93,
+       "text": "Hardetværtutførtarbeidpå"
+      }
+     ]
+    },
+    {
+     "y": 372.48,
+     "x0": 104.64,
+     "x1": 194.14,
+     "size": 6.96,
+     "text": "taktekking/takrenner/beslag?",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 194.14,
+       "text": "taktekking/takrenner/beslag?"
+      }
+     ]
+    },
+    {
+     "y": 380.88,
+     "x0": 80.23,
+     "x1": 239.23,
+     "size": 6.96,
+     "text": "9.2Erarbeidetutførtavfaglærtskalfirmanavn,",
+     "segments": [
+      {
+       "x0": 80.23,
+       "x1": 89.94,
+       "text": "9.2"
+      },
+      {
+       "x0": 104.64,
+       "x1": 239.23,
+       "text": "Erarbeidetutførtavfaglærtskalfirmanavn,"
+      }
+     ]
+    },
+    {
+     "y": 389.04,
+     "x0": 104.64,
+     "x1": 247.46,
+     "size": 6.96,
+     "text": "eventueltogsånavnpåhåndverker,opplyses.",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 247.46,
+       "text": "eventueltogsånavnpåhåndverker,opplyses."
+      }
+     ]
+    },
+    {
+     "y": 397.44,
+     "x0": 80.23,
+     "x1": 250.5,
+     "size": 6.96,
+     "text": "10.Kjennerdutilomdeter/harværtmangler/utført",
+     "segments": [
+      {
+       "x0": 80.23,
+       "x1": 89.95,
+       "text": "10."
+      },
+      {
+       "x0": 104.64,
+       "x1": 250.5,
+       "text": "Kjennerdutilomdeter/harværtmangler/utført"
+      }
+     ]
+    },
+    {
+     "y": 405.6,
+     "x0": 104.64,
+     "x1": 234.2,
+     "size": 6.96,
+     "text": "arbeider/kontrollvedel-anleggetogandre",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 234.2,
+       "text": "arbeider/kontrollvedel-anleggetogandre"
+      }
+     ]
+    },
+    {
+     "y": 413.52,
+     "x0": 104.64,
+     "x1": 226.8,
+     "size": 6.96,
+     "text": "installasjoner,f.eks.oljetank,sentralfyr,",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 226.8,
+       "text": "installasjoner,f.eks.oljetank,sentralfyr,"
+      }
+     ]
+    },
+    {
+     "y": 421.68,
+     "x0": 104.64,
+     "x1": 141.56,
+     "size": 6.96,
+     "text": "ventilasjon?",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 141.56,
+       "text": "ventilasjon?"
+      }
+     ]
+    },
+    {
+     "y": 430.32,
+     "x0": 78.28,
+     "x1": 239.23,
+     "size": 6.96,
+     "text": "10.1Erarbeidetutførtavfaglærtskalfirmanavn,",
+     "segments": [
+      {
+       "x0": 78.28,
+       "x1": 91.88,
+       "text": "10.1"
+      },
+      {
+       "x0": 104.64,
+       "x1": 239.23,
+       "text": "Erarbeidetutførtavfaglærtskalfirmanavn,"
+      }
+     ]
+    },
+    {
+     "y": 438.24,
+     "x0": 104.64,
+     "x1": 247.46,
+     "size": 6.96,
+     "text": "eventueltogsånavnpåhåndverker,opplyses.",
+     "segments": [
+      {
+       "x0": 104.64,
+       "x1": 247.46,
+       "text": "eventueltogsånavnpåhåndverker,opplyses."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

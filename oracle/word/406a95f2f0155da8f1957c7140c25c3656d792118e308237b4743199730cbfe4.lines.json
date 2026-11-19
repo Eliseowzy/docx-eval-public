@@ -1,0 +1,136 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 81.36,
+     "x0": 84.96,
+     "x1": 251.56,
+     "size": 11.04,
+     "text": "Nextparagraphhasatextwrapping.",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 251.56,
+       "text": "Nextparagraphhasatextwrapping."
+      }
+     ]
+    },
+    {
+     "y": 106.8,
+     "x0": 84.96,
+     "x1": 355.44,
+     "size": 11.04,
+     "text": "Forexample,somebroadcastershaveseenthepriceof",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 355.44,
+       "text": "Forexample,somebroadcastershaveseenthepriceof"
+      }
+     ]
+    },
+    {
+     "y": 112.8,
+     "x0": 381.26,
+     "x1": 525.08,
+     "size": 13.92,
+     "text": "Thistextisalignedbythe",
+     "segments": [
+      {
+       "x0": 381.26,
+       "x1": 525.08,
+       "text": "Thistextisalignedbythe"
+      }
+     ]
+    },
+    {
+     "y": 122.4,
+     "x0": 84.96,
+     "x1": 355.43,
+     "size": 11.04,
+     "text": "satellitenewsfeedslidefrommorethan$100,000toless",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 355.43,
+       "text": "satellitenewsfeedslidefrommorethan$100,000toless"
+      }
+     ]
+    },
+    {
+     "y": 129.84,
+     "x0": 404.47,
+     "x1": 525.14,
+     "size": 13.92,
+     "text": "rightsideofthepage",
+     "segments": [
+      {
+       "x0": 404.47,
+       "x1": 525.14,
+       "text": "rightsideofthepage"
+      }
+     ]
+    },
+    {
+     "y": 137.76,
+     "x0": 84.96,
+     "x1": 355.33,
+     "size": 11.04,
+     "text": "than$20,000—an80%reductioninprice.Theotherdriving",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 355.33,
+       "text": "than$20,000—an80%reductioninprice.Theotherdriving"
+      }
+     ]
+    },
+    {
+     "y": 153.12,
+     "x0": 84.96,
+     "x1": 355.51,
+     "size": 11.04,
+     "text": "factor,however,isthedesirebyvariousmarketsegments",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 355.51,
+       "text": "factor,however,isthedesirebyvariousmarketsegments"
+      }
+     ]
+    },
+    {
+     "y": 168.72,
+     "x0": 84.96,
+     "x1": 510.2,
+     "size": 11.04,
+     "text": "toaccessanyservice,anytime,anywhere.Fromthisperspective,satelliteboastssome",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 510.2,
+       "text": "toaccessanyservice,anytime,anywhere.Fromthisperspective,satelliteboastssome"
+      }
+     ]
+    },
+    {
+     "y": 184.08,
+     "x0": 84.96,
+     "x1": 186.8,
+     "size": 11.04,
+     "text": "significantadvantages.",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 186.8,
+       "text": "significantadvantages."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 792.0,
+   "lines": [
+    {
+     "y": 94.32,
+     "x0": 81.0,
+     "x1": 122.88,
+     "size": 11.04,
+     "text": "1.1foo",
+     "segments": [
+      {
+       "x0": 81.0,
+       "x1": 122.88,
+       "text": "1.1foo"
+      }
+     ]
+    },
+    {
+     "y": 109.92,
+     "x0": 72.0,
+     "x1": 87.91,
+     "size": 11.04,
+     "text": "bar",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 87.91,
+       "text": "bar"
+      }
+     ]
+    },
+    {
+     "y": 130.32,
+     "x0": 101.52,
+     "x1": 168.81,
+     "size": 11.04,
+     "text": "insidetextbox",
+     "segments": [
+      {
+       "x0": 101.52,
+       "x1": 168.81,
+       "text": "insidetextbox"
+      }
+     ]
+    },
+    {
+     "y": 145.68,
+     "x0": 115.44,
+     "x1": 210.26,
+     "size": 11.04,
+     "text": "secondtextboxtext",
+     "segments": [
+      {
+       "x0": 115.44,
+       "x1": 210.26,
+       "text": "secondtextboxtext"
+      }
+     ]
+    },
+    {
+     "y": 155.76,
+     "x0": 101.52,
+     "x1": 182.21,
+     "size": 11.04,
+     "text": "thirdtextboxtext",
+     "segments": [
+      {
+       "x0": 101.52,
+       "x1": 182.21,
+       "text": "thirdtextboxtext"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

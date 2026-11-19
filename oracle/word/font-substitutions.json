@@ -1,0 +1,476 @@
+{
+ "note": "Derived from Word PDF exports of this case set; see harness/font_substitutions.py",
+ "substitutions": {
+  "cambria math": {
+   "word": "cambria math",
+   "votes": 1,
+   "others": {}
+  },
+  "carlito": {
+   "word": "calibri",
+   "votes": 1,
+   "others": {}
+  },
+  "dejavu sans": {
+   "word": "verdana",
+   "votes": 4,
+   "others": {}
+  },
+  "liberation sans": {
+   "word": "arial",
+   "votes": 2,
+   "others": {
+    "simsun": 1
+   }
+  },
+  "liberation serif": {
+   "word": "times new roman",
+   "votes": 4,
+   "others": {
+    "simsun": 2,
+    "cambria": 1
+   }
+  },
+  "noto sans": {
+   "word": "?NotoSans-Bold",
+   "votes": 1,
+   "others": {}
+  },
+  "segoe ui": {
+   "word": "?SegoeUI-Light",
+   "votes": 1,
+   "others": {
+    "?SegoeUI": 1
+   }
+  }
+ },
+ "ambiguous": [
+  {
+   "case": "layout/corpus/core_layout_data/floattable-deleted-anchor.docx",
+   "missing": [
+    "noto sans"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/core_layout_data/floattable-next-row-invalidate-pos.docx",
+   "missing": [
+    ""
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/core_layout_data/floattable-table-row-keep.docx",
+   "missing": [
+    "noto sans"
+   ],
+   "wordUsed": [
+    "?NotoSans",
+    "?NotoSans-Bold",
+    "?NotoSans-BoldItalic",
+    "?NotoSans-Italic"
+   ]
+  },
+  {
+   "case": "layout/corpus/core_layout_data/header-textbox.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/core_layout_data/tdf157096.docx",
+   "missing": [
+    "dejavu sans",
+    "noto sans"
+   ],
+   "wordUsed": [
+    "?NotoSans",
+    "?NotoSans-Bold",
+    "?NotoSans-Italic",
+    "verdana"
+   ]
+  },
+  {
+   "case": "layout/corpus/core_layout_data/textbox-phantom-change.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/core_text_data/redline-number-portion.docx",
+   "missing": [
+    "inherit",
+    "system-ui;apple-system;segoe ui;roboto;oxygen-sans;cantarell;ubuntu;helvetica neue;noto sans;liberation sans;arial;sans-serif;apple color emoji;segoe ui emoji;segoe ui symbol;noto color emoji"
+   ],
+   "wordUsed": [
+    "cambria"
+   ]
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/Cool16066_addRowsUnderOmittedHeading.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/fdo43573-2-min.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/fdo48718-1.docx",
+   "missing": [
+    "noto sans"
+   ],
+   "wordUsed": [
+    "?NotoSans",
+    "?NotoSans-Bold"
+   ]
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/shape-anchored-in-follow.docx",
+   "missing": [
+    "carlito",
+    "liberation serif"
+   ],
+   "wordUsed": [
+    "calibri",
+    "times new roman"
+   ]
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/table-style-contextual-spacing-rows-before.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/table-style-contextual-spacing-rows.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/tdf125300.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/tdf128399.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/tdf138465min.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/tdf139336_ColumnsWithFootnoteDoNotOccupyEntirePage.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/tdf147485-forcepoint.docx",
+   "missing": [
+    "dejavu sans"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/tdf150200.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/tdf152298.docx",
+   "missing": [
+    "liberation sans",
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/tdf152983-1-min.docx",
+   "missing": [
+    "liberation serif",
+    "noto sans"
+   ],
+   "wordUsed": [
+    "?NotoSans",
+    "?NotoSans-Bold",
+    "?NotoSans-BoldItalic",
+    "?NotoSans-Italic"
+   ]
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/tdf153136.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/tdf155229_row_height_at_least.docx",
+   "missing": [
+    "liberation sans"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/tdf170381-split-float-table-in-float-table.docx",
+   "missing": [
+    "liberation sans",
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/tdf170381-split-float-table-in-normal-table.docx",
+   "missing": [
+    "liberation sans",
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/tdf170477.docx",
+   "missing": [
+    "carlito",
+    "liberation serif"
+   ],
+   "wordUsed": [
+    "calibri"
+   ]
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/tdf170620.docx",
+   "missing": [
+    "liberation sans"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/tdf170630.docx",
+   "missing": [
+    "liberation sans"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_layout_data/tdf69647_text.docx",
+   "missing": [
+    "liberation sans",
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/fdo87488.docx",
+   "missing": [
+    "symbol"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/floating-table-section-columns.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/n779627b.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/ole-anchor.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf100072.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf103931.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf109316_dropCaps.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf112443.docx",
+   "missing": [
+    "univers 45 light"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf115094.docx",
+   "missing": [
+    "open sans",
+    "open sans light"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf115094v2.docx",
+   "missing": [
+    "open sans",
+    "open sans light"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf115883.docx",
+   "missing": [
+    "segoe ui",
+    "segoe ui light"
+   ],
+   "wordUsed": [
+    "?SegoeUI",
+    "?SegoeUI-Bold",
+    "?SegoeUI-Light",
+    "microsoft yahei ui"
+   ]
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf122717.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf126114.docx",
+   "missing": [
+    "arial;arial"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf129659.docx",
+   "missing": [
+    "david clm",
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf133647_unicode.docx",
+   "missing": [
+    ""
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf134572.docx",
+   "missing": [
+    "myriadpro-regular"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf154370.docx",
+   "missing": [
+    "liberation serif"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf158023_import.docx",
+   "missing": [
+    "cambria math"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf169173.docx",
+   "missing": [
+    "arial black"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf169843.docx",
+   "missing": [
+    "cambria math"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf170171.docx",
+   "missing": [
+    "cambria math"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf170236.docx",
+   "missing": [
+    "cambria math"
+   ],
+   "wordUsed": [
+    "?SegoeUI",
+    "dengxian"
+   ]
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf87533_bidi.docx",
+   "missing": [
+    ""
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/corpus/extras_ooxmlimport_data/tdf97038.docx",
+   "missing": [
+    "dinpro-light"
+   ],
+   "wordUsed": []
+  },
+  {
+   "case": "layout/families/nimbleoffice-fixtures/_loose/suppressed-list-markers.docx",
+   "missing": [
+    "carlito"
+   ],
+   "wordUsed": [
+    "arial",
+    "cambria"
+   ]
+  }
+ ]
+}

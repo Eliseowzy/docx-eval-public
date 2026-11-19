@@ -1,0 +1,156 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 95.76,
+     "x0": 104.81,
+     "x1": 204.71,
+     "size": 13.92,
+     "text": "VI.4.1.2.Gráfico",
+     "segments": [
+      {
+       "x0": 104.81,
+       "x1": 204.71,
+       "text": "VI.4.1.2.Gráfico"
+      }
+     ]
+    },
+    {
+     "y": 654.96,
+     "x0": 192.4,
+     "x1": 261.02,
+     "size": 7.92,
+     "text": "Value:blahblahblah",
+     "segments": [
+      {
+       "x0": 192.4,
+       "x1": 261.02,
+       "text": "Value:blahblahblah"
+      }
+     ]
+    },
+    {
+     "y": 673.44,
+     "x0": 188.4,
+     "x1": 245.25,
+     "size": 7.92,
+     "text": "Value2:blahblah",
+     "segments": [
+      {
+       "x0": 188.4,
+       "x1": 245.25,
+       "text": "Value2:blahblah"
+      }
+     ]
+    },
+    {
+     "y": 714.96,
+     "x0": 285.06,
+     "x1": 310.1,
+     "size": 9.12,
+     "text": "Fonte:",
+     "segments": [
+      {
+       "x0": 285.06,
+       "x1": 310.1,
+       "text": "Fonte:"
+      }
+     ]
+    },
+    {
+     "y": 730.56,
+     "x0": 275.56,
+     "x1": 319.68,
+     "size": 9.12,
+     "text": "Figura1—",
+     "segments": [
+      {
+       "x0": 275.56,
+       "x1": 319.68,
+       "text": "Figura1—"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 82.08,
+     "x0": 84.96,
+     "x1": 114.3,
+     "size": 12.0,
+     "text": "Steps:",
+     "segments": [
+      {
+       "x0": 84.96,
+       "x1": 114.3,
+       "text": "Steps:"
+      }
+     ]
+    },
+    {
+     "y": 102.72,
+     "x0": 102.96,
+     "x1": 193.62,
+     "size": 12.0,
+     "text": "1)OpenwithLO;",
+     "segments": [
+      {
+       "x0": 102.96,
+       "x1": 193.62,
+       "text": "1)OpenwithLO;"
+      }
+     ]
+    },
+    {
+     "y": 123.6,
+     "x0": 102.96,
+     "x1": 188.28,
+     "size": 12.0,
+     "text": "2)SaveasODT;",
+     "segments": [
+      {
+       "x0": 102.96,
+       "x1": 188.28,
+       "text": "2)SaveasODT;"
+      }
+     ]
+    },
+    {
+     "y": 144.24,
+     "x0": 102.96,
+     "x1": 204.28,
+     "size": 12.0,
+     "text": "3)ReopenwithLO;",
+     "segments": [
+      {
+       "x0": 102.96,
+       "x1": 204.28,
+       "text": "3)ReopenwithLO;"
+      }
+     ]
+    },
+    {
+     "y": 164.88,
+     "x0": 102.96,
+     "x1": 318.23,
+     "size": 12.0,
+     "text": "4)Theimagewillmovetothesecondpage.",
+     "segments": [
+      {
+       "x0": 102.96,
+       "x1": 318.23,
+       "text": "4)Theimagewillmovetothesecondpage."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

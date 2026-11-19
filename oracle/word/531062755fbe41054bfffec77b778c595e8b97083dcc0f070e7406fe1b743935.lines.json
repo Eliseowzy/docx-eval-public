@@ -1,0 +1,268 @@
+{
+ "pages": [
+  {
+   "width": 612.0,
+   "height": 283.44,
+   "lines": [
+    {
+     "y": 77.76,
+     "x0": 117.84,
+     "x1": 119.39,
+     "size": 6.96,
+     "text": "i",
+     "segments": [
+      {
+       "x0": 117.84,
+       "x1": 119.39,
+       "text": "i"
+      }
+     ]
+    },
+    {
+     "y": 82.32,
+     "x0": 72.0,
+     "x1": 117.89,
+     "size": 11.04,
+     "text": "Bodytext",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 117.89,
+       "text": "Bodytext"
+      }
+     ]
+    },
+    {
+     "y": 112.8,
+     "x0": 72.0,
+     "x1": 73.44,
+     "size": 6.48,
+     "text": "i",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 73.44,
+       "text": "i"
+      }
+     ]
+    },
+    {
+     "y": 116.4,
+     "x0": 76.22,
+     "x1": 536.39,
+     "size": 10.08,
+     "text": "Heheardquietstepsbehindhim.Thatdidn'tbodewell.Whocouldbefollowinghimthislateatnightand",
+     "segments": [
+      {
+       "x0": 76.22,
+       "x1": 536.39,
+       "text": "Heheardquietstepsbehindhim.Thatdidn'tbodewell.Whocouldbefollowinghimthislateatnightand"
+      }
+     ]
+    },
+    {
+     "y": 127.92,
+     "x0": 72.0,
+     "x1": 530.79,
+     "size": 10.08,
+     "text": "inthisdeadbeatpartoftown?Andatthisparticularmoment,justafterhepulledoffthebigtimeandwas",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 530.79,
+       "text": "inthisdeadbeatpartoftown?Andatthisparticularmoment,justafterhepulledoffthebigtimeandwas"
+      }
+     ]
+    },
+    {
+     "y": 139.44,
+     "x0": 72.0,
+     "x1": 501.99,
+     "size": 10.08,
+     "text": "makingoffwiththegreenbacks.Wasthereanothercrookwho'dhadthesameidea,andwasnow",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 501.99,
+       "text": "makingoffwiththegreenbacks.Wasthereanothercrookwho'dhadthesameidea,andwasnow"
+      }
+     ]
+    },
+    {
+     "y": 150.96,
+     "x0": 72.0,
+     "x1": 521.54,
+     "size": 10.08,
+     "text": "watchinghimandwaitingforachancetograbthefruitofhislabor?Ordidthestepsbehindhimmean",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 521.54,
+       "text": "watchinghimandwaitingforachancetograbthefruitofhislabor?Ordidthestepsbehindhimmean"
+      }
+     ]
+    },
+    {
+     "y": 162.48,
+     "x0": 72.0,
+     "x1": 525.28,
+     "size": 10.08,
+     "text": "thatoneofmanylawofficersintownwasontohimandjustwaitingtopounceandsnapthosecuffson",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 525.28,
+       "text": "thatoneofmanylawofficersintownwasontohimandjustwaitingtopounceandsnapthosecuffson"
+      }
+     ]
+    },
+    {
+     "y": 174.0,
+     "x0": 72.0,
+     "x1": 530.31,
+     "size": 10.08,
+     "text": "hiswrists?Henervouslylookedallaround.Suddenlyhesawthealley.Likelightninghedartedofftothe",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 530.31,
+       "text": "hiswrists?Henervouslylookedallaround.Suddenlyhesawthealley.Likelightninghedartedofftothe"
+      }
+     ]
+    },
+    {
+     "y": 185.52,
+     "x0": 72.0,
+     "x1": 532.82,
+     "size": 10.08,
+     "text": "leftanddisappearedbetweenthetwowarehousesalmostfallingoverthetrashcanlyinginthemiddleof",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 532.82,
+       "text": "leftanddisappearedbetweenthetwowarehousesalmostfallingoverthetrashcanlyinginthemiddleof"
+      }
+     ]
+    },
+    {
+     "y": 196.8,
+     "x0": 72.0,
+     "x1": 537.57,
+     "size": 10.08,
+     "text": "thesidewalk.Hetriedtonervouslytaphiswayalongintheinkydarknessandsuddenlystiffened:itwasa",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 537.57,
+       "text": "thesidewalk.Hetriedtonervouslytaphiswayalongintheinkydarknessandsuddenlystiffened:itwasa"
+      }
+     ]
+    },
+    {
+     "y": 208.32,
+     "x0": 72.0,
+     "x1": 531.06,
+     "size": 10.08,
+     "text": "dead-end,hewouldhavetogobackthewayhehadcome.Thestepsgotlouderandlouder,hesawthe",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 531.06,
+       "text": "dead-end,hewouldhavetogobackthewayhehadcome.Thestepsgotlouderandlouder,hesawthe"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 612.0,
+   "height": 283.44,
+   "lines": [
+    {
+     "y": 94.8,
+     "x0": 72.0,
+     "x1": 535.67,
+     "size": 10.08,
+     "text": "blackoutlineofafigurecomingaroundthecorner.Isthistheendoftheline?hethoughtpressinghimself",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 535.67,
+       "text": "blackoutlineofafigurecomingaroundthecorner.Isthistheendoftheline?hethoughtpressinghimself"
+      }
+     ]
+    },
+    {
+     "y": 106.32,
+     "x0": 72.0,
+     "x1": 501.75,
+     "size": 10.08,
+     "text": "backagainstthewalltryingtomakehimselfinvisibleinthedark,wasallthatplanningandenergy",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 501.75,
+       "text": "backagainstthewalltryingtomakehimselfinvisibleinthedark,wasallthatplanningandenergy"
+      }
+     ]
+    },
+    {
+     "y": 117.84,
+     "x0": 72.0,
+     "x1": 523.2,
+     "size": 10.08,
+     "text": "wasted?Hewasdrippingwithsweatnow,coldandwet,hecouldsmellthefearcomingoffhisclothes.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 523.2,
+       "text": "wasted?Hewasdrippingwithsweatnow,coldandwet,hecouldsmellthefearcomingoffhisclothes."
+      }
+     ]
+    },
+    {
+     "y": 129.36,
+     "x0": 72.0,
+     "x1": 511.44,
+     "size": 10.08,
+     "text": "Suddenlynexttohim,withabarelynoticeablesqueak,adoorswungquietlytoandfrointhenight's",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 511.44,
+       "text": "Suddenlynexttohim,withabarelynoticeablesqueak,adoorswungquietlytoandfrointhenight's"
+      }
+     ]
+    },
+    {
+     "y": 140.88,
+     "x0": 72.0,
+     "x1": 526.46,
+     "size": 10.08,
+     "text": "breeze.Couldthisbethehavenhe'dprayedfor?Slowlyheslidtowardthedoor,pressinghimselfmore",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 526.46,
+       "text": "breeze.Couldthisbethehavenhe'dprayedfor?Slowlyheslidtowardthedoor,pressinghimselfmore"
+      }
+     ]
+    },
+    {
+     "y": 152.16,
+     "x0": 72.0,
+     "x1": 471.36,
+     "size": 10.08,
+     "text": "andmoreintothewall,intothedark,awayfromhisenemy.Wouldthisdoorsavehishide?",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 471.36,
+       "text": "andmoreintothewall,intothedark,awayfromhisenemy.Wouldthisdoorsavehishide?"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

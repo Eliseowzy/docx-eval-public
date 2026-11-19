@@ -1,0 +1,129 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 250.08,
+   "lines": [
+    {
+     "y": 83.28,
+     "x0": 72.0,
+     "x1": 158.74,
+     "size": 12.0,
+     "text": "float7000before",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 158.74,
+       "text": "float7000before"
+      }
+     ]
+    },
+    {
+     "y": 97.68,
+     "x0": 202.56,
+     "x1": 453.58,
+     "size": 12.0,
+     "text": "float7000r1c1float7000r1c2",
+     "segments": [
+      {
+       "x0": 202.56,
+       "x1": 278.62,
+       "text": "float7000r1c1"
+      },
+      {
+       "x0": 377.52,
+       "x1": 453.58,
+       "text": "float7000r1c2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "width": 595.2,
+   "height": 250.08,
+   "lines": [
+    {
+     "y": 83.28,
+     "x0": 72.0,
+     "x1": 453.58,
+     "size": 12.0,
+     "text": "Aftertablewordsfloat7000r2c1float7000r2c2",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 162.04,
+       "text": "Aftertablewords"
+      },
+      {
+       "x0": 202.56,
+       "x1": 278.62,
+       "text": "float7000r2c1"
+      },
+      {
+       "x0": 377.52,
+       "x1": 453.58,
+       "text": "float7000r2c2"
+      }
+     ]
+    },
+    {
+     "y": 96.96,
+     "x0": 72.0,
+     "x1": 184.08,
+     "size": 12.0,
+     "text": "wraparoundthefinal",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 184.08,
+       "text": "wraparoundthefinal"
+      }
+     ]
+    },
+    {
+     "y": 110.88,
+     "x0": 72.0,
+     "x1": 174.72,
+     "size": 12.0,
+     "text": "rowsofthisfloating",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 174.72,
+       "text": "rowsofthisfloating"
+      }
+     ]
+    },
+    {
+     "y": 124.56,
+     "x0": 72.0,
+     "x1": 186.77,
+     "size": 12.0,
+     "text": "tableandcontinueon",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 186.77,
+       "text": "tableandcontinueon"
+      }
+     ]
+    },
+    {
+     "y": 138.48,
+     "x0": 72.0,
+     "x1": 122.02,
+     "size": 12.0,
+     "text": "thepage.",
+     "segments": [
+      {
+       "x0": 72.0,
+       "x1": 122.02,
+       "text": "thepage."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

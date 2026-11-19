@@ -1,0 +1,80 @@
+{
+ "pages": [
+  {
+   "width": 595.2,
+   "height": 841.92,
+   "lines": [
+    {
+     "y": 45.84,
+     "x0": 56.64,
+     "x1": 347.07,
+     "size": 11.04,
+     "text": "Loremipsumdolorsitametconsecteturadipiscingelitseddo",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 347.07,
+       "text": "Loremipsumdolorsitametconsecteturadipiscingelitseddo"
+      }
+     ]
+    },
+    {
+     "y": 63.12,
+     "x0": 56.64,
+     "x1": 186.98,
+     "size": 11.04,
+     "text": "eiusmodtemporincididunt.",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 186.98,
+       "text": "eiusmodtemporincididunt."
+      }
+     ]
+    },
+    {
+     "y": 88.56,
+     "x0": 56.64,
+     "x1": 337.86,
+     "size": 11.04,
+     "text": "Utenimadminimveniamquisnostrudexercitationullamco",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 337.86,
+       "text": "Utenimadminimveniamquisnostrudexercitationullamco"
+      }
+     ]
+    },
+    {
+     "y": 105.84,
+     "x0": 56.64,
+     "x1": 183.57,
+     "size": 11.04,
+     "text": "laborisnisiutaliquipexea.",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 183.57,
+       "text": "laborisnisiutaliquipexea."
+      }
+     ]
+    },
+    {
+     "y": 131.04,
+     "x0": 56.64,
+     "x1": 103.48,
+     "size": 11.04,
+     "text": "Bodytext.",
+     "segments": [
+      {
+       "x0": 56.64,
+       "x1": 103.48,
+       "text": "Bodytext."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
